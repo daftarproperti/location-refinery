@@ -1,0 +1,5181 @@
+schools:
+- id: 6868158
+  name: MI KH.A.Sidiq
+  latitude: null
+  longitude: null
+  type: school
+- id: 6868332
+  name: SMP Hang Tuah 1
+  latitude: null
+  longitude: null
+  type: school
+- id: 7212544
+  name: SMA Negeri 6 Surabaya
+  latitude: null
+  longitude: null
+  type: school
+- id: 7226739
+  name: SMK Unitomo Surabaya
+  latitude: null
+  longitude: null
+  type: school
+- id: 7226740
+  name: SMP Dr. Soetomo
+  latitude: null
+  longitude: null
+  type: school
+- id: 7226766
+  name: SD-SMP Santo Yosef
+  latitude: null
+  longitude: null
+  type: school
+- id: 7229603
+  name: TK-SD-SMP-SMA Yayasan Santa Louisa
+  latitude: null
+  longitude: null
+  type: school
+- id: 7229605
+  name: SMP Kristen St. Vincentius
+  latitude: null
+  longitude: null
+  type: school
+- id: 7229870
+  name: TK, SMP, dan SMA Nurul Huda
+  latitude: null
+  longitude: null
+  type: school
+- id: 7229933
+  name: SMA Dr. Soetomo
+  latitude: null
+  longitude: null
+  type: school
+- id: 7231555
+  name: SMP-SMA GIKI 2 Surabaya
+  latitude: null
+  longitude: null
+  type: school
+- id: 36977874
+  name: SMP Negeri 37 Surabaya
+  latitude: -7.2483001499999995
+  longitude: 112.7495511375
+  type: school
+- id: 119285232
+  name: SMA Kristen Petra 1
+  latitude: -7.2914275
+  longitude: 112.67689490000001
+  type: school
+- id: 122095553
+  name: SD Muhammadiyah 26
+  latitude: -7.290152139999999
+  longitude: 112.80004707999998
+  type: school
+- id: 122095554
+  name: Vita School SD, SMP, SMA
+  latitude: -7.289776659999999
+  longitude: 112.78908938
+  type: school
+- id: 125578780
+  name: SMP Negeri 9 Surabaya
+  latitude: -7.249914100000001
+  longitude: 112.76535891428571
+  type: school
+- id: 138697625
+  name: SMP Negeri 21 Surabaya
+  latitude: -7.31901718
+  longitude: 112.71372514
+  type: school
+- id: 155884038
+  name: Sekolah Zhongqiao
+  latitude: -7.26094978
+  longitude: 112.74326011999999
+  type: school
+- id: 184885906
+  name: Yayasan Kemala Bhayangkari
+  latitude: -7.2666364
+  longitude: 112.74223954000001
+  type: school
+- id: 184889916
+  name: INKA/YMCA
+  latitude: -7.26928532
+  longitude: 112.74008254
+  type: school
+- id: 185053618
+  name: Sekolah Shindu Bhavan
+  latitude: -7.257505280000001
+  longitude: 112.72869884000002
+  type: school
+- id: 185056169
+  name: SMP Sapta Marga
+  latitude: -7.270819600000001
+  longitude: 112.73872069230768
+  type: school
+- id: 185056784
+  name: Mawar sharon Christan School
+  latitude: -7.26947622
+  longitude: 112.73834012000002
+  type: school
+- id: 185396218
+  name: SMA Negeri 17
+  latitude: -7.32742942
+  longitude: 112.7749151
+  type: school
+- id: 230174155
+  name: SMP Negeri 3 Surabaya
+  latitude: -7.256278088888889
+  longitude: 112.73609872222224
+  type: school
+- id: 277765658
+  name: SMP Negeri 40 Surabaya
+  latitude: -7.31814902
+  longitude: 112.64871855999999
+  type: school
+- id: 279572426
+  name: SMA Negeri 5 Surabaya
+  latitude: -7.256672788235295
+  longitude: 112.75001383529411
+  type: school
+- id: 295270552
+  name: SD Negeri Margorejo IV/406
+  latitude: -7.31045941
+  longitude: 112.74371908
+  type: school
+- id: 307228232
+  name: Pondok Pesantren Muhyiddin
+  latitude: -7.282970500000001
+  longitude: 112.78826676666667
+  type: school
+- id: 307262168
+  name: SD Negeri Dr. Soetomo V-VIII
+  latitude: -7.285729549999999
+  longitude: 112.73513796249999
+  type: school
+- id: 311395473
+  name: SMP Negeri 35
+  latitude: -7.327428816666667
+  longitude: 112.77284843333332
+  type: school
+- id: 311411556
+  name: SD Negeri Rungkut Kidul I/267
+  latitude: -7.33003056
+  longitude: 112.77099246
+  type: school
+- id: 321189721
+  name: Pondok Pesantren Al Fitrah
+  latitude: -7.222158492307693
+  longitude: 112.77014150769232
+  type: school
+- id: 344116467
+  name: SD-SMA Surabaya Intercultural School
+  latitude: -7.291960976923078
+  longitude: 112.64994375384612
+  type: school
+- id: 349654548
+  name: SMP Katolik Karitas
+  latitude: -7.266712500000001
+  longitude: 112.6622214
+  type: school
+- id: 350860437
+  name: SMP Jalan Jawa
+  latitude: -7.295104033333333
+  longitude: 112.74524677777778
+  type: school
+- id: 363727022
+  name: SD Negeri Banyu Urip VIII/ 522
+  latitude: -7.27312196
+  longitude: 112.72156848
+  type: school
+- id: 363727024
+  name: SD Negeri Banyu Urip IV/ 365
+  latitude: -7.272905614285714
+  longitude: 112.72164717142857
+  type: school
+- id: 376918955
+  name: SMPK Angelus Custos Yayasan Mardi Wiyata
+  latitude: -7.241142290909091
+  longitude: 112.73693237272728
+  type: school
+- id: 421834544
+  name: Yayasan Mardi Wiyata Perwakilan Surabaya
+  latitude: -7.241338900000001
+  longitude: 112.73708844285714
+  type: school
+- id: 422089747
+  name: SD-SMP-SMA-SMK Gema 45
+  latitude: -7.290444404761904
+  longitude: 112.72117990476193
+  type: school
+- id: 423209957
+  name: SD Negeri Kaliasin 1 & 3
+  latitude: -7.26419064
+  longitude: 112.74361867999998
+  type: school
+- id: 424619786
+  name: SMK Kesehatan Nusantara
+  latitude: -7.26210911818182
+  longitude: 112.74235413636364
+  type: school
+- id: 424619789
+  name: SMA Trimurti
+  latitude: -7.262698500000002
+  longitude: 112.74258041578948
+  type: school
+- id: 429000274
+  name: SMP Negeri 6 Surabaya
+  latitude: -7.273827585714286
+  longitude: 112.74862712142858
+  type: school
+- id: 435125372
+  name: SMA Katolik St. Louis 1
+  latitude: -7.280555265384616
+  longitude: 112.74327956923076
+  type: school
+- id: 435125419
+  name: TK SD SMP St. Katarina
+  latitude: -7.281497042307692
+  longitude: 112.74236664230767
+  type: school
+- id: 445056965
+  name: Pondok Pesantren Darul Hijrah
+  latitude: -7.283728672727273
+  longitude: 112.8021692909091
+  type: school
+- id: 446945360
+  name: SMP negeri 12 Surabaya
+  latitude: -7.297532530000001
+  longitude: 112.74440185
+  type: school
+- id: 446965919
+  name: SMP Ipiems
+  latitude: -7.286088080000001
+  longitude: 112.76422068
+  type: school
+- id: 446965997
+  name: SMA Ipiems
+  latitude: -7.285988980000001
+  longitude: 112.76371616000002
+  type: school
+- id: 446966495
+  name: Yayasan YAPITA
+  latitude: -7.2897905636363625
+  longitude: 112.79701227272727
+  type: school
+- id: 447130744
+  name: Sekolah YPPI - 3 Surabaya
+  latitude: -7.268022755555553
+  longitude: 112.79550914444445
+  type: school
+- id: 447150265
+  name: SD Wahid Hasyim 2
+  latitude: -7.29102866
+  longitude: 112.7645968
+  type: school
+- id: 447230688
+  name: Vita School Dove Campus
+  latitude: -7.2709019999999995
+  longitude: 112.77842759999999
+  type: school
+- id: 447356934
+  name: SD Bahrul Ulum
+  latitude: -7.30772968
+  longitude: 112.76337449
+  type: school
+- id: 447377974
+  name: Al-Azhar Islamic School
+  latitude: -7.2681581
+  longitude: 112.80269528750001
+  type: school
+- id: 447607837
+  name: MI Darul Hijroh
+  latitude: -7.262473699999999
+  longitude: 112.76184733999999
+  type: school
+- id: 447608016
+  name: Sekolah Dasar Negeri Gubeng III - 206
+  latitude: -7.269390366666666
+  longitude: 112.7534704
+  type: school
+- id: 447608026
+  name: SD Negeri Pacar Keling X
+  latitude: -7.26742076
+  longitude: 112.75401375999999
+  type: school
+- id: 447608852
+  name: SD Negeri Kaliasin 6
+  latitude: -7.275674214285714
+  longitude: 112.73984767142859
+  type: school
+- id: 447610796
+  name: Yayasan Pondok Pesantren Darussalam
+  latitude: -7.301579255555556
+  longitude: 112.7630084
+  type: school
+- id: 447611414
+  name: SMP UNESA 2
+  latitude: -7.266534399999999
+  longitude: 112.75472268571427
+  type: school
+- id: 447611452
+  name: SD Negeri Kedung Cowek II
+  latitude: -7.2190260888888895
+  longitude: 112.7780225
+  type: school
+- id: 447611453
+  name: SD Negeri Kedung Cowek I
+  latitude: -7.218895857142856
+  longitude: 112.77771948571429
+  type: school
+- id: 447613193
+  name: SD Benteng Samudro
+  latitude: -7.21959418
+  longitude: 112.77695064
+  type: school
+- id: 447613366
+  name: SD Islam Maryam
+  latitude: -7.281124766666666
+  longitude: 112.76149844444444
+  type: school
+- id: 447613793
+  name: MI Ribath Darut Tauhid
+  latitude: -7.22044754
+  longitude: 112.78719489999999
+  type: school
+- id: 447626234
+  name: SDN Kedungdoro VII
+  latitude: -7.2629227428571435
+  longitude: 112.73619168571429
+  type: school
+- id: 447630300
+  name: SDN Kedungdoro II/307
+  latitude: -7.262421952941176
+  longitude: 112.73408382941176
+  type: school
+- id: 447631061
+  name: SDN Kaliasin 5 Surabaya
+  latitude: -7.2713630600000005
+  longitude: 112.73954474
+  type: school
+- id: 447634932
+  name: SD Negeri Kapasari VIII
+  latitude: -7.250688144444445
+  longitude: 112.75028370000001
+  type: school
+- id: 447635917
+  name: SD Negeri Rangkah I, SD Negeri Rangkah IV
+  latitude: -7.248485245454545
+  longitude: 112.75955772727274
+  type: school
+- id: 447642530
+  name: SD Negeri Keputran VI No. 337
+  latitude: -7.288119513333333
+  longitude: 112.74052522000004
+  type: school
+- id: 447646449
+  name: SMA Katolik St.Agnes
+  latitude: -7.257120052631579
+  longitude: 112.7548623473684
+  type: school
+- id: 447646467
+  name: SMP Katolik St.Agnes
+  latitude: -7.2573872800000006
+  longitude: 112.75481717999999
+  type: school
+- id: 447693937
+  name: Sekolah Anugerah Pekerti
+  latitude: -7.2866020111111105
+  longitude: 112.745368
+  type: school
+- id: 447693939
+  name: PG/TK SD SMP Anugerah Pekerti
+  latitude: -7.286963599999999
+  longitude: 112.74496891111112
+  type: school
+- id: 448067914
+  name: SMK 17 Agustus 1945
+  latitude: -7.30049772
+  longitude: 112.76651088000001
+  type: school
+- id: 448067923
+  name: SMK 17 Agustus 1945
+  latitude: -7.300692079999999
+  longitude: 112.76660855999998
+  type: school
+- id: 448068900
+  name: SMP 17 Agustus 1945 Surabaya
+  latitude: -7.2982572
+  longitude: 112.76808002
+  type: school
+- id: 448069251
+  name: SD Negeri Kapasari V - 296
+  latitude: -7.251284575
+  longitude: 112.75083160000001
+  type: school
+- id: 448071252
+  name: SD Negeri Tambaksari III
+  latitude: -7.250841633333334
+  longitude: 112.75468508333331
+  type: school
+- id: 448071468
+  name: SD Negeri Ketabang 1
+  latitude: -7.255608888888888
+  longitude: 112.74760684444442
+  type: school
+- id: 448095595
+  name: TK MI SMP Mabadie Khoiri Ummah
+  latitude: -7.275654
+  longitude: 112.74210373999999
+  type: school
+- id: 448095838
+  name: TK, SD, SMP Mandala
+  latitude: -7.249419344444444
+  longitude: 112.76616806666668
+  type: school
+- id: 448097574
+  name: TK dan SD Petra 5
+  latitude: -7.290855175000001
+  longitude: 112.78469203750001
+  type: school
+- id: 448098996
+  name: SMA Tritunggal
+  latitude: -7.2466164200000005
+  longitude: 112.76564135999999
+  type: school
+- id: 448102467
+  name: SD Negeri Gading V & VIII
+  latitude: -7.2405858428571435
+  longitude: 112.76273808571429
+  type: school
+- id: 448106599
+  name: TK dan SD Kristen Santa Anna
+  latitude: -7.29579505
+  longitude: 112.76300938571428
+  type: school
+- id: 448113045
+  name: SMP Taruna Jaya I
+  latitude: -7.226906991666666
+  longitude: 112.77880466666669
+  type: school
+- id: 448114529
+  name: SMP Unggulan Bina Insana
+  latitude: -7.25717734
+  longitude: 112.75699956000001
+  type: school
+- id: 448118194
+  name: SMP-SMA-SMEA Jaya Sakti
+  latitude: -7.252893214285714
+  longitude: 112.76641491428572
+  type: school
+- id: 448118771
+  name: SMP Negeri 54 Surabaya
+  latitude: -7.22748084
+  longitude: 112.78560356
+  type: school
+- id: 448232686
+  name: SMP Muhammadiyah 9 Surabaya
+  latitude: -7.27277842
+  longitude: 112.76446992000001
+  type: school
+- id: 448233095
+  name: SD Negeri Gading IV
+  latitude: -7.242280728571429
+  longitude: 112.77115825714286
+  type: school
+- id: 448233288
+  name: TKLB SDLB Yayasan Pendidikan Anak Buta
+  latitude: -7.266329911111111
+  longitude: 112.73599053333334
+  type: school
+- id: 448236442
+  name: SMK PGRI 4 Surabaya
+  latitude: -7.255781880000001
+  longitude: 112.78418004
+  type: school
+- id: 448236580
+  name: SMA Negeri 3 Surabaya
+  latitude: -7.242129039999999
+  longitude: 112.78987756
+  type: school
+- id: 448244275
+  name: Yayasan Masjid Al Mutaqien
+  latitude: -7.244564072222222
+  longitude: 112.79002226666668
+  type: school
+- id: 448244276
+  name: SMP Negeri 18 Surabaya
+  latitude: -7.2430191181818175
+  longitude: 112.78975997272728
+  type: school
+- id: 448244373
+  name: SD Santa Lorent
+  latitude: -7.251157860000001
+  longitude: 112.78320886000002
+  type: school
+- id: 448246823
+  name: SD Muhammadiyah 10
+  latitude: -7.23895188
+  longitude: 112.76137311999999
+  type: school
+- id: 448257604
+  name: SMA Islam Terpadu Al Uswah Surabaya
+  latitude: -7.306823771428573
+  longitude: 112.79229202857144
+  type: school
+- id: 448258414
+  name: SMK PGRI 6
+  latitude: -7.239209919999999
+  longitude: 112.76464746000002
+  type: school
+- id: 448267953
+  name: SD Negeri Kedungdoro V/310
+  latitude: -7.266358644444446
+  longitude: 112.73334790000001
+  type: school
+- id: 448268006
+  name: SMP Negri 52 Surabaya
+  latitude: -7.30507978
+  longitude: 112.78209999999999
+  type: school
+- id: 448269767
+  name: SDN Semolowaru 2/262
+  latitude: -7.30034936875
+  longitude: 112.77954572499999
+  type: school
+- id: 448270642
+  name: SDN Kedungdoro IV
+  latitude: -7.2630639181818175
+  longitude: 112.73597682727274
+  type: school
+- id: 448271540
+  name: SD Muhammadiyah 3
+  latitude: -7.24705075
+  longitude: 112.76048923749998
+  type: school
+- id: 448271553
+  name: SMP Muhammadiyah 13
+  latitude: -7.247123042857142
+  longitude: 112.76072135714286
+  type: school
+- id: 448276608
+  name: SD Islam- MI Putra Bhakti
+  latitude: -7.25357102
+  longitude: 112.76233514
+  type: school
+- id: 448291447
+  name: TK, SD & SMP Islam Raden Paku Surabaya
+  latitude: -7.2827405
+  longitude: 112.77545695714285
+  type: school
+- id: 448337874
+  name: SD Negeri Komplek Kenjeran II
+  latitude: -7.24732438
+  longitude: 112.79310974
+  type: school
+- id: 448439408
+  name: SD Negeri Manyar Sabrangan II/231
+  latitude: -7.28451641111111
+  longitude: 112.76802173333334
+  type: school
+- id: 448445819
+  name: SDN Kedungdoro I/306
+  latitude: -7.26385274
+  longitude: 112.73281075999998
+  type: school
+- id: 448445942
+  name: TK dan SD Islam Raden Patah
+  latitude: -7.29878308
+  longitude: 112.77519032000001
+  type: school
+- id: 448450483
+  name: Sekolah Anak Bangsa
+  latitude: -7.293679181818181
+  longitude: 112.7698493090909
+  type: school
+- id: 448450562
+  name: Surabaya Montessori School
+  latitude: -7.294036
+  longitude: 112.76977224
+  type: school
+- id: 448477365
+  name: TK-SD Pengharapan
+  latitude: -7.2748261
+  longitude: 112.72873057777778
+  type: school
+- id: 448477790
+  name: SD-SMP-SMA Santa Maria
+  latitude: -7.283750469565217
+  longitude: 112.74080011304346
+  type: school
+- id: 448478895
+  name: SMP Noor Mushola
+  latitude: -7.2502641
+  longitude: 112.76045242000001
+  type: school
+- id: 448768600
+  name: SD Pelita Bangsa
+  latitude: -7.244031840000001
+  longitude: 112.76808954
+  type: school
+- id: 448770100
+  name: Yayasan Pendidikan Anak-Anak Buta
+  latitude: -7.28737474
+  longitude: 112.78448350000001
+  type: school
+- id: 448770102
+  name: SD Mabadiul Ulum
+  latitude: -7.2820454222222235
+  longitude: 112.7879509888889
+  type: school
+- id: 448773016
+  name: Yayasan Pendidikan 45 Surabaya
+  latitude: -7.2724519999999995
+  longitude: 112.76420436000001
+  type: school
+- id: 449149338
+  name: SMK Rajasa
+  latitude: -7.257828740000001
+  longitude: 112.743165
+  type: school
+- id: 449149849
+  name: SD Negeri Pacar Kembang IV
+  latitude: -7.2639186333333345
+  longitude: 112.76342403333335
+  type: school
+- id: 449150132
+  name: SMP Muhammadiyah 2 Surabaya
+  latitude: -7.257853277777778
+  longitude: 112.74140293333335
+  type: school
+- id: 449151828
+  name: SMAK St. Stainlaus-SMPK St. Stainlaus 2
+  latitude: -7.2606109708333335
+  longitude: 112.77377369166668
+  type: school
+- id: 449151864
+  name: SDK Santa Theresia II
+  latitude: -7.261193166666666
+  longitude: 112.77381472222223
+  type: school
+- id: 449151865
+  name: SD Negeri Pacarkembang
+  latitude: -7.256170572727272
+  longitude: 112.76556714545455
+  type: school
+- id: 449151869
+  name: Yayasan Mardi Putera
+  latitude: -7.258553784999999
+  longitude: 112.76290371999998
+  type: school
+- id: 449152116
+  name: SD Angkasa Surabaya
+  latitude: -7.251482040000001
+  longitude: 112.7933663
+  type: school
+- id: 449174915
+  name: SMAK ST. Hendrikus
+  latitude: -7.29014598
+  longitude: 112.77788382000001
+  type: school
+- id: 449174917
+  name: SMP 19 Surabaya
+  latitude: -7.2883194375
+  longitude: 112.78032693749999
+  type: school
+- id: 449174919
+  name: SD Negri Klampis Ngasem 1
+  latitude: -7.288667963636363
+  longitude: 112.77853841818181
+  type: school
+- id: 449178027
+  name: SMA Muhammadiyah 10 Surabaya
+  latitude: -7.2578742599999995
+  longitude: 112.74071466000001
+  type: school
+- id: 449296674
+  name: SD Ma'arif NU Wali Idris
+  latitude: -7.2475373
+  longitude: 112.76770578
+  type: school
+- id: 449296676
+  name: SD Negeri Rangkah VI, SD Negeri Rangkah VII
+  latitude: -7.248755937500001
+  longitude: 112.76008667500001
+  type: school
+- id: 449296677
+  name: SD Swasta Rangkah 6
+  latitude: -7.246852885714285
+  longitude: 112.76548158571428
+  type: school
+- id: 449296678
+  name: SMK Pelayaran
+  latitude: -7.246400672727273
+  longitude: 112.76586148181818
+  type: school
+- id: 449296679
+  name: SMP Tritunggal
+  latitude: -7.24687387142857
+  longitude: 112.7655539
+  type: school
+- id: 449316568
+  name: SD Negeri Manyar Sabrangan 3
+  latitude: -7.284917471428572
+  longitude: 112.77390932857143
+  type: school
+- id: 449316569
+  name: SD Negeri Klampis Ngasem 3
+  latitude: -7.2810599428571425
+  longitude: 112.77139714285714
+  type: school
+- id: 449316570
+  name: SMP Kristen Petra 3 & SMA Kristen Petra 2
+  latitude: -7.2846696374999995
+  longitude: 112.7687664
+  type: school
+- id: 449316572
+  name: SD Negeri Klampis Ngasem 5
+  latitude: -7.285153044444446
+  longitude: 112.77377355555556
+  type: school
+- id: 449316573
+  name: SMP & SMA Giki 3
+  latitude: -7.287359399999998
+  longitude: 112.77549417
+  type: school
+- id: 449327168
+  name: SMP PGRI XI
+  latitude: -7.2389537399999995
+  longitude: 112.77326406
+  type: school
+- id: 449476757
+  name: SD Muhammadiyah 18
+  latitude: -7.265294128571429
+  longitude: 112.77950365714285
+  type: school
+- id: 449476758
+  name: SMA Hidayatul Ummah
+  latitude: -7.264523953333332
+  longitude: 112.78107389333334
+  type: school
+- id: 449510502
+  name: SMP Bunga Bangsa
+  latitude: -7.29227762
+  longitude: 112.80591690000001
+  type: school
+- id: 449510523
+  name: SD Bunga Bangsa
+  latitude: -7.292217633333333
+  longitude: 112.80536593333335
+  type: school
+- id: 449512553
+  name: SD Negeri Gading III
+  latitude: -7.247984283333333
+  longitude: 112.77892506666667
+  type: school
+- id: 449512565
+  name: SD Negeri Gading 1
+  latitude: -7.245150462499999
+  longitude: 112.76949619374997
+  type: school
+- id: 449519053
+  name: TK-SD Islam Ash-Shiddiqii
+  latitude: -7.23348292
+  longitude: 112.77946789999999
+  type: school
+- id: 449519088
+  name: MI Al Azhar
+  latitude: -7.2368124
+  longitude: 112.77609815999999
+  type: school
+- id: 449621547
+  name: SD Negeri Tambak Wedi I
+  latitude: -7.211179042857141
+  longitude: 112.77775245714284
+  type: school
+- id: 449622602
+  name: SD Negeri Ketabang
+  latitude: -7.254207836363637
+  longitude: 112.74618362727273
+  type: school
+- id: 449622606
+  name: SMK Negeri 8 Surabaya
+  latitude: -7.253408058333335
+  longitude: 112.74613683333332
+  type: school
+- id: 449623704
+  name: SMK Ihyaussalafiyah
+  latitude: -7.22990302
+  longitude: 112.74948787999999
+  type: school
+- id: 449624495
+  name: SD Negeri Bulak Rukem I
+  latitude: -7.232707518181818
+  longitude: 112.77389670909092
+  type: school
+- id: 449624540
+  name: MI Kyai Tambak Deres
+  latitude: -7.23193626
+  longitude: 112.78087794000001
+  type: school
+- id: 449624553
+  name: SMK Tri Guna Bhakti
+  latitude: -7.2328778
+  longitude: 112.77710586
+  type: school
+- id: 449624561
+  name: SD Tri Guna Bhakti
+  latitude: -7.232703328571428
+  longitude: 112.7765044
+  type: school
+- id: 449624590
+  name: SD Kristen YBPK
+  latitude: -7.264769244444444
+  longitude: 112.75567009999999
+  type: school
+- id: 449624591
+  name: SD Negeri Pacar Keling 1
+  latitude: -7.258811468421053
+  longitude: 112.76035921052632
+  type: school
+- id: 449624592
+  name: SD Negeri Pacar Keling 5-6-7-8
+  latitude: -7.257997406666667
+  longitude: 112.75509161999999
+  type: school
+- id: 449624593
+  name: SMA Kristen YBPK
+  latitude: -7.264462946153846
+  longitude: 112.75573225384616
+  type: school
+- id: 449624594
+  name: SMA Negeri 4 Surabaya
+  latitude: -7.26564936
+  longitude: 112.75518249999999
+  type: school
+- id: 449624597
+  name: SMP Kristen YBPK
+  latitude: -7.265110586956523
+  longitude: 112.75578854782609
+  type: school
+- id: 449624598
+  name: SMPN 29 Surabaya
+  latitude: -7.265912422222223
+  longitude: 112.75578309999999
+  type: school
+- id: 449626077
+  name: SMA Negeri 19 Surabaya
+  latitude: -7.2206553200000005
+  longitude: 112.77757482
+  type: school
+- id: 449629224
+  name: Madrasah Diniyah Aisyiyah
+  latitude: -7.252050940000001
+  longitude: 112.73931407999999
+  type: school
+- id: 449629491
+  name: Lembaga Pendidikan Ma'Arif NU
+  latitude: -7.25200802
+  longitude: 112.74014874
+  type: school
+- id: 449648205
+  name: TK & SD Pancaran Kasih
+  latitude: -7.257396771428572
+  longitude: 112.73659262857142
+  type: school
+- id: 449648218
+  name: SMP Negeri 4 Surabaya
+  latitude: -7.2567483117647065
+  longitude: 112.7357777764706
+  type: school
+- id: 449652763
+  name: SMA-SMK MAHARDIKA
+  latitude: -7.30266886
+  longitude: 112.76061497999999
+  type: school
+- id: 449661163
+  name: SD Negeri Kapasan V
+  latitude: -7.243350614285715
+  longitude: 112.75485118571429
+  type: school
+- id: 449662054
+  name: SD Muhammadiyah 2
+  latitude: -7.252733520000001
+  longitude: 112.73771394
+  type: school
+- id: 449665874
+  name: SD Muhammadiyah 17
+  latitude: -7.2359833600000005
+  longitude: 112.75212002
+  type: school
+- id: 449668789
+  name: SMK Yesta
+  latitude: -7.30105628
+  longitude: 112.76909152
+  type: school
+- id: 449668854
+  name: SMP Panglima Sudirman
+  latitude: -7.30123914
+  longitude: 112.76901242
+  type: school
+- id: 449784741
+  name: MI Ma'arif NU Nurul Huda I
+  latitude: -7.23922472
+  longitude: 112.75887158
+  type: school
+- id: 449798741
+  name: SMA Negeri 2 Surabaya
+  latitude: -7.256808147058824
+  longitude: 112.74949738235294
+  type: school
+- id: 449809900
+  name: SD Negeri Simokerto VI
+  latitude: -7.236508199999999
+  longitude: 112.7577175
+  type: school
+- id: 449818586
+  name: Luqman Al Hakim
+  latitude: -7.277086766666667
+  longitude: 112.80148055555554
+  type: school
+- id: 449818712
+  name: SD Al-Aziz
+  latitude: -7.246211099999999
+  longitude: 112.74434535999998
+  type: school
+- id: 449823610
+  name: SD Negeri Sidotopo Wetan I & II
+  latitude: -7.233291777777778
+  longitude: 112.75811913333331
+  type: school
+- id: 449826522
+  name: SD Negeri Menur Pumpungan 4
+  latitude: -7.299267899999999
+  longitude: 112.76482759999999
+  type: school
+- id: 449826523
+  name: SD Negeri Menur Pumpungan
+  latitude: -7.288583439999999
+  longitude: 112.76602374
+  type: school
+- id: 449826526
+  name: SD Negeri Menur Pumpungan V
+  latitude: -7.297068383333333
+  longitude: 112.76433148333332
+  type: school
+- id: 449832302
+  name: MI Miftahul Ulum
+  latitude: -7.22789624
+  longitude: 112.74533403999999
+  type: school
+- id: 449835815
+  name: SD Negeri Dr. Soetomo I
+  latitude: -7.276606526666666
+  longitude: 112.73320661999999
+  type: school
+- id: 449835819
+  name: SD/MI Miftahul Ulum
+  latitude: -7.27450702
+  longitude: 112.72760473999999
+  type: school
+- id: 449835823
+  name: SMP Negeri 10 Surabaya
+  latitude: -7.2777753333333335
+  longitude: 112.73256904444442
+  type: school
+- id: 449835832
+  name: SMP Swasta Praja Mukti
+  latitude: -7.27707106
+  longitude: 112.73276100666666
+  type: school
+- id: 449836035
+  name: SD Swasta Shanti
+  latitude: -7.2459950399999995
+  longitude: 112.74581592
+  type: school
+- id: 449837216
+  name: SMP Negeri 15 Surabaya
+  latitude: -7.226276071428572
+  longitude: 112.77577271428572
+  type: school
+- id: 449842366
+  name: SD Negeri Gading VII & IX
+  latitude: -7.2424066400000005
+  longitude: 112.76528212000001
+  type: school
+- id: 450292745
+  name: SD Negeri Simokerto V
+  latitude: -7.24103322
+  longitude: 112.75603486
+  type: school
+- id: 450293641
+  name: TK-SD-MTs Al Furqon
+  latitude: -7.236573083333334
+  longitude: 112.773858
+  type: school
+- id: 450295222
+  name: SD Negeri Simokerto I
+  latitude: -7.239112055555555
+  longitude: 112.75089121111112
+  type: school
+- id: 450307278
+  name: SD Negeri Kapasan IX
+  latitude: -7.23936504
+  longitude: 112.74550068
+  type: school
+- id: 450315797
+  name: SMK Adhikawacana
+  latitude: -7.293299960000001
+  longitude: 112.79960550000001
+  type: school
+- id: 450315798
+  name: SD Yapita
+  latitude: -7.294024640000001
+  longitude: 112.80070174
+  type: school
+- id: 450315802
+  name: SMK Negeri 10 Surabaya
+  latitude: -7.29329809
+  longitude: 112.80010217999998
+  type: school
+- id: 450316616
+  name: SMP Negeri 23 Surabaya
+  latitude: -7.319867819999999
+  longitude: 112.77747027999999
+  type: school
+- id: 450507068
+  name: SD Negeri Kalisari I
+  latitude: -7.261180900000001
+  longitude: 112.79645871999999
+  type: school
+- id: 450507070
+  name: TK, SD, SLTP Al - Azhar Kelapa Gading Surabaya
+  latitude: -7.267447999999999
+  longitude: 112.79921896
+  type: school
+- id: 450513412
+  name: Yayasan Gita Kirtti Surabaya
+  latitude: -7.27347996
+  longitude: 112.74688936
+  type: school
+- id: 450515743
+  name: SD Simolawang KIP
+  latitude: -7.23469398
+  longitude: 112.75201764
+  type: school
+- id: 450519110
+  name: SD Negeri Bulak Banteng I & II
+  latitude: -7.212437899999999
+  longitude: 112.76220511428572
+  type: school
+- id: 450519111
+  name: SMP Cahaya Surabaya
+  latitude: -7.212486
+  longitude: 112.7612558
+  type: school
+- id: 450534431
+  name: SD Kemala Bhayangkari 2
+  latitude: -7.23707598
+  longitude: 112.74683978666665
+  type: school
+- id: 450534458
+  name: SD Negeri Sidodadi I
+  latitude: -7.2370192200000005
+  longitude: 112.7465617
+  type: school
+- id: 450535879
+  name: SMK Prapanca 2
+  latitude: -7.308326481250001
+  longitude: 112.77311743124999
+  type: school
+- id: 450535880
+  name: SMK Wisata Prapanca
+  latitude: -7.308221209999999
+  longitude: 112.77334061500001
+  type: school
+- id: 450536485
+  name: SD Negeri Ploso V
+  latitude: -7.251359123076924
+  longitude: 112.77419617692308
+  type: school
+- id: 450536487
+  name: TK-SD-SMP-SMA Mardi Siswi
+  latitude: -7.250675650000001
+  longitude: 112.75619468333332
+  type: school
+- id: 450536489
+  name: SMP PGRI 1 Surabaya
+  latitude: -7.251623033333335
+  longitude: 112.77383221666668
+  type: school
+- id: 450536490
+  name: SD Negeri Ploso I
+  latitude: -7.251839100000001
+  longitude: 112.76366212
+  type: school
+- id: 450536491
+  name: SMA PGRI 3 Surabaya
+  latitude: -7.2517611142857135
+  longitude: 112.77432527142858
+  type: school
+- id: 450536492
+  name: SD Negeri Ploso III
+  latitude: -7.251532675
+  longitude: 112.7708647125
+  type: school
+- id: 450536493
+  name: SMP Islam Baitul Amien
+  latitude: -7.251332344444445
+  longitude: 112.7705244111111
+  type: school
+- id: 450537997
+  name: SD Negeri Kertajaya IV
+  latitude: -7.283254726666666
+  longitude: 112.75186791999998
+  type: school
+- id: 450540457
+  name: MTs Makarimul Akhlaq
+  latitude: -7.224513
+  longitude: 112.75370966
+  type: school
+- id: 450544763
+  name: MTs Al Khusnaniyah
+  latitude: -7.23036032
+  longitude: 112.7448177
+  type: school
+- id: 450549375
+  name: Yayasan Dwi Darma (SD Kreatif An Nur)
+  latitude: -7.300566603999998
+  longitude: 112.77618872799998
+  type: school
+- id: 450549749
+  name: Yayasan Dwi Darma (SMP Kreatif An Nur)
+  latitude: -7.301055866666666
+  longitude: 112.77618817777778
+  type: school
+- id: 450554530
+  name: SD Muhammadiyah 19
+  latitude: -7.23212518
+  longitude: 112.74319095999999
+  type: school
+- id: 450554744
+  name: Yayasan Perguruan Bahreisy
+  latitude: -7.2320021
+  longitude: 112.74349774
+  type: school
+- id: 450692009
+  name: SD Al Islamiyah
+  latitude: -7.232930999999999
+  longitude: 112.74146348
+  type: school
+- id: 450692623
+  name: Yayasan Pendidikan Trisila
+  latitude: -7.25087238
+  longitude: 112.74344936666667
+  type: school
+- id: 450692759
+  name: TK-MI-MTs-MA Sunan Ampel
+  latitude: -7.220998300000001
+  longitude: 112.75627858
+  type: school
+- id: 450697655
+  name: SD Negeri Peneleh I
+  latitude: -7.24956244
+  longitude: 112.74488297999999
+  type: school
+- id: 450697661
+  name: SMK Berdikari 2
+  latitude: -7.24644338
+  longitude: 112.75186364000001
+  type: school
+- id: 450698654
+  name: SD Negeri Sutorejo 1
+  latitude: -7.259229176923077
+  longitude: 112.79152154615387
+  type: school
+- id: 450706021
+  name: SMA Negeri 9 Surabaya
+  latitude: -7.257570608333334
+  longitude: 112.75012638333334
+  type: school
+- id: 450706022
+  name: SMA Negeri 1 Surabaya
+  latitude: -7.257565194117647
+  longitude: 112.74958559999999
+  type: school
+- id: 450719851
+  name: SD-SMP-SMA Sasana Bhakti
+  latitude: -7.24773452
+  longitude: 112.74275843999999
+  type: school
+- id: 450772006
+  name: SD Negeri Kalijudan II
+  latitude: -7.2571782
+  longitude: 112.77891863999999
+  type: school
+- id: 450914317
+  name: SMP-SMK Brawijaya
+  latitude: -7.29670428
+  longitude: 112.75516372
+  type: school
+- id: 450927046
+  name: SMK Triyasa
+  latitude: -7.24594441
+  longitude: 112.75444353999998
+  type: school
+- id: 450927047
+  name: TK, SD, SMP Kristen Bethel Surabaya
+  latitude: -7.246916150000001
+  longitude: 112.75573594166667
+  type: school
+- id: 450927048
+  name: Yayasan Darussalam
+  latitude: -7.246547192307693
+  longitude: 112.75532731538463
+  type: school
+- id: 450927073
+  name: Pondok Pesantren Darussalam
+  latitude: -7.24696774
+  longitude: 112.75536170000001
+  type: school
+- id: 450942535
+  name: SD II Al-Khairiyah
+  latitude: -7.230601399999999
+  longitude: 112.74409166000001
+  type: school
+- id: 450956830
+  name: SD Negeri Krembangan Selatan X
+  latitude: -7.233266040000001
+  longitude: 112.73172939999999
+  type: school
+- id: 450956835
+  name: SD Negeri Krembangan Selatan IX
+  latitude: -7.232848155555555
+  longitude: 112.73189687777779
+  type: school
+- id: 450958729
+  name: TK dan SD Al Falah
+  latitude: -7.304915677777777
+  longitude: 112.7784407
+  type: school
+- id: 450968408
+  name: MTs Negeri 1 Surabaya
+  latitude: -7.307934524999999
+  longitude: 112.78630901666666
+  type: school
+- id: 450968409
+  name: Sekolah Alam Insan Mulia
+  latitude: -7.30731036
+  longitude: 112.78845857333334
+  type: school
+- id: 450968410
+  name: SMP Negeri 30 Surabaya
+  latitude: -7.306929780952381
+  longitude: 112.79007216666668
+  type: school
+- id: 450968411
+  name: SMA Negeri 20 Surabaya
+  latitude: -7.307068071428572
+  longitude: 112.78927650952383
+  type: school
+- id: 450968420
+  name: SD Juara
+  latitude: -7.3088630199999995
+  longitude: 112.78174052
+  type: school
+- id: 450968421
+  name: SMK Kesehatan Surabaya
+  latitude: -7.3084038142857155
+  longitude: 112.78376301428571
+  type: school
+- id: 450988738
+  name: Komplek Pendidikan Muhammadiyah Gadung
+  latitude: -7.306988542857143
+  longitude: 112.73882524285715
+  type: school
+- id: 450988780
+  name: SD Negeri Jagir I nomor 393
+  latitude: -7.30461138
+  longitude: 112.75267296
+  type: school
+- id: 450988781
+  name: SD RA Kartini
+  latitude: -7.303524944444444
+  longitude: 112.74761673333333
+  type: school
+- id: 451030169
+  name: SMA Negeri 7 Surabaya
+  latitude: -7.2479688
+  longitude: 112.75283555555555
+  type: school
+- id: 451030170
+  name: SMA Kristen Petra 3
+  latitude: -7.2493214875000005
+  longitude: 112.747537325
+  type: school
+- id: 451030171
+  name: KB-TK-SD Kristen Petra 7
+  latitude: -7.249244212500001
+  longitude: 112.74798796249999
+  type: school
+- id: 451030172
+  name: SD Negeri Kapasari I
+  latitude: -7.247113511111111
+  longitude: 112.74985697777778
+  type: school
+- id: 451030173
+  name: SMK Farmasi Surabaya
+  latitude: -7.247757559999999
+  longitude: 112.75008005000002
+  type: school
+- id: 451090159
+  name: SD Negeri Sidotopo I-II-III & VIII
+  latitude: -7.230173706666665
+  longitude: 112.75285284666667
+  type: school
+- id: 451090161
+  name: SMP-SMA Unggulan Abu Syamsuddin
+  latitude: -7.2309831
+  longitude: 112.75104904
+  type: school
+- id: 451090164
+  name: SD Negeri Sidotopo IV
+  latitude: -7.2317180428571435
+  longitude: 112.74927784285715
+  type: school
+- id: 451090165
+  name: SMP Kemala Bhayangkari 8
+  latitude: -7.232415928571428
+  longitude: 112.75381057142859
+  type: school
+- id: 451090215
+  name: TK - MI Sabilil Muhtadin
+  latitude: -7.22936416
+  longitude: 112.75391542
+  type: school
+- id: 451090216
+  name: TK-SD Ibnu Husain
+  latitude: -7.23046538
+  longitude: 112.74993764000001
+  type: school
+- id: 451271256
+  name: SD Negeri Tanah Kali Kedinding 1
+  latitude: -7.229125383333333
+  longitude: 112.78008713333332
+  type: school
+- id: 451271261
+  name: SDN Tanah Kali Kedinding II,IV,VI,VII
+  latitude: -7.2330834
+  longitude: 112.7681493
+  type: school
+- id: 451272994
+  name: Pondok Persantren Putri Nu
+  latitude: -7.305977755555555
+  longitude: 112.73539373333334
+  type: school
+- id: 451275121
+  name: SD Negeri Tanah Kali Kedinding V dan VII
+  latitude: -7.226261466666666
+  longitude: 112.76859788333333
+  type: school
+- id: 451275555
+  name: Yayasan Pendidikan Islam Al Masyitoh
+  latitude: -7.2152678125
+  longitude: 112.7592816
+  type: school
+- id: 451283930
+  name: SMP Muhammadiyah 15 Surabaya
+  latitude: -7.232011057142856
+  longitude: 112.7647213
+  type: school
+- id: 451283935
+  name: Yayasan pendidikan KB-TK-SD-SMP Taman Belajar
+  latitude: -7.231366949999999
+  longitude: 112.7739214375
+  type: school
+- id: 451286550
+  name: SDN DR SUTOMO IX
+  latitude: -7.278145839999999
+  longitude: 112.73639553999999
+  type: school
+- id: 451286555
+  name: SMP Teuku Umar
+  latitude: -7.278285057142857
+  longitude: 112.73677484285714
+  type: school
+- id: 451286572
+  name: KB-TK-SD Siti Khadijah
+  latitude: -7.27474846
+  longitude: 112.72908504
+  type: school
+- id: 451286579
+  name: SMP PGRI 44
+  latitude: -7.277269939999999
+  longitude: 112.73308644
+  type: school
+- id: 451286582
+  name: TK-SD Pakis Gelora
+  latitude: -7.285791792307693
+  longitude: 112.73131220000002
+  type: school
+- id: 451287110
+  name: Ponpes Putri Raudhatul Muta'allimat
+  latitude: -7.216003979999999
+  longitude: 112.76035415999999
+  type: school
+- id: 451291144
+  name: PG TK SD Darul Ilmy
+  latitude: -7.320669900000001
+  longitude: 112.71402143999998
+  type: school
+- id: 451291284
+  name: SD Negeri Jambangan I
+  latitude: -7.31740914
+  longitude: 112.71314602
+  type: school
+- id: 451292259
+  name: SD Negeri Kebonsari 1
+  latitude: -7.328995377777777
+  longitude: 112.71341312222222
+  type: school
+- id: 451292260
+  name: SD Negeri Kebonsari 2
+  latitude: -7.328543924999999
+  longitude: 112.71358848333334
+  type: school
+- id: 451292277
+  name: Lembaga Pendidikan Ma'arif
+  latitude: -7.328210680000001
+  longitude: 112.71170581999999
+  type: school
+- id: 451292281
+  name: SD Darul Ulum
+  latitude: -7.3281165999999995
+  longitude: 112.71144958
+  type: school
+- id: 451292283
+  name: SMP & SMA Al Hikmah Surabaya
+  latitude: -7.3245583769230755
+  longitude: 112.72017160769231
+  type: school
+- id: 451292285
+  name: SMP Negeri 36 Surabaya
+  latitude: -7.3299424538461535
+  longitude: 112.71375551538462
+  type: school
+- id: 451295391
+  name: SD Maarif NU Tri Bhakti
+  latitude: -7.28495844
+  longitude: 112.74426980000001
+  type: school
+- id: 451296605
+  name: Pondok Pesantren Sunan Giri
+  latitude: -7.219845879999999
+  longitude: 112.75229034000002
+  type: school
+- id: 451296685
+  name: Pondok Pesantren Sunan Giri
+  latitude: -7.21980974
+  longitude: 112.75204124
+  type: school
+- id: 451300767
+  name: SD Negeri Wonorejo VI
+  latitude: -7.272837655555555
+  longitude: 112.73258634444444
+  type: school
+- id: 451300771
+  name: TK SD SMP Mardi Sunu
+  latitude: -7.272434680000001
+  longitude: 112.72812547999999
+  type: school
+- id: 451303178
+  name: MI Maarif NU
+  latitude: -7.3362411000000005
+  longitude: 112.70550920000001
+  type: school
+- id: 451306654
+  name: SLB Ayodya Tulada
+  latitude: -7.214167185714286
+  longitude: 112.7655441142857
+  type: school
+- id: 451313338
+  name: SD Negeri Kendangsari 1
+  latitude: -7.321291127272727
+  longitude: 112.75221712272725
+  type: school
+- id: 451313363
+  name: SD Negeri Kendangsari 5
+  latitude: -7.32110972
+  longitude: 112.75235286
+  type: school
+- id: 451313993
+  name: Yayasan Lazaris SDK St Aloysius
+  latitude: -7.239696561538461
+  longitude: 112.73542012307692
+  type: school
+- id: 451487428
+  name: SMP PGRI Surabaya
+  latitude: -7.25256787142857
+  longitude: 112.73918332857144
+  type: school
+- id: 451492144
+  name: SD Negeri Krembangan Selatan I
+  latitude: -7.236063066666667
+  longitude: 112.73133484666667
+  type: school
+- id: 451495175
+  name: SMK IKIP Surabaya
+  latitude: -7.2350316999999995
+  longitude: 112.72997572727273
+  type: school
+- id: 451495195
+  name: SMP UNESA 1 Surabaya
+  latitude: -7.234982566666666
+  longitude: 112.7296553
+  type: school
+- id: 451495199
+  name: TK, SD Al Muhsinun
+  latitude: -7.23592254
+  longitude: 112.7294801
+  type: school
+- id: 451495741
+  name: SMP Muhammadiyah 18 Surabaya
+  latitude: -7.33327824
+  longitude: 112.78391351999998
+  type: school
+- id: 451500565
+  name: SMP Kristen Gloria 1 Surabaya
+  latitude: -7.27897476
+  longitude: 112.70551442000001
+  type: school
+- id: 451502324
+  name: SD Kristen Masa Depan Cerah
+  latitude: -7.28994348
+  longitude: 112.69738564
+  type: school
+- id: 451502362
+  name: SMP Negeri 33 Surabaya
+  latitude: -7.2903016250000015
+  longitude: 112.69667037500001
+  type: school
+- id: 451505576
+  name: SMP PGRI 61 Surabaya
+  latitude: -7.33719694
+  longitude: 112.77433133999997
+  type: school
+- id: 451506514
+  name: SD/MI Nurul Huda
+  latitude: -7.235156259999999
+  longitude: 112.72889219999999
+  type: school
+- id: 451506796
+  name: SD Bisma 2
+  latitude: -7.341135599999999
+  longitude: 112.74530225999999
+  type: school
+- id: 451512120
+  name: SD-SMP Rahmat
+  latitude: -7.282174472727272
+  longitude: 112.72919832727274
+  type: school
+- id: 451522913
+  name: SMAK Kristen
+  latitude: -7.240478559999999
+  longitude: 112.73732850666664
+  type: school
+- id: 451533242
+  name: SD Negeri Karah III Surabaya
+  latitude: -7.31800955
+  longitude: 112.72391879999999
+  type: school
+- id: 451533246
+  name: SMA KARTIKA WIJAYA SURABAYA
+  latitude: -7.308747871428571
+  longitude: 112.7140811357143
+  type: school
+- id: 451534787
+  name: SMP Negeri 47 Surabaya
+  latitude: -7.2610616142857145
+  longitude: 112.67239084285715
+  type: school
+- id: 451535221
+  name: SMP Trikarya
+  latitude: -7.25909672
+  longitude: 112.67239362000001
+  type: school
+- id: 451535970
+  name: SD Negeri Manukan Wetan IV
+  latitude: -7.26095108
+  longitude: 112.67249328
+  type: school
+- id: 451541828
+  name: SMA Negeri 18 Surabaya
+  latitude: -7.313382575
+  longitude: 112.71443490000001
+  type: school
+- id: 451559011
+  name: SD Yamassa
+  latitude: -7.318027579999999
+  longitude: 112.77645032000001
+  type: school
+- id: 451586288
+  name: SD Negeri Wonorejo 1 No. 312
+  latitude: -7.267864614285713
+  longitude: 112.73182067142857
+  type: school
+- id: 451586289
+  name: SD Negeri Wonorejo III No. 314
+  latitude: -7.27146246
+  longitude: 112.73252866
+  type: school
+- id: 451586291
+  name: SD Negeri Wonorejo V
+  latitude: -7.2722879
+  longitude: 112.73043304000001
+  type: school
+- id: 451586293
+  name: SD Wonorejo IV No 315
+  latitude: -7.269980833333334
+  longitude: 112.73284875
+  type: school
+- id: 451622025
+  name: TK, SD, TPQ Saroja
+  latitude: -7.331251214285714
+  longitude: 112.7472404
+  type: school
+- id: 451655790
+  name: Sekolah Kreatif SD Muhammadiyah 20 Surabaya
+  latitude: -7.254306299999999
+  longitude: 112.72280914000001
+  type: school
+- id: 451664141
+  name: SMP Taman Siswa
+  latitude: -7.264010140000001
+  longitude: 112.67358586
+  type: school
+- id: 451665512
+  name: SD Negeri Tembok Dukuh
+  latitude: -7.253645384615384
+  longitude: 112.72010636153847
+  type: school
+- id: 451669663
+  name: SD Negeri Perak Barat IV
+  latitude: -7.230182066666667
+  longitude: 112.72582410000001
+  type: school
+- id: 451669978
+  name: Madrasah Ibtidaiyah At Taqwa
+  latitude: -7.31944278
+  longitude: 112.78265986000001
+  type: school
+- id: 451672366
+  name: SDK/SMPK ST Mikael
+  latitude: -7.224094288
+  longitude: 112.727237652
+  type: school
+- id: 451672861
+  name: KB TK SD SMP SMA Yayasan Kemala Bhayangkari Surabaya
+  latitude: -7.310961578571428
+  longitude: 112.73431514285717
+  type: school
+- id: 451673267
+  name: SD Islam Al Muawanah
+  latitude: -7.249545119999999
+  longitude: 112.64134693999999
+  type: school
+- id: 451674214
+  name: Yayasan Pendidikan Etika Dharma
+  latitude: -7.336184733333335
+  longitude: 112.77026797333332
+  type: school
+- id: 451806924
+  name: SMP PGRI 7
+  latitude: -7.231191839999999
+  longitude: 112.73244017999998
+  type: school
+- id: 451806979
+  name: SD Muhammadiyah 13
+  latitude: -7.2310284
+  longitude: 112.73229045999999
+  type: school
+- id: 451810380
+  name: SD Dapuan
+  latitude: -7.229869099999999
+  longitude: 112.73653517999999
+  type: school
+- id: 451811454
+  name: SMP Negeri 8 Surabaya
+  latitude: -7.2426263
+  longitude: 112.74617902
+  type: school
+- id: 451827022
+  name: SMP PGRI 7
+  latitude: -7.226431740000001
+  longitude: 112.73559614000001
+  type: school
+- id: 451830978
+  name: SD Negeri Krembangan Utara I/56 Surabaya
+  latitude: -7.228628179999999
+  longitude: 112.73281993999998
+  type: school
+- id: 451836071
+  name: SD Trisula
+  latitude: -7.223460180000001
+  longitude: 112.73344938
+  type: school
+- id: 451850985
+  name: MTS Budi Dharma
+  latitude: -7.302291140000001
+  longitude: 112.7294349
+  type: school
+- id: 451850989
+  name: SD Negeri Wonokromo I/ 390
+  latitude: -7.30299902222222
+  longitude: 112.73244052222223
+  type: school
+- id: 451850994
+  name: SMP Widya Darma
+  latitude: -7.306813522222222
+  longitude: 112.73056221111112
+  type: school
+- id: 451857631
+  name: SMA Kartika IV - 3
+  latitude: -7.2978575714285725
+  longitude: 112.72820115714286
+  type: school
+- id: 451981969
+  name: SMA YPPI 2
+  latitude: -7.24172521
+  longitude: 112.75293003000002
+  type: school
+- id: 451981970
+  name: SD Ma'arif NU Nurul Islam
+  latitude: -7.242703544444445
+  longitude: 112.75502772222222
+  type: school
+- id: 451981971
+  name: SD Negeri Kapasan III
+  latitude: -7.241297304166667
+  longitude: 112.75093389583333
+  type: school
+- id: 451981987
+  name: Persyarikatan Muhammadiyah
+  latitude: -7.240310992857142
+  longitude: 112.74979578571428
+  type: school
+- id: 451981990
+  name: SMP Negeri 41
+  latitude: -7.24179355
+  longitude: 112.75078210000001
+  type: school
+- id: 451981991
+  name: Yayasan YPPI
+  latitude: -7.243694536363637
+  longitude: 112.7537239818182
+  type: school
+- id: 451986390
+  name: RA MI Muslimat NU
+  latitude: -7.22065802
+  longitude: 112.76301612
+  type: school
+- id: 452014422
+  name: SD Katolik Pecinta Damai
+  latitude: -7.231352555555556
+  longitude: 112.7645616111111
+  type: school
+- id: 452014931
+  name: SMP Katolik Pencinta Damai
+  latitude: -7.230912185714287
+  longitude: 112.76370545714288
+  type: school
+- id: 452020433
+  name: SMP YP 17
+  latitude: -7.229036979999999
+  longitude: 112.76320704
+  type: school
+- id: 452021840
+  name: TK-MI Darul Ulum
+  latitude: -7.22063838
+  longitude: 112.75270977999999
+  type: school
+- id: 452033015
+  name: SD-MI Cokroaminoto
+  latitude: -7.229136371428572
+  longitude: 112.74264862857144
+  type: school
+- id: 452033092
+  name: MI Al-Khusnaniyah
+  latitude: -7.2301079999999995
+  longitude: 112.74378414
+  type: school
+- id: 452033374
+  name: SD. Al Falah
+  latitude: -7.294389860000001
+  longitude: 112.73959475000001
+  type: school
+- id: 452160570
+  name: Pondok Pesantren Darut Tauhid
+  latitude: -7.221596700000001
+  longitude: 112.76405648
+  type: school
+- id: 452172683
+  name: SD Muhammadiyah 21
+  latitude: -7.214363739999999
+  longitude: 112.75382264
+  type: school
+- id: 452173175
+  name: SD Dharma Siswa
+  latitude: -7.220863460000001
+  longitude: 112.76202998
+  type: school
+- id: 452173176
+  name: SD Negeri Sidotopo Wetan IV
+  latitude: -7.226987771428573
+  longitude: 112.76352624285713
+  type: school
+- id: 452173859
+  name: TK-MI-SMP Al Ghozali
+  latitude: -7.223408280000001
+  longitude: 112.74350522
+  type: school
+- id: 452174330
+  name: MI Islamiyah
+  latitude: -7.2233620599999995
+  longitude: 112.7533309
+  type: school
+- id: 452174368
+  name: SMK PGRI 14
+  latitude: -7.318335019999999
+  longitude: 112.71005638
+  type: school
+- id: 452178888
+  name: SD Negeri Perak Utara II/59
+  latitude: -7.2159819
+  longitude: 112.73204746000002
+  type: school
+- id: 452187279
+  name: MI Al Ichsan
+  latitude: -7.212534959999999
+  longitude: 112.76965112
+  type: school
+- id: 452188946
+  name: SD Negeri Sidotopo Wetan V
+  latitude: -7.2270336
+  longitude: 112.76715958
+  type: school
+- id: 452188947
+  name: SMP Negeri 58 Surabaya
+  latitude: -7.227317080000001
+  longitude: 112.76695686000001
+  type: school
+- id: 452202814
+  name: SD Maarif NU Al Ichsan
+  latitude: -7.2224756999999995
+  longitude: 112.76577475999997
+  type: school
+- id: 452210836
+  name: MI Al-Amin
+  latitude: -7.216402177777779
+  longitude: 112.73614227777777
+  type: school
+- id: 452344011
+  name: SMP YP 17
+  latitude: -7.236320922222221
+  longitude: 112.75764023333335
+  type: school
+- id: 452344013
+  name: SLB/BC Karya Bhakti
+  latitude: -7.237915460000001
+  longitude: 112.76202244000001
+  type: school
+- id: 452388985
+  name: MI Muhammadiyah 25
+  latitude: -7.2338203636363625
+  longitude: 112.75887764545455
+  type: school
+- id: 452390751
+  name: SD Negeri Lakarsantri 2 No.473
+  latitude: -7.303622566666667
+  longitude: 112.6335433
+  type: school
+- id: 452390753
+  name: SD Negeri Lakarsantri 1 No. 472
+  latitude: -7.303087219999999
+  longitude: 112.63074748000001
+  type: school
+- id: 452390754
+  name: MTS Negeri Surabaya 2
+  latitude: -7.299940828571428
+  longitude: 112.63389745714287
+  type: school
+- id: 452390755
+  name: TK, SD dan SMP Islam UTSMAN Bin Affan
+  latitude: -7.306605433333335
+  longitude: 112.63606804444444
+  type: school
+- id: 452390756
+  name: SMP Cita Hati
+  latitude: -7.299182533333333
+  longitude: 112.63549363333333
+  type: school
+- id: 452390762
+  name: MI AT-Taufiq
+  latitude: -7.300825233333334
+  longitude: 112.63375094444444
+  type: school
+- id: 452573831
+  name: TK-SD-SMP Al Huda
+  latitude: -7.2219343600000006
+  longitude: 112.75879458
+  type: school
+- id: 452574521
+  name: SD Negeri Perak Utara III
+  latitude: -7.2137445
+  longitude: 112.72960716
+  type: school
+- id: 452575861
+  name: MI Raden Rahmat
+  latitude: -7.26063322
+  longitude: 112.64467287999999
+  type: school
+- id: 452575868
+  name: SD Negeri Beringin No. 477
+  latitude: -7.26000598
+  longitude: 112.64649028000001
+  type: school
+- id: 452575869
+  name: SMP Giri Surya
+  latitude: -7.25993404
+  longitude: 112.64802488000001
+  type: school
+- id: 452577212
+  name: SD Negeri Jeruk 2
+  latitude: -7.305311612500001
+  longitude: 112.64019386249998
+  type: school
+- id: 452577224
+  name: TK dan SD Islamiyah Lakarsantri Surabaya
+  latitude: -7.304751115384614
+  longitude: 112.64243393076923
+  type: school
+- id: 452578172
+  name: KB - TK - SD - SMP Hasanudin
+  latitude: -7.33168356
+  longitude: 112.68896556
+  type: school
+- id: 452579496
+  name: SD Negeri Lakarsantri 3 No 474
+  latitude: -7.299754363636365
+  longitude: 112.63288463636364
+  type: school
+- id: 452579961
+  name: MIMI School
+  latitude: -7.29994994
+  longitude: 112.65038060000002
+  type: school
+- id: 452580506
+  name: KB TK SD Dapena
+  latitude: -7.279611354545455
+  longitude: 112.7442353
+  type: school
+- id: 452580526
+  name: SD Negeri Keputran I No. 332
+  latitude: -7.28582966
+  longitude: 112.74269084
+  type: school
+- id: 452581256
+  name: MTs Al Muttaqin
+  latitude: -7.27160574
+  longitude: 112.64416428
+  type: school
+- id: 452581260
+  name: Surabaya Taipei School
+  latitude: -7.280364204166666
+  longitude: 112.64278642916666
+  type: school
+- id: 452581262
+  name: TK MI Nurul Hidayah
+  latitude: -7.27933748
+  longitude: 112.63070726000001
+  type: school
+- id: 452585722
+  name: SD Al Istiqomah
+  latitude: -7.2125395800000005
+  longitude: 112.73596294000001
+  type: school
+- id: 452601136
+  name: RA-MI Al Kautsar
+  latitude: -7.2258621000000005
+  longitude: 112.75448363999999
+  type: school
+- id: 452601161
+  name: RA/MI Mambaul Ulum
+  latitude: -7.226249780000001
+  longitude: 112.75203982000002
+  type: school
+- id: 452601162
+  name: SD-MI-SMP KH. M. Nur
+  latitude: -7.226158322222222
+  longitude: 112.74657677777776
+  type: school
+- id: 452601164
+  name: SD Negeri Pegirian I
+  latitude: -7.223857506666667
+  longitude: 112.75039278666665
+  type: school
+- id: 452621223
+  name: MI Darusalam
+  latitude: -7.216722760000001
+  longitude: 112.76823202
+  type: school
+- id: 452622785
+  name: SMP SMA Masa Depan Cerah
+  latitude: -7.280433439999999
+  longitude: 112.64369654
+  type: school
+- id: 452629392
+  name: Pondok Pesantren Uswatun Hasanah
+  latitude: -7.21484592
+  longitude: 112.7674978
+  type: school
+- id: 453244904
+  name: SMP SMA SMK Wachid Hasyim
+  latitude: -7.232196521739133
+  longitude: 112.7602689478261
+  type: school
+- id: 453248828
+  name: SD Negeri Made 1
+  latitude: -7.27694028888889
+  longitude: 112.63637484444445
+  type: school
+- id: 453250665
+  name: Spins Interactional School
+  latitude: -7.30978792
+  longitude: 112.68933537999999
+  type: school
+- id: 453438721
+  name: SD Darussalam
+  latitude: -7.23058906
+  longitude: 112.73048424000001
+  type: school
+- id: 453439342
+  name: Pondok Pesantren Ichya'ul Ulum
+  latitude: -7.213481540000001
+  longitude: 112.76733704
+  type: school
+- id: 453439344
+  name: SMP Negeri 31 Surabaya
+  latitude: -7.21935582
+  longitude: 112.76647848
+  type: school
+- id: 453631122
+  name: SMA Negeri 13 Surabaya
+  latitude: -7.307949281818183
+  longitude: 112.66269891818183
+  type: school
+- id: 453631123
+  name: SD Negeri Lidah Kulon 1
+  latitude: -7.305804533333333
+  longitude: 112.65251485
+  type: school
+- id: 453631125
+  name: SD Negeri Lidah Kulon 4
+  latitude: -7.301233712499999
+  longitude: 112.6614734875
+  type: school
+- id: 453631136
+  name: ST. Mary School
+  latitude: -7.30633092222222
+  longitude: 112.65796928888888
+  type: school
+- id: 453632406
+  name: SD Negeri Sidodadi II
+  latitude: -7.236070942857142
+  longitude: 112.74572284285713
+  type: school
+- id: 453635272
+  name: Yayasan bustanul Huda
+  latitude: -7.2367768777777775
+  longitude: 112.75132566666667
+  type: school
+- id: 453637967
+  name: SD Negeri Lidah Kulon 3
+  latitude: -7.2990414999999995
+  longitude: 112.65338998
+  type: school
+- id: 453642902
+  name: SD Negeri Tandes Kidul II/112
+  latitude: -7.261369544444444
+  longitude: 112.68755734444443
+  type: school
+- id: 453642905
+  name: SD Negeri Tandes Lor I/94
+  latitude: -7.261001160000001
+  longitude: 112.6876872
+  type: school
+- id: 453643728
+  name: SMP Negeri 20
+  latitude: -7.269751541666667
+  longitude: 112.65293644166667
+  type: school
+- id: 453643733
+  name: SD Negeri Sambikerep III
+  latitude: -7.265662799999999
+  longitude: 112.65584487999999
+  type: school
+- id: 453643741
+  name: SD Negeri Sambikerep I/479 & SD Negeri Sambikerep V/613
+  latitude: -7.275001283333332
+  longitude: 112.65359478333333
+  type: school
+- id: 453643742
+  name: SD Negeri Sambikerep II/480
+  latitude: -7.265818599999999
+  longitude: 112.65626271666666
+  type: school
+- id: 453643793
+  name: MI H Hasan Al Hasyim
+  latitude: -7.276731119999999
+  longitude: 112.65335544
+  type: school
+- id: 453647608
+  name: SMP Negeri 44
+  latitude: -7.2306882875
+  longitude: 112.74597955
+  type: school
+- id: 453647676
+  name: RA, MI, dan SMA Darus Sa'adah
+  latitude: -7.233529879999999
+  longitude: 112.75260938000001
+  type: school
+- id: 453647677
+  name: Yayasan Ghufron Faqih
+  latitude: -7.232850740000001
+  longitude: 112.74735937999999
+  type: school
+- id: 453650822
+  name: SD Karya Tunggal
+  latitude: -7.22412056
+  longitude: 112.75630492
+  type: school
+- id: 453650825
+  name: SD Al Ikhlas
+  latitude: -7.21583608
+  longitude: 112.75813765999999
+  type: school
+- id: 453651283
+  name: TK-SD-SMP Laboratorium Unesa
+  latitude: -7.311309379999999
+  longitude: 112.72615894285713
+  type: school
+- id: 453652701
+  name: SD Negeri Krembangan Utara II
+  latitude: -7.226817242857143
+  longitude: 112.73609764285712
+  type: school
+- id: 453707167
+  name: SD Negeri Wonokusumo I
+  latitude: -7.2221024599999994
+  longitude: 112.75166549999999
+  type: school
+- id: 453707168
+  name: SD Negeri Wonokusumo VI & VII
+  latitude: -7.21717365
+  longitude: 112.75424391666667
+  type: school
+- id: 453707169
+  name: SMP Citra Dharma Surabaya
+  latitude: -7.216378483333334
+  longitude: 112.75076674999998
+  type: school
+- id: 453707170
+  name: SD Negeri Wonokusumo IV/43 & VIII/594
+  latitude: -7.220108162500001
+  longitude: 112.7522967875
+  type: school
+- id: 453707171
+  name: SMK Islam Al-Amal
+  latitude: -7.215740288888889
+  longitude: 112.7524380888889
+  type: school
+- id: 453870116
+  name: SD Negeri Perak Barat
+  latitude: -7.223850140000001
+  longitude: 112.73122612
+  type: school
+- id: 453871629
+  name: SMP Muhammadiyah 11
+  latitude: -7.238754686666667
+  longitude: 112.71999648
+  type: school
+- id: 453872765
+  name: SMP Negeri 7
+  latitude: -7.22432388
+  longitude: 112.72996518
+  type: school
+- id: 453881624
+  name: TK, MI, SMP 2 Bina Bangsa
+  latitude: -7.238130259999999
+  longitude: 112.72729801333335
+  type: school
+- id: 453890981
+  name: SD Ma'arif NU K.Abdullah Ubaid
+  latitude: -7.2501827599999995
+  longitude: 112.72437602
+  type: school
+- id: 453903514
+  name: MTS Waqid Hasyim
+  latitude: -7.231263577777777
+  longitude: 112.71150583333333
+  type: school
+- id: 453922914
+  name: Pondok Sidogiri
+  latitude: -7.233865393333334
+  longitude: 112.74961384
+  type: school
+- id: 453928532
+  name: SMK Negeri 4 Surabaya
+  latitude: -7.2565672857142856
+  longitude: 112.7302151857143
+  type: school
+- id: 453934616
+  name: Yayasan Attarbiyah (TK-SD-SMP-SMA)
+  latitude: -7.2233197
+  longitude: 112.7403282
+  type: school
+- id: 453934630
+  name: SD Negeri Ujung IX/34
+  latitude: -7.224867199999999
+  longitude: 112.74451542222221
+  type: school
+- id: 453934635
+  name: SMP Negeri 11 Surabaya
+  latitude: -7.223432316666667
+  longitude: 112.74403769999999
+  type: school
+- id: 453934637
+  name: PAUD-TK-SD-SMP-SMA-SMK Al-Irsyad Surabaya
+  latitude: -7.2245012937499995
+  longitude: 112.74142713124999
+  type: school
+- id: 453934639
+  name: Pondok Pesantren Ubudiyah - Raudlatul Muta'alimin
+  latitude: -7.22071156
+  longitude: 112.74909220000002
+  type: school
+- id: 453934643
+  name: SMA Negeri 8 Surabaya
+  latitude: -7.224107260000001
+  longitude: 112.74222068000002
+  type: school
+- id: 453934646
+  name: KB-TK-SDI-SMP Diniyah Lil Banin Al khairiyah
+  latitude: -7.225052111111111
+  longitude: 112.74263102222223
+  type: school
+- id: 453936268
+  name: SD Negeri Sawahan I
+  latitude: -7.260586479999999
+  longitude: 112.73025662
+  type: school
+- id: 453938111
+  name: SD - SMP Katolik Stella Maris
+  latitude: -7.246491137499999
+  longitude: 112.7365049375
+  type: school
+- id: 453938172
+  name: SD & TK Halimah
+  latitude: -7.24771582857143
+  longitude: 112.73728727142857
+  type: school
+- id: 453938208
+  name: SMP Wachid Hasyim
+  latitude: -7.247667057142857
+  longitude: 112.7374608142857
+  type: school
+- id: 453940553
+  name: SD Negeri Asemrowo
+  latitude: -7.251844471428571
+  longitude: 112.71470889999999
+  type: school
+- id: 454131797
+  name: MI MTs Nyai H. Ashfiyah
+  latitude: -7.283797300000001
+  longitude: 112.66858257999999
+  type: school
+- id: 454131799
+  name: SMP SMA Shafta
+  latitude: -7.284135433333333
+  longitude: 112.66630516666667
+  type: school
+- id: 454147198
+  name: SMP Swasta Bina Karya
+  latitude: -7.23533006
+  longitude: 112.71217246
+  type: school
+- id: 454147209
+  name: SMP Bina Karya
+  latitude: -7.236190000000001
+  longitude: 112.71184768
+  type: school
+- id: 454147481
+  name: SD Ma'arif NU KH.Thohir Bakri
+  latitude: -7.24794882
+  longitude: 112.72742004
+  type: school
+- id: 454147582
+  name: SD Bina Karya
+  latitude: -7.236191840000001
+  longitude: 112.71211204000001
+  type: school
+- id: 454182462
+  name: SD Muhammadiyah 12
+  latitude: -7.24337632
+  longitude: 112.72693408
+  type: school
+- id: 454182885
+  name: TK / SD Nurul Hidayah I
+  latitude: -7.243716539999999
+  longitude: 112.72674902000001
+  type: school
+- id: 454182889
+  name: SMP muhammadiyah 7 Dupak Jaya
+  latitude: -7.243174071428571
+  longitude: 112.72599735714286
+  type: school
+- id: 454182890
+  name: SD Negeri Gundih
+  latitude: -7.244995922222222
+  longitude: 112.72588398888888
+  type: school
+- id: 454782246
+  name: SD Negeri Pakis III
+  latitude: -7.283797354545453
+  longitude: 112.7176004
+  type: school
+- id: 454799543
+  name: SDIT Darul Arqom
+  latitude: -7.311644679999999
+  longitude: 112.67362476000001
+  type: school
+- id: 454803500
+  name: SD Negeri Pegirian II
+  latitude: -7.2251814166666675
+  longitude: 112.75267691666669
+  type: school
+- id: 454805136
+  name: Yayasan Masjid Mujahidin
+  latitude: -7.213910499999999
+  longitude: 112.7329721769231
+  type: school
+- id: 454814536
+  name: IPH Schools
+  latitude: -7.27700434
+  longitude: 112.69708782000001
+  type: school
+- id: 454985324
+  name: Sampoerna Academy
+  latitude: -7.28588795
+  longitude: 112.67492924999999
+  type: school
+- id: 454990548
+  name: SD Negeri Alun Alun Contong I
+  latitude: -7.246699099999999
+  longitude: 112.74058391999999
+  type: school
+- id: 454990550
+  name: SMK YPPI
+  latitude: -7.245728819999999
+  longitude: 112.74247842
+  type: school
+- id: 454995056
+  name: SD MA'arif Nurul Ulum
+  latitude: -7.23184678
+  longitude: 112.71486198000002
+  type: school
+- id: 455009686
+  name: Sekolah Luar Biasa Purna Yudha Bakti
+  latitude: -7.248650479999999
+  longitude: 112.72834246
+  type: school
+- id: 455010174
+  name: SD Kristen Petra 10
+  latitude: -7.271679411764706
+  longitude: 112.68736588823529
+  type: school
+- id: 455011232
+  name: SMP Negeri 38 Surabaya
+  latitude: -7.23420526
+  longitude: 112.7349297
+  type: school
+- id: 455011233
+  name: SMP Negeri 5 Surabaya
+  latitude: -7.2348969
+  longitude: 112.73137897777777
+  type: school
+- id: 455011234
+  name: SMA Katholik Stella Maris
+  latitude: -7.239820760000001
+  longitude: 112.73207567
+  type: school
+- id: 455011983
+  name: SMP PGRI 6
+  latitude: -7.2156819428571435
+  longitude: 112.75807339999999
+  type: school
+- id: 455014226
+  name: SD Negeri Krembangan Selatan 7
+  latitude: -7.240539254545454
+  longitude: 112.73564551818184
+  type: school
+- id: 455014229
+  name: SMP Negeri 2 Surabaya
+  latitude: -7.242645368749999
+  longitude: 112.73603171875
+  type: school
+- id: 455014230
+  name: Asrama Santa Yuli (PG-TKK Taman Rini SDK Santa Angela)
+  latitude: -7.241959738888888
+  longitude: 112.73563176111111
+  type: school
+- id: 455014265
+  name: TK, SD, SMP, dan SMA TA'Miriyah
+  latitude: -7.242731348648649
+  longitude: 112.73569424864864
+  type: school
+- id: 455025208
+  name: Sekolah Advent Anjasmoro
+  latitude: -7.258558320000001
+  longitude: 112.73093884
+  type: school
+- id: 455031600
+  name: SMA Kristen Gloria I
+  latitude: -7.270774399999999
+  longitude: 112.69506171999998
+  type: school
+- id: 455049658
+  name: SMP Negeri 43 Surabaya
+  latitude: -7.2509467
+  longitude: 112.73405857999998
+  type: school
+- id: 455195444
+  name: SMP Negeri 27 Surabaya
+  latitude: -7.210190114285715
+  longitude: 112.75705575714285
+  type: school
+- id: 455195773
+  name: SD Muhammadiyah 15 Surabaya
+  latitude: -7.3121184800000005
+  longitude: 112.70960027999999
+  type: school
+- id: 455195774
+  name: SD Negeri Jajar Tunggal I
+  latitude: -7.307233946153847
+  longitude: 112.71100607692307
+  type: school
+- id: 455195775
+  name: SMA Muhammadiyah 9 Surabaya
+  latitude: -7.311791680000001
+  longitude: 112.70923762
+  type: school
+- id: 455229319
+  name: SMP Muhammadiyah 17 Surabaya
+  latitude: -7.31202768
+  longitude: 112.70916066
+  type: school
+- id: 455257247
+  name: SMP Negeri 16 Surabaya
+  latitude: -7.3242255181818186
+  longitude: 112.706396
+  type: school
+- id: 455261264
+  name: Yayasan Barunawati Biru
+  latitude: -7.2207284000000005
+  longitude: 112.73185093076924
+  type: school
+- id: 455261267
+  name: SMK KAL-2 Surabaya
+  latitude: -7.2176165625
+  longitude: 112.7291169375
+  type: school
+- id: 455426592
+  name: SD Muhammadiyah 11 Surabaya
+  latitude: -7.239304659999999
+  longitude: 112.71968152
+  type: school
+- id: 455426720
+  name: KB, TK, MI, SD Islam Sabilas Salam
+  latitude: -7.23788402
+  longitude: 112.71749646
+  type: school
+- id: 455426725
+  name: SMP Tunas Buana
+  latitude: -7.23988276
+  longitude: 112.71765307999999
+  type: school
+- id: 455433669
+  name: KB, TK, SD, SMP, SMA Pirngadi
+  latitude: -7.252235659999999
+  longitude: 112.73382211999999
+  type: school
+- id: 455433672
+  name: SD Negeri Bubutan II
+  latitude: -7.2519521
+  longitude: 112.73393116
+  type: school
+- id: 455433701
+  name: SD Negeri Bubutan III
+  latitude: -7.2541426399999995
+  longitude: 112.73365535999999
+  type: school
+- id: 455433702
+  name: SD Negeri Bubutan VIII
+  latitude: -7.254081079999999
+  longitude: 112.72908334000002
+  type: school
+- id: 455433703
+  name: SMK Bubutan Surabaya
+  latitude: -7.2504721555555545
+  longitude: 112.73504386666667
+  type: school
+- id: 455436774
+  name: SMK Negeri 7 Surabaya
+  latitude: -7.250734244444445
+  longitude: 112.73121962222221
+  type: school
+- id: 455437276
+  name: Merlion School
+  latitude: -7.28572492
+  longitude: 112.69531941999999
+  type: school
+- id: 455437277
+  name: SD Negeri Kwijenan II
+  latitude: -7.2776597999999995
+  longitude: 112.69942962
+  type: school
+- id: 455447403
+  name: MTS Tanbihul Ghogilin
+  latitude: -7.239093479999999
+  longitude: 112.71157324
+  type: school
+- id: 455447404
+  name: Madrasah Tanbihul Ghofilin
+  latitude: -7.23906894
+  longitude: 112.71171104
+  type: school
+- id: 455447411
+  name: SD Tunas Bahari
+  latitude: -7.22930638
+  longitude: 112.70811671999999
+  type: school
+- id: 455468112
+  name: SD Al-Hikmah Surabaya
+  latitude: -7.3309514
+  longitude: 112.72257638235294
+  type: school
+- id: 455468225
+  name: SLB Siswa Budhi
+  latitude: -7.335223999999999
+  longitude: 112.72873657999999
+  type: school
+- id: 455595602
+  name: MTS Islam Kartika
+  latitude: -7.231113000000001
+  longitude: 112.71148203999999
+  type: school
+- id: 455595610
+  name: SD Muhammadiyah
+  latitude: -7.2378867
+  longitude: 112.71361848000001
+  type: school
+- id: 455596283
+  name: SD SMP SMA Masjid Besar Baitul Fattah
+  latitude: -7.264233557142857
+  longitude: 112.66759437142856
+  type: school
+- id: 455596284
+  name: SMK Sari Praja - SMA Trikarya
+  latitude: -7.264392155555557
+  longitude: 112.66933545555555
+  type: school
+- id: 455596560
+  name: SD Negeri Krembangan Selatan III
+  latitude: -7.244192236363636
+  longitude: 112.73672275454543
+  type: school
+- id: 455598862
+  name: SD Negeri Bangkingan 2
+  latitude: -7.32590318
+  longitude: 112.65782629999998
+  type: school
+- id: 455598869
+  name: SMK Wahana Karya Surabaya
+  latitude: -7.32359718
+  longitude: 112.65722188
+  type: school
+- id: 455598871
+  name: Yayasan Pendidikan Nurul Huda (RA MI SMP)
+  latitude: -7.323443680000001
+  longitude: 112.65941088
+  type: school
+- id: 455599008
+  name: MI KH Abu Mansur
+  latitude: -7.307415142857144
+  longitude: 112.66617361428571
+  type: school
+- id: 455599028
+  name: Surabaya Grammar School (SGS Campus II)
+  latitude: -7.31247178
+  longitude: 112.66447779999999
+  type: school
+- id: 455599050
+  name: TK SD SMP Cikal
+  latitude: -7.282319686666667
+  longitude: 112.66382488000002
+  type: school
+- id: 455599052
+  name: SMA Margie
+  latitude: -7.2804627124999985
+  longitude: 112.659158125
+  type: school
+- id: 455599083
+  name: SD Negeri Lontar 481
+  latitude: -7.274085959999999
+  longitude: 112.66250538000001
+  type: school
+- id: 455599087
+  name: SD SMP SMA Islam Al Mizan
+  latitude: -7.26954502857143
+  longitude: 112.67075360000001
+  type: school
+- id: 455599090
+  name: SMP SMU SMK Garuda Wira Maritim
+  latitude: -7.272284279999999
+  longitude: 112.66551826
+  type: school
+- id: 455599808
+  name: MI Sabilul Muttaqin
+  latitude: -7.239955
+  longitude: 112.7172588
+  type: school
+- id: 455611431
+  name: SD Negeri Sumur Welut 3
+  latitude: -7.3251457727272715
+  longitude: 112.67185026363633
+  type: school
+- id: 455611432
+  name: SD Negeri Sumur Welut 1 No.438
+  latitude: -7.32457256
+  longitude: 112.66749
+  type: school
+- id: 455658096
+  name: TK - MI - SD Bahrul Ulum
+  latitude: -7.312803740000001
+  longitude: 112.69368124
+  type: school
+- id: 455658134
+  name: SD Negeri Wiyung I
+  latitude: -7.3144659600000015
+  longitude: 112.6946232
+  type: school
+- id: 455658136
+  name: SMP Negeri 34 Surabaya
+  latitude: -7.3194006625000005
+  longitude: 112.68733763750001
+  type: school
+- id: 455658749
+  name: PG TK SD SMP Khadijah 2
+  latitude: -7.28040578
+  longitude: 112.69058824000001
+  type: school
+- id: 455662451
+  name: SD Negeri Putat Jaya I/377 & Putat Jaya V/381
+  latitude: -7.280078300000001
+  longitude: 112.71747328750001
+  type: school
+- id: 455662466
+  name: TK-SD Tunas Bakti 6
+  latitude: -7.2789062
+  longitude: 112.72546523999999
+  type: school
+- id: 455663225
+  name: SD Negeri Pradah Kali Kendal 1
+  latitude: -7.28340088
+  longitude: 112.68774022
+  type: school
+- id: 455663789
+  name: SD Negeri Dupak I
+  latitude: -7.239334359999999
+  longitude: 112.71660005999999
+  type: school
+- id: 455663860
+  name: SD Negeri Dupak V
+  latitude: -7.239566555555555
+  longitude: 112.71682416666665
+  type: school
+- id: 455669197
+  name: SMP Katolis Angelus Custos II Surabaya
+  latitude: -7.3272850444444435
+  longitude: 112.69571096666667
+  type: school
+- id: 455675589
+  name: SD Negeri Tembok Dukuh III
+  latitude: -7.24966354
+  longitude: 112.71804046
+  type: school
+- id: 455675735
+  name: SMP Islam Surabaya
+  latitude: -7.24822054
+  longitude: 112.71869827999998
+  type: school
+- id: 455676623
+  name: SD Katolik Karitas III
+  latitude: -7.278055771428571
+  longitude: 112.6846548
+  type: school
+- id: 455676632
+  name: SMA Katolik Karitas III
+  latitude: -7.278848830769231
+  longitude: 112.68528699999999
+  type: school
+- id: 455676930
+  name: Arva School of Fashion
+  latitude: -7.285191180000001
+  longitude: 112.69385952
+  type: school
+- id: 455677845
+  name: SMK Dharma Bhakti Surabaya
+  latitude: -7.340738673333332
+  longitude: 112.72635589333335
+  type: school
+- id: 455679644
+  name: SD Negeri Pakis VIII & SMP Negeri 46 Surabaya
+  latitude: -7.288439663636364
+  longitude: 112.72002642727274
+  type: school
+- id: 455679645
+  name: SD Negeri Pakis V
+  latitude: -7.283087742857143
+  longitude: 112.72217185714287
+  type: school
+- id: 455679646
+  name: TK-SD Kristen Petra 11
+  latitude: -7.283955185714286
+  longitude: 112.72159275714284
+  type: school
+- id: 455679647
+  name: SD Negeri Pakis I-II & IX
+  latitude: -7.288067728571428
+  longitude: 112.72419861428571
+  type: school
+- id: 455686394
+  name: Yayasan Pendidikan Islam Bahrul Ulum
+  latitude: -7.2756812166666665
+  longitude: 112.72041895
+  type: school
+- id: 455686403
+  name: SD Negeri Putat Jaya II/37
+  latitude: -7.281436375
+  longitude: 112.71691725
+  type: school
+- id: 455686404
+  name: TK-SMP Panja Jaya
+  latitude: -7.279863399999999
+  longitude: 112.71749628
+  type: school
+- id: 456281844
+  name: SD Negeri Putat Gede I
+  latitude: -7.2887767000000006
+  longitude: 112.69591083750001
+  type: school
+- id: 456282186
+  name: SD Negeri Warugunung I / 448
+  latitude: -7.3497767
+  longitude: 112.66624584000002
+  type: school
+- id: 456282380
+  name: Lembaga Pendidikan Islam At Taqwa
+  latitude: -7.3233672499999996
+  longitude: 112.6606422375
+  type: school
+- id: 456294519
+  name: SLB Bakti Asih Yayasan Tut Wuri Handayani
+  latitude: -7.273088060000001
+  longitude: 112.7040796
+  type: school
+- id: 456309944
+  name: SD Kristen Kalam Kudus
+  latitude: -7.27380262
+  longitude: 112.70032985999998
+  type: school
+- id: 456333623
+  name: SMP Kristen Petra 1
+  latitude: -7.282207952631578
+  longitude: 112.68495365789477
+  type: school
+- id: 456485196
+  name: SD Negeri Margorejo VI
+  latitude: -7.321125923076924
+  longitude: 112.7394011923077
+  type: school
+- id: 456498105
+  name: SMP Dharma Wanita
+  latitude: -7.324186
+  longitude: 112.74639234285713
+  type: school
+- id: 456498136
+  name: SD Negeri Lidah Wetan 4/566
+  latitude: -7.308275419999999
+  longitude: 112.67266443999999
+  type: school
+- id: 456498139
+  name: SMK PGRI 7 Surabaya
+  latitude: -7.307461885714285
+  longitude: 112.66661198571428
+  type: school
+- id: 456498140
+  name: SD Negeri Lidah Wetan 2/462
+  latitude: -7.308012011111111
+  longitude: 112.66499805555557
+  type: school
+- id: 456498141
+  name: SMP Negeri 28
+  latitude: -7.30864069
+  longitude: 112.66495020000002
+  type: school
+- id: 456498621
+  name: Alfa Omega School ( TK SD SMP )
+  latitude: -7.277187113333334
+  longitude: 112.68488507333335
+  type: school
+- id: 456498637
+  name: Great Crystal School and Course Centre TK SD SMP
+  latitude: -7.278866057142857
+  longitude: 112.69419435714283
+  type: school
+- id: 456498666
+  name: MI MTS Badrussalam
+  latitude: -7.2838107615384615
+  longitude: 112.68796443076924
+  type: school
+- id: 456498678
+  name: SD Mimi School
+  latitude: -7.28348046
+  longitude: 112.69101363999998
+  type: school
+- id: 456498680
+  name: SMP Katolik Karitas III
+  latitude: -7.278355971428572
+  longitude: 112.6849081
+  type: school
+- id: 456498686
+  name: TK SD Baptis Imanuel
+  latitude: -7.286805344444444
+  longitude: 112.69320893333332
+  type: school
+- id: 456498689
+  name: TK-SD-SMP-SMA Metta School
+  latitude: -7.275331200000001
+  longitude: 112.6846136111111
+  type: school
+- id: 456510519
+  name: PG-TK-SD-SMP Kristen Aletheia
+  latitude: -7.254497471428571
+  longitude: 112.72132167142857
+  type: school
+- id: 456524761
+  name: SMP Kartika Nasional
+  latitude: -7.3214663799999995
+  longitude: 112.74826312
+  type: school
+- id: 456527285
+  name: SMP AL-IKhlash
+  latitude: -7.224346841666667
+  longitude: 112.72680700000001
+  type: school
+- id: 456527286
+  name: SMPN Hang Tuah IV
+  latitude: -7.227139057142857
+  longitude: 112.7267973142857
+  type: school
+- id: 456527287
+  name: SMA Hang Tuah 1 Surabaya
+  latitude: -7.230146946666667
+  longitude: 112.72261699333332
+  type: school
+- id: 456527288
+  name: SD Negeri Perak Barat VI
+  latitude: -7.229572866666668
+  longitude: 112.72327139444445
+  type: school
+- id: 456527289
+  name: Yayasan Nurul Hidayah
+  latitude: -7.22536554
+  longitude: 112.72994724
+  type: school
+- id: 456527318
+  name: SD Al Ikhlas
+  latitude: -7.224625533333334
+  longitude: 112.72692502222222
+  type: school
+- id: 456527320
+  name: Yayasan Dharma Santo Mikael
+  latitude: -7.22406488
+  longitude: 112.72797963999999
+  type: school
+- id: 456527441
+  name: SD dan TK Mursyidah
+  latitude: -7.21133224
+  longitude: 112.65185378000001
+  type: school
+- id: 456533055
+  name: Yayasan Gita Kirtti (TK-SD-SMP-SMA-SMK GIKI Surabaya)
+  latitude: -7.276270757142858
+  longitude: 112.71113171428571
+  type: school
+- id: 456533081
+  name: SD Negeri Putat Jaya IV/380
+  latitude: -7.272432280000001
+  longitude: 112.71150276
+  type: school
+- id: 456533119
+  name: SD Kartika
+  latitude: -7.2714093
+  longitude: 112.71519242000002
+  type: school
+- id: 456533132
+  name: SD Negeri Putat Jaya III/379
+  latitude: -7.273553959999999
+  longitude: 112.71562304
+  type: school
+- id: 456544654
+  name: SD Negeri Banyu Urip IX/563
+  latitude: -7.27547116
+  longitude: 112.72593594
+  type: school
+- id: 456685293
+  name: SMP Negeri 50 Surabaya
+  latitude: -7.26229328
+  longitude: 112.69642336
+  type: school
+- id: 456697763
+  name: SD Teologi Kristen Pelangi Kristus
+  latitude: -7.3312207
+  longitude: 112.73525298
+  type: school
+- id: 456700861
+  name: TK-SD-SMP Kristen Bethel Sulung 3 Surabaya
+  latitude: -7.332229000000001
+  longitude: 112.74353104000002
+  type: school
+- id: 456702728
+  name: SD Negeri Tanjungsari
+  latitude: -7.27739002
+  longitude: 112.68762618000001
+  type: school
+- id: 456703978
+  name: Yayasan Widya Merti
+  latitude: -7.2651014599999995
+  longitude: 112.6941828
+  type: school
+- id: 456704005
+  name: TK-SD-SMP Yayasan Manguni
+  latitude: -7.265430516666666
+  longitude: 112.69229998333333
+  type: school
+- id: 456708820
+  name: SD Negeri Kupang Krajan I
+  latitude: -7.268595528571429
+  longitude: 112.71936234285714
+  type: school
+- id: 456713947
+  name: SD Hangtuah VII
+  latitude: -7.305307335294118
+  longitude: 112.70824828235295
+  type: school
+- id: 456727566
+  name: SD Negeri Simomulyo VII
+  latitude: -7.2645669857142865
+  longitude: 112.71175762857145
+  type: school
+- id: 456732854
+  name: SD Negeri Banyu Urip X
+  latitude: -7.2705577125000005
+  longitude: 112.7155548125
+  type: school
+- id: 456734543
+  name: SD Negeri Simomulyo IV
+  latitude: -7.2645078750000005
+  longitude: 112.7113625625
+  type: school
+- id: 457119113
+  name: SD Negeri Karah I
+  latitude: -7.30971414
+  longitude: 112.71993714
+  type: school
+- id: 457121543
+  name: SMP Negeri 56 Surabaya
+  latitude: -7.284050311111112
+  longitude: 112.70768086666668
+  type: school
+- id: 457121544
+  name: SD Negeri Dukuh Kupang I No 488
+  latitude: -7.284384942857143
+  longitude: 112.70758835714285
+  type: school
+- id: 457145792
+  name: KB & TK Aisyiyah 5, SD Muhammadiyah 11
+  latitude: -7.238025520000001
+  longitude: 112.71959874
+  type: school
+- id: 457150251
+  name: SD An-Nur
+  latitude: -7.2597800800000005
+  longitude: 112.70597647999998
+  type: school
+- id: 457166775
+  name: MI Mambaul Ulum
+  latitude: -7.226118842857143
+  longitude: 112.66460745714286
+  type: school
+- id: 457806789
+  name: MI H.Achmad Ali Surabaya
+  latitude: -7.237657128571429
+  longitude: 112.63703045714286
+  type: school
+- id: 457808582
+  name: SD Kyai Rodliyah
+  latitude: -7.2591424799999995
+  longitude: 112.62760942
+  type: school
+- id: 457810415
+  name: SMK Taruna
+  latitude: -7.251622320000001
+  longitude: 112.71321428000002
+  type: school
+- id: 458000372
+  name: SD Negeri Dukuh Pakis 1
+  latitude: -7.294149185714287
+  longitude: 112.71123634285713
+  type: school
+- id: 458003033
+  name: SD Negeri Simomulyo III/56
+  latitude: -7.270706479999999
+  longitude: 112.70533800000001
+  type: school
+- id: 458003374
+  name: SMP PGRI 47
+  latitude: -7.2881818
+  longitude: 112.71147861666667
+  type: school
+- id: 458003378
+  name: SMA Pamardi Putra
+  latitude: -7.29238634
+  longitude: 112.71172706
+  type: school
+- id: 458006634
+  name: SMP Kartini
+  latitude: -7.2700875
+  longitude: 112.70603284
+  type: school
+- id: 458008068
+  name: SMA Negeri 22 Surabaya
+  latitude: -7.331175066666667
+  longitude: 112.68042684999999
+  type: school
+- id: 458008069
+  name: SMP Negeri 51 Surabaya
+  latitude: -7.331400842857142
+  longitude: 112.68600127142857
+  type: school
+- id: 458009013
+  name: Yayasan Pendidikan Setya Budhi
+  latitude: -7.276591416666665
+  longitude: 112.72272183333332
+  type: school
+- id: 458009014
+  name: SD Negeri Banyu Urip V/ 486
+  latitude: -7.276769907692307
+  longitude: 112.72306292307691
+  type: school
+- id: 458009018
+  name: SLTP-SMA-SMK Antartika
+  latitude: -7.274350592307692
+  longitude: 112.72384629230768
+  type: school
+- id: 458009205
+  name: Elyon School
+  latitude: -7.2706808999999994
+  longitude: 112.69417045999998
+  type: school
+- id: 458009235
+  name: SD Negeri Sukomanunggal III
+  latitude: -7.268313050000001
+  longitude: 112.69883675
+  type: school
+- id: 458009236
+  name: SD Negeri Sukomanunggal IV
+  latitude: -7.2677667999999995
+  longitude: 112.69906793333332
+  type: school
+- id: 458022130
+  name: MI Plus Mutiara Islam
+  latitude: -7.328775160000001
+  longitude: 112.74748265999999
+  type: school
+- id: 458031764
+  name: SMK PGRI 10 Surabaya
+  latitude: -7.268225185714287
+  longitude: 112.70457351428571
+  type: school
+- id: 458034152
+  name: SDN Kemayoran 1,2
+  latitude: -7.24025337
+  longitude: 112.72806363
+  type: school
+- id: 458202034
+  name: SD Negeri Jepara I
+  latitude: -7.237686528571429
+  longitude: 112.72256108571428
+  type: school
+- id: 458203969
+  name: SMP Wachid Hasyim 2
+  latitude: -7.238307199999999
+  longitude: 112.7233203
+  type: school
+- id: 458229143
+  name: SDIT Ghilmani
+  latitude: -7.31058776
+  longitude: 112.72281286
+  type: school
+- id: 458235161
+  name: Pondok Pesantren Darul Hikmah
+  latitude: -7.2533705
+  longitude: 112.65139875999998
+  type: school
+- id: 458445134
+  name: Yayasan Tanwir
+  latitude: -7.266519830000002
+  longitude: 112.72652676
+  type: school
+- id: 458445135
+  name: SD Negeri Sawahan VI
+  latitude: -7.264951959999999
+  longitude: 112.72458242
+  type: school
+- id: 458450718
+  name: SMA Negeri 21 Surabaya
+  latitude: -7.260040727272727
+  longitude: 112.7296432909091
+  type: school
+- id: 458610095
+  name: Yayasan Pendidikan Islam (SD Maarif NU Iskandar Said)
+  latitude: -7.32655902
+  longitude: 112.7494858
+  type: school
+- id: 458610153
+  name: SMP Iskandar Said
+  latitude: -7.326944577777779
+  longitude: 112.7492959
+  type: school
+- id: 458628541
+  name: SD Mujahidin 2 Surabaya
+  latitude: -7.2579598
+  longitude: 112.64624492
+  type: school
+- id: 458634486
+  name: SMK Nur Medika
+  latitude: -7.26670996
+  longitude: 112.70749762
+  type: school
+- id: 458637577
+  name: SD Negeri Petemon II/350
+  latitude: -7.256673546666665
+  longitude: 112.71953927999998
+  type: school
+- id: 458637580
+  name: SD Negeri Petemon I
+  latitude: -7.256745619999999
+  longitude: 112.7201877
+  type: school
+- id: 458637581
+  name: SD Negeri Petemon XII/360
+  latitude: -7.263437860000001
+  longitude: 112.71328143999999
+  type: school
+- id: 458637582
+  name: SMK Negeri 2 Surabaya
+  latitude: -7.2584063
+  longitude: 112.72457380000002
+  type: school
+- id: 458637583
+  name: SD Negeri Petemon X/358
+  latitude: -7.265459375000001
+  longitude: 112.71759477500001
+  type: school
+- id: 458637584
+  name: SD Negeri Petemon XIII/360
+  latitude: -7.2563833833333335
+  longitude: 112.71435833333332
+  type: school
+- id: 458637630
+  name: SD Negeri Petemon IX/357
+  latitude: -7.259239825000001
+  longitude: 112.71730371249998
+  type: school
+- id: 458637632
+  name: SMP Tasbaya
+  latitude: -7.266198439999999
+  longitude: 112.72190486
+  type: school
+- id: 458638242
+  name: SMP-SMA-SMK Kawung 2
+  latitude: -7.270537744444444
+  longitude: 112.71173668888886
+  type: school
+- id: 458639347
+  name: SMA Dharma Wanita Surabaya
+  latitude: -7.324929811111111
+  longitude: 112.74632528888888
+  type: school
+- id: 458640494
+  name: SD Asy-Syafi'iyah
+  latitude: -7.25662632
+  longitude: 112.70631512
+  type: school
+- id: 458669726
+  name: SD Negeri Banyu Urip VI/367
+  latitude: -7.270416971428572
+  longitude: 112.71397228571428
+  type: school
+- id: 459267110
+  name: Sekolah Bright Kiddie Gununganyar
+  latitude: -7.3325366
+  longitude: 112.78587175999999
+  type: school
+- id: 459274540
+  name: SD Mentari Kasih
+  latitude: -7.33170876
+  longitude: 112.79165131999999
+  type: school
+- id: 459320286
+  name: Godwins Primary School
+  latitude: -7.320587595238097
+  longitude: 112.75023263333333
+  type: school
+- id: 459323949
+  name: SMP Negeri 39 Surabaya
+  latitude: -7.309814481818182
+  longitude: 112.76030747272729
+  type: school
+- id: 459323950
+  name: SMA Negeri 16 Surabaya
+  latitude: -7.310070607692309
+  longitude: 112.7599045
+  type: school
+- id: 459323952
+  name: SD Negeri Panjang Jiwo 1 No.265
+  latitude: -7.308752128571428
+  longitude: 112.76153695714287
+  type: school
+- id: 459323977
+  name: SD Kartika
+  latitude: -7.311193320000001
+  longitude: 112.76681355999999
+  type: school
+- id: 459474088
+  name: SD Negeri Gunungsari I-484
+  latitude: -7.29556714
+  longitude: 112.72062199
+  type: school
+- id: 459474564
+  name: SMP Tri Shakti Surabaya
+  latitude: -7.2604081888888885
+  longitude: 112.68396991111112
+  type: school
+- id: 459481240
+  name: SD Masjid Mujahidin
+  latitude: -7.258036420000001
+  longitude: 112.64654626000001
+  type: school
+- id: 459482004
+  name: SD Gunungsari II
+  latitude: -7.30509352
+  longitude: 112.71931768000002
+  type: school
+- id: 459493555
+  name: Pondok Pesantren Baitun Nisa
+  latitude: -7.26258668
+  longitude: 112.65777464
+  type: school
+- id: 459499885
+  name: SMP Taman Pelajar
+  latitude: -7.264105927272727
+  longitude: 112.71130362727273
+  type: school
+- id: 459499887
+  name: SMK-SMP Pawiyatan
+  latitude: -7.264197414285715
+  longitude: 112.71172228571429
+  type: school
+- id: 459499923
+  name: SMA-SMK Sejahtera
+  latitude: -7.26364724
+  longitude: 112.71160204
+  type: school
+- id: 459499924
+  name: SMP Negeri 25 Surabaya
+  latitude: -7.26197506
+  longitude: 112.71184982
+  type: school
+- id: 459525940
+  name: TK-SD Kembala Bhayangkari
+  latitude: -7.2630518625
+  longitude: 112.71193651249999
+  type: school
+- id: 459525941
+  name: SD/MI Al Hikmah
+  latitude: -7.268784859999999
+  longitude: 112.70961121999999
+  type: school
+- id: 459536849
+  name: SD Negeri Tenggilis Mejoyo 1
+  latitude: -7.31584576
+  longitude: 112.75427853000001
+  type: school
+- id: 459683502
+  name: SDN Babatan IV
+  latitude: -7.3098733
+  longitude: 112.67668069999999
+  type: school
+- id: 459683503
+  name: SDN Babatan V
+  latitude: -7.30981688
+  longitude: 112.67645916
+  type: school
+- id: 459683510
+  name: SDIt At Taqwa
+  latitude: -7.314103784615384
+  longitude: 112.67689513846153
+  type: school
+- id: 459707666
+  name: SMP Wardhani
+  latitude: -7.2620664
+  longitude: 112.66591727272726
+  type: school
+- id: 459766361
+  name: MI Nurul Iman
+  latitude: -7.267668780000001
+  longitude: 112.68469064000001
+  type: school
+- id: 459917155
+  name: Yayasan Pendidikan Kyai Hasyim ( KB TK SD SMP )
+  latitude: -7.31817155
+  longitude: 112.75887922499999
+  type: school
+- id: 459917305
+  name: SMP Tenggilis Jaya
+  latitude: -7.317375340000001
+  longitude: 112.76319373999999
+  type: school
+- id: 459921893
+  name: SD Negeri Dukuh Kupang II dan VII
+  latitude: -7.279570616666668
+  longitude: 112.71480638333333
+  type: school
+- id: 459921935
+  name: KB TK SD SMP Dharma Mulya
+  latitude: -7.27800245
+  longitude: 112.70904809166666
+  type: school
+- id: 459921942
+  name: SMA Dharma Mulya
+  latitude: -7.27981052
+  longitude: 112.70858202
+  type: school
+- id: 459924638
+  name: SDI Nurul Iman
+  latitude: -7.24744046
+  longitude: 112.64448440000001
+  type: school
+- id: 459925538
+  name: SD Katolik Karitas V
+  latitude: -7.261585674999999
+  longitude: 112.68317921666664
+  type: school
+- id: 459960634
+  name: SMA Islami Hasyim Asyari
+  latitude: -7.260174044444445
+  longitude: 112.67970733333334
+  type: school
+- id: 459960994
+  name: MI Wachid Hasjim
+  latitude: -7.2606139
+  longitude: 112.67959919999998
+  type: school
+- id: 459976952
+  name: SDI Darut Taqwa
+  latitude: -7.282854311111112
+  longitude: 112.71462412222223
+  type: school
+- id: 459976961
+  name: TK SD SMP Katolik Indriyasana VII
+  latitude: -7.284568684615384
+  longitude: 112.7119425153846
+  type: school
+- id: 459979355
+  name: SD Siswa Tama
+  latitude: -7.27332452
+  longitude: 112.72550488000002
+  type: school
+- id: 459979367
+  name: Yayasan Ma'arif NU
+  latitude: -7.26903418
+  longitude: 112.72623716000001
+  type: school
+- id: 459979373
+  name: Yayasan Dharma Ibu Santo Vicentius A Paulo
+  latitude: -7.26897958
+  longitude: 112.72369315
+  type: school
+- id: 460435823
+  name: MI Miftahul Ulum
+  latitude: -7.2242089625000006
+  longitude: 112.6161550125
+  type: school
+- id: 460436390
+  name: SD Raden Patah
+  latitude: -7.2651080199999996
+  longitude: 112.67765029999998
+  type: school
+- id: 460439151
+  name: SLB Karunia 99 Yaptunik
+  latitude: -7.2266559400000006
+  longitude: 112.61369617999999
+  type: school
+- id: 460442403
+  name: MI Nurul Ulum
+  latitude: -7.24925506
+  longitude: 112.67335112
+  type: school
+- id: 460474227
+  name: SD Dahlanuddin
+  latitude: -7.345017844444445
+  longitude: 112.80290606666668
+  type: school
+- id: 460487799
+  name: Yayasan Pendidikan Islam Al Mufidah
+  latitude: -7.32361832
+  longitude: 112.7526194
+  type: school
+- id: 460492683
+  name: KB-TK-SD Kristen Eleos
+  latitude: -7.337068971428573
+  longitude: 112.75089454285715
+  type: school
+- id: 460498205
+  name: Chung Chung Christian School
+  latitude: -7.335538933333332
+  longitude: 112.79039198333332
+  type: school
+- id: 460663125
+  name: MI Darul Ulum
+  latitude: -7.255817519999999
+  longitude: 112.66488369999999
+  type: school
+- id: 460670638
+  name: SD Taquma
+  latitude: -7.32805424
+  longitude: 112.73456854000001
+  type: school
+- id: 460670646
+  name: SMP Teologi Kristen Pelangi Kristus
+  latitude: -7.3296545
+  longitude: 112.73567144444445
+  type: school
+- id: 460671403
+  name: SD Islam Al Mubarok
+  latitude: -7.33680722
+  longitude: 112.79549688
+  type: school
+- id: 460675660
+  name: Pondok Pesantren Al-Jihad
+  latitude: -7.3245683999999995
+  longitude: 112.73610486
+  type: school
+- id: 460688938
+  name: TK SD Margie
+  latitude: -7.279138388888888
+  longitude: 112.70454145555556
+  type: school
+- id: 460688942
+  name: SMP Margie
+  latitude: -7.279046455555555
+  longitude: 112.70429067777778
+  type: school
+- id: 460688953
+  name: SD Negeri Dukuh Kupang III/490, SD Negeri Dukuh Kupang IV/491
+  latitude: -7.2797528499999995
+  longitude: 112.70418174000001
+  type: school
+- id: 460853348
+  name: SD Negeri Kendangsari 2
+  latitude: -7.3228212818181815
+  longitude: 112.7507466272727
+  type: school
+- id: 461055042
+  name: SMP Negeri 42 Surabaya
+  latitude: -7.247076221428572
+  longitude: 112.71396420714284
+  type: school
+- id: 461055044
+  name: SD Negeri Asemrowo II
+  latitude: -7.2475238200000005
+  longitude: 112.71321301999998
+  type: school
+- id: 461056145
+  name: PKBM Kak Seto Surabaya
+  latitude: -7.31516824
+  longitude: 112.75033206
+  type: school
+- id: 461059146
+  name: SD KH. Mas Alwi
+  latitude: -7.2483014400000005
+  longitude: 112.70734868
+  type: school
+- id: 461091853
+  name: SMK PGRI 13
+  latitude: -7.3087894
+  longitude: 112.75205174
+  type: school
+- id: 461132191
+  name: SD Negeri Simomulyo V/102
+  latitude: -7.273294912500001
+  longitude: 112.70601496249999
+  type: school
+- id: 461132192
+  name: SMK Pelayaran Bhakti Samudera
+  latitude: -7.273722771428571
+  longitude: 112.70344154285715
+  type: school
+- id: 461132196
+  name: SMK Siang Surabaya
+  latitude: -7.2698107125
+  longitude: 112.70581443750001
+  type: school
+- id: 461132205
+  name: Sekolah Kristen Kalam Kudus
+  latitude: -7.2742735
+  longitude: 112.70044913333334
+  type: school
+- id: 461132213
+  name: MI-SMP Al Karimah
+  latitude: -7.270110388888889
+  longitude: 112.70038772222222
+  type: school
+- id: 461265357
+  name: SMK Dharma Bhakti Surabaya
+  latitude: -7.34113708
+  longitude: 112.72591692
+  type: school
+- id: 461268538
+  name: SMPN 57 Surabaya
+  latitude: -7.34433602
+  longitude: 112.73896866
+  type: school
+- id: 461268917
+  name: MA Negeri Surabaya
+  latitude: -7.312484938461539
+  longitude: 112.74672286153847
+  type: school
+- id: 461273607
+  name: SD Negeri Klakah Rejo II
+  latitude: -7.250088399999999
+  longitude: 112.64843353333333
+  type: school
+- id: 461275733
+  name: SD Negeri Balongsari I
+  latitude: -7.262221719999999
+  longitude: 112.67696837999999
+  type: school
+- id: 461277738
+  name: SD Negeri Kandangan I
+  latitude: -7.251969933333332
+  longitude: 112.65181248333334
+  type: school
+- id: 461297555
+  name: SMP Al Amin
+  latitude: -7.3383454666666665
+  longitude: 112.7685949
+  type: school
+- id: 461310625
+  name: SDIT-SMPT Daarul muttaqien
+  latitude: -7.268579300000001
+  longitude: 112.66611249999998
+  type: school
+- id: 461326831
+  name: SD Negeri Kandangan II
+  latitude: -7.256309828571429
+  longitude: 112.6584407
+  type: school
+- id: 461332683
+  name: Yayasan Pendidikan Ittaqu (MTs Ittaqu)
+  latitude: -7.339952540000001
+  longitude: 112.72451373999999
+  type: school
+- id: 461332774
+  name: Yayasan Pendidikan Ittaqu (MA Ittaqu)
+  latitude: -7.339906340000001
+  longitude: 112.72399451999999
+  type: school
+- id: 461332896
+  name: MTs Ittaqu
+  latitude: -7.33989696
+  longitude: 112.72432136
+  type: school
+- id: 461336998
+  name: SD Negeri Penjaringan Sari II
+  latitude: -7.319001239999999
+  longitude: 112.78663202
+  type: school
+- id: 461337000
+  name: SD Negeri Penjaringan I / 271
+  latitude: -7.315134759999999
+  longitude: 112.78376184000001
+  type: school
+- id: 461337001
+  name: IPH school
+  latitude: -7.3105355916666666
+  longitude: 112.78558782500001
+  type: school
+- id: 461994605
+  name: SD Negeri Rungkut Menanggal II
+  latitude: -7.336437750000001
+  longitude: 112.77749303333331
+  type: school
+- id: 462005446
+  name: TK dan SD Islam Nurul Huda
+  latitude: -7.335741180000001
+  longitude: 112.72728656
+  type: school
+- id: 462007460
+  name: Yayasan Al Amin
+  latitude: -7.338668350000002
+  longitude: 112.76842651666668
+  type: school
+- id: 462008454
+  name: SD Miftahul Ulum
+  latitude: -7.333920481818183
+  longitude: 112.76736115454545
+  type: school
+- id: 462034575
+  name: SD Negeri Kandangan III
+  latitude: -7.2620163714285715
+  longitude: 112.65703168571429
+  type: school
+- id: 462036147
+  name: SD Al-Ahmadi
+  latitude: -7.254678614285715
+  longitude: 112.71160844285716
+  type: school
+- id: 462036167
+  name: SD Negeri Simomulyo VIII
+  latitude: -7.255306742857144
+  longitude: 112.71265121428571
+  type: school
+- id: 462235861
+  name: SD Negeri Pagesangan
+  latitude: -7.334534314285714
+  longitude: 112.70844827142857
+  type: school
+- id: 462262270
+  name: SD Negeri Bibis
+  latitude: -7.258355111111111
+  longitude: 112.67466342222221
+  type: school
+- id: 462264562
+  name: SD Al Najiya
+  latitude: -7.306573060000001
+  longitude: 112.75424092
+  type: school
+- id: 462265457
+  name: SMK Dharma Bahari
+  latitude: -7.262094644444446
+  longitude: 112.67270282222222
+  type: school
+- id: 462265616
+  name: SMP Brawijaya 2 Surabaya
+  latitude: -7.263224939999999
+  longitude: 112.67120096
+  type: school
+- id: 462266162
+  name: MI Miftahul Huda
+  latitude: -7.26971642
+  longitude: 112.6760877
+  type: school
+- id: 462285607
+  name: Yayasan Pendidikan Iman Syafi'i
+  latitude: -7.234614400000001
+  longitude: 112.63065778333333
+  type: school
+- id: 462285615
+  name: SD Negeri Babat Jerawat II/498
+  latitude: -7.24655382
+  longitude: 112.62912348
+  type: school
+- id: 462285618
+  name: SD/MI Haji Hasyim
+  latitude: -7.24819878
+  longitude: 112.62924321999999
+  type: school
+- id: 462285633
+  name: SD Al Kautsar
+  latitude: -7.235891383333333
+  longitude: 112.62741335
+  type: school
+- id: 462285634
+  name: SD Negeri Babat Jerawat I/118
+  latitude: -7.239894942857142
+  longitude: 112.62504595714287
+  type: school
+- id: 462285642
+  name: MI Al Hidayah
+  latitude: -7.240578500000001
+  longitude: 112.62689809999999
+  type: school
+- id: 462454861
+  name: PG TK MI Safinda Surabaya
+  latitude: -7.33416715
+  longitude: 112.76699889999999
+  type: school
+- id: 462454864
+  name: SMK Al Islam Surabaya
+  latitude: -7.333018040000001
+  longitude: 112.76907772
+  type: school
+- id: 462454867
+  name: SMP Miftahul Ulum
+  latitude: -7.334268087500001
+  longitude: 112.76572577499999
+  type: school
+- id: 462456020
+  name: Yayasan Pendidikan Islam Jiwa Nala
+  latitude: -7.322200655555556
+  longitude: 112.77514097777777
+  type: school
+- id: 462457343
+  name: SD Negeri Kedurus III
+  latitude: -7.323263533333335
+  longitude: 112.70673450000002
+  type: school
+- id: 462458811
+  name: SD Negeri Kedurus I
+  latitude: -7.317561640000001
+  longitude: 112.70907602
+  type: school
+- id: 462688138
+  name: SMP Negeri 49 Surabaya
+  latitude: -7.3422000625
+  longitude: 112.75227637500001
+  type: school
+- id: 462689478
+  name: SD Negeri Kutisari 2
+  latitude: -7.335252881250001
+  longitude: 112.74724580625
+  type: school
+- id: 462689479
+  name: SD Negeri Kutisari 2
+  latitude: -7.330657071428573
+  longitude: 112.74405127142856
+  type: school
+- id: 462690532
+  name: MI Muhammadiyah 23 Surabaya
+  latitude: -7.250442080000001
+  longitude: 112.67438018
+  type: school
+- id: 462692108
+  name: SMP Al Islah
+  latitude: -7.337272555555556
+  longitude: 112.78094701111111
+  type: school
+- id: 462694319
+  name: TK-SD-SMP-SMA Yayasan Santa Louisa
+  latitude: -7.257860375
+  longitude: 112.72146952812501
+  type: school
+- id: 462704780
+  name: SD Negeri Wonokromo III/ 392
+  latitude: -7.3060390857142865
+  longitude: 112.72941187142855
+  type: school
+- id: 462704782
+  name: SMK Negeri 1 Surabaya
+  latitude: -7.3058565
+  longitude: 112.73405619285714
+  type: school
+- id: 462704783
+  name: SMP & SMA Khadijah Surabaya
+  latitude: -7.305569514285715
+  longitude: 112.73526406428569
+  type: school
+- id: 462704787
+  name: Sekolah Luar Biasa Tuna Rungu Karya mulia
+  latitude: -7.306870669230769
+  longitude: 112.73455476923075
+  type: school
+- id: 462704789
+  name: SMP Negeri 32 Surabaya
+  latitude: -7.306764084615384
+  longitude: 112.73373278461538
+  type: school
+- id: 462705568
+  name: MI NU Miftahul Ulum
+  latitude: -7.228675679999999
+  longitude: 112.68341855999999
+  type: school
+- id: 462706953
+  name: Pondok Pesantren Darussalam
+  latitude: -7.2420133
+  longitude: 112.61197657999999
+  type: school
+- id: 462706958
+  name: KB-TK-SD-SMP-SMA Sekolah Citra Berkat
+  latitude: -7.252392499999999
+  longitude: 112.63057049999999
+  type: school
+- id: 462706959
+  name: KB-TK-SD Al Manar
+  latitude: -7.242078714285715
+  longitude: 112.61549838571429
+  type: school
+- id: 462706960
+  name: SD Negeri Pakal I/119 & II/120
+  latitude: -7.2381433555555565
+  longitude: 112.62226024444445
+  type: school
+- id: 462706994
+  name: SD Islam Terpadu Permata
+  latitude: -7.2418735
+  longitude: 112.62264714
+  type: school
+- id: 463359219
+  name: SD Al Islah
+  latitude: -7.338160877777778
+  longitude: 112.78080656666666
+  type: school
+- id: 463393261
+  name: SMP & SMA Tanwir
+  latitude: -7.248552328571428
+  longitude: 112.71199695714286
+  type: school
+- id: 463571113
+  name: SD Negeri Margorejo V No. 407
+  latitude: -7.314362933333334
+  longitude: 112.74105121666666
+  type: school
+- id: 463571114
+  name: SMK Negeri 6 Surabaya
+  latitude: -7.316329516666666
+  longitude: 112.74112911666667
+  type: school
+- id: 463575451
+  name: SD Negeri Kedung Baruk I / 275
+  latitude: -7.312135699999999
+  longitude: 112.77595997142855
+  type: school
+- id: 463796372
+  name: SD Negeri Tandes Kidul I/110
+  latitude: -7.2614668875
+  longitude: 112.68705569999999
+  type: school
+- id: 463796373
+  name: SMP Dharma Bakti
+  latitude: -7.260670542857143
+  longitude: 112.68487245714287
+  type: school
+- id: 463810113
+  name: SD Negeri Margorejo 1
+  latitude: -7.3134004374999995
+  longitude: 112.73515063750001
+  type: school
+- id: 463810121
+  name: SLB Karya Asih
+  latitude: -7.315027580000001
+  longitude: 112.73947802
+  type: school
+- id: 463823061
+  name: SD Negeri Benowo III/126
+  latitude: -7.237901842857143
+  longitude: 112.60990464285715
+  type: school
+- id: 463823069
+  name: SD Negeri Benowo I
+  latitude: -7.2356824
+  longitude: 112.60925548571426
+  type: school
+- id: 463823098
+  name: SMP Wachid Hasyim 7 Surabaya
+  latitude: -7.2350579111111095
+  longitude: 112.61226086666665
+  type: school
+- id: 463823123
+  name: SMP Bina Putra
+  latitude: -7.237305350000001
+  longitude: 112.61050738333334
+  type: school
+- id: 463823127
+  name: SMP Negeri 14 Surabaya
+  latitude: -7.2375339400000005
+  longitude: 112.608959
+  type: school
+- id: 463823149
+  name: SD Islam Terpadu Al Fathimiyyah
+  latitude: -7.237887088888889
+  longitude: 112.60963986666667
+  type: school
+- id: 463823151
+  name: MTs Asy Syafi'iyah
+  latitude: -7.235788733333333
+  longitude: 112.61478406666667
+  type: school
+- id: 463823193
+  name: SD Negeri Banyu Urip III/ 354
+  latitude: -7.272848214285714
+  longitude: 112.72148934285715
+  type: school
+- id: 463997907
+  name: SMP SMA Suryo Nugroho
+  latitude: -7.306867088888889
+  longitude: 112.7484946111111
+  type: school
+- id: 464004485
+  name: SD Yamastaa
+  latitude: -7.329093471428571
+  longitude: 112.76839021428573
+  type: school
+- id: 464007608
+  name: SD Negeri Sawunggaling VIII/ 389
+  latitude: -7.301157983333333
+  longitude: 112.72097436666667
+  type: school
+- id: 464034854
+  name: SMK Wijaya
+  latitude: -7.306609519999999
+  longitude: 112.73887138
+  type: school
+- id: 464034860
+  name: SMA Budi Sejati Surabaya
+  latitude: -7.303892960000001
+  longitude: 112.74876726
+  type: school
+- id: 464035438
+  name: SD Negeri Greges 125
+  latitude: -7.231370500000001
+  longitude: 112.69551045555555
+  type: school
+- id: 464048628
+  name: SMP-SMA Al Falah Ketintang
+  latitude: -7.31306426
+  longitude: 112.72400434000001
+  type: school
+- id: 464048630
+  name: SD Negeri Ketintang 1 Surabaya
+  latitude: -7.30960712
+  longitude: 112.72481157999998
+  type: school
+- id: 464049245
+  name: SD Negeri Sememi II
+  latitude: -7.252374685714286
+  longitude: 112.64490145714286
+  type: school
+- id: 464050572
+  name: YPPAY Adinda
+  latitude: -7.307382314285715
+  longitude: 112.75524444285713
+  type: school
+- id: 464064613
+  name: SMP KARTIKA IV / 1
+  latitude: -7.29615006
+  longitude: 112.72763782
+  type: school
+- id: 464064707
+  name: SD Negeri Sawunggaling VII / 388
+  latitude: -7.3004405666666665
+  longitude: 112.72100996666667
+  type: school
+- id: 464238729
+  name: SMP Negeri 24 Surabaya
+  latitude: -7.326384966666667
+  longitude: 112.69490060000003
+  type: school
+- id: 464657555
+  name: SD Negeri Sememi I Surabaya
+  latitude: -7.2491923
+  longitude: 112.63533034000002
+  type: school
+- id: 464657557
+  name: MI Miftahur Rahman
+  latitude: -7.249547939999999
+  longitude: 112.63689480000001
+  type: school
+- id: 464681401
+  name: Pondok Pesantren Salaf Al Muhibbin
+  latitude: -7.226040585714285
+  longitude: 112.66562797142858
+  type: school
+- id: 464842266
+  name: SD Negeri Gununganyar Tambak No 628
+  latitude: -7.33714498
+  longitude: 112.80361418
+  type: school
+- id: 464842287
+  name: Pondok Pesantren Al Baihaqy
+  latitude: -7.331805433333334
+  longitude: 112.80570144444444
+  type: school
+- id: 465066919
+  name: MA Negeri Surabaya
+  latitude: -7.308858700000001
+  longitude: 112.79841652857144
+  type: school
+- id: 465066958
+  name: KB, TK, SD Khadijah
+  latitude: -7.31418206
+  longitude: 112.79970950000002
+  type: school
+- id: 465067582
+  name: SD Negeri Wonorejo Nomor 274
+  latitude: -7.31133856
+  longitude: 112.79680370000001
+  type: school
+- id: 465070458
+  name: SD Islam Nurul Khoir
+  latitude: -7.31096136
+  longitude: 112.79665406000001
+  type: school
+- id: 465070538
+  name: SMP Negeri 22 Surabaya
+  latitude: -7.3362972357142855
+  longitude: 112.7171033
+  type: school
+- id: 465070539
+  name: SD Negeri Gayungan I-422
+  latitude: -7.335268618750001
+  longitude: 112.728922125
+  type: school
+- id: 465070543
+  name: SD Negeri Gayungan 2
+  latitude: -7.3325701555555565
+  longitude: 112.72263922222221
+  type: school
+- id: 465072691
+  name: SD Negeri Banjar Sugihan V/617
+  latitude: -7.259173540000001
+  longitude: 112.66214436
+  type: school
+- id: 465077571
+  name: SD Negeri Banjar Sugihan I/116
+  latitude: -7.2539009199999995
+  longitude: 112.65699364000002
+  type: school
+- id: 465077574
+  name: SD Negeri Banjar Sugihan II/117
+  latitude: -7.25531136
+  longitude: 112.65988449999998
+  type: school
+- id: 465077577
+  name: SMP 11 Maret Surabaya
+  latitude: -7.2555071
+  longitude: 112.6595941
+  type: school
+- id: 465077580
+  name: SMP Negeri 26 Surabaya
+  latitude: -7.252979900000001
+  longitude: 112.6613275125
+  type: school
+- id: 465079151
+  name: SD Negeri Ngagel I/394
+  latitude: -7.298899414285715
+  longitude: 112.74118125714287
+  type: school
+- id: 465101622
+  name: SMA Negeri 12 Surabaya
+  latitude: -7.242312610000001
+  longitude: 112.63671058999998
+  type: school
+- id: 465103023
+  name: RA-MI Hasyim Ashari
+  latitude: -7.2294824333333345
+  longitude: 112.60239842222224
+  type: school
+- id: 465103029
+  name: SD Negeri Sumberrejo I/130
+  latitude: -7.229109928571428
+  longitude: 112.60266844285714
+  type: school
+- id: 465103037
+  name: SD Negeri Sumberrejo II/131
+  latitude: -7.226372839999999
+  longitude: 112.60607522000001
+  type: school
+- id: 465113132
+  name: Yayasan Pendidikan Baitul Mukmin
+  latitude: -7.305331579999999
+  longitude: 112.76341671999998
+  type: school
+- id: 465113133
+  name: Pondok Pesantren Khoirul Huda ( PPM NGINDEN LDII )
+  latitude: -7.30336762
+  longitude: 112.76373466
+  type: school
+- id: 465114831
+  name: SD Negeri Romokalisari
+  latitude: -7.1961278375
+  longitude: 112.64748805
+  type: school
+- id: 465114870
+  name: KB - TK - MI Sultan Agung
+  latitude: -7.197721280000001
+  longitude: 112.64614839333333
+  type: school
+- id: 465117745
+  name: TK, SD, SMP, SMK Tunas Harapan
+  latitude: -7.2961960888888875
+  longitude: 112.74155877777778
+  type: school
+- id: 465117749
+  name: SD Hang Tuah 1
+  latitude: -7.28850288
+  longitude: 112.73444724000001
+  type: school
+- id: 465117750
+  name: SMA Hang Tuah 4
+  latitude: -7.288138242857143
+  longitude: 112.73422149999999
+  type: school
+- id: 465127629
+  name: SMP Negeri 53 Surabaya
+  latitude: -7.255934166666666
+  longitude: 112.63428138333332
+  type: school
+- id: 465127630
+  name: SD Raden Fatah
+  latitude: -7.25709212
+  longitude: 112.63591544
+  type: school
+- id: 465127631
+  name: MTs Negeri III Surabaya
+  latitude: -7.257106822222223
+  longitude: 112.63681365555556
+  type: school
+- id: 465130464
+  name: SMA Wachid Hasyim 5 Surabaya
+  latitude: -7.246066571428572
+  longitude: 112.63510937142857
+  type: school
+- id: 465133047
+  name: Yayasan Hang Tuah (TK-SD)
+  latitude: -7.24305758888889
+  longitude: 112.79033074444445
+  type: school
+- id: 465138707
+  name: SMP Negeri 55 Surabaya
+  latitude: -7.33536278
+  longitude: 112.71177154
+  type: school
+- id: 465318724
+  name: SD Negeri Keputih 245
+  latitude: -7.28954624
+  longitude: 112.78483894000001
+  type: school
+- id: 465323022
+  name: Sekolah Jepang Surabaya
+  latitude: -7.32152375
+  longitude: 112.72730506666666
+  type: school
+- id: 465348262
+  name: SD Negeri Ngagel Rejo VII Surabaya
+  latitude: -7.295883866666668
+  longitude: 112.74973993333333
+  type: school
+- id: 465353938
+  name: SMK PGRI 1 Surabaya
+  latitude: -7.32132168888889
+  longitude: 112.73861533333336
+  type: school
+- id: 466281991
+  name: SD Negeri Gunung Anyar 273
+  latitude: -7.33318888
+  longitude: 112.78337400000001
+  type: school
+- id: 466551708
+  name: SMP Institut Indonesia
+  latitude: -7.26125246
+  longitude: 112.79619863999999
+  type: school
+- id: 466551713
+  name: SD Negeri Kalisari II
+  latitude: -7.268894942857142
+  longitude: 112.79950767142857
+  type: school
+- id: 466558328
+  name: SD Budiyakin
+  latitude: -7.24798646
+  longitude: 112.76266903999999
+  type: school
+- id: 466560345
+  name: SMP Al Falah Surabaya
+  latitude: -7.294468999999999
+  longitude: 112.74059451999999
+  type: school
+- id: 466567070
+  name: SDS Citra Widati
+  latitude: -7.307641111111112
+  longitude: 112.74267943333331
+  type: school
+- id: 466586566
+  name: SD Negeri Kalirungkut IV
+  latitude: -7.326235680000001
+  longitude: 112.77838932
+  type: school
+- id: 466592396
+  name: Madrasah Ibtidaiyah Al Bukhori
+  latitude: -7.322362666666668
+  longitude: 112.7793751
+  type: school
+- id: 466852184
+  name: Sekolah Kreatif SD Muhammadiyah 16 Baratajaya
+  latitude: -7.29932706
+  longitude: 112.75580288
+  type: school
+- id: 467064613
+  name: SMP PGRI 64
+  latitude: -7.3406660200000005
+  longitude: 112.72585966
+  type: school
+- id: 467067774
+  name: MI Ittaqu
+  latitude: -7.33965606
+  longitude: 112.72422904
+  type: school
+- id: 467076662
+  name: SDN BARATA JAYA
+  latitude: -7.30072932
+  longitude: 112.7576583
+  type: school
+- id: 467082100
+  name: MI Al Karim
+  latitude: -7.31276232857143
+  longitude: 112.74015451428569
+  type: school
+- id: 467082613
+  name: SMP Al Uswah
+  latitude: -7.288292057142857
+  longitude: 112.75649937142857
+  type: school
+- id: 467088576
+  name: SD Negeri Sukolilo
+  latitude: -7.240437492857144
+  longitude: 112.79622476428571
+  type: school
+- id: 467091983
+  name: SMP Kristen Petra 5
+  latitude: -7.329775863636365
+  longitude: 112.73757955454548
+  type: school
+- id: 467091984
+  name: SMA Kristen Petra 5
+  latitude: -7.329866208333333
+  longitude: 112.73786630000001
+  type: school
+- id: 467091985
+  name: SMA Santo Carolus
+  latitude: -7.330611500000001
+  longitude: 112.73769012000002
+  type: school
+- id: 467091987
+  name: SD Kristen Petra 9
+  latitude: -7.3298465
+  longitude: 112.7385147
+  type: school
+- id: 467091989
+  name: SMP Santo Carolus
+  latitude: -7.3304778
+  longitude: 112.73707430000002
+  type: school
+- id: 467091991
+  name: SD Santo Carolus
+  latitude: -7.330369811111112
+  longitude: 112.73657303333334
+  type: school
+- id: 467092014
+  name: SMK Kristen Petra
+  latitude: -7.3295634000000005
+  longitude: 112.73684898571427
+  type: school
+- id: 467106557
+  name: SD Muhammadiyah 4 Pucang
+  latitude: -7.284110166666667
+  longitude: 112.75984463333333
+  type: school
+- id: 467106558
+  name: SD Negeri Kertajaya
+  latitude: -7.283370359999999
+  longitude: 112.75985122
+  type: school
+- id: 467106561
+  name: SMA Muhammadiyah 2 Surabaya
+  latitude: -7.2840123
+  longitude: 112.75910837499998
+  type: school
+- id: 467106562
+  name: SMP Muhammadiyah 5
+  latitude: -7.28338038
+  longitude: 112.75915215999999
+  type: school
+- id: 467106566
+  name: SD Muhammadiyah 4 Pucang
+  latitude: -7.283955740000001
+  longitude: 112.75952224
+  type: school
+- id: 467106710
+  name: SD Muhammadiyah 9
+  latitude: -7.240713059999999
+  longitude: 112.79797364000001
+  type: school
+- id: 467108109
+  name: SD Negeri Kertajaya IX nomor 215
+  latitude: -7.28398894
+  longitude: 112.75175032
+  type: school
+- id: 467114702
+  name: SD Negeri Bendul Merisi
+  latitude: -7.310476525
+  longitude: 112.7415939625
+  type: school
+- id: 467117563
+  name: SD Negeri Kendang Sari III
+  latitude: -7.318758571428572
+  longitude: 112.76367735714287
+  type: school
+- id: 467117565
+  name: SMA Negeri 14 Surabaya
+  latitude: -7.315314925000001
+  longitude: 112.76555787499998
+  type: school
+- id: 467117568
+  name: Yayasan Pendidikan Islam TARUNA
+  latitude: -7.319253599999999
+  longitude: 112.76911064000001
+  type: school
+- id: 467117570
+  name: SD Negeri Kendang Sari IV nomor 279
+  latitude: -7.323485533333334
+  longitude: 112.76497694999999
+  type: school
+- id: 467117572
+  name: SMP N 17 Surabaya
+  latitude: -7.319393809999999
+  longitude: 112.76343885000001
+  type: school
+- id: 467117580
+  name: SD Taruna
+  latitude: -7.319271544444446
+  longitude: 112.7688476111111
+  type: school
+- id: 467119248
+  name: SD Yayasan Masjid Tholabuddin
+  latitude: -7.32668024
+  longitude: 112.77032826
+  type: school
+- id: 467125934
+  name: SMP Negeri 47 Surabaya
+  latitude: -7.265096099999999
+  longitude: 112.67249176
+  type: school
+- id: 467337204
+  name: TK SD Serbaguna
+  latitude: -7.273624379999999
+  longitude: 112.73679694
+  type: school
+- id: 467337946
+  name: SD-SMP Muhammadiyah 14 Surabaya
+  latitude: -7.25737164
+  longitude: 112.66821688
+  type: school
+- id: 467339094
+  name: SD Negeri Tambaksari I
+  latitude: -7.2514131200000005
+  longitude: 112.75383192000001
+  type: school
+- id: 467344411
+  name: Sekolah Budi Dharma
+  latitude: -7.30208162
+  longitude: 112.72964764000001
+  type: school
+- id: 467352117
+  name: SMP Dorowati
+  latitude: -7.260052488888888
+  longitude: 112.66333193333334
+  type: school
+- id: 467385128
+  name: SD Negeri Manukan Kulon I
+  latitude: -7.2632669000000005
+  longitude: 112.66494102000001
+  type: school
+- id: 467388581
+  name: Surabaya Hotel School
+  latitude: -7.298381880000001
+  longitude: 112.7347041
+  type: school
+- id: 467390640
+  name: SD Negeri Warugunung II No 449
+  latitude: -7.3460589
+  longitude: 112.67855621999999
+  type: school
+- id: 467406992
+  name: SD Negeri Manukan Kulon II/499 - III/540
+  latitude: -7.2619565800000005
+  longitude: 112.66614875999998
+  type: school
+- id: 467412428
+  name: SD Negeri Manukan Kulon VI
+  latitude: -7.268703219999999
+  longitude: 112.66320024
+  type: school
+- id: 467412430
+  name: SD Khadijah III
+  latitude: -7.269447966666667
+  longitude: 112.66926428333333
+  type: school
+- id: 467867296
+  name: SDK Santo Yusuf
+  latitude: -7.3282671
+  longitude: 112.69537865714287
+  type: school
+- id: 467871091
+  name: SD Negeri Bubutan IV
+  latitude: -7.251629009090909
+  longitude: 112.72991419090908
+  type: school
+- id: 467878990
+  name: SD Negeri Jemur Wonosari III/526
+  latitude: -7.3258232625
+  longitude: 112.74004023750001
+  type: school
+- id: 467882866
+  name: SMP Dhaniswara Surabaya
+  latitude: -7.275260054545455
+  longitude: 112.76350341818183
+  type: school
+- id: 467912247
+  name: SD Karang Pilang I
+  latitude: -7.34120354
+  longitude: 112.69395124
+  type: school
+- id: 467912248
+  name: SD Hang Tuah 8
+  latitude: -7.33928274
+  longitude: 112.69081128
+  type: school
+- id: 468216814
+  name: SD Negeri Sidosermo I
+  latitude: -7.312869233333332
+  longitude: 112.75136916666666
+  type: school
+- id: 468216914
+  name: TK SD AL AZHAR SYIFA BUDI
+  latitude: -7.311939114285715
+  longitude: 112.75295784285716
+  type: school
+- id: 468237443
+  name: Sekolah Inklusi Galuh Handayani Surabaya
+  latitude: -7.2813288
+  longitude: 112.75996004000001
+  type: school
+- id: 468592626
+  name: Madrasah Tsanawiyah Negeri 3 Kota Surabaya
+  latitude: -7.3249047466666655
+  longitude: 112.79651125333334
+  type: school
+- id: 468592985
+  name: SMK Negeri 3 Surabaya
+  latitude: -7.34379306
+  longitude: 112.73001892000002
+  type: school
+- id: 468597515
+  name: SD Negeri Medokan Ayu II
+  latitude: -7.327968628571428
+  longitude: 112.79103895714286
+  type: school
+- id: 468614192
+  name: SD Negeri Medokan Ayu I
+  latitude: -7.32945522
+  longitude: 112.7948455
+  type: school
+- id: 468615391
+  name: MI Negeri Medokan Ayu
+  latitude: -7.324667325
+  longitude: 112.79678109166663
+  type: school
+- id: 468935763
+  name: SMA Negeri 15 Surabaya
+  latitude: -7.341608763157893
+  longitude: 112.71854287368421
+  type: school
+- id: 468935764
+  name: SMA Intensif Taruna Pembangunan Surabaya
+  latitude: -7.344523257142856
+  longitude: 112.7216941
+  type: school
+- id: 468935765
+  name: SD Negeri Dukuh Menanggal I /424
+  latitude: -7.344256777777777
+  longitude: 112.72715038888889
+  type: school
+- id: 468935777
+  name: TK dan SD Bahrul Ulum Yayasan Zakaria Surabaya
+  latitude: -7.344112600000001
+  longitude: 112.72383593333333
+  type: school
+- id: 468985556
+  name: SD Siti Aminah
+  latitude: -7.315567316666666
+  longitude: 112.70329933333333
+  type: school
+- id: 469277305
+  name: SD Negeri Manukan Wetan I
+  latitude: -7.258743185714287
+  longitude: 112.6723074
+  type: school
+- id: 469278430
+  name: MTs Nurul Khoir
+  latitude: -7.3110073625
+  longitude: 112.7965356875
+  type: school
+- id: 469305793
+  name: SD Kyai Ibrahim
+  latitude: -7.3370339
+  longitude: 112.73237326
+  type: school
+- id: 469305805
+  name: SD Negeri Siwalankerto III
+  latitude: -7.34024400909091
+  longitude: 112.73690027272724
+  type: school
+- id: 469305821
+  name: Lembaga Pendidikan Unggulan PP Amanatul Ummah
+  latitude: -7.334822736363637
+  longitude: 112.73289323636364
+  type: school
+- id: 469305833
+  name: SMP SMA Bina Bangsa
+  latitude: -7.336127643478263
+  longitude: 112.73266536521739
+  type: school
+- id: 469305845
+  name: SMK Negeri 12 Surabaya
+  latitude: -7.340781400000001
+  longitude: 112.74073644999999
+  type: school
+- id: 469321823
+  name: SD Negeri Rungkut Kidul II - 581
+  latitude: -7.328063439999999
+  longitude: 112.77803019999999
+  type: school
+- id: 469351126
+  name: SD Negeri Mojo VI Nomor 225
+  latitude: -7.268961963636364
+  longitude: 112.77050956363638
+  type: school
+- id: 470104385
+  name: SMP Among Siswa
+  latitude: -7.339219180000001
+  longitude: 112.72511726
+  type: school
+- id: 470105791
+  name: SD Negeri Jemur Wonosari II/525
+  latitude: -7.324127819999999
+  longitude: 112.73815656
+  type: school
+- id: 470105792
+  name: SD Negeri Jemur Wonosari I
+  latitude: -7.324251749999999
+  longitude: 112.73779056666666
+  type: school
+- id: 470108523
+  name: SMA Negeri 10 Surabaya
+  latitude: -7.320291207692307
+  longitude: 112.74065843076922
+  type: school
+- id: 470108524
+  name: SMP Negeri 13 Surabaya
+  latitude: -7.320436371428571
+  longitude: 112.74158387142857
+  type: school
+- id: 470110534
+  name: SD Negeri Kejawen Putih 1
+  latitude: -7.27727908
+  longitude: 112.8020156
+  type: school
+- id: 470217712
+  name: SD Negeri Mulyorejo 1 dan SMP Negeri 45 Surabaya
+  latitude: -7.263764385714286
+  longitude: 112.7852904142857
+  type: school
+- id: 470221972
+  name: Yayasan Hidayatul Ummah
+  latitude: -7.264717915384616
+  longitude: 112.78033252307691
+  type: school
+- id: 470224524
+  name: Sekolah Berkebutuhan Khusus Aditama
+  latitude: -7.2735571
+  longitude: 112.7972273
+  type: school
+- id: 470433533
+  name: SD Negeri Menanggal 601
+  latitude: -7.33961846
+  longitude: 112.7177482
+  type: school
+- id: 470436544
+  name: Pondok Alif Laamiim
+  latitude: -7.329846139999999
+  longitude: 112.7162483
+  type: school
+- id: 470436545
+  name: Pondok Kota Alif Laamiimm
+  latitude: -7.329864779999999
+  longitude: 112.71641408
+  type: school
+- id: 470442073
+  name: SMP Baitussalam Surabaya
+  latitude: -7.316751460000001
+  longitude: 112.72201643999999
+  type: school
+- id: 470445398
+  name: SDN Jajartunggal III
+  latitude: -7.314009371428571
+  longitude: 112.70036631428572
+  type: school
+- id: 470500052
+  name: SD Katolik Karitas
+  latitude: -7.267076520000001
+  longitude: 112.6621039
+  type: school
+- id: 470613695
+  name: SD Muhammadiyah 8 Surabaya
+  latitude: -7.2606287
+  longitude: 112.7906653
+  type: school
+- id: 470884154
+  name: SD Negeri Gubeng I
+  latitude: -7.27245908888889
+  longitude: 112.75417968888888
+  type: school
+- id: 470891678
+  name: SD Katolik Santa Clara
+  latitude: -7.287811033333334
+  longitude: 112.76032041666667
+  type: school
+- id: 470893938
+  name: MI Baiturrahman
+  latitude: -7.278985055555555
+  longitude: 112.75110343333333
+  type: school
+- id: 470896626
+  name: SMP Katolik Santa Clara
+  latitude: -7.288405188888889
+  longitude: 112.7603209888889
+  type: school
+- id: 470930821
+  name: Mandala School
+  latitude: -7.2544258600000004
+  longitude: 112.77755854
+  type: school
+- id: 470936369
+  name: SMA YPPI dan Nation Star Academy
+  latitude: -7.276700549999998
+  longitude: 112.77120946999999
+  type: school
+- id: 470936374
+  name: SMK Negeri 5 Surabaya
+  latitude: -7.265108871428571
+  longitude: 112.76889854761906
+  type: school
+- id: 470936375
+  name: SMK Dr Soetomo
+  latitude: -7.273363699999999
+  longitude: 112.7632125857143
+  type: school
+- id: 471682010
+  name: SMK Ketintang
+  latitude: -7.3090665333333344
+  longitude: 112.73006618666668
+  type: school
+- id: 471683843
+  name: SMA Negeri 11 Surabaya
+  latitude: -7.26195134
+  longitude: 112.66054626
+  type: school
+- id: 472632303
+  name: SD Negeri Ketintang IV
+  latitude: -7.3270062199999995
+  longitude: 112.72099092
+  type: school
+- id: 472649494
+  name: SMP BPK
+  latitude: -7.31341736
+  longitude: 112.69572769999999
+  type: school
+- id: 472649496
+  name: SD BPK
+  latitude: -7.313334066666668
+  longitude: 112.69556846666666
+  type: school
+- id: 473338497
+  name: SMP Kartika
+  latitude: -7.295720171428571
+  longitude: 112.72721328571429
+  type: school
+- id: 473338498
+  name: SD Kartika
+  latitude: -7.295574614285714
+  longitude: 112.7269987
+  type: school
+- id: 473470602
+  name: SD Negeri Ngagel Rejo III
+  latitude: -7.297587559999999
+  longitude: 112.75370955999999
+  type: school
+- id: 473470603
+  name: SMP Negeri 48 Surabaya
+  latitude: -7.296490722222221
+  longitude: 112.75571206666666
+  type: school
+- id: 473470606
+  name: SD Negeri Ngagel Rejo V / 400
+  latitude: -7.2967230125
+  longitude: 112.7557332625
+  type: school
+- id: 473470607
+  name: SD Istiqbal
+  latitude: -7.2953589375
+  longitude: 112.7467112375
+  type: school
+- id: 473484316
+  name: SMP Santo Yusuf
+  latitude: -7.336969257142856
+  longitude: 112.69871812857143
+  type: school
+- id: 473484353
+  name: SMP Muhammadiyah 6 Surabaya
+  latitude: -7.3313148199999985
+  longitude: 112.70438023
+  type: school
+- id: 473484355
+  name: SD Negeri Kebraon 1
+  latitude: -7.335190766666667
+  longitude: 112.70250533333332
+  type: school
+- id: 473498668
+  name: SD Yamassa
+  latitude: -7.31794958
+  longitude: 112.77667504000001
+  type: school
+- id: 473500323
+  name: SMP Yamastaa
+  latitude: -7.329168571428572
+  longitude: 112.76856872857141
+  type: school
+- id: 473690201
+  name: Filadelfia School
+  latitude: -7.252371119999999
+  longitude: 112.79023477999999
+  type: school
+- id: 474304786
+  name: SD Negeri Semolowaru 4/614
+  latitude: -7.30372852
+  longitude: 112.77565952
+  type: school
+- id: 474343585
+  name: SD Negeri Nginden Jangkungan 2 No 611
+  latitude: -7.3023050846153845
+  longitude: 112.76938245384616
+  type: school
+- id: 475201620
+  name: SD Negeri Kertajaya I Nomor 2017
+  latitude: -7.279694877777778
+  longitude: 112.75962952222221
+  type: school
+- id: 475222525
+  name: SD Negeri Kertajaya V Nomor 211
+  latitude: -7.280224829999999
+  longitude: 112.75396286
+  type: school
+- id: 475562063
+  name: SD Negeri Airlangga III Nomor 200
+  latitude: -7.2756182124999995
+  longitude: 112.76071278749998
+  type: school
+- id: 475565448
+  name: SD Negeri Mojo VIII Nomor 227
+  latitude: -7.270787571428572
+  longitude: 112.76291302857143
+  type: school
+- id: 476212213
+  name: SMK Katolik Mater Amabilis
+  latitude: -7.255485585714287
+  longitude: 112.75516227142857
+  type: school
+- id: 480232077
+  name: Xin Zhong School
+  latitude: -7.272165481818181
+  longitude: 112.81013776363638
+  type: school
+- id: 485784187
+  name: SMP Muhammadiyah 3
+  latitude: -7.263592180000001
+  longitude: 112.73562352000002
+  type: school
+- id: 492064090
+  name: SMP Garuda SMK Wira Maritim
+  latitude: -7.27215554
+  longitude: 112.66440675999999
+  type: school
+- id: 492359924
+  name: SMP-SMK-SMA Kawung 1
+  latitude: -7.2371190499999996
+  longitude: 112.73027790000002
+  type: school
+- id: 538619038
+  name: Sekolah Ciputra
+  latitude: -7.2924532812499985
+  longitude: 112.65086809375002
+  type: school
+- id: 683274682
+  name: Pondok Pesantren Hidayatullah
+  latitude: -7.27663326923077
+  longitude: 112.80120526923075
+  type: school
+- id: 683886617
+  name: SMP Negeri 1 Surabaya
+  latitude: -7.2572209999999995
+  longitude: 112.74766169999998
+  type: school
+- id: 685495170
+  name: Lab School Unesa
+  latitude: -7.299848714285714
+  longitude: 112.66483644285714
+  type: school
+- id: 686392876
+  name: smp negeri 5 surabaya
+  latitude: -7.235034842857142
+  longitude: 112.73146045714284
+  type: school
+- id: 791903104
+  name: SDN Banjar Sugihan V / 617
+  latitude: -7.259189549999999
+  longitude: 112.6621884
+  type: school
+- id: 802556899
+  name: Sekolah Gracia
+  latitude: -7.290895299999999
+  longitude: 112.75871595555556
+  type: school
+- id: 838179852
+  name: SMPN 61 Surabaya
+  latitude: -7.256644060000001
+  longitude: 112.65618088
+  type: school
+- id: 840138001
+  name: SMPN 60 Surabaya
+  latitude: -7.2280254500000005
+  longitude: 112.77977343333332
+  type: school
+- id: 876180992
+  name: Sekolah Kristen Gloria
+  latitude: -7.272670816666667
+  longitude: 112.80898085000001
+  type: school
+- id: 876437947
+  name: SMP Kristen Petra 2 Surabaya
+  latitude: -7.265797942857143
+  longitude: 112.74436948571429
+  type: school
+- id: 878617466
+  name: Cita Hati East
+  latitude: -7.27952466
+  longitude: 112.80809887999999
+  type: school
+- id: 878617467
+  name: Sayang School
+  latitude: -7.281466159999999
+  longitude: 112.80966668
+  type: school
+- id: 945785753
+  name: SD Negeri Kalirungkut I No. 264
+  latitude: -7.322150580000001
+  longitude: 112.77032138
+  type: school
+- id: 1090676246
+  name: SDN Kedungdoro VI
+  latitude: -7.266313283333333
+  longitude: 112.73338238333334
+  type: school
+- id: 1147537400
+  name: Sampoerna Academy
+  latitude: -7.250980742857142
+  longitude: 112.66333134285715
+  type: school
+- id: 1147537404
+  name: Surabaya Grammar School
+  latitude: -7.249807871428572
+  longitude: 112.6570686142857
+  type: school
+- id: 1147537405
+  name: Gloria Christian School
+  latitude: -7.249763024999999
+  longitude: 112.65602310000001
+  type: school
+- id: 1220984161
+  name: Singapore National Academy
+  latitude: -7.273740659999999
+  longitude: 112.69149829999999
+  type: school
+- id: 1220984162
+  name: Sekolah Kristen Elyon
+  latitude: -7.2741428599999995
+  longitude: 112.691159
+  type: school
+- id: 1243450803
+  name: Sekolah Guang Ming
+  latitude: -7.281763360000001
+  longitude: 112.80901274
+  type: school
+- id: 1243541226
+  name: SMPN 62 Surabaya
+  latitude: -7.341652116666666
+  longitude: 112.79471531666667
+  type: school
+- id: 4191009460
+  name: Lab Komputer Mardi Sunu
+  latitude: -7.2655948
+  longitude: 112.6696096
+  type: school
+- id: 4376831495
+  name: Surabaya European School
+  latitude: -7.2941099
+  longitude: 112.6658215
+  type: school
+- id: 4465702876
+  name: SD Kristen Buah Sulung
+  latitude: -7.2577306
+  longitude: 112.7567752
+  type: school
+- id: 4467580986
+  name: SD Katholik Karitas 1
+  latitude: -7.2817343
+  longitude: 112.7372508
+  type: school
+- id: 4467580987
+  name: SD Kristen Petra 1
+  latitude: -7.2800655
+  longitude: 112.7369785
+  type: school
+- id: 4478422246
+  name: SD Negeri Medokan Semampir 1
+  latitude: -7.3049728
+  longitude: 112.7822079
+  type: school
+- id: 4479567004
+  name: MI Ibnu Husein
+  latitude: -7.2324705
+  longitude: 112.7500691
+  type: school
+- id: 4479567005
+  name: MTs Ibnu Husein
+  latitude: -7.2311169
+  longitude: 112.7502938
+  type: school
+- id: 4481190255
+  name: KB, TK dan SD IT Ar-Rahmah
+  latitude: -7.2234133
+  longitude: 112.7828128
+  type: school
+- id: 4483210406
+  name: SD/MI Hidayatul Wathon
+  latitude: -7.2495595
+  longitude: 112.7453886
+  type: school
+- id: 4527538014
+  name: TK & SD K. Abdullah Ubaid
+  latitude: -7.2557591
+  longitude: 112.7253472
+  type: school
+- id: 4527586721
+  name: TK & SD RW X Demak Jaya
+  latitude: -7.2486397
+  longitude: 112.7185498
+  type: school
+- id: 4542651324
+  name: RA , TK & SD Tunas Harapan
+  latitude: -7.2421262
+  longitude: 112.7222012
+  type: school
+- id: 4586405511
+  name: Edupac
+  latitude: -7.2806226
+  longitude: 112.6857734
+  type: school
+- id: 4599296291
+  name: English tutoring
+  latitude: -7.2919178
+  longitude: 112.6486318
+  type: school
+- id: 4631071198
+  name: Madrasah Tsanawiyah Negeri 3 Surabaya
+  latitude: -7.3247345
+  longitude: 112.7961373
+  type: school
+- id: 4682726963
+  name: British education center
+  latitude: -7.2949371
+  longitude: 112.6546471
+  type: school
+- id: 4821879697
+  name: Kelt
+  latitude: -7.2927502
+  longitude: 112.6889733
+  type: school
+- id: 4830378719
+  name: Khay ming Montessori
+  latitude: -7.2789331
+  longitude: 112.6460184
+  type: school
+- id: 4840871956
+  name: Learn chenese
+  latitude: -7.2914791
+  longitude: 112.6548543
+  type: school
+- id: 5015915321
+  name: SMP NEGERI 7 SURABAYA
+  latitude: -7.2239242
+  longitude: 112.7300092
+  type: school
+- id: 5295169641
+  name: Ivy
+  latitude: -7.2928675
+  longitude: 112.6762888
+  type: school
+- id: 6390300681
+  name: Pondok Pesantren Darussaadah
+  latitude: -7.305102
+  longitude: 112.7628685
+  type: school
+- id: 6398706342
+  name: Pondok Pesantren Miftachus Sunnah
+  latitude: -7.2617071
+  longitude: 112.7628127
+  type: school
+- id: 6556147650
+  name: SMK NEGERI 4 SURABAYA
+  latitude: -7.2565354
+  longitude: 112.730194
+  type: school
+- id: 6738170041
+  name: Godwins School
+  latitude: -7.320575
+  longitude: 112.7502992
+  type: school
+- id: 8889375701
+  name: SDN Petemon X
+  latitude: -7.2654777
+  longitude: 112.7175626
+  type: school
+- id: 8889444805
+  name: SDN Kupang Krajan 1
+  latitude: -7.268532
+  longitude: 112.7194058
+  type: school
+- id: 9808091193
+  name: SD Kristen Anak Panah Tunas Bangsa Ceria
+  latitude: -7.2489001
+  longitude: 112.7796234
+  type: school
+- id: 9808105806
+  name: SMK Pariwisata Satya Widya
+  latitude: -7.2745752
+  longitude: 112.7622361
+  type: school
+- id: 9816232339
+  name: SD Muhammadiyah 6 Surabaya
+  latitude: -7.307135
+  longitude: 112.7390381
+  type: school
+- id: 9816254691
+  name: SMA Muhammadiyah 3 Surabaya
+  latitude: -7.3068265
+  longitude: 112.7390773
+  type: school
+- id: 9816256949
+  name: SMP Muhammadiyah 4
+  latitude: -7.3070555
+  longitude: 112.739056
+  type: school
+- id: 9818777674
+  name: SMK Katolik ST Louis
+  latitude: -7.2568874
+  longitude: 112.7209032
+  type: school
+- id: 9818836994
+  name: Little Sun School
+  latitude: -7.2905615
+  longitude: 112.768567
+  type: school
+- id: 9823834003
+  name: SMAK Santo Yusup Karangpilang
+  latitude: -7.3373385
+  longitude: 112.6991416
+  type: school
+- id: 9832028288
+  name: Gracia Fei Siang
+  latitude: -7.2756076
+  longitude: 112.6980045
+  type: school
+- id: 9832080555
+  name: SMP Muhammadiyah 10 Surabaya
+  latitude: -7.2613254
+  longitude: 112.78915
+  type: school
+- id: 9832086808
+  name: SMP Negeri 59 Surabaya
+  latitude: -7.3222334
+  longitude: 112.6854425
+  type: school
+- id: 9832098117
+  name: SMK IKIP Surabaya
+  latitude: -7.2557722
+  longitude: 112.7560451
+  type: school
+- id: 11733317798
+  name: Balai RW XVI Sukodono
+  latitude: -7.2264239
+  longitude: 112.7429556
+  type: school
+- id: 11733317887
+  name: Majelis Ta'lim Al Idrisyah (TPA)
+  latitude: -7.2273531
+  longitude: 112.7432882
+  type: school
+- id: 11733317981
+  name: Yayasan Pendidikan Islam Al-Ikhlas
+  latitude: -7.2265109
+  longitude: 112.7338366
+  type: school
+- id: 11733322469
+  name: SDK Santo Aloysius
+  latitude: -7.2398688
+  longitude: 112.7354301
+  type: school
+- id: 12188396579
+  name: PIBI - Pacific International Beauty Institute Surabaya
+  latitude: -7.2786201
+  longitude: 112.7659018
+  type: school
