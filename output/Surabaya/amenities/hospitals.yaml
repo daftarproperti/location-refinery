@@ -1,0 +1,471 @@
+objects:
+- id: 6703135
+  name: Rumah Sakit TNI AL Dr. Oepomo
+  alt_name: []
+  latitude: -7.212086015796374
+  longitude: 112.72453204578615
+  type: relation
+  amenity_type: hospital
+- id: 121862400
+  name: Rumah Sakit Onkologi
+  alt_name: []
+  latitude: 71.58743141451303
+  longitude: 112.53667379780711
+  type: way
+  amenity_type: hospital
+- id: 185053556
+  name: RSIA PUSURA
+  alt_name: []
+  latitude: -7.266187104960508
+  longitude: 112.73700538012046
+  type: way
+  amenity_type: hospital
+- id: 194433170
+  name: RSU Haji Surabaya
+  alt_name: []
+  latitude: -7.283780781511148
+  longitude: 112.77706302618016
+  type: way
+  amenity_type: hospital
+- id: 257897278
+  name: Rumah Sakit Universitas Airlangga
+  alt_name: []
+  latitude: -7.270133891238413
+  longitude: 112.78589366480594
+  type: way
+  amenity_type: hospital
+- id: 280299555
+  name: Rumah Sakit Darmo
+  alt_name: []
+  latitude: -7.288110208069254
+  longitude: 112.73769339311464
+  type: way
+  amenity_type: hospital
+- id: 307282253
+  name: Rumah Sakit Jiwa Menur Provinsi Jawa Timur
+  alt_name: []
+  latitude: -7.286221520186437
+  longitude: 112.76209256058716
+  type: way
+  amenity_type: hospital
+- id: 320182744
+  name: Rumah Sakit Khusus Infeksi
+  alt_name: []
+  latitude: -7.2705105804583035
+  longitude: 112.78608645703787
+  type: way
+  amenity_type: hospital
+- id: 344100866
+  name: Ciputra Hospital
+  alt_name: []
+  latitude: -7.2803024587881024
+  longitude: 112.63474490581983
+  type: way
+  amenity_type: hospital
+- id: 376494209
+  name: Rumah Sakit Katolik St. Vincentius A Paulo (RKZ)
+  alt_name:
+  - RSK St. Vincentius A Paulo
+  latitude: -7.291959517930701
+  longitude: 112.73547773983401
+  type: way
+  amenity_type: hospital
+- id: 429077947
+  name: RSIA Ferina Surabaya
+  alt_name: []
+  latitude: -7.273838768009099
+  longitude: 112.74475034771591
+  type: way
+  amenity_type: hospital
+- id: 446524876
+  name: Rumah Sakit Angkatan Laut Dr. Ramelan
+  alt_name: []
+  latitude: -7.30876375409892
+  longitude: 112.73868806872144
+  type: way
+  amenity_type: hospital
+- id: 446537097
+  name: National Hospital
+  alt_name: []
+  latitude: -7.2993562228040085
+  longitude: 112.67645257724669
+  type: way
+  amenity_type: hospital
+- id: 447609697
+  name: RS DKT Gubeng Pojok
+  alt_name: []
+  latitude: 23420577.592257828
+  longitude: 2416804.3794394233
+  type: way
+  amenity_type: hospital
+- id: 447610406
+  name: Rumah Sakit Adi Husada Kapasan
+  alt_name: []
+  latitude: -7.244053048352034
+  longitude: 112.75141599904624
+  type: way
+  amenity_type: hospital
+- id: 447615916
+  name: Rumah Sakit Surabaya Medical Center
+  alt_name: []
+  latitude: -7.2893892525167345
+  longitude: 112.7411347950575
+  type: way
+  amenity_type: hospital
+- id: 448107876
+  name: RS Mata Undaan
+  alt_name: []
+  latitude: -7.292915178478481
+  longitude: 112.7773452515586
+  type: way
+  amenity_type: hospital
+- id: 448112158
+  name: RS Ibu dan Anak Putri
+  alt_name: []
+  latitude: -7.290316179474711
+  longitude: 112.78272568410506
+  type: way
+  amenity_type: hospital
+- id: 448114210
+  name: RS Manyar Medical Centre
+  alt_name: []
+  latitude: -7.290084820136262
+  longitude: 112.7632659391051
+  type: way
+  amenity_type: hospital
+- id: 448319033
+  name: Rumah Sakit Gigi dan Mulut Dr. Soetomo
+  alt_name: []
+  latitude: -7.2654106
+  longitude: 112.75739455
+  type: way
+  amenity_type: hospital
+- id: 449621808
+  name: Rumah Sakit Adi Husada Undaan Wetan
+  alt_name: []
+  latitude: -7.249531563386779
+  longitude: 112.74617920601514
+  type: way
+  amenity_type: hospital
+- id: 449624602
+  name: Rumah Sakit Spesialis Husada Utama
+  alt_name: []
+  latitude: -7.26548158144053
+  longitude: 112.7558777724808
+  type: way
+  amenity_type: hospital
+- id: 449903849
+  name: Rumah Sakit Pura Raharja
+  alt_name: []
+  latitude: 442807.3292120874
+  longitude: -236.74553878798125
+  type: way
+  amenity_type: hospital
+- id: 450513383
+  name: Siloam Hospitals
+  alt_name: []
+  latitude: -7.274931592282284
+  longitude: 112.74602790065543
+  type: way
+  amenity_type: hospital
+- id: 450694876
+  name: Rumah Sakit Mata Undaan
+  alt_name: []
+  latitude: -7.360047535913245
+  longitude: 112.87054136529471
+  type: way
+  amenity_type: hospital
+- id: 450772004
+  name: RSIA Kendangsari Merr
+  alt_name: []
+  latitude: -7.250645569062717
+  longitude: 112.78370094185634
+  type: way
+  amenity_type: hospital
+- id: 450927051
+  name: RSUD Dr.M.Soewandhie
+  alt_name: []
+  latitude: -7.246045196053027
+  longitude: 112.75803002953066
+  type: way
+  amenity_type: hospital
+- id: 450968413
+  name: Rumah Sakit Gotong Royong
+  alt_name: []
+  latitude: -7.307457081124919
+  longitude: 112.78756602238082
+  type: way
+  amenity_type: hospital
+- id: 450988751
+  name: Klinik Estetika
+  alt_name: []
+  latitude: -7.308468479303136
+  longitude: 112.7397597223602
+  type: way
+  amenity_type: hospital
+- id: 451670191
+  name: Rumah Sakit Mitra Keluarga
+  alt_name: []
+  latitude: -7.266728548924651
+  longitude: 112.69129686191162
+  type: way
+  amenity_type: hospital
+- id: 451857624
+  name: RS Kodam Brawijaya
+  alt_name: []
+  latitude: -7.297046992586887
+  longitude: 112.72301911500736
+  type: way
+  amenity_type: hospital
+- id: 452200878
+  name: Rumah Sakit Al Irsyad
+  alt_name: []
+  latitude: -3.23245335284812
+  longitude: 112.931430668661
+  type: way
+  amenity_type: hospital
+- id: 452600945
+  name: Rumah Sakit PKU Muhammadiyah Surabaya
+  alt_name: []
+  latitude: -7.229948855940607
+  longitude: 112.74129936450223
+  type: way
+  amenity_type: hospital
+- id: 452601170
+  name: Rumah Sakit Paru
+  alt_name: []
+  latitude: -7.224058530143279
+  longitude: 112.74641437976724
+  type: way
+  amenity_type: hospital
+- id: 453637971
+  name: RS Orthopedi & Traumatologi
+  alt_name: []
+  latitude: -7.298973418669184
+  longitude: 112.66215842563535
+  type: way
+  amenity_type: hospital
+- id: 454129371
+  name: Rumah Sakit Marien
+  alt_name: []
+  latitude: -7.275713040922406
+  longitude: 112.67955208411286
+  type: way
+  amenity_type: hospital
+- id: 454131833
+  name: Rumah Sakit Lombok Dua dua
+  alt_name: []
+  latitude: -7.284414370232279
+  longitude: 112.66953016549661
+  type: way
+  amenity_type: hospital
+- id: 455658137
+  name: Rumah Sakit Wijaya
+  alt_name: []
+  latitude: -7.313098067120494
+  longitude: 112.69170184957956
+  type: way
+  amenity_type: hospital
+- id: 456713946
+  name: Rs Marinir Ewa Pangalila
+  alt_name: []
+  latitude: -7.3051710096616755
+  longitude: 112.70838225964607
+  type: way
+  amenity_type: hospital
+- id: 456740299
+  name: Rumah Sakit Wiyung Sejahtera
+  alt_name: []
+  latitude: -7.311245277204806
+  longitude: 112.68792101723689
+  type: way
+  amenity_type: hospital
+- id: 457109445
+  name: Rumah Sakit Ibu dan Anak IBI Surabaya
+  alt_name: []
+  latitude: -7.245212213188027
+  longitude: 112.72780016998557
+  type: way
+  amenity_type: hospital
+- id: 458235183
+  name: RSU Bunda Surabaya
+  alt_name: []
+  latitude: -7.251732549999999
+  longitude: 112.65043130000001
+  type: way
+  amenity_type: hospital
+- id: 458639570
+  name: RSIA Kendangsari
+  alt_name: []
+  latitude: -4.918345617525659
+  longitude: 112.94136240775319
+  type: way
+  amenity_type: hospital
+- id: 459481999
+  name: Rumah Sakit Marinir Ewa Panggalila
+  alt_name: []
+  latitude: -7.303647269121166
+  longitude: 112.70829638415644
+  type: way
+  amenity_type: hospital
+- id: 461269463
+  name: Rumah Sakit Royal Surabaya
+  alt_name: []
+  latitude: -7.328855268093969
+  longitude: 112.75120365050341
+  type: way
+  amenity_type: hospital
+- id: 462012644
+  name: RSIA Graha Medika
+  alt_name: []
+  latitude: 164962.95917165148
+  longitude: 20804.82889925247
+  type: way
+  amenity_type: hospital
+- id: 462702755
+  name: Rumah Sakit Muji Rahayu
+  alt_name: []
+  latitude: -7.257405718813354
+  longitude: 112.67081836242656
+  type: way
+  amenity_type: hospital
+- id: 462704784
+  name: Rumah Sakit Islam Surabaya
+  alt_name: []
+  latitude: -7.306623995540878
+  longitude: 112.73477862189243
+  type: way
+  amenity_type: hospital
+- id: 463387641
+  name: RSIA Cempaka Putih Permata
+  alt_name: []
+  latitude: -7.321520943406298
+  longitude: 112.71375710176754
+  type: way
+  amenity_type: hospital
+- id: 463561564
+  name: RSIA Lombok Dua Dua Surabaya
+  alt_name: []
+  latitude: -7.278483663308742
+  longitude: 112.74891927140708
+  type: way
+  amenity_type: hospital
+- id: 464048633
+  name: RSU Bhakti Rahayu
+  alt_name: []
+  latitude: -7.312419119420994
+  longitude: 112.7228506282947
+  type: way
+  amenity_type: hospital
+- id: 464057071
+  name: Rumah Sakit Mata Masyarakat Jawa Timur
+  alt_name: []
+  latitude: -17.392720855637776
+  longitude: 110.74937410269979
+  type: way
+  amenity_type: hospital
+- id: 464566820
+  name: RSUD Dr. Soetomo
+  alt_name: []
+  latitude: -7.268111174838787
+  longitude: 112.75779451530067
+  type: way
+  amenity_type: hospital
+- id: 464630285
+  name: Rumah Sakit William Booth Surabaya
+  alt_name: []
+  latitude: -7.291088734705606
+  longitude: 112.73780058783352
+  type: way
+  amenity_type: hospital
+- id: 465117740
+  name: RSAU SOEMITRO
+  alt_name: []
+  latitude: -7.291535344416594
+  longitude: 112.74096381901947
+  type: way
+  amenity_type: hospital
+- id: 465127627
+  name: RSUD Bhakti Dharma Husada
+  alt_name: []
+  latitude: -7.255848328491887
+  longitude: 112.63597997534256
+  type: way
+  amenity_type: hospital
+- id: 465330021
+  name: Rumah Sakit Bhayangkara HS Samsoeri Mertojoso
+  alt_name: []
+  latitude: -7.324112208939969
+  longitude: 112.73031926492091
+  type: way
+  amenity_type: hospital
+- id: 468637726
+  name: Rumah Sakit Islam Darus Syifa'
+  alt_name: []
+  latitude: -7.235381346830168
+  longitude: 112.61254248544716
+  type: way
+  amenity_type: hospital
+- id: 470106207
+  name: Rumah Sakit Islam Jemursari Surabaya
+  alt_name: []
+  latitude: -7.322932637357332
+  longitude: 112.73972933956306
+  type: way
+  amenity_type: hospital
+- id: 669873116
+  name: Rumah Sakit PHC Surabaya
+  alt_name: []
+  latitude: -7.20952618858726
+  longitude: 112.7354816463558
+  type: way
+  amenity_type: hospital
+- id: 784664351
+  name: Rumah Sakit Mitra Keluarga Kenjeran
+  alt_name: []
+  latitude: -7.251261001074521
+  longitude: 112.78501944034053
+  type: way
+  amenity_type: hospital
+- id: 921951024
+  name: RS Premier Surabaya
+  alt_name: []
+  latitude: -7.304578020153967
+  longitude: 112.76525670171651
+  type: way
+  amenity_type: hospital
+- id: 985433940
+  name: Mayapada Hospital
+  alt_name: []
+  latitude: -7.292034296224316
+  longitude: 112.72773368187347
+  type: way
+  amenity_type: hospital
+- id: 1189920586
+  name: Rumah Sakit Universitas Surabaya
+  alt_name: []
+  latitude: -7.314089401829469
+  longitude: 112.7662098501123
+  type: way
+  amenity_type: hospital
+- id: 9824048049
+  name: RSGM Nala Husada
+  alt_name: []
+  latitude: -7.2911822
+  longitude: 112.7951887
+  type: node
+  amenity_type: hospital
+- id: 9833059949
+  name: Klinik Gigi RKZ
+  alt_name: []
+  latitude: -7.2931451
+  longitude: 112.7354954
+  type: node
+  amenity_type: hospital
+- id: 12292717236
+  name: RS Katolik Vincentius A Poli
+  alt_name: []
+  latitude: -7.2912069
+  longitude: 112.7362614
+  type: node
+  amenity_type: hospital

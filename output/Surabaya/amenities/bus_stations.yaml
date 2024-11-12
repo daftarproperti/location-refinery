@@ -1,0 +1,128 @@
+objects:
+- id: 262540013
+  name: Terminal Tambak Osowilangon
+  alt_name:
+  - Terminal Osowilangun
+  latitude: -7.2180497462965025
+  longitude: 112.65342936490077
+  type: way
+  amenity_type: bus_station
+- id: 275493021
+  name: Terminal Kedung Cowek
+  alt_name: []
+  latitude: -7.212454492221949
+  longitude: 112.77940244048561
+  type: way
+  amenity_type: bus_station
+- id: 320141897
+  name: Terminal Benowo
+  alt_name: []
+  latitude: -7.235590393533228
+  longitude: 112.60787997852128
+  type: way
+  amenity_type: bus_station
+- id: 454173811
+  name: Terminal Kalimas Barat
+  alt_name: []
+  latitude: -7.223189767536678
+  longitude: 112.73783678913563
+  type: way
+  amenity_type: bus_station
+- id: 455261261
+  name: Ujung Baru
+  alt_name: []
+  latitude: -7.198911810329608
+  longitude: 112.73455050293448
+  type: way
+  amenity_type: bus_station
+- id: 459921946
+  name: Terminal Dukuh Kupang
+  alt_name: []
+  latitude: -6.457224151071177
+  longitude: 112.9411863734704
+  type: way
+  amenity_type: bus_station
+- id: 466854271
+  name: Terminal Intermoda Joyoboyo
+  alt_name: []
+  latitude: -7.298682242831024
+  longitude: 112.73642291154674
+  type: way
+  amenity_type: bus_station
+- id: 467064615
+  name: Terminal Menanggal
+  alt_name: []
+  latitude: -7.341948282668471
+  longitude: 112.72235042190638
+  type: way
+  amenity_type: bus_station
+- id: 485783914
+  name: Terminal Keputih
+  alt_name: []
+  latitude: -7.2885453753327845
+  longitude: 112.80266308313402
+  type: way
+  amenity_type: bus_station
+- id: 486883056
+  name: Terminal Balongsari
+  alt_name: []
+  latitude: -7.25923645
+  longitude: 112.67866514999999
+  type: way
+  amenity_type: bus_station
+- id: 486886496
+  name: Terminal Bratang
+  alt_name: []
+  latitude: -7.296042177730538
+  longitude: 112.76306323872303
+  type: way
+  amenity_type: bus_station
+- id: 486891854
+  name: Terminal Kenjeran
+  alt_name: []
+  latitude: -7.240564116146274
+  longitude: 112.7945523736387
+  type: way
+  amenity_type: bus_station
+- id: 486892144
+  name: Terminal Manukan
+  alt_name: []
+  latitude: -7.268143
+  longitude: 112.66670554999999
+  type: way
+  amenity_type: bus_station
+- id: 7967496185
+  name: Stasiun Benowo
+  alt_name: []
+  latitude: -7.2339372
+  longitude: 112.6152001
+  type: node
+  amenity_type: bus_station
+- id: 7984622686
+  name: Stasiun Tandes
+  alt_name: []
+  latitude: -7.2589001
+  longitude: 112.6870173
+  type: node
+  amenity_type: bus_station
+- id: 7984622688
+  name: Stasiun Mesigit
+  alt_name: []
+  latitude: -7.2411082
+  longitude: 112.7269139
+  type: node
+  amenity_type: bus_station
+- id: 7991938286
+  name: Stasiun Kalimas
+  alt_name: []
+  latitude: -7.2210357
+  longitude: 112.7346335
+  type: node
+  amenity_type: bus_station
+- id: 11733317585
+  name: Terminal Kasuari
+  alt_name: []
+  latitude: -7.2354104
+  longitude: 112.7363327
+  type: node
+  amenity_type: bus_station

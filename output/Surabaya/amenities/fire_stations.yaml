@@ -1,0 +1,85 @@
+objects:
+- id: 449150188
+  name: Pemadam Kebakaran Kecamatan Bulak
+  alt_name: []
+  latitude: -7.144801328165916
+  longitude: 112.80322448367252
+  type: way
+  amenity_type: fire_station
+- id: 449809850
+  name: Pos Pembantu Pemadam Kebakaran Kota Surabaya
+  alt_name: []
+  latitude: -7.241571330543153
+  longitude: 112.8075429671059
+  type: way
+  amenity_type: fire_station
+- id: 451291149
+  name: Dinas Kebakaran Pos Jambangan
+  alt_name: []
+  latitude: -7.436957146502477
+  longitude: 112.97506218185974
+  type: way
+  amenity_type: fire_station
+- id: 451504869
+  name: Dinas Kebakaran UPTD 3 Surabaya
+  alt_name: []
+  latitude: -7.419559170034075
+  longitude: 112.71539323188259
+  type: way
+  amenity_type: fire_station
+- id: 451981973
+  name: Dinas Kebakaran UPTD II Surabaya Utara Tambak Rejo
+  alt_name: []
+  latitude: -7.266203376951326
+  longitude: 112.75565394373089
+  type: way
+  amenity_type: fire_station
+- id: 452387333
+  name: Posko Pemadam Kebakaran
+  alt_name: []
+  latitude: -7.347510102609311
+  longitude: 112.6239480416514
+  type: way
+  amenity_type: fire_station
+- id: 452582470
+  name: Pemadam Kebakaran Surabaya IV
+  alt_name: []
+  latitude: -550957.7956919196
+  longitude: 39209.08856765022
+  type: way
+  amenity_type: fire_station
+- id: 457996476
+  name: Pos Pembantu Pemadam Kebakaran
+  alt_name: []
+  latitude: -7.340445150000001
+  longitude: 112.66602185
+  type: way
+  amenity_type: fire_station
+- id: 459270806
+  name: Dinas Pemadam Kebakaran Kandangan
+  alt_name: []
+  latitude: -14036415.209341118
+  longitude: -4734635.402094338
+  type: way
+  amenity_type: fire_station
+- id: 460507505
+  name: Dinas Pemadam Kebakaran UPTD Surabaya V Pos Pakal
+  alt_name: []
+  latitude: 14681766.235506462
+  longitude: 4819320.708685294
+  type: way
+  amenity_type: fire_station
+- id: 467117596
+  name: Dinas Pemadam Kebakaran Pos Kali Rungkut
+  alt_name: []
+  latitude: -7.322148200000001
+  longitude: 112.7699985
+  type: way
+  amenity_type: fire_station
+- id: 487570882
+  name: Dinas Kebakaran Kota Surabaya
+  alt_name: []
+  latitude: -7.244987620069648
+  longitude: 112.73636169035173
+  type: way
+  amenity_type: fire_station

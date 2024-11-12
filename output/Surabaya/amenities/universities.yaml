@@ -1,0 +1,439 @@
+objects:
+- id: 7219092
+  name: Universitas Nadhlatul Ulama Surabaya
+  alt_name: []
+  latitude: -7.321943048357304
+  longitude: 112.74025931526218
+  type: relation
+  amenity_type: university
+- id: 8225816
+  name: Universitas Airlangga
+  alt_name: []
+  latitude: -7.268544470338338
+  longitude: 112.78489519994444
+  type: relation
+  amenity_type: university
+- id: 70364905
+  name: Universitas Hang Tuah
+  alt_name: []
+  latitude: -7.290734254550151
+  longitude: 112.79297380060022
+  type: way
+  amenity_type: university
+- id: 279576575
+  name: Universitas Katolik Widya Mandala Surabaya
+  alt_name: []
+  latitude: -7.281442191621446
+  longitude: 112.74475801148002
+  type: way
+  amenity_type: university
+- id: 307282096
+  name: Diploma Teknik Sipil ITS
+  alt_name: []
+  latitude: -7.286681709974674
+  longitude: 112.7639230395394
+  type: way
+  amenity_type: university
+- id: 311044783
+  name: Politeknik Pelayaran Surabaya
+  alt_name: []
+  latitude: -7.344060052837553
+  longitude: 112.79614311971564
+  type: way
+  amenity_type: university
+- id: 314745210
+  name: Institut Teknologi Sepuluh Nopember
+  alt_name:
+  - ITS
+  latitude: -7.283109906282611
+  longitude: 112.79408995423323
+  type: way
+  amenity_type: university
+- id: 320182776
+  name: Kampus C Universitas Airlangga
+  alt_name: []
+  latitude: -7.268486239525694
+  longitude: 112.78632652607176
+  type: way
+  amenity_type: university
+- id: 344131999
+  name: Universitas Negeri Surabaya
+  alt_name:
+  - Unesa
+  latitude: -7.300891775125667
+  longitude: 112.6708441532133
+  type: way
+  amenity_type: university
+- id: 376921104
+  name: Universitas Katolik Darma Cendika
+  alt_name: []
+  latitude: -7.291571725293178
+  longitude: 112.78122384585289
+  type: way
+  amenity_type: university
+- id: 429131451
+  name: Universitas Surabaya
+  alt_name:
+  - Kampus Ngagel Universitas Surabaya
+  latitude: -7.293173031951129
+  longitude: 112.76132991372236
+  type: way
+  amenity_type: university
+- id: 432849700
+  name: Universitas Katolik Widya Mandala Surabaya
+  alt_name: []
+  latitude: -7.259980153790239
+  longitude: 112.77302898150647
+  type: way
+  amenity_type: university
+- id: 446524872
+  name: Universitas Hang Tuah
+  alt_name: []
+  latitude: -7.311038638983679
+  longitude: 112.73675015408674
+  type: way
+  amenity_type: university
+- id: 447347929
+  name: Universitas Kartini Surabaya
+  alt_name: []
+  latitude: -7.3863454676133
+  longitude: 112.74446385044779
+  type: way
+  amenity_type: university
+- id: 447607411
+  name: La Salle College Wonokromo Surabaya
+  alt_name: []
+  latitude: -256075300736.0
+  longitude: -102926149802.66667
+  type: way
+  amenity_type: university
+- id: 447637766
+  name: STIESIA
+  alt_name: []
+  latitude: -8.140151415519647
+  longitude: 112.43388243418588
+  type: way
+  amenity_type: university
+- id: 448116445
+  name: Institut Teknologi Adhi Tama Surabaya
+  alt_name:
+  - ITATS
+  latitude: -7.290825460049071
+  longitude: 112.7791695469264
+  type: way
+  amenity_type: university
+- id: 448425067
+  name: Aula Fakultas Kedokteran Universitas Airlangga
+  alt_name: []
+  latitude: -7.265392199582492
+  longitude: 112.7585280112312
+  type: way
+  amenity_type: university
+- id: 448790949
+  name: Kampus A Universitas Airlangga
+  alt_name: []
+  latitude: -7.264330338256822
+  longitude: 112.75967977276416
+  type: way
+  amenity_type: university
+- id: 448790950
+  name: Kampus B Universitas Airlangga
+  alt_name: []
+  latitude: -7.272606576302289
+  longitude: 112.75752553890625
+  type: way
+  amenity_type: university
+- id: 449322778
+  name: Universitas Kartini
+  alt_name: []
+  latitude: -7.300507233317204
+  longitude: 112.76231302950903
+  type: way
+  amenity_type: university
+- id: 450914315
+  name: Gedung B Universitas Adi Buana
+  alt_name: []
+  latitude: -7.2937766061009235
+  longitude: 112.74858890520368
+  type: way
+  amenity_type: university
+- id: 451286549
+  name: Magister Manajemen Teknologi ITS
+  alt_name: []
+  latitude: -7.291736349400347
+  longitude: 112.73661277713853
+  type: way
+  amenity_type: university
+- id: 451533249
+  name: Universitas Merdeka Surabaya
+  alt_name: []
+  latitude: -7.3200998447795715
+  longitude: 112.71837854229828
+  type: way
+  amenity_type: university
+- id: 452033377
+  name: Stikes Katolik St. Vincentius A Paulo ( RKZ )
+  alt_name: []
+  latitude: -7.292863106296661
+  longitude: 112.73463886272013
+  type: way
+  amenity_type: university
+- id: 453446719
+  name: Universitas Yos Soedarso
+  alt_name: []
+  latitude: 421849.3438745813
+  longitude: 107101.31592923107
+  type: way
+  amenity_type: university
+- id: 453651723
+  name: Pusat Bahasa Universitas Negeri Surabaya
+  alt_name: []
+  latitude: 283301359600.0
+  longitude: 108275686314.66667
+  type: way
+  amenity_type: university
+- id: 455039563
+  name: Institute IKAIDO
+  alt_name: []
+  latitude: 2334500.598832382
+  longitude: 224843.6410634131
+  type: way
+  amenity_type: university
+- id: 455195778
+  name: Universitas Wijaya Putra Kampus Wiyung
+  alt_name: []
+  latitude: -7.315539245250198
+  longitude: 112.70046401761418
+  type: way
+  amenity_type: university
+- id: 455679680
+  name: Universitas 45 Surabaya
+  alt_name: []
+  latitude: -7.290960532975602
+  longitude: 112.72104390255627
+  type: way
+  amenity_type: university
+- id: 461332370
+  name: Fakultas Vokasi
+  alt_name: []
+  latitude: -50.43740341158693
+  longitude: 112.2729782320019
+  type: way
+  amenity_type: university
+- id: 462704781
+  name: Kampus A Universitas Nahdlatul Ulama Surabaya
+  alt_name: []
+  latitude: -7.304451801500682
+  longitude: 112.73380415361798
+  type: way
+  amenity_type: university
+- id: 463579114
+  name: Universitas Surabaya
+  alt_name: []
+  latitude: -7.321875536341792
+  longitude: 112.76787987041617
+  type: way
+  amenity_type: university
+- id: 464654724
+  name: Universitas Putra Bangsa
+  alt_name: []
+  latitude: -7.28930779487384
+  longitude: 112.78196714993486
+  type: way
+  amenity_type: university
+- id: 465356460
+  name: Kebidanan Sutomo Poltekkes Kemenkes Surabaya
+  alt_name: []
+  latitude: -7.267418123349398
+  longitude: 112.76041259568179
+  type: way
+  amenity_type: university
+- id: 466281993
+  name: Universitas Muhammadiyah Sidoarjo
+  alt_name: []
+  latitude: -7.333331838249545
+  longitude: 112.78280265580291
+  type: way
+  amenity_type: university
+- id: 466305059
+  name: Universitas Widya Kartika
+  alt_name: []
+  latitude: -7.260678255095546
+  longitude: 112.79449588173216
+  type: way
+  amenity_type: university
+- id: 467091993
+  name: BRI Corporate University
+  alt_name: []
+  latitude: -7.333051050016596
+  longitude: 112.732695852343
+  type: way
+  amenity_type: university
+- id: 467339097
+  name: FIP Universitas Negeri Surabaya
+  alt_name: []
+  latitude: -7.255757457993509
+  longitude: 112.75584146121379
+  type: way
+  amenity_type: university
+- id: 468200090
+  name: Jurusan Gizi Poltekkes Kemenkes Surabaya
+  alt_name: []
+  latitude: -7.286195569236835
+  longitude: 112.760458580254
+  type: way
+  amenity_type: university
+- id: 468626943
+  name: Universitas Pembangunan Nasional Veteran Jawa Timur
+  alt_name: []
+  latitude: -7.333459667641443
+  longitude: 112.78790006029648
+  type: way
+  amenity_type: university
+- id: 470103964
+  name: Universitas Islam Negeri Sunan Ampel Surabaya
+  alt_name: []
+  latitude: -7.32218452496802
+  longitude: 112.73434073786896
+  type: way
+  amenity_type: university
+- id: 491217435
+  name: Universitas Wijaya Kusuma Surabaya
+  alt_name: []
+  latitude: -7.28218831038992
+  longitude: 112.71190632796524
+  type: way
+  amenity_type: university
+- id: 491503296
+  name: Universitas Dr. Soetomo
+  alt_name: []
+  latitude: -7.2456196312966465
+  longitude: 113.08288572122571
+  type: way
+  amenity_type: university
+- id: 491540737
+  name: Universitas 17 Agustus 1945 Surabaya
+  alt_name: []
+  latitude: -7.304108975997715
+  longitude: 112.78482177933488
+  type: way
+  amenity_type: university
+- id: 638474712
+  name: Universitas Ciputra
+  alt_name: []
+  latitude: -7.284701851677899
+  longitude: 112.63226429372466
+  type: way
+  amenity_type: university
+- id: 683503528
+  name: Politeknik Elektronika Negeri Surabaya
+  alt_name: []
+  latitude: -7.276524990070378
+  longitude: 112.79386990616366
+  type: way
+  amenity_type: university
+- id: 689034887
+  name: Universitas Bhayangkara Surabaya
+  alt_name: []
+  latitude: -7.320891310908352
+  longitude: 112.73090840594925
+  type: way
+  amenity_type: university
+- id: 689258417
+  name: Universitas Kristen Petra
+  alt_name: []
+  latitude: -7.339788856944101
+  longitude: 112.73767825216324
+  type: way
+  amenity_type: university
+- id: 689258419
+  name: Universitas Negeri Surabaya
+  alt_name: []
+  latitude: -7.313920497260599
+  longitude: 112.72659998922964
+  type: way
+  amenity_type: university
+- id: 826347699
+  name: Universitas Narotama
+  alt_name: []
+  latitude: -7.2818119473258065
+  longitude: 112.7764483144753
+  type: way
+  amenity_type: university
+- id: 876180997
+  name: Universitas Katolik Widya Mandala
+  alt_name: []
+  latitude: -7.270590345645481
+  longitude: 112.81175721081779
+  type: way
+  amenity_type: university
+- id: 934164845
+  name: Universitas Yos Sudarso
+  alt_name: []
+  latitude: -7.285382844299682
+  longitude: 112.70935861150166
+  type: way
+  amenity_type: university
+- id: 984261437
+  name: Universitas WR Supratman
+  alt_name: []
+  latitude: -7.291372814793151
+  longitude: 112.7840011361919
+  type: way
+  amenity_type: university
+- id: 1085781219
+  name: Kampus II UIN Sunan Ampel
+  alt_name: []
+  latitude: -7.344132220198321
+  longitude: 112.78454259326546
+  type: way
+  amenity_type: university
+- id: 1103836781
+  name: Universitas PGRI Adi Buana
+  alt_name: []
+  latitude: -7.344001684381349
+  longitude: 112.72189261643074
+  type: way
+  amenity_type: university
+- id: 1147595082
+  name: Universitas Muhammadiyah Surabaya
+  alt_name: []
+  latitude: -7.261366531698081
+  longitude: 112.78540982013345
+  type: way
+  amenity_type: university
+- id: 1583812543
+  name: IKIP Widya Dharma
+  alt_name: []
+  latitude: -7.3156467
+  longitude: 112.7266295
+  type: node
+  amenity_type: university
+- id: 1583828318
+  name: Sekolah Tinggi Ilmu Ekonomi Perbanas
+  alt_name: []
+  latitude: -7.3000873
+  longitude: 112.7642977
+  type: node
+  amenity_type: university
+- id: 9816166279
+  name: Universitas Pelita Harapan Surabaya
+  alt_name: []
+  latitude: -7.3449307
+  longitude: 112.7286504
+  type: node
+  amenity_type: university
+- id: 9832072676
+  name: Politeknik Perkapalan Negeri Surabaya
+  alt_name: []
+  latitude: -7.277814
+  longitude: 112.7957094
+  type: node
+  amenity_type: university
+- id: 12292716887
+  name: Universitas Negeri Sunan Ampel
+  alt_name: []
+  latitude: -7.3446577
+  longitude: 112.7842595
+  type: node
+  amenity_type: university

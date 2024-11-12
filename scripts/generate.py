@@ -154,6 +154,13 @@ def main():
                 'boundaries': boundaries
             }
 
+            centroid = osm_parser.get_centroid(boundaries)
+            lat = float(centroid.y)
+            lon = float(centroid.x)
+
+            area_details['lat'] = lat
+            area_details['lon'] = lon
+
             if admin_level == "5":
                 city_yaml_data = area_details
                 yaml_helper.parse_to_yaml(area_details['id'], boundaries_yaml_data, "boundaries")
@@ -182,7 +189,7 @@ def main():
 
     for plural_amenity_type, amenity_list in amenities_by_type.items():
         amenity_list.sort(key=lambda x: x['id'])
-        amenity_data = {plural_amenity_type: amenity_list}
+        amenity_data = {'objects': amenity_list}
         yaml_helper.parse_to_yaml(plural_amenity_type, amenity_data, "amenities")
 
     print(f"Output is generated in directory: output/{city_name}/")
