@@ -68,6 +68,73 @@ def load_osm_data(osm_id):
     return data['elements']
 
 
+def generate_city_data_by_name(name, osm_parser, yaml_helper):
+    if name.startswith("Kota "):
+        name = name[len("Kota "):]
+
+    overpass_query = f"""
+    [out:json];
+    (
+        rel['name'='{name}'][type=boundary];
+        rel['name:en'='{name}'][type=boundary];
+    );
+    out body;
+    >;
+    out skel qt;
+    """
+
+    response = requests.post(overpass_url, data=overpass_query)
+        
+    if response.status_code != 200:
+        print(f"Error: getting data: {response.status_code}")
+        return
+            
+    data = response.json()
+
+    if 'elements' not in data:
+        return None
+
+    elements = data['elements']
+    osm_parser.extract_way_nodes(elements)
+
+    city_yaml_data = {}
+    boundaries_yaml_data = {}
+    for element in elements:
+        if 'tags' not in element:
+            continue
+
+        tags = element['tags']
+
+        if 'name' not in tags or 'admin_level' not in tags:
+            continue
+
+        if tags['admin_level'] != "5":
+            continue
+
+        area_details = osm_parser.extract_area(element)
+        if area_details is None:
+                continue
+            
+        boundaries = osm_parser.generate_boundaries(element)
+        boundaries_yaml_data = {
+            'id': area_details['id'],
+            'name': area_details['name'],
+            'boundaries': boundaries
+        }
+
+        centroid = osm_parser.get_centroid(boundaries)
+        lat = float(centroid.y)
+        lon = float(centroid.x)
+
+        area_details['lat'] = lat
+        area_details['lon'] = lon
+
+        city_yaml_data = area_details
+    
+    yaml_helper.parse_to_yaml(area_details['id'], boundaries_yaml_data, "boundaries")
+    return city_yaml_data  
+
+
 def load_filter_class(city_name):
     formatted_city_name = city_name.replace(" ", "")
     sources_path = os.path.join(os.path.dirname(__file__), '..', 'sources')
@@ -107,10 +174,11 @@ def main():
     district_yaml_data = {}
     subdistrict_yaml_data = {}
 
-    city_elements = []
     districts = []
     subdistricts = []
     amenities_by_type = {}
+
+    city_data_found = False
     for element in elements:
         if 'tags' not in element:
             continue
@@ -162,6 +230,7 @@ def main():
             area_details['lon'] = lon
 
             if admin_level == "5":
+                city_data_found = True
                 city_yaml_data = area_details
                 yaml_helper.parse_to_yaml(area_details['id'], boundaries_yaml_data, "boundaries")
             elif admin_level == "6":
@@ -171,7 +240,9 @@ def main():
                 subdistricts.append(area_details)
                 yaml_helper.parse_to_yaml(area_details['id'], boundaries_yaml_data, "areas/boundaries")
 
-    city_elements.sort(key=lambda x: x['id'])
+    if city_data_found is False:
+        city_yaml_data = generate_city_data_by_name(yaml_file.get("name", ""), osm_parser, yaml_helper)
+
     districts.sort(key=lambda x: x['id'])
     subdistricts.sort(key=lambda x: x['id'])
 
@@ -184,8 +255,8 @@ def main():
     }
 
     yaml_helper.parse_to_yaml("city", city_yaml_data)
-    yaml_helper.parse_to_yaml("district", district_yaml_data, "areas")
-    yaml_helper.parse_to_yaml("sub-district", subdistrict_yaml_data, "areas")
+    yaml_helper.parse_to_yaml("districts", district_yaml_data, "areas")
+    yaml_helper.parse_to_yaml("sub-districts", subdistrict_yaml_data, "areas")
 
     for plural_amenity_type, amenity_list in amenities_by_type.items():
         amenity_list.sort(key=lambda x: x['id'])
