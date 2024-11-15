@@ -1,61 +1,85 @@
-fire_stations:
+objects:
 - id: 449150188
   name: Pemadam Kebakaran Kecamatan Bulak
-  latitude: -7.2318131999999995
-  longitude: 112.78544432000001
-  type: fire_station
+  alt_name: []
+  latitude: -7.144801328165916
+  longitude: 112.80322448367252
+  type: way
+  amenity_type: fire_station
 - id: 449809850
   name: Pos Pembantu Pemadam Kebakaran Kota Surabaya
-  latitude: -7.295275579999999
-  longitude: 112.80174867999999
-  type: fire_station
+  alt_name: []
+  latitude: -7.241571330543153
+  longitude: 112.8075429671059
+  type: way
+  amenity_type: fire_station
 - id: 451291149
   name: Dinas Kebakaran Pos Jambangan
-  latitude: -7.322048828571428
-  longitude: 112.71371230000001
-  type: fire_station
+  alt_name: []
+  latitude: -7.436957146502477
+  longitude: 112.97506218185974
+  type: way
+  amenity_type: fire_station
 - id: 451504869
   name: Dinas Kebakaran UPTD 3 Surabaya
-  latitude: -7.33672124
-  longitude: 112.75404666
-  type: fire_station
+  alt_name: []
+  latitude: -7.419559170034075
+  longitude: 112.71539323188259
+  type: way
+  amenity_type: fire_station
 - id: 451981973
   name: Dinas Kebakaran UPTD II Surabaya Utara Tambak Rejo
-  latitude: -7.24304252
-  longitude: 112.75968842
-  type: fire_station
+  alt_name: []
+  latitude: -7.266203376951326
+  longitude: 112.75565394373089
+  type: way
+  amenity_type: fire_station
 - id: 452387333
   name: Posko Pemadam Kebakaran
-  latitude: -7.3035578
-  longitude: 112.63289869999998
-  type: fire_station
+  alt_name: []
+  latitude: -7.347510102609311
+  longitude: 112.6239480416514
+  type: way
+  amenity_type: fire_station
 - id: 452582470
   name: Pemadam Kebakaran Surabaya IV
-  latitude: -7.31429304
-  longitude: 112.69582043999999
-  type: fire_station
+  alt_name: []
+  latitude: -550957.7956919196
+  longitude: 39209.08856765022
+  type: way
+  amenity_type: fire_station
 - id: 457996476
   name: Pos Pembantu Pemadam Kebakaran
-  latitude: -7.340434619999999
-  longitude: 112.66601289999998
-  type: fire_station
+  alt_name: []
+  latitude: -7.340445150000001
+  longitude: 112.66602185
+  type: way
+  amenity_type: fire_station
 - id: 459270806
   name: Dinas Pemadam Kebakaran Kandangan
-  latitude: -7.2522630800000005
-  longitude: 112.6532071
-  type: fire_station
+  alt_name: []
+  latitude: -14036415.209341118
+  longitude: -4734635.402094338
+  type: way
+  amenity_type: fire_station
 - id: 460507505
   name: Dinas Pemadam Kebakaran UPTD Surabaya V Pos Pakal
-  latitude: -7.240276879999999
-  longitude: 112.62540543999998
-  type: fire_station
+  alt_name: []
+  latitude: 14681766.235506462
+  longitude: 4819320.708685294
+  type: way
+  amenity_type: fire_station
 - id: 467117596
   name: Dinas Pemadam Kebakaran Pos Kali Rungkut
-  latitude: -7.3221194800000005
-  longitude: 112.76997588000002
-  type: fire_station
+  alt_name: []
+  latitude: -7.322148200000001
+  longitude: 112.7699985
+  type: way
+  amenity_type: fire_station
 - id: 487570882
   name: Dinas Kebakaran Kota Surabaya
-  latitude: -7.244939955555555
-  longitude: 112.7363001222222
-  type: fire_station
+  alt_name: []
+  latitude: -7.244987620069648
+  longitude: 112.73636169035173
+  type: way
+  amenity_type: fire_station

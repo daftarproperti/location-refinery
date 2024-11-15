@@ -1,771 +1,1253 @@
 sub-districts:
 - id: 8224329
   name: Ketabang
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224329.yaml
+  lat: -7.257639144306235
+  lon: 112.74760042753137
 - id: 8224349
   name: Genteng
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224349.yaml
+  lat: -7.258096754320816
+  lon: 112.74021859586712
 - id: 8224356
   name: Embong Kaliasin
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224356.yaml
+  lat: -7.269317605484773
+  lon: 112.74458893698139
 - id: 8224366
   name: Kapasari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224366.yaml
+  lat: -7.249777232510494
+  lon: 112.75048109906862
 - id: 8224378
   name: Peneleh
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224378.yaml
+  lat: -7.2169704527665575
+  lon: 112.74504056774072
 - id: 8224402
   name: Kapasan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224402.yaml
+  lat: -7.240388516157618
+  lon: 112.74744154012221
 - id: 8224414
   name: Simolawang
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224414.yaml
+  lat: -7.224239396752776
+  lon: 112.74211626371662
 - id: 8224429
   name: Tambakrejo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224429.yaml
+  lat: -7.245669622117468
+  lon: 112.75575395626005
 - id: 8224433
   name: Sidodadi
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224433.yaml
+  lat: -7.237778238497132
+  lon: 112.74807076040248
 - id: 8224435
   name: Simokerto
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224435.yaml
+  lat: -7.23793510970201
+  lon: 112.75809644774843
 - id: 8224463
   name: Sidotopo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224463.yaml
+  lat: -7.229833772156662
+  lon: 112.75080201764068
 - id: 8224474
   name: Pegirian
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224474.yaml
+  lat: -7.225781989263123
+  lon: 112.75090604318504
 - id: 8224521
   name: Ampel
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224521.yaml
+  lat: -7.22906895502252
+  lon: 112.74288893334285
 - id: 8224525
   name: Wonokusumo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224525.yaml
+  lat: -7.220305214235868
+  lon: 112.75296051710637
 - id: 8224527
   name: Ujung
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224527.yaml
+  lat: -7.215965061736884
+  lon: 112.74836888575831
 - id: 8224539
   name: Sidotopo Wetan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224539.yaml
+  lat: -7.2308631834033
+  lon: 112.76083631773757
 - id: 8224547
   name: Tanah Kali Kedinding
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224547.yaml
+  lat: -7.241597563908732
+  lon: 112.75308685314832
 - id: 8224556
   name: Bulak Banteng
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224556.yaml
+  lat: -7.208682141314578
+  lon: 112.75592602466887
 - id: 8224561
   name: Tambak Wedi
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224561.yaml
+  lat: -7.214909403469639
+  lon: 112.77659514216866
 - id: 8224582
   name: Sukolilo Baru
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224582.yaml
+  lat: -7.24348676864993
+  lon: 112.79299628437116
 - id: 8224589
   name: Kedung Cowek
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224589.yaml
+  lat: -7.2187550610550355
+  lon: 112.78108818928604
 - id: 8224595
   name: Kenjeran
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224595.yaml
+  lat: -7.23517565161931
+  lon: 112.79070859490683
 - id: 8224598
   name: Bulak
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224598.yaml
+  lat: -7.230528134461831
+  lon: 112.78410238256718
 - id: 8224601
   name: Perak Barat
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224601.yaml
+  lat: -7.223261588130003
+  lon: 112.7242478677477
 - id: 8224603
   name: Morokrembangan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224603.yaml
+  lat: -7.233055889059672
+  lon: 112.71360134425021
 - id: 8224630
   name: Krembangan Selatan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224630.yaml
+  lat: -7.239311779596347
+  lon: 112.7346620161109
 - id: 8224631
   name: Kemayoran
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224631.yaml
+  lat: -7.238531318433005
+  lon: 112.7291169455149
 - id: 8224641
   name: Dupak
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224641.yaml
+  lat: -7.288303145572016
+  lon: 112.73575055506758
 - id: 8224663
   name: Jepara
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224663.yaml
+  lat: -7.238787947221266
+  lon: 112.71831577164589
 - id: 8224670
   name: Alon-Alon Contong
+  alt_name:
+  - Alun-Alun Contong
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224670.yaml
+  lat: -7.249869045323482
+  lon: 112.73797954971977
 - id: 8224673
   name: Tembok Dukuh
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224673.yaml
+  lat: -7.253889824575209
+  lon: 112.7162846711789
 - id: 8224676
   name: Gundih
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224676.yaml
+  lat: -7.247930261343497
+  lon: 112.72661874047463
 - id: 8224679
   name: Bubutan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224679.yaml
+  lat: -7.251456100906405
+  lon: 112.73301646656799
 - id: 8224719
   name: Pakis
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224719.yaml
+  lat: -7.286675292631391
+  lon: 112.7252479346908
 - id: 8224725
   name: Banyu Urip
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224725.yaml
+  lat: -7.258775363375847
+  lon: 112.70013988493875
 - id: 8224731
   name: Putat Jaya
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224731.yaml
+  lat: -7.277627159053044
+  lon: 112.7196920443703
 - id: 8224741
   name: Petemon
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224741.yaml
+  lat: -7.25879510723547
+  lon: 112.71605300323716
 - id: 8224765
   name: Sawahan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224765.yaml
+  lat: -7.2595245475066665
+  lon: 112.72259365922459
 - id: 8224782
   name: Kupang Krajan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224782.yaml
+  lat: -7.269522896181994
+  lon: 112.71677276128321
 - id: 8224789
   name: Sono Kwijenan
+  alt_name:
+  - Sonokwijenan
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224789.yaml
+  lat: -7.279361403031183
+  lon: 112.7004618545768
 - id: 8224790
   name: Simomulyo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224790.yaml
+  lat: -7.259994948108073
+  lon: 112.71125408727615
 - id: 8224797
   name: Tanjungsari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224797.yaml
+  lat: -7.267394608070455
+  lon: 112.68920638639945
 - id: 8224805
   name: Simomulyo Baru
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224805.yaml
+  lat: -7.2537508909730395
+  lon: 112.70681349410684
 - id: 8224828
   name: Sukomanunggal
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224828.yaml
+  lat: -7.26529281401956
+  lon: 112.69058401023156
 - id: 8224829
   name: Putat Gede
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224829.yaml
+  lat: -7.28857272806286
+  lon: 112.70214122530265
 - id: 8224840
   name: Tambak Sarioso
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224840.yaml
+  lat: -7.236191469596201
+  lon: 112.70027247536092
 - id: 8224841
   name: Genting Kalianak
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224841.yaml
+  lat: -7.2262353244923565
+  lon: 112.70907133388441
 - id: 8224847
   name: Asemrowo
+  alt_name:
+  - Asem Rowo
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224847.yaml
+  lat: -7.244110300164561
+  lon: 112.69925965254143
 - id: 8224861
   name: Sumberrejo
+  alt_name:
+  - Sumber Rejo
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224861.yaml
+  lat: -7.215864326373668
+  lon: 112.60857075666705
 - id: 8224874
   name: Babat Jerawat
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224874.yaml
+  lat: -7.2331742635818825
+  lon: 112.62900367500691
 - id: 8224883
   name: Benowo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224883.yaml
+  lat: -7.236562568306912
+  lon: 112.60895955483687
 - id: 8224886
   name: Pakal
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224886.yaml
+  lat: -7.240514913810261
+  lon: 112.6194282599575
 - id: 8224911
   name: Bongkaran
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224911.yaml
+  lat: -7.241562484776246
+  lon: 112.74217498967451
 - id: 8224918
   name: Perak Utara
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224918.yaml
+  lat: -7.2089095624141555
+  lon: 112.72952555195334
 - id: 8224926
   name: Nyamplungan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224926.yaml
+  lat: -7.232191168090415
+  lon: 112.73880006352879
 - id: 8224930
   name: Perak Timur
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224930.yaml
+  lat: -7.225007318098603
+  lon: 112.7357325427376
 - id: 8224951
   name: Dukuh Setro
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224951.yaml
+  lat: -7.227880053602249
+  lon: 112.78674286141204
 - id: 8224957
   name: Tambaksari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224957.yaml
+  lat: -7.25391855068005
+  lon: 112.75717664124318
 - id: 8224967
   name: Kapasmadya Baru
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224967.yaml
+  lat: -7.24160558978129
+  lon: 112.76432551270777
 - id: 8224985
   name: Gading
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224985.yaml
+  lat: -7.244768639069172
+  lon: 112.77526503533959
 - id: 8224995
   name: Pacar Kembang
+  alt_name:
+  - Pacarkembang
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224995.yaml
+  lat: -7.260842074798508
+  lon: 112.76676179182424
 - id: 8224997
   name: Pacar Keling
+  alt_name:
+  - Pacarkeling
   type: relation
   admin_level: '7'
   boundaries: boundaries/8224997.yaml
+  lat: -7.260602310718585
+  lon: 112.75714118428232
 - id: 8225001
   name: Rangkah
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225001.yaml
+  lat: -7.2474158214295406
+  lon: 112.76885384542507
 - id: 8225025
   name: Balongsari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225025.yaml
+  lat: -7.253568482329503
+  lon: 112.67798351132787
 - id: 8225035
   name: Tandes
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225035.yaml
+  lat: -7.255320941636233
+  lon: 112.68568705622553
 - id: 8225036
   name: Banjar Sugihan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225036.yaml
+  lat: -7.253959517877359
+  lon: 112.6646832944883
 - id: 8225037
   name: Karangpoh
+  alt_name:
+  - Karang Poh
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225037.yaml
+  lat: -7.26507988280167
+  lon: 112.68009772460144
 - id: 8225038
   name: Manukan Wetan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225038.yaml
+  lat: -7.246726824156749
+  lon: 112.66968522109272
 - id: 8225065
   name: Manukan Kulon
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225065.yaml
+  lat: -7.260725092331453
+  lon: 112.66873586023674
 - id: 8225080
   name: Kandangan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225080.yaml
+  lat: -7.244297998742815
+  lon: 112.64868089338961
 - id: 8225086
   name: Tambakoso Wilangon
+  alt_name:
+  - Tambak Oso Wilangon
+  - Tambak Oso Wilangun
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225086.yaml
+  lat: -7.214960237717777
+  lon: 112.644214174883
 - id: 8225101
   name: Sememi
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225101.yaml
+  lat: -7.246615242027634
+  lon: 112.64017044294214
 - id: 8225107
   name: Romokalisari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225107.yaml
+  lat: -7.208918428397547
+  lon: 112.6387270665873
 - id: 8225118
   name: Ploso
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225118.yaml
+  lat: -7.250143742068336
+  lon: 112.77192802110251
 - id: 8225126
   name: Menanggal
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225126.yaml
+  lat: -7.339869655738784
+  lon: 112.72526236688284
 - id: 8225154
   name: Penjaringan Sari
+  alt_name:
+  - Penjaringansari
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225154.yaml
+  lat: -7.3082455648814815
+  lon: 112.78552250371769
 - id: 8225167
   name: Klampis Ngasem
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225167.yaml
+  lat: -7.287727016645669
+  lon: 112.77738258223432
 - id: 8225185
   name: Wonorejo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225185.yaml
+  lat: -7.311552911579033
+  lon: 112.80765904803425
 - id: 8225194
   name: Jambangan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225194.yaml
+  lat: -7.319101501191525
+  lon: 112.72118402445274
 - id: 8225200
   name: Lakarsantri
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225200.yaml
+  lat: -7.3044931705378335
+  lon: 112.63036978137431
 - id: 8225216
   name: Sambikerep
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225216.yaml
+  lat: -7.25796812461782
+  lon: 112.64435721426722
 - id: 8225224
   name: Kejawen Putih Tambak
+  alt_name:
+  - Kejawaan Putih Tambak
+  - Kejawan Putih Tambak
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225224.yaml
+  lat: -7.270669183066629
+  lon: 112.81683202862645
 - id: 8225250
   name: Kali Rungkut
+  alt_name:
+  - Kalirungkut
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225250.yaml
+  lat: -7.330278870414115
+  lon: 112.77951800686888
 - id: 8225256
   name: Bangkingan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225256.yaml
+  lat: -7.3245112247412605
+  lon: 112.65824898383826
 - id: 8225260
   name: Darmo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225260.yaml
+  lat: -7.288897929679391
+  lon: 112.73515835191935
 - id: 8225261
   name: Balas Klumprik
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225261.yaml
+  lat: -7.329951663520392
+  lon: 112.68878056482163
 - id: 8225263
   name: Medokan Semampir
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225263.yaml
+  lat: -7.303202029443846
+  lon: 112.78965727848743
 - id: 8225273
   name: Kebonsari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225273.yaml
+  lat: -7.32743123695525
+  lon: 112.71633431624775
 - id: 8225299
   name: Gebang Putih
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225299.yaml
+  lat: -7.285169765239317
+  lon: 112.79381921087312
 - id: 8225306
   name: Sumur Welut
+  alt_name:
+  - Sumurwelut
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225306.yaml
+  lat: -7.32924491567338
+  lon: 112.6713299430946
 - id: 8225326
   name: Rungkut Menanggal
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225326.yaml
+  lat: -7.335395599798754
+  lon: 112.77036852716806
 - id: 8225338
   name: Manyar Sabrangan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225338.yaml
+  lat: -7.284350632402364
+  lon: 112.76938501821304
 - id: 8225345
   name: Lidah Wetan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225345.yaml
+  lat: -7.310076883746933
+  lon: 112.66810090516762
 - id: 8225353
   name: Dukuh Menanggal
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225353.yaml
+  lat: -7.342404387050162
+  lon: 112.7255527496562
 - id: 8225354
   name: Babatan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225354.yaml
+  lat: -7.305298367491471
+  lon: 112.67641775447724
 - id: 8225362
   name: Ngagel
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225362.yaml
+  lat: -7.28464918866378
+  lon: 112.74589130644658
 - id: 8225368
   name: Warugunung
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225368.yaml
+  lat: -7.339868972899294
+  lon: 112.67336764427269
 - id: 8225379
   name: Jemur Wonosari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225379.yaml
+  lat: -7.3232084709876055
+  lon: 112.74049714342776
 - id: 8225407
   name: Dukuh Pakis
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225407.yaml
+  lat: -7.297307749535693
+  lon: 112.71845604023562
 - id: 8225410
   name: Pagesangan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225410.yaml
+  lat: -7.333121723493572
+  lon: 112.71338735148355
 - id: 8225413
   name: Ketintang
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225413.yaml
+  lat: -6.815962557117507
+  lon: 112.80952082278401
 - id: 8225423
   name: Sawunggaling
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225423.yaml
+  lat: -7.299676437963524
+  lon: 112.72556390995956
 - id: 8225428
   name: Kedungdoro
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225428.yaml
+  lat: -7.269030102406729
+  lon: 112.74505017706588
 - id: 8225441
   name: Lontar
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225441.yaml
+  lat: -7.279637409943022
+  lon: 112.66929178288619
 - id: 8225451
   name: Semolowaru
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225451.yaml
+  lat: -7.300346131632875
+  lon: 112.78114492597413
 - id: 8225452
   name: Bendul Merisi
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225452.yaml
+  lat: -7.310333953064151
+  lon: 112.74390770637194
 - id: 8225464
   name: SiwalanKerto
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225464.yaml
+  lat: -7.345695242146299
+  lon: 112.75115677882067
 - id: 8225471
   name: Dr. Sutomo
+  alt_name:
+  - Dr. Soetomo
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225471.yaml
+  lat: -7.286417283636886
+  lon: 112.73599643674083
 - id: 8225480
   name: Ngagelrejo
+  alt_name:
+  - Ngagel Rejo
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225480.yaml
+  lat: -7.300897822705176
+  lon: 112.75185048382929
 - id: 8225481
   name: Wonorejo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225481.yaml
+  lat: -7.276353084035525
+  lon: 112.73064991554102
 - id: 8225498
   name: Baratajaya
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225498.yaml
+  lat: -7.295166026443608
+  lon: 112.75853943782671
 - id: 8225502
   name: Mojo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225502.yaml
+  lat: -7.271970271215003
+  lon: 112.7729071250142
 - id: 8225505
   name: Gubeng
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225505.yaml
+  lat: -7.270305388053651
+  lon: 112.75369756166185
 - id: 8225506
   name: Ngiden Jangkungan
+  alt_name:
+  - Nginden Jangkungan
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225506.yaml
+  lat: -7.301743078228675
+  lon: 112.76903806836032
 - id: 8225507
   name: Tenggilis Mejoyo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225507.yaml
+  lat: -7.31857356518548
+  lon: 112.75877953359516
 - id: 8225512
   name: Kedung Baruk
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225512.yaml
+  lat: -7.314060435545321
+  lon: 112.78130282162807
 - id: 8225513
   name: Rungkut Tengah
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225513.yaml
+  lat: -7.3342896363862025
+  lon: 112.76500208083404
 - id: 8225518
   name: Kendangsari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225518.yaml
+  lat: -7.320051464639093
+  lon: 112.74858444121944
 - id: 8225548
   name: Gunung Anyar
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225548.yaml
+  lat: -7.339591782426242
+  lon: 112.79232928271755
 - id: 8225555
   name: Gunungsari
+  alt_name:
+  - Gunung Sari
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225555.yaml
+  lat: -7.295548922153561
+  lon: 112.7176449625014
 - id: 8225571
   name: Tegalsari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225571.yaml
+  lat: -7.27367166219252
+  lon: 112.73646673863333
 - id: 8225592
   name: Keputih
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225592.yaml
+  lat: -7.285491093344213
+  lon: 112.80218947528
 - id: 8225597
   name: Jajar Tunggal
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225597.yaml
+  lat: -7.29770096169646
+  lon: 112.70069432865574
 - id: 8225599
   name: Mulyorejo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225599.yaml
+  lat: -7.266706925795803
+  lon: 112.78295329393539
 - id: 8225604
   name: Margorejo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225604.yaml
+  lat: -7.312854525894596
+  lon: 112.74397502038208
 - id: 8225605
   name: Rungkut Kidul
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225605.yaml
+  lat: -7.329736690061948
+  lon: 112.7751870484873
 - id: 8225609
   name: Kedurus
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225609.yaml
+  lat: -7.31845467148862
+  lon: 112.70760186842809
 - id: 8225610
   name: Karah
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225610.yaml
+  lat: -7.315862630830221
+  lon: 112.71660707007119
 - id: 8225617
   name: Sidosermo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225617.yaml
+  lat: -7.3114172045634245
+  lon: 112.74735471618989
 - id: 8225624
   name: Karang Pilang
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225624.yaml
+  lat: -7.34008964876085
+  lon: 112.68968270074538
 - id: 8225627
   name: Panjang Jiwo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225627.yaml
+  lat: -7.311759877879263
+  lon: 112.76256511276158
 - id: 8225633
   name: Jagir
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225633.yaml
+  lat: -7.305822455841471
+  lon: 112.74322884356255
 - id: 8225638
   name: Gayungan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225638.yaml
+  lat: -7.333692736728495
+  lon: 112.72439328732268
 - id: 8225649
   name: Menur Pumpungan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225649.yaml
+  lat: -7.288363991038199
+  lon: 112.77080694760792
 - id: 8225651
   name: Made
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225651.yaml
+  lat: -7.2774463803574765
+  lon: 112.63883830070897
 - id: 8225653
   name: Gunung Anyar Tambak
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225653.yaml
+  lat: -7.3339935983296645
+  lon: 112.81003310148246
 - id: 8225658
   name: Wonokromo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225658.yaml
+  lat: -7.3066628190050125
+  lon: 112.72876163852764
 - id: 8225666
   name: Dukuh Sutorejo
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225666.yaml
+  lat: -7.259545391075561
+  lon: 112.79858692325533
 - id: 8225671
   name: Jeruk
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225671.yaml
+  lat: -7.2971292057677095
+  lon: 112.64143521864735
 - id: 8225675
   name: Medokan Ayu
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225675.yaml
+  lat: -7.30336389549936
+  lon: 112.81895451693372
 - id: 8225695
   name: Keputran
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225695.yaml
+  lat: -7.285111250109617
+  lon: 112.74230126011649
 - id: 8225697
   name: Wiyung
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225697.yaml
+  lat: -7.3162661979243415
+  lon: 112.68899163226452
 - id: 8225703
   name: Kertajaya
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225703.yaml
+  lat: -7.284242377953319
+  lon: 112.75943708603766
 - id: 8225742
   name: Kalisari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225742.yaml
+  lat: -7.262337668663978
+  lon: 112.80781240784731
 - id: 8225755
   name: Kalijudan
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225755.yaml
+  lat: -7.261210049114443
+  lon: 112.77942588929945
 - id: 8225787
   name: Airlangga
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225787.yaml
+  lat: -7.275532952079402
+  lon: 112.75092652973507
 - id: 8225792
   name: Kutisari
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225792.yaml
+  lat: -7.335360661862419
+  lon: 112.75046828498441
 - id: 8225809
   name: Bringin
+  alt_name:
+  - Beringin
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225809.yaml
+  lat: -7.2559018854135795
+  lon: 112.64826487306448
 - id: 8225811
   name: Dukuh Kupang
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225811.yaml
+  lat: -7.280662040092153
+  lon: 112.71573502628338
 - id: 8225821
   name: Pradahkali Kendal
+  alt_name:
+  - Pradah Kalikendal
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225821.yaml
+  lat: -7.291117466634417
+  lon: 112.68735973412501
 - id: 8225833
   name: Lidah Kulon
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225833.yaml
+  lat: -7.302254430026899
+  lon: 112.6571033262935
 - id: 8225850
   name: Kebraon
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225850.yaml
+  lat: -7.3304467089547725
+  lon: 112.7020778369345
 - id: 8225852
   name: Pucang Sewu
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225852.yaml
+  lat: -7.28609026115776
+  lon: 112.7517793238475
 - id: 8225861
   name: Krembangan Utara
+  alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/8225861.yaml
+  lat: -7.227238884033842
+  lon: 112.73174492258455
