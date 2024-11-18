@@ -1,0 +1,162 @@
+objects:
+- id: 120498550
+  name: Suku Dinas Kebakaran Matraman Jakarta Timur
+  alt_name: []
+  latitude: -6.209629549534568
+  longitude: 106.85930185158259
+  type: way
+  amenity_type: fire_station
+- id: 121648561
+  name: Suku Dinas Kebakaran Jakarta Timur
+  alt_name: []
+  latitude: -6.222113149999999
+  longitude: 106.93293065
+  type: way
+  amenity_type: fire_station
+- id: 155945938
+  name: Pos Pemadam Kebakaran Kelurahan Lubang Buaya
+  alt_name: []
+  latitude: -6.28935988686376
+  longitude: 106.90394682640861
+  type: way
+  amenity_type: fire_station
+- id: 155946248
+  name: Kantor Pemadam Kebakaran Sektor Utan Kayu Utara
+  alt_name: []
+  latitude: -6.1942162000000005
+  longitude: 106.8689631
+  type: way
+  amenity_type: fire_station
+- id: 155947526
+  name: Kantor Pemadam Kebakaran Kelurahan Kayu Putih
+  alt_name: []
+  latitude: -6.179576375158525
+  longitude: 106.8808396604665
+  type: way
+  amenity_type: fire_station
+- id: 471703884
+  name: Dinas Pemadam Kebakaran BPBD DKI Jakarta
+  alt_name: []
+  latitude: -6.2280101520117785
+  longitude: 106.87487281428994
+  type: way
+  amenity_type: fire_station
+- id: 478192627
+  name: Pos Pekayon Dinas Gulkar Dan Penyelamatan Jakarta Timur
+  alt_name: []
+  latitude: -6.33960115
+  longitude: 106.8628872
+  type: way
+  amenity_type: fire_station
+- id: 487332814
+  name: Pos Pemadam Kebakaran
+  alt_name: []
+  latitude: -6.276546057758996
+  longitude: 106.86087431561505
+  type: way
+  amenity_type: fire_station
+- id: 491238385
+  name: Pos Damkar Sektor 3 Cakung
+  alt_name: []
+  latitude: -6.173584389527537
+  longitude: 106.93375370615706
+  type: way
+  amenity_type: fire_station
+- id: 493580343
+  name: Dinas Pemadam Kebakaran Posko Rambutan
+  alt_name: []
+  latitude: -6.289956773672566
+  longitude: 106.87195315739434
+  type: way
+  amenity_type: fire_station
+- id: 493919923
+  name: Pos Pemadam Kebakaran Kantor Kecamatan Cakung
+  alt_name: []
+  latitude: -6.184218970857707
+  longitude: 106.93990659215766
+  type: way
+  amenity_type: fire_station
+- id: 496002852
+  name: Posko Dinas Pemadam Kebakaran
+  alt_name: []
+  latitude: -6.26274785
+  longitude: 106.88098470000001
+  type: way
+  amenity_type: fire_station
+- id: 496806583
+  name: Kantor Sektor Pemadam Kebakaran
+  alt_name: []
+  latitude: -6.19286455218927
+  longitude: 106.8870391690708
+  type: way
+  amenity_type: fire_station
+- id: 499239200
+  name: Dinas Kebakaran DKI Jakarta Sudin Kodya Jakarta Timur
+  alt_name: []
+  latitude: -6.203038460314695
+  longitude: 106.9307488796961
+  type: way
+  amenity_type: fire_station
+- id: 507118369
+  name: Pos Pemadam Kebakaran Sektor Ciracas
+  alt_name: []
+  latitude: -6.325935798958759
+  longitude: 106.8682072010083
+  type: way
+  amenity_type: fire_station
+- id: 507536011
+  name: Kantor Diklat Kebakaran Dinas Pemadam Kebakaran Provinsi DKI Jakarta
+  alt_name: []
+  latitude: -6.3295309911497935
+  longitude: 106.87969388027365
+  type: way
+  amenity_type: fire_station
+- id: 508564866
+  name: Pemadam Kebakaran Kelurahan Cipayung
+  alt_name: []
+  latitude: -6.3279348
+  longitude: 106.9015983
+  type: way
+  amenity_type: fire_station
+- id: 509791568
+  name: Pos Pemadam Kebakaran Sektor Pasar Rebo
+  alt_name: []
+  latitude: -6.3179403999999995
+  longitude: 106.85478655000001
+  type: way
+  amenity_type: fire_station
+- id: 510975886
+  name: Pemadam Kebakaran Kelurahan Duren Sawit
+  alt_name: []
+  latitude: -6.230734507115409
+  longitude: 106.91458527149285
+  type: way
+  amenity_type: fire_station
+- id: 512300233
+  name: Suku Dinas Kebakaran Jakarta Timur - Pos Pondok Kelapa
+  alt_name: []
+  latitude: -6.239721899999999
+  longitude: 106.93460875
+  type: way
+  amenity_type: fire_station
+- id: 513503338
+  name: Pemadam Kebakaran Sektor Durensawit
+  alt_name: []
+  latitude: -6.247467919673386
+  longitude: 106.9260128862936
+  type: way
+  amenity_type: fire_station
+- id: 1268372711
+  name: Pemadam kebakaran
+  alt_name: []
+  latitude: -6.247467919673386
+  longitude: 106.9260128862936
+  type: way
+  amenity_type: fire_station
+- id: 11779972199
+  name: Kantor Pemadam Kebakaran Kramat Jati
+  alt_name: []
+  latitude: -6.2774997
+  longitude: 106.8714079
+  type: node
+  amenity_type: fire_station

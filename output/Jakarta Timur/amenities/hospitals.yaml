@@ -1,0 +1,561 @@
+objects:
+- id: 7409174
+  name: Rumah Sakit Bhayangkara TK. IR. Said Sukanto
+  alt_name: []
+  latitude: -6.270209292272409
+  longitude: 106.87117475261472
+  type: relation
+  amenity_type: hospital
+- id: 7409284
+  name: Rumah Sakit DIK Pusdikkes TNI AD
+  alt_name: []
+  latitude: -6.276616373429094
+  longitude: 106.86933085674572
+  type: relation
+  amenity_type: hospital
+- id: 119913162
+  name: Rumah Sakit Cijantung
+  alt_name: []
+  latitude: -6.307496548270213
+  longitude: 106.8588934041955
+  type: way
+  amenity_type: hospital
+- id: 120184483
+  name: Rumah Sakit Harum Sisma Medika
+  alt_name: []
+  latitude: -6.248171289146382
+  longitude: 106.90959284792132
+  type: way
+  amenity_type: hospital
+- id: 120495770
+  name: Rumah Sakit Bersalin Bidara Mulia
+  alt_name: []
+  latitude: -6.2306520999999995
+  longitude: 106.86697609999999
+  type: way
+  amenity_type: hospital
+- id: 121195900
+  name: Rumah Sakit Umum UKI
+  alt_name: []
+  latitude: -6.2508229260087385
+  longitude: 106.87221108500661
+  type: way
+  amenity_type: hospital
+- id: 121802687
+  name: Rumah Sakit Ibu dan Anak Asta Nugraha
+  alt_name: []
+  latitude: -6.2215123667136245
+  longitude: 106.91479159584608
+  type: way
+  amenity_type: hospital
+- id: 153303478
+  name: RSUD Pasar Rebo
+  alt_name: []
+  latitude: -6.303621686083854
+  longitude: 106.86212951244558
+  type: way
+  amenity_type: hospital
+- id: 153318583
+  name: Rumah Sakit Umum Persahabatan
+  alt_name: []
+  latitude: -6.204302138432141
+  longitude: 106.88453545146041
+  type: way
+  amenity_type: hospital
+- id: 155931564
+  name: RS Premier Jatinegara
+  alt_name: []
+  latitude: -6.221651033641352
+  longitude: 106.86882249961131
+  type: way
+  amenity_type: hospital
+- id: 155936712
+  name: Rumah Sakit Umum Adhyaksa
+  alt_name: []
+  latitude: -6.307848820442391
+  longitude: 106.8927316068226
+  type: way
+  amenity_type: hospital
+- id: 155947535
+  name: Rumah Sakit Omni
+  alt_name: []
+  latitude: -6.180357240445069
+  longitude: 106.88389830259247
+  type: way
+  amenity_type: hospital
+- id: 155947536
+  name: Rumah Sakit Kartika Pulo Mas
+  alt_name: []
+  latitude: -6.175962050000001
+  longitude: 106.88490600000002
+  type: way
+  amenity_type: hospital
+- id: 155948488
+  name: Rumah Sakit Islam Jiwa Jakarta
+  alt_name: []
+  latitude: -6.221891224750931
+  longitude: 106.93307509545377
+  type: way
+  amenity_type: hospital
+- id: 155951286
+  name: Rumah Sakit Ibu dan Anak Restu Kasih
+  alt_name: []
+  latitude: -6.265089099999998
+  longitude: 106.8664545
+  type: way
+  amenity_type: hospital
+- id: 155955548
+  name: 'RSUD Duren Sawit : Instalasi Kedaruratan Emosi dan Perilaku'
+  alt_name: []
+  latitude: -6.231139342335915
+  longitude: 106.90860192445416
+  type: way
+  amenity_type: hospital
+- id: 157211723
+  name: Rumah Sakit Ibu dan Anak Resti Mulya
+  alt_name: []
+  latitude: -6.208757049399881
+  longitude: 106.94178096274301
+  type: way
+  amenity_type: hospital
+- id: 174132866
+  name: Rumah Sakit Rawamangun
+  alt_name: []
+  latitude: -6.196357359356058
+  longitude: 106.88548949782093
+  type: way
+  amenity_type: hospital
+- id: 454014924
+  name: RS Jantung Jakarta
+  alt_name: []
+  latitude: -6.200176970914969
+  longitude: 106.85538077774869
+  type: way
+  amenity_type: hospital
+- id: 482154808
+  name: RS Hermina Jatinegara
+  alt_name: []
+  latitude: -6.22121215977527
+  longitude: 106.86474387566231
+  type: way
+  amenity_type: hospital
+- id: 482414704
+  name: Rumah Sakit Umum Al Fauzan
+  alt_name: []
+  latitude: -6.299590083839278
+  longitude: 106.86909322203341
+  type: way
+  amenity_type: hospital
+- id: 483648323
+  name: Rumah Sakit Umum Daerah Budi Asih
+  alt_name: []
+  latitude: -6.255872868145985
+  longitude: 106.86308885777633
+  type: way
+  amenity_type: hospital
+- id: 486017076
+  name: RSIA Sayyidah
+  alt_name: []
+  latitude: -6.23028375
+  longitude: 106.9253539
+  type: way
+  amenity_type: hospital
+- id: 488434301
+  name: Rumah Sakit Bersalin Elshama
+  alt_name: []
+  latitude: -6.281785259368299
+  longitude: 106.87151598974089
+  type: way
+  amenity_type: hospital
+- id: 488436069
+  name: Rumah Sakit Umum Pengayoman
+  alt_name: []
+  latitude: -6.215589817341794
+  longitude: 106.88379713711798
+  type: way
+  amenity_type: hospital
+- id: 488480763
+  name: Rumah Sakit Harapan Jayakarta
+  alt_name: []
+  latitude: -6.195000579792405
+  longitude: 106.90585328307515
+  type: way
+  amenity_type: hospital
+- id: 489532008
+  name: RSUD Matraman
+  alt_name: []
+  latitude: -6.2062439413812065
+  longitude: 106.86601677025185
+  type: way
+  amenity_type: hospital
+- id: 489540663
+  name: Rumah Sakit Umum Kramat Jati
+  alt_name: []
+  latitude: -6.28687463660076
+  longitude: 106.86228595860415
+  type: way
+  amenity_type: hospital
+- id: 496806581
+  name: RS Khusus Mata SMECO Jakarta
+  alt_name: []
+  latitude: -6.192738642436831
+  longitude: 106.88270902629881
+  type: way
+  amenity_type: hospital
+- id: 498534952
+  name: Klinik Dr. Widi Sp.OG
+  alt_name: []
+  latitude: -6.346962052726798
+  longitude: 106.89464588713138
+  type: way
+  amenity_type: hospital
+- id: 499215974
+  name: Rumah Sakit Ketergantungan Obat (RSKO) Jakarta
+  alt_name: []
+  latitude: -6.346997094551521
+  longitude: 106.8724515442556
+  type: way
+  amenity_type: hospital
+- id: 499215999
+  name: RSUD Ciracas
+  alt_name: []
+  latitude: -6.345696344414282
+  longitude: 106.87388427541069
+  type: way
+  amenity_type: hospital
+- id: 500025512
+  name: Rumah Sakit Moh. Ridwan Meuraksa
+  alt_name: []
+  latitude: -6.294315534467946
+  longitude: 106.88270874896746
+  type: way
+  amenity_type: hospital
+- id: 500082522
+  name: Rumah Sakit Olahraga Nasional
+  alt_name: []
+  latitude: -6.368543240517492
+  longitude: 106.89276624156567
+  type: way
+  amenity_type: hospital
+- id: 506663668
+  name: RS Islam Jakarta Pondok Kopi
+  alt_name: []
+  latitude: -6.22030524474111
+  longitude: 106.93998685164483
+  type: way
+  amenity_type: hospital
+- id: 509344178
+  name: RSIA SamMarie Basra
+  alt_name: []
+  latitude: -6.22921295
+  longitude: 106.8973049
+  type: way
+  amenity_type: hospital
+- id: 509360288
+  name: RSIA Bunda Aliyah
+  alt_name: []
+  latitude: -6.233233221316042
+  longitude: 106.89720687661288
+  type: way
+  amenity_type: hospital
+- id: 509813981
+  name: Rumah Sakit Ibu Anak dr. Euis
+  alt_name: []
+  latitude: -6.245499077831822
+  longitude: 106.94283191371719
+  type: way
+  amenity_type: hospital
+- id: 511210788
+  name: Rumah Sakit Jantung Binawaluya
+  alt_name: []
+  latitude: -6.307985264732915
+  longitude: 106.8709168300656
+  type: way
+  amenity_type: hospital
+- id: 511269098
+  name: Rumah Sakit Duren Sawit
+  alt_name: []
+  latitude: -6.231870470772062
+  longitude: 106.90948395987296
+  type: way
+  amenity_type: hospital
+- id: 512761969
+  name: Rumah Sakit Harapan Bunda
+  alt_name: []
+  latitude: -6.3029451068695845
+  longitude: 106.86811873095726
+  type: way
+  amenity_type: hospital
+- id: 517146116
+  name: Rumah Sakit Antam Medika
+  alt_name: []
+  latitude: -6.192689986058821
+  longitude: 106.90270346199982
+  type: way
+  amenity_type: hospital
+- id: 782976876
+  name: RSIA Restu Kasih
+  alt_name: []
+  latitude: -6.2657129704263825
+  longitude: 106.86647744062745
+  type: way
+  amenity_type: hospital
+- id: 782995198
+  name: RS Angkatan Udara Dr. Esnawan Antariksa
+  alt_name: []
+  latitude: -6.257478203527271
+  longitude: 106.89219870510694
+  type: way
+  amenity_type: hospital
+- id: 783784511
+  name: RS Haji
+  alt_name: []
+  latitude: -6.289849530349809
+  longitude: 106.8892233767687
+  type: way
+  amenity_type: hospital
+- id: 784978246
+  name: Rumah Sakit Columbia Asia
+  alt_name: []
+  latitude: -6.1819759208856935
+  longitude: 106.89116145208797
+  type: way
+  amenity_type: hospital
+- id: 912306495
+  name: Rumah Sakit Mediros
+  alt_name: []
+  latitude: -6.17994395498455
+  longitude: 106.90375015153302
+  type: way
+  amenity_type: hospital
+- id: 914672731
+  name: Rumah Sakit Dharma Nugraha
+  alt_name: []
+  latitude: -6.195993997112977
+  longitude: 106.88640788277715
+  type: way
+  amenity_type: hospital
+- id: 927020149
+  name: Rumah Sakit Pusat Otak Nasional
+  alt_name: []
+  latitude: -6.2465836144656945
+  longitude: 106.87041897152098
+  type: way
+  amenity_type: hospital
+- id: 927644507
+  name: RS Yadika
+  alt_name: []
+  latitude: -6.23723166111755
+  longitude: 106.89915317209015
+  type: way
+  amenity_type: hospital
+- id: 5994596682
+  name: Rumah Sakit Ketergantungan Obat
+  alt_name: []
+  latitude: -6.3469579
+  longitude: 106.8724481
+  type: node
+  amenity_type: hospital
+- id: 10554018661
+  name: Klinik SouthernUK
+  alt_name: []
+  latitude: -6.2078757
+  longitude: 106.8675387
+  type: node
+  amenity_type: hospital
+- id: 11879105317
+  name: RS ANTAM MEDIKA
+  alt_name: []
+  latitude: -6.192682
+  longitude: 106.9026992
+  type: node
+  amenity_type: hospital
+- id: 11879111685
+  name: RSUD KRAMAT JATI
+  alt_name: []
+  latitude: -6.2868679
+  longitude: 106.8622797
+  type: node
+  amenity_type: hospital
+- id: 11879111687
+  name: RS HAJI JAKARTA
+  alt_name: []
+  latitude: -6.2898814
+  longitude: 106.8891492
+  type: node
+  amenity_type: hospital
+- id: 11879113156
+  name: RSKB COLUMBIA ASIA PULOMAS
+  alt_name: []
+  latitude: -6.1821493
+  longitude: 106.891082
+  type: node
+  amenity_type: hospital
+- id: 11879114083
+  name: RSUD CIRACAS
+  alt_name: []
+  latitude: -6.3455971
+  longitude: 106.8738712
+  type: node
+  amenity_type: hospital
+- id: 11879117977
+  name: RSUD MATRAMAN
+  alt_name: []
+  latitude: -6.2062623
+  longitude: 106.8660138
+  type: node
+  amenity_type: hospital
+- id: 11879121418
+  name: RSUD PASAR REBO
+  alt_name: []
+  latitude: -6.3033892
+  longitude: 106.8618752
+  type: node
+  amenity_type: hospital
+- id: 11879123854
+  name: RSAU DR. ESNAWAN ANTARIKSA
+  alt_name: []
+  latitude: -6.2573733
+  longitude: 106.8918558
+  type: node
+  amenity_type: hospital
+- id: 11879123942
+  name: RSUD BUDHI ASIH
+  alt_name: []
+  latitude: -6.2560273
+  longitude: 106.862978
+  type: node
+  amenity_type: hospital
+- id: 11879124001
+  name: RS BHAYANGKARA RADEN SAID SUKANTO
+  alt_name: []
+  latitude: -6.2696092
+  longitude: 106.8711147
+  type: node
+  amenity_type: hospital
+- id: 11879128229
+  name: RS RIDWAN MOREKSA
+  alt_name: []
+  latitude: -6.2942592
+  longitude: 106.8825824
+  type: node
+  amenity_type: hospital
+- id: 11879129277
+  name: RS ADHYAKSA
+  alt_name: []
+  latitude: -6.3078316
+  longitude: 106.8927312
+  type: node
+  amenity_type: hospital
+- id: 11879129531
+  name: RS YADIKA PONDOK BAMBU
+  alt_name: []
+  latitude: -6.2371953
+  longitude: 106.8991335
+  type: node
+  amenity_type: hospital
+- id: 11879130107
+  name: RS HERMINA JATINEGARA
+  alt_name: []
+  latitude: -6.2215235
+  longitude: 106.8644361
+  type: node
+  amenity_type: hospital
+- id: 11879130853
+  name: RSUP PERSAHABATAN
+  alt_name: []
+  latitude: -6.2026878
+  longitude: 106.8847484
+  type: node
+  amenity_type: hospital
+- id: 11879131879
+  name: RS HARAPAN BUNDA
+  alt_name: []
+  latitude: -6.3029512
+  longitude: 106.8680213
+  type: node
+  amenity_type: hospital
+- id: 11879134331
+  name: RS DHARMA NUGRAHA
+  alt_name: []
+  latitude: -6.1960084
+  longitude: 106.8863978
+  type: node
+  amenity_type: hospital
+- id: 11879136526
+  name: RS HARAPAN JAYAKARTA
+  alt_name: []
+  latitude: -6.1948769
+  longitude: 106.9062814
+  type: node
+  amenity_type: hospital
+- id: 11879139983
+  name: RS KESDAM JAYA CIJANTUNG
+  alt_name: []
+  latitude: -6.3073687
+  longitude: 106.8589442
+  type: node
+  amenity_type: hospital
+- id: 11879140461
+  name: RS ISLAM JAKARTA PONDOK KOPI
+  alt_name: []
+  latitude: -6.2200191
+  longitude: 106.9396181
+  type: node
+  amenity_type: hospital
+- id: 11879142776
+  name: RS KARTIKA PULOMAS
+  alt_name: []
+  latitude: -6.1759668
+  longitude: 106.8848922
+  type: node
+  amenity_type: hospital
+- id: 11879149960
+  name: RS HARUM SISMA MEDIKA
+  alt_name: []
+  latitude: -6.2481403
+  longitude: 106.9096007
+  type: node
+  amenity_type: hospital
+- id: 11879152787
+  name: RS UNIVERSITAS KRISTEN INDONESIA
+  alt_name: []
+  latitude: -6.2506392
+  longitude: 106.8719111
+  type: node
+  amenity_type: hospital
+- id: 11879152935
+  name: RS EMC PULOMAS
+  alt_name: []
+  latitude: -6.1802378
+  longitude: 106.8837433
+  type: node
+  amenity_type: hospital
+- id: 11879155117
+  name: RS PREMIER JATINEGARA
+  alt_name: []
+  latitude: -6.2216981
+  longitude: 106.8686714
+  type: node
+  amenity_type: hospital
+- id: 11879157183
+  name: RS PENGAYOMAN CIPINANG
+  alt_name: []
+  latitude: -6.2149417
+  longitude: 106.8837596
+  type: node
+  amenity_type: hospital
+- id: 11879160224
+  name: RS MEDIROS
+  alt_name: []
+  latitude: -6.1798914
+  longitude: 106.9036994
+  type: node
+  amenity_type: hospital
+- id: 11879170165
+  name: RS PUSDIKKES
+  alt_name: []
+  latitude: -6.276816
+  longitude: 106.8694697
+  type: node
+  amenity_type: hospital

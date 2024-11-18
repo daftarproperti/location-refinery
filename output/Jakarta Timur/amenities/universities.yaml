@@ -1,0 +1,281 @@
+objects:
+- id: 12615537
+  name: Universitas Mpu Tantular
+  alt_name: []
+  latitude: -6.22565967615646
+  longitude: 106.87646550657298
+  type: relation
+  amenity_type: university
+- id: 119417286
+  name: Universitas Jayabaya
+  alt_name: []
+  latitude: -6.353731150128198
+  longitude: 106.86108518419617
+  type: way
+  amenity_type: university
+- id: 119901543
+  name: Universitas MH Thamrin
+  alt_name: []
+  latitude: -6.287696555002123
+  longitude: 106.87475611465331
+  type: way
+  amenity_type: university
+- id: 120161323
+  name: Universitas Borobudur
+  alt_name: []
+  latitude: -6.2440133009819005
+  longitude: 106.89763632740538
+  type: way
+  amenity_type: university
+- id: 153318591
+  name: Universitas Negeri Jakarta
+  alt_name: []
+  latitude: -6.191881842346689
+  longitude: 106.88800395861615
+  type: way
+  amenity_type: university
+- id: 155936716
+  name: Kampus Kejaksaan
+  alt_name: []
+  latitude: -6.311150909359186
+  longitude: 106.8916774072958
+  type: way
+  amenity_type: university
+- id: 155949278
+  name: Institut Pembina Rohani Islam Jakarta (IPRIJA)
+  alt_name: []
+  latitude: -6.3442176584963414
+  longitude: 106.88514036886474
+  type: way
+  amenity_type: university
+- id: 155952116
+  name: Universitas Darma Persada
+  alt_name: []
+  latitude: -6.229624766833862
+  longitude: 106.92416058755383
+  type: way
+  amenity_type: university
+- id: 155963030
+  name: Universitas Dirgantara Marsekal Suryadarma
+  alt_name: []
+  latitude: -6.262654389630686
+  longitude: 106.88813035164279
+  type: way
+  amenity_type: university
+- id: 157396411
+  name: Universitas Negeri Jakarta
+  alt_name: []
+  latitude: -6.194521841938763
+  longitude: 106.8783868120027
+  type: way
+  amenity_type: university
+- id: 472363151
+  name: Institut Bisnis Nusantara
+  alt_name: []
+  latitude: -6.2373500090100125
+  longitude: 106.87644497799158
+  type: way
+  amenity_type: university
+- id: 482149087
+  name: Universitas Azzahra
+  alt_name: []
+  latitude: -6.223261629401941
+  longitude: 106.86574884176142
+  type: way
+  amenity_type: university
+- id: 482178642
+  name: Sekolah Tinggi Ilmu Bahasa Asing
+  alt_name: []
+  latitude: -6.22320683673922
+  longitude: 106.86687021498334
+  type: way
+  amenity_type: university
+- id: 482397051
+  name: Universitas Terbuka UPBJJ-UT Jakarta
+  alt_name: []
+  latitude: -6.20140650274993
+  longitude: 106.87255219786104
+  type: way
+  amenity_type: university
+- id: 484636778
+  name: Universitas Wiraswasta Indonesia
+  alt_name: []
+  latitude: -6.2250585080657075
+  longitude: 106.86894972922617
+  type: way
+  amenity_type: university
+- id: 484685063
+  name: Universitas Surapati
+  alt_name: []
+  latitude: -6.252168596719502
+  longitude: 106.86433784191902
+  type: way
+  amenity_type: university
+- id: 486475802
+  name: Pascasarjana Universitas Islam Jakarta
+  alt_name: []
+  latitude: -6.1971292316515285
+  longitude: 106.8700350299877
+  type: way
+  amenity_type: university
+- id: 487604623
+  name: Universitas Kristen Indonesia
+  alt_name: []
+  latitude: -6.249005603072543
+  longitude: 106.8724343968556
+  type: way
+  amenity_type: university
+- id: 489461849
+  name: GS Fame Institute Of Business
+  alt_name: []
+  latitude: -6.1735709675695665
+  longitude: 106.88901463997531
+  type: way
+  amenity_type: university
+- id: 489766193
+  name: Kampus B Universitas MH Thamrin
+  alt_name: []
+  latitude: -6.283434968541262
+  longitude: 106.87104939954419
+  type: way
+  amenity_type: university
+- id: 491494439
+  name: Universitas Islam Jakarta
+  alt_name: []
+  latitude: -6.197223479310024
+  longitude: 106.86899386054093
+  type: way
+  amenity_type: university
+- id: 496795716
+  name: Universitas Muhammadiyah Prof. Dr. Hamka
+  alt_name: []
+  latitude: -6.3030971631131765
+  longitude: 106.87169040307344
+  type: way
+  amenity_type: university
+- id: 496832557
+  name: Universitas Borobudur
+  alt_name: []
+  latitude: -6.192452062681544
+  longitude: 106.88036438139557
+  type: way
+  amenity_type: university
+- id: 496832701
+  name: Universitas Ibnu Chaldun Jakarta
+  alt_name: []
+  latitude: -6.191820250000002
+  longitude: 106.87800595
+  type: way
+  amenity_type: university
+- id: 499764975
+  name: Universitas Muhammadiyah Prof. Dr. Hamka Fakultas Farmasi dan Sains
+  alt_name: []
+  latitude: -6.219939407478956
+  longitude: 106.92884381713517
+  type: way
+  amenity_type: university
+- id: 500968929
+  name: Sekolah Tinggi Ilmu Ekonomi Swadaya
+  alt_name: []
+  latitude: -6.249070385353618
+  longitude: 106.90785771686264
+  type: way
+  amenity_type: university
+- id: 504664444
+  name: Universitas Ibnu Chaldun Jakarta
+  alt_name: []
+  latitude: -6.191635292780338
+  longitude: 106.87784629754783
+  type: way
+  amenity_type: university
+- id: 505010318
+  name: Universitas Jayabaya
+  alt_name: []
+  latitude: -6.179632401961471
+  longitude: 106.87744213026048
+  type: way
+  amenity_type: university
+- id: 506658479
+  name: Institut Teknologi Budi Utomo
+  alt_name: []
+  latitude: -6.221459084819329
+  longitude: 106.93998204013135
+  type: way
+  amenity_type: university
+- id: 509361583
+  name: Universitas Respati Indonesia
+  alt_name: []
+  latitude: -6.316282319814683
+  longitude: 106.90103980669753
+  type: way
+  amenity_type: university
+- id: 510637106
+  name: Universitas Muhammadiyah Prof. Dr. Hamka
+  alt_name: []
+  latitude: -6.305317762645963
+  longitude: 106.86631064556666
+  type: way
+  amenity_type: university
+- id: 512018103
+  name: Universitas Respati Indonesia (Kampus B)
+  alt_name: []
+  latitude: -6.319053436650309
+  longitude: 106.9001546661538
+  type: way
+  amenity_type: university
+- id: 512761931
+  name: Fakultas Teknik Uhamka
+  alt_name: []
+  latitude: -6.3068817108547846
+  longitude: 106.87352404907622
+  type: way
+  amenity_type: university
+- id: 512762576
+  name: Universitas Indraprasta PGRI
+  alt_name: []
+  latitude: -6.295198179896166
+  longitude: 106.86195135953443
+  type: way
+  amenity_type: university
+- id: 926456346
+  name: Universitas Jakarta
+  alt_name: []
+  latitude: -6.179497861384755
+  longitude: 106.87904388752285
+  type: way
+  amenity_type: university
+- id: 1316349688
+  name: Universitas Paramadina
+  alt_name: []
+  latitude: -6.315278230127547
+  longitude: 106.90639939079007
+  type: way
+  amenity_type: university
+- id: 4152444161
+  name: Kalbis Institute
+  alt_name: []
+  latitude: -6.1789536
+  longitude: 106.8773059
+  type: node
+  amenity_type: university
+- id: 4243842960
+  name: Indonesia International Institute for Life-Sciences
+  alt_name: []
+  latitude: -6.1791793
+  longitude: 106.8784888
+  type: node
+  amenity_type: university
+- id: 4883015190
+  name: Institut Agama Islam Al-Ghurabaa
+  alt_name: []
+  latitude: -6.1991362
+  longitude: 106.8922699
+  type: node
+  amenity_type: university
+- id: 6728983357
+  name: ST BAHASA ASING
+  alt_name: []
+  latitude: -6.2231786
+  longitude: 106.8668375
+  type: node
+  amenity_type: university

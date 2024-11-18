@@ -1,0 +1,569 @@
+objects:
+- id: 119777111
+  name: Terminal Bus Kampung Melayu
+  alt_name: []
+  latitude: -6.224991408575055
+  longitude: 106.86686584423366
+  type: way
+  amenity_type: bus_station
+- id: 126541926
+  name: Terminal Pulo Gadung
+  alt_name:
+  - terminal pulogadung
+  latitude: -6.183094432140347
+  longitude: 106.90848074190194
+  type: way
+  amenity_type: bus_station
+- id: 126546821
+  name: Terminal Kampung Rambutan
+  alt_name: []
+  latitude: -6.310765561368016
+  longitude: 106.88340847799233
+  type: way
+  amenity_type: bus_station
+- id: 155930203
+  name: Terminal Bus Pinang Ranti
+  alt_name: []
+  latitude: -6.291816237955704
+  longitude: 106.88630636168969
+  type: way
+  amenity_type: bus_station
+- id: 155954024
+  name: Terminal Bus Terpadu Sentra Timur Pulo Gebang
+  alt_name: []
+  latitude: -6.211804676701967
+  longitude: 106.95263408349523
+  type: way
+  amenity_type: bus_station
+- id: 514139524
+  name: Terminal Bus Rawamangun
+  alt_name: []
+  latitude: -6.197945117914318
+  longitude: 106.89109078683516
+  type: way
+  amenity_type: bus_station
+- id: 519522437
+  name: Terminal Bus Klender
+  alt_name: []
+  latitude: -6.2213832255901735
+  longitude: 106.93263241388249
+  type: way
+  amenity_type: bus_station
+- id: 3415431310
+  name: PGC
+  alt_name: []
+  latitude: -6.2620275
+  longitude: 106.8654261
+  type: node
+  amenity_type: bus_station
+- id: 3415431384
+  name: Kayu Jati
+  alt_name: []
+  latitude: -6.193262
+  longitude: 106.8836945
+  type: node
+  amenity_type: bus_station
+- id: 3415431398
+  name: Rawamangun
+  alt_name: []
+  latitude: -6.1929121
+  longitude: 106.8803154
+  type: node
+  amenity_type: bus_station
+- id: 3415431401
+  name: Velodrome
+  alt_name: []
+  latitude: -6.1934641
+  longitude: 106.8883007
+  type: node
+  amenity_type: bus_station
+- id: 3415431879
+  name: Pulo Gadung
+  alt_name: []
+  latitude: -6.1831813
+  longitude: 106.9088927
+  type: node
+  amenity_type: bus_station
+- id: 9201422109
+  name: Ujung Menteng
+  alt_name: []
+  latitude: -6.1893655
+  longitude: 106.9653027
+  type: node
+  amenity_type: bus_station
+- id: 9201422114
+  name: Tipar Cakung
+  alt_name: []
+  latitude: -6.1834149
+  longitude: 106.9247611
+  type: node
+  amenity_type: bus_station
+- id: 9201422167
+  name: Raya Bekasi Pulogebang
+  alt_name: []
+  latitude: -6.187704
+  longitude: 106.9603767
+  type: node
+  amenity_type: bus_station
+- id: 9201422179
+  name: PTC Pulo Gadung
+  alt_name: []
+  latitude: -6.182622
+  longitude: 106.915612
+  type: node
+  amenity_type: bus_station
+- id: 9201422339
+  name: Cakung United Tractors
+  alt_name: []
+  latitude: -6.18324
+  longitude: 106.9300202
+  type: node
+  amenity_type: bus_station
+- id: 9201422340
+  name: Cakung Cilincing
+  alt_name: []
+  latitude: -6.1841825
+  longitude: 106.9420551
+  type: node
+  amenity_type: bus_station
+- id: 9748452836
+  name: Halte Sekolahan RSUD Budhi Asih
+  alt_name: []
+  latitude: -6.2555887
+  longitude: 106.8634619
+  type: node
+  amenity_type: bus_station
+- id: 9750788953
+  name: Halte AEON Mall Jakarta Garden City
+  alt_name: []
+  latitude: -6.1719834
+  longitude: 106.9528486
+  type: node
+  amenity_type: bus_station
+- id: 11017228805
+  name: Cawang
+  alt_name: []
+  latitude: -6.2459019
+  longitude: 106.871268
+  type: node
+  amenity_type: bus_station
+- id: 11564730070
+  name: Pedongkelan
+  alt_name: []
+  latitude: -6.1679916
+  longitude: 106.8825296
+  type: node
+  amenity_type: bus_station
+- id: 11564730071
+  name: Perintis Kemerdekaan
+  alt_name: []
+  latitude: -6.1717073
+  longitude: 106.8886328
+  type: node
+  amenity_type: bus_station
+- id: 11564730072
+  name: Pulo Mas
+  alt_name: []
+  latitude: -6.1746091
+  longitude: 106.8926104
+  type: node
+  amenity_type: bus_station
+- id: 11576378124
+  name: Matraman
+  alt_name: []
+  latitude: -6.1999968
+  longitude: 106.8544505
+  type: node
+  amenity_type: bus_station
+- id: 11576378125
+  name: Tegalan
+  alt_name: []
+  latitude: -6.2031095
+  longitude: 106.8571681
+  type: node
+  amenity_type: bus_station
+- id: 11576378126
+  name: Kesatrian
+  alt_name: []
+  latitude: -6.2085476
+  longitude: 106.8592936
+  type: node
+  amenity_type: bus_station
+- id: 11576378127
+  name: Matraman Baru
+  alt_name: []
+  latitude: -6.212984
+  longitude: 106.8612303
+  type: node
+  amenity_type: bus_station
+- id: 11576378128
+  name: Bali Mester
+  alt_name: []
+  latitude: -6.2157261
+  longitude: 106.8663208
+  type: node
+  amenity_type: bus_station
+- id: 11576378129
+  name: Jatinegara
+  alt_name: []
+  latitude: -6.2214247
+  longitude: 106.8680929
+  type: node
+  amenity_type: bus_station
+- id: 11576378130
+  name: Kampung Melayu
+  alt_name: []
+  latitude: -6.2246359
+  longitude: 106.8669085
+  type: node
+  amenity_type: bus_station
+- id: 11576512486
+  name: Bidara Cina
+  alt_name: []
+  latitude: -6.229763
+  longitude: 106.867231
+  type: node
+  amenity_type: bus_station
+- id: 11576512487
+  name: Gelanggang Remaja
+  alt_name: []
+  latitude: -6.2354284
+  longitude: 106.867946
+  type: node
+  amenity_type: bus_station
+- id: 11576512488
+  name: Cawang Baru
+  alt_name: []
+  latitude: -6.2436384
+  longitude: 106.8687743
+  type: node
+  amenity_type: bus_station
+- id: 11576512489
+  name: Cawang Sentral
+  alt_name: []
+  latitude: -6.2504916
+  longitude: 106.8735181
+  type: node
+  amenity_type: bus_station
+- id: 11576512490
+  name: Cawang Cililitan
+  alt_name: []
+  latitude: -6.257742
+  longitude: 106.869998
+  type: node
+  amenity_type: bus_station
+- id: 11576512491
+  name: Ciliitan
+  alt_name: []
+  latitude: -6.2624235
+  longitude: 106.8664088
+  type: node
+  amenity_type: bus_station
+- id: 11576512492
+  name: Kramat Jati
+  alt_name: []
+  latitude: -6.2688152
+  longitude: 106.86663
+  type: node
+  amenity_type: bus_station
+- id: 11576512493
+  name: Pasar Induk
+  alt_name: []
+  latitude: -6.2942219
+  longitude: 106.8720479
+  type: node
+  amenity_type: bus_station
+- id: 11576512494
+  name: Trikora
+  alt_name: []
+  latitude: -6.3019393
+  longitude: 106.8680476
+  type: node
+  amenity_type: bus_station
+- id: 11576512495
+  name: Flyover Raya Bogor
+  alt_name: []
+  latitude: -6.3065257
+  longitude: 106.8657507
+  type: node
+  amenity_type: bus_station
+- id: 11576512496
+  name: Tanah Merdeka Arah Barat
+  alt_name: []
+  latitude: -6.3081435
+  longitude: 106.8739161
+  type: node
+  amenity_type: bus_station
+- id: 11576512497
+  name: Tanah Merdeka Arah Timur
+  alt_name: []
+  latitude: -6.3078498
+  longitude: 106.8739316
+  type: node
+  amenity_type: bus_station
+- id: 11576512498
+  name: Kampung Rambutan
+  alt_name: []
+  latitude: -6.3092164
+  longitude: 106.8816852
+  type: node
+  amenity_type: bus_station
+- id: 11613170638
+  name: Pemuda Rawamangun
+  alt_name: []
+  latitude: -6.1934922
+  longitude: 106.8917418
+  type: node
+  amenity_type: bus_station
+- id: 11613170639
+  name: Layur
+  alt_name: []
+  latitude: -6.1935306
+  longitude: 106.8990961
+  type: node
+  amenity_type: bus_station
+- id: 11613170640
+  name: Pemuda Merdeka
+  alt_name: []
+  latitude: -6.1924069
+  longitude: 106.9048575
+  type: node
+  amenity_type: bus_station
+- id: 11613170641
+  name: Pasar Pulogadung
+  alt_name: []
+  latitude: -6.1874095
+  longitude: 106.9059288
+  type: node
+  amenity_type: bus_station
+- id: 11620117368
+  name: Pulomas Bypass
+  alt_name: []
+  latitude: -6.1769076
+  longitude: 106.8760214
+  type: node
+  amenity_type: bus_station
+- id: 11620191672
+  name: Pemuda Pramuka
+  alt_name: []
+  latitude: -6.1930162
+  longitude: 106.8749252
+  type: node
+  amenity_type: bus_station
+- id: 11620191673
+  name: Utan Kayu Rawamangun
+  alt_name: []
+  latitude: -6.1975227
+  longitude: 106.8740602
+  type: node
+  amenity_type: bus_station
+- id: 11622265893
+  name: Ciliwung Arah Barat
+  alt_name: []
+  latitude: -6.2432742
+  longitude: 106.8635661
+  type: node
+  amenity_type: bus_station
+- id: 11622265894
+  name: Ciliwung Arah Timur
+  alt_name: []
+  latitude: -6.2429892
+  longitude: 106.8635312
+  type: node
+  amenity_type: bus_station
+- id: 11622265900
+  name: Makasar
+  alt_name: []
+  latitude: -6.29014
+  longitude: 106.8811558
+  type: node
+  amenity_type: bus_station
+- id: 11662358865
+  name: Simpang Cawang
+  alt_name: []
+  latitude: -6.2447363
+  longitude: 106.8759872
+  type: node
+  amenity_type: bus_station
+- id: 11662373378
+  name: Pool Primajasa Cililitan
+  alt_name: []
+  latitude: -6.2577848
+  longitude: 106.8691837
+  type: node
+  amenity_type: bus_station
+- id: 11744647765
+  name: Flyover Pondok Kopi
+  alt_name: []
+  latitude: -6.2166998
+  longitude: 106.9305146
+  type: node
+  amenity_type: bus_station
+- id: 11744647766
+  name: Simpang Buaran
+  alt_name: []
+  latitude: -6.2159812
+  longitude: 106.9243455
+  type: node
+  amenity_type: bus_station
+- id: 11744647767
+  name: Buaran
+  alt_name: []
+  latitude: -6.2151475
+  longitude: 106.9177167
+  type: node
+  amenity_type: bus_station
+- id: 11744647768
+  name: Kampung Sumur
+  alt_name: []
+  latitude: -6.2144062
+  longitude: 106.9118897
+  type: node
+  amenity_type: bus_station
+- id: 11744682969
+  name: Klender
+  alt_name: []
+  latitude: -6.2135919
+  longitude: 106.903022
+  type: node
+  amenity_type: bus_station
+- id: 11744682970
+  name: Stasiun Klender
+  alt_name: []
+  latitude: -6.2135375
+  longitude: 106.8986733
+  type: node
+  amenity_type: bus_station
+- id: 11744682971
+  name: Cipinang
+  alt_name: []
+  latitude: -6.2137785
+  longitude: 106.889475
+  type: node
+  amenity_type: bus_station
+- id: 11744682972
+  name: Flyover Cipinang
+  alt_name: []
+  latitude: -6.2146242
+  longitude: 106.8823798
+  type: node
+  amenity_type: bus_station
+- id: 11744682973
+  name: Pasar Enjo
+  alt_name: []
+  latitude: -6.2148634
+  longitude: 106.8783583
+  type: node
+  amenity_type: bus_station
+- id: 11744682974
+  name: Flyover Jatinegara Arah Barat dan Timur
+  alt_name: []
+  latitude: -6.2151576
+  longitude: 106.8735702
+  type: node
+  amenity_type: bus_station
+- id: 11744682976
+  name: Stasiun Jatinegara
+  alt_name: []
+  latitude: -6.2154315
+  longitude: 106.8693599
+  type: node
+  amenity_type: bus_station
+- id: 11773739147
+  name: Penggilingan
+  alt_name: []
+  latitude: -6.2138973
+  longitude: 106.9396352
+  type: node
+  amenity_type: bus_station
+- id: 11773739148
+  name: Walikota Jakarta Timur
+  alt_name: []
+  latitude: -6.2125126
+  longitude: 106.9453986
+  type: node
+  amenity_type: bus_station
+- id: 11776180754
+  name: BNN Arah Timur
+  alt_name: []
+  latitude: -6.2462578
+  longitude: 106.8730476
+  type: node
+  amenity_type: bus_station
+- id: 11776180755
+  name: BNN Arah Barat
+  alt_name: []
+  latitude: -6.2466866
+  longitude: 106.8732269
+  type: node
+  amenity_type: bus_station
+- id: 11779876708
+  name: Halim
+  alt_name: []
+  latitude: -6.2390597
+  longitude: 106.878113
+  type: node
+  amenity_type: bus_station
+- id: 11779876709
+  name: Kebon Nanas
+  alt_name: []
+  latitude: -6.2315232
+  longitude: 106.8763879
+  type: node
+  amenity_type: bus_station
+- id: 11779876710
+  name: Pedati Prumpung
+  alt_name: []
+  latitude: -6.2201251
+  longitude: 106.8744253
+  type: node
+  amenity_type: bus_station
+- id: 11779876713
+  name: Flyover Jatinegara Arah Utara
+  alt_name: []
+  latitude: -6.2155601
+  longitude: 106.8740917
+  type: node
+  amenity_type: bus_station
+- id: 11779876714
+  name: Flyover Jatinegara Arah Selatan
+  alt_name: []
+  latitude: -6.2155466
+  longitude: 106.8743573
+  type: node
+  amenity_type: bus_station
+- id: 11779876715
+  name: Pisangan
+  alt_name: []
+  latitude: -6.2054846
+  longitude: 106.873776
+  type: node
+  amenity_type: bus_station
+- id: 11922865026
+  name: Klapa Village Pondok Kelapa
+  alt_name: []
+  latitude: -6.238432
+  longitude: 106.9413346
+  type: node
+  amenity_type: bus_station
+- id: 11923007891
+  name: Pasar Cakung
+  alt_name: []
+  latitude: -6.1826868
+  longitude: 106.9376142
+  type: node
+  amenity_type: bus_station
+- id: 11933114049
+  name: Pinang Ranti
+  alt_name: []
+  latitude: -6.2912347
+  longitude: 106.8864703
+  type: node
+  amenity_type: bus_station
+- id: 11955309179
+  name: Terminal Pulogebang
+  alt_name: []
+  latitude: -6.2133582
+  longitude: 106.9532164
+  type: node
+  amenity_type: bus_station
