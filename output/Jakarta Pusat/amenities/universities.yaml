@@ -1,0 +1,155 @@
+objects:
+- id: 119788128
+  name: Universitas Yarsi
+  alt_name: []
+  latitude: -6.169709101714119
+  longitude: 106.86977585363378
+  type: way
+  amenity_type: university
+- id: 120503960
+  name: Universitas Budi Luhur
+  alt_name: []
+  latitude: -6.199368083511155
+  longitude: 106.8531985965832
+  type: way
+  amenity_type: university
+- id: 120510315
+  name: Universitas Persada Indonesia Fakultas Teknik UPI YAI
+  alt_name: []
+  latitude: -6.192805515869182
+  longitude: 106.84915056511251
+  type: way
+  amenity_type: university
+- id: 155114219
+  name: Institut STIAMI
+  alt_name: []
+  latitude: -6.176959481938258
+  longitude: 106.85829855006955
+  type: way
+  amenity_type: university
+- id: 228066447
+  name: Binus University
+  alt_name: []
+  latitude: -6.228877722918359
+  longitude: 106.79674672278513
+  type: way
+  amenity_type: university
+- id: 482206249
+  name: Universitas Nahdlatul Ulama Jakarta
+  alt_name: []
+  latitude: -6.202933977769181
+  longitude: 106.85105186730651
+  type: way
+  amenity_type: university
+- id: 489532392
+  name: Fakultas Kedokteran UI Program D III Perumahsakitan
+  alt_name: []
+  latitude: -6.198653189457495
+  longitude: 106.84242900106945
+  type: way
+  amenity_type: university
+- id: 489532409
+  name: Universitas Pancasila Program Pasca Sarjana
+  alt_name: []
+  latitude: -6.200820009916236
+  longitude: 106.84647361704685
+  type: way
+  amenity_type: university
+- id: 489779082
+  name: Universitas Bung Karno
+  alt_name: []
+  latitude: -6.199256004715595
+  longitude: 106.84254517179915
+  type: way
+  amenity_type: university
+- id: 490014516
+  name: University of Persada Indonesia Y.A.I
+  alt_name: []
+  latitude: -6.196410781274951
+  longitude: 106.84917931441315
+  type: way
+  amenity_type: university
+- id: 490033442
+  name: Universitas MH Thamrin
+  alt_name: []
+  latitude: -6.19344266606178
+  longitude: 106.85016295143566
+  type: way
+  amenity_type: university
+- id: 491242369
+  name: Universitas Indonesia
+  alt_name: []
+  latitude: -6.194405074371367
+  longitude: 106.84765018387758
+  type: way
+  amenity_type: university
+- id: 491244202
+  name: Institut Kesenian Jakarta
+  alt_name: []
+  latitude: -6.1881068267213495
+  longitude: 106.84089682865452
+  type: way
+  amenity_type: university
+- id: 492499531
+  name: Universitas Krisnadwipayana
+  alt_name: []
+  latitude: -6.170642053889329
+  longitude: 106.80871497831792
+  type: way
+  amenity_type: university
+- id: 492944987
+  name: Institut Agama Islam Jamiat Kheir
+  alt_name: []
+  latitude: -6.19065908265806
+  longitude: 106.81548474456874
+  type: way
+  amenity_type: university
+- id: 492989002
+  name: Universitas Muhammadiyah Jakarta
+  alt_name: []
+  latitude: -6.172792475790336
+  longitude: 106.87210535226774
+  type: way
+  amenity_type: university
+- id: 496025653
+  name: Universitas Prof Dr Moestopo
+  alt_name: []
+  latitude: -6.228932118839103
+  longitude: 106.79611521168488
+  type: way
+  amenity_type: university
+- id: 496808649
+  name: Universitas Brawijaya Pasca Sarjana
+  alt_name: []
+  latitude: -6.176503689084515
+  longitude: 106.81955870033845
+  type: way
+  amenity_type: university
+- id: 892906248
+  name: Universitas Mercu Buana
+  alt_name: []
+  latitude: -6.18567886815746
+  longitude: 106.83648931938431
+  type: way
+  amenity_type: university
+- id: 928043532
+  name: Universitas Gunadarma
+  alt_name: []
+  latitude: -6.197055159200013
+  longitude: 106.85205476436884
+  type: way
+  amenity_type: university
+- id: 4867479035
+  name: Sekolah Pasca Sarjana USAHID
+  alt_name: []
+  latitude: -6.2099066
+  longitude: 106.8196221
+  type: node
+  amenity_type: university
+- id: 9577005317
+  name: Akademi Keperawatan PGI Cikini
+  alt_name: []
+  latitude: -6.1903806
+  longitude: 106.841702
+  type: node
+  amenity_type: university

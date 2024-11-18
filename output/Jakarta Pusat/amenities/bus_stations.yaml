@@ -1,0 +1,401 @@
+objects:
+- id: 494070768
+  name: Terminal Manggarai
+  alt_name: []
+  latitude: -6.2089947503031215
+  longitude: 106.84757880160117
+  type: way
+  amenity_type: bus_station
+- id: 499210700
+  name: Terminal Senen
+  alt_name: []
+  latitude: -6.173584896528054
+  longitude: 106.84204657620383
+  type: way
+  amenity_type: bus_station
+- id: 500547457
+  name: Terminal Bis Gambir
+  alt_name: []
+  latitude: -6.176548020780357
+  longitude: 106.83010466108782
+  type: way
+  amenity_type: bus_station
+- id: 626230342
+  name: Petamburan
+  alt_name: []
+  latitude: -6.202017922378048
+  longitude: 106.79985000490443
+  type: way
+  amenity_type: bus_station
+- id: 3415431046
+  name: Galur
+  alt_name: []
+  latitude: -6.1744166
+  longitude: 106.8547177
+  type: node
+  amenity_type: bus_station
+- id: 4243825205
+  name: Pool Damri Kemayoran
+  alt_name: []
+  latitude: -6.1597388
+  longitude: 106.8480786
+  type: node
+  amenity_type: bus_station
+- id: 4275299209
+  name: Flyover Pramuka
+  alt_name: []
+  latitude: -6.1989006
+  longitude: 106.8544856
+  type: node
+  amenity_type: bus_station
+- id: 4275299246
+  name: Pramuka Sari
+  alt_name: []
+  latitude: -6.1922351
+  longitude: 106.8685673
+  type: node
+  amenity_type: bus_station
+- id: 4275299265
+  name: Pasar Genjing
+  alt_name: []
+  latitude: -6.1944472
+  longitude: 106.8609219
+  type: node
+  amenity_type: bus_station
+- id: 4275299272
+  name: Utan Kayu
+  alt_name: []
+  latitude: -6.1927391
+  longitude: 106.86458
+  type: node
+  amenity_type: bus_station
+- id: 4409469348
+  name: Manggarai
+  alt_name: []
+  latitude: -6.2088691
+  longitude: 106.8474339
+  type: node
+  amenity_type: bus_station
+- id: 11371612994
+  name: Harmoni Temporer
+  alt_name: []
+  latitude: -6.1624631
+  longitude: 106.8198552
+  type: node
+  amenity_type: bus_station
+- id: 11564482120
+  name: Monumen Nasional
+  alt_name: []
+  latitude: -6.1761771
+  longitude: 106.8228869
+  type: node
+  amenity_type: bus_station
+- id: 11564482121
+  name: Kebon Sirih Arah Utara
+  alt_name: []
+  latitude: -6.1825993
+  longitude: 106.8227364
+  type: node
+  amenity_type: bus_station
+- id: 11564482122
+  name: Kebon Sirih Arah Selatan
+  alt_name: []
+  latitude: -6.1847082
+  longitude: 106.8233201
+  type: node
+  amenity_type: bus_station
+- id: 11564482123
+  name: M.H. Thamrin
+  alt_name: []
+  latitude: -6.1880743
+  longitude: 106.8230217
+  type: node
+  amenity_type: bus_station
+- id: 11564482124
+  name: Bundaran HI ASTRA
+  alt_name: []
+  latitude: -6.1934397
+  longitude: 106.823026
+  type: node
+  amenity_type: bus_station
+- id: 11564482125
+  name: Tosari
+  alt_name: []
+  latitude: -6.1965226
+  longitude: 106.8231026
+  type: node
+  amenity_type: bus_station
+- id: 11564482131
+  name: Bundaran Senayan
+  alt_name:
+  - Bunsen
+  latitude: -6.2278789
+  longitude: 106.8009787
+  type: node
+  amenity_type: bus_station
+- id: 11564612302
+  name: Balai Kota
+  alt_name: []
+  latitude: -6.1804978
+  longitude: 106.8263733
+  type: node
+  amenity_type: bus_station
+- id: 11564612303
+  name: Gambir 2
+  alt_name: []
+  latitude: -6.1789202
+  longitude: 106.8310823
+  type: node
+  amenity_type: bus_station
+- id: 11564612304
+  name: Kwitang
+  alt_name: []
+  latitude: -6.1811992
+  longitude: 106.8384428
+  type: node
+  amenity_type: bus_station
+- id: 11564612305
+  name: Pasar Senen
+  alt_name: []
+  latitude: -6.1782511
+  longitude: 106.8426608
+  type: node
+  amenity_type: bus_station
+- id: 11564612306
+  name: Senen Raya
+  alt_name: []
+  latitude: -6.1762277
+  longitude: 106.8402206
+  type: node
+  amenity_type: bus_station
+- id: 11564612307
+  name: RSPAD
+  alt_name: []
+  latitude: -6.1754867
+  longitude: 106.836786
+  type: node
+  amenity_type: bus_station
+- id: 11564612308
+  name: Pejambon
+  alt_name: []
+  latitude: -6.1735286
+  longitude: 106.8347407
+  type: node
+  amenity_type: bus_station
+- id: 11564612309
+  name: Gambir
+  alt_name: []
+  latitude: -6.1745902
+  longitude: 106.8304088
+  type: node
+  amenity_type: bus_station
+- id: 11564612310
+  name: Istiqlal
+  alt_name: []
+  latitude: -6.1722328
+  longitude: 106.8309177
+  type: node
+  amenity_type: bus_station
+- id: 11564612311
+  name: Juanda
+  alt_name: []
+  latitude: -6.168107
+  longitude: 106.8303896
+  type: node
+  amenity_type: bus_station
+- id: 11564612312
+  name: Pecenongan
+  alt_name: []
+  latitude: -6.1677132
+  longitude: 106.8282191
+  type: node
+  amenity_type: bus_station
+- id: 11564683365
+  name: Rawa Selatan
+  alt_name: []
+  latitude: -6.1739174
+  longitude: 106.8581019
+  type: node
+  amenity_type: bus_station
+- id: 11564683366
+  name: Pasar Cempaka Putih
+  alt_name: []
+  latitude: -6.1723175
+  longitude: 106.8624652
+  type: node
+  amenity_type: bus_station
+- id: 11564683367
+  name: Cempaka Baru
+  alt_name: []
+  latitude: -6.1703908
+  longitude: 106.8666138
+  type: node
+  amenity_type: bus_station
+- id: 11564683368
+  name: Sumur Batu
+  alt_name: []
+  latitude: -6.168633
+  longitude: 106.8703703
+  type: node
+  amenity_type: bus_station
+- id: 11564730069
+  name: Cempaka Mas
+  alt_name: []
+  latitude: -6.166563
+  longitude: 106.8759645
+  type: node
+  amenity_type: bus_station
+- id: 11567672588
+  name: Petojo
+  alt_name: []
+  latitude: -6.169989
+  longitude: 106.8170022
+  type: node
+  amenity_type: bus_station
+- id: 11568547445
+  name: Jembatan Merah
+  alt_name: []
+  latitude: -6.146739
+  longitude: 106.8342818
+  type: node
+  amenity_type: bus_station
+- id: 11568547446
+  name: Pasar Baru Timur
+  alt_name: []
+  latitude: -6.1623311
+  longitude: 106.8381427
+  type: node
+  amenity_type: bus_station
+- id: 11568547447
+  name: Lapangan Banteng
+  alt_name: []
+  latitude: -6.1660228
+  longitude: 106.8390711
+  type: node
+  amenity_type: bus_station
+- id: 11568547448
+  name: Senen Sentral
+  alt_name: []
+  latitude: -6.1781137
+  longitude: 106.8420222
+  type: node
+  amenity_type: bus_station
+- id: 11568547449
+  name: Pal Putih
+  alt_name: []
+  latitude: -6.1846068
+  longitude: 106.8440145
+  type: node
+  amenity_type: bus_station
+- id: 11576378121
+  name: Kramat Sentiong
+  alt_name: []
+  latitude: -6.1879493
+  longitude: 106.8459509
+  type: node
+  amenity_type: bus_station
+- id: 11576378122
+  name: Salemba
+  alt_name: []
+  latitude: -6.1933591
+  longitude: 106.8489224
+  type: node
+  amenity_type: bus_station
+- id: 11576378123
+  name: Paseban
+  alt_name: []
+  latitude: -6.1967576
+  longitude: 106.8510295
+  type: node
+  amenity_type: bus_station
+- id: 11611585676
+  name: Simpang Pramuka
+  alt_name: []
+  latitude: -6.1921757
+  longitude: 106.8740187
+  type: node
+  amenity_type: bus_station
+- id: 11613170642
+  name: Flyover Kuningan
+  alt_name: []
+  latitude: -6.202838
+  longitude: 106.8276831
+  type: node
+  amenity_type: bus_station
+- id: 11619467634
+  name: Gerbang Pemuda Arah Timur
+  alt_name: []
+  latitude: -6.2141956
+  longitude: 106.8090225
+  type: node
+  amenity_type: bus_station
+- id: 11619467635
+  name: Gerbang Pemuda Arah Barat
+  alt_name: []
+  latitude: -6.2138469
+  longitude: 106.8083736
+  type: node
+  amenity_type: bus_station
+- id: 11619467644
+  name: Petamburan
+  alt_name: []
+  latitude: -6.2020202
+  longitude: 106.7998645
+  type: node
+  amenity_type: bus_station
+- id: 11620191669
+  name: Cempaka Putih
+  alt_name: []
+  latitude: -6.1741608
+  longitude: 106.8764693
+  type: node
+  amenity_type: bus_station
+- id: 11620191670
+  name: Kayu Putih Rawasari
+  alt_name: []
+  latitude: -6.1874784
+  longitude: 106.8754231
+  type: node
+  amenity_type: bus_station
+- id: 11623136792
+  name: Simpang Cempaka
+  alt_name: []
+  latitude: -6.1657558
+  longitude: 106.8792834
+  type: node
+  amenity_type: bus_station
+- id: 11644806288
+  name: Pasar Baru
+  alt_name: []
+  latitude: -6.1660746
+  longitude: 106.834809
+  type: node
+  amenity_type: bus_station
+- id: 11755081812
+  name: Mangga Dua
+  alt_name: []
+  latitude: -6.1361662
+  longitude: 106.8259721
+  type: node
+  amenity_type: bus_station
+- id: 11756334333
+  name: Tanah Tinggi
+  alt_name: []
+  latitude: -6.1712184
+  longitude: 106.8522123
+  type: node
+  amenity_type: bus_station
+- id: 11756334334
+  name: Kemayoran
+  alt_name: []
+  latitude: -6.1579218
+  longitude: 106.8513616
+  type: node
+  amenity_type: bus_station
+- id: 11757627979
+  name: Tarakan
+  alt_name: []
+  latitude: -6.1711549
+  longitude: 106.8101222
+  type: node
+  amenity_type: bus_station

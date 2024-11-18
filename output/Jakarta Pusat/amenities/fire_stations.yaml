@@ -1,0 +1,78 @@
+objects:
+- id: 155105677
+  name: Pos Pemadam Kebakaran Kebon Melati
+  alt_name: []
+  latitude: -6.20010599439587
+  longitude: 106.8144556247538
+  type: way
+  amenity_type: fire_station
+- id: 155110648
+  name: Kantor Sektor V Cempaka Putih - Suku Dinas Penanggulangan Kebakaran & Penyelamatan
+  alt_name: []
+  latitude: -6.185070726254982
+  longitude: 106.87385565637717
+  type: way
+  amenity_type: fire_station
+- id: 155116045
+  name: Kantor Pemadam Kebakaran Sawah Besar
+  alt_name: []
+  latitude: -6.137561549999999
+  longitude: 106.82712505
+  type: way
+  amenity_type: fire_station
+- id: 489238993
+  name: Sudin Pemadam Kebakaran Sektor Kemayoran
+  alt_name: []
+  latitude: -6.155351082648605
+  longitude: 106.84289416332612
+  type: way
+  amenity_type: fire_station
+- id: 491571747
+  name: Pos Pemadam Kebakaran Tanah Abang
+  alt_name: []
+  latitude: -6.188374738857086
+  longitude: 106.81355097445129
+  type: way
+  amenity_type: fire_station
+- id: 492512013
+  name: Pos Jatibaru (Suku Dinas Penanggulangan Kebakaran dan Penyelamatan)
+  alt_name: []
+  latitude: -6.181724649999997
+  longitude: 106.8114266
+  type: way
+  amenity_type: fire_station
+- id: 496041091
+  name: Komplek Dinas Pemadam Kebakaran DKI Jakarta
+  alt_name: []
+  latitude: -6.16220881047575
+  longitude: 106.80890409770348
+  type: way
+  amenity_type: fire_station
+- id: 496555867
+  name: Suku Dinas Pemadam Kebakaran Serdang
+  alt_name: []
+  latitude: -6.1625125
+  longitude: 106.86317715000001
+  type: way
+  amenity_type: fire_station
+- id: 497061688
+  name: Pos Pemadan Kebakaran Bendungan Hilir
+  alt_name: []
+  latitude: -6.201700699999998
+  longitude: 106.8087355
+  type: way
+  amenity_type: fire_station
+- id: 501559892
+  name: Pos Damkar Pasar Baru
+  alt_name: []
+  latitude: -6.157821049999999
+  longitude: 106.83460685000001
+  type: way
+  amenity_type: fire_station
+- id: 6219136087
+  name: Suku Dinas Pemadam Kebakaran Jakarta Pusat
+  alt_name: []
+  latitude: -6.1906254
+  longitude: 106.8384559
+  type: node
+  amenity_type: fire_station

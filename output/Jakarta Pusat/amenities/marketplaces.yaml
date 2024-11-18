@@ -1,0 +1,226 @@
+objects:
+- id: 119919348
+  name: Pasar Palmerah
+  alt_name: []
+  latitude: -6.2082520839352275
+  longitude: 106.79594967982744
+  type: way
+  amenity_type: marketplace
+- id: 154078986
+  name: Pasar Kombongan
+  alt_name: []
+  latitude: -6.161223680432534
+  longitude: 106.84096939742167
+  type: way
+  amenity_type: marketplace
+- id: 154966943
+  name: Pasar Cempaka Sari III (Bedeng)
+  alt_name: []
+  latitude: -6.1695407008236085
+  longitude: 106.85751170011042
+  type: way
+  amenity_type: marketplace
+- id: 155106481
+  name: Pasar Kembang Cikini
+  alt_name: []
+  latitude: -6.197160534958349
+  longitude: 106.84104363021969
+  type: way
+  amenity_type: marketplace
+- id: 155110132
+  name: Pasar Lontar Kebon Melati
+  alt_name: []
+  latitude: -6.193060980429008
+  longitude: 106.81235131073925
+  type: way
+  amenity_type: marketplace
+- id: 155110157
+  name: Pasar Gardu Asem
+  alt_name: []
+  latitude: -6.164898922879849
+  longitude: 106.84723645349992
+  type: way
+  amenity_type: marketplace
+- id: 155110899
+  name: Pasar Sumur Batu
+  alt_name: []
+  latitude: -6.164447287772568
+  longitude: 106.86441260476651
+  type: way
+  amenity_type: marketplace
+- id: 155114211
+  name: Pasar Gembrong Galur
+  alt_name: []
+  latitude: -6.177715626612319
+  longitude: 106.85492656660584
+  type: way
+  amenity_type: marketplace
+- id: 315562271
+  name: Pasar Pintu Air
+  alt_name: []
+  latitude: -6.197988568570219
+  longitude: 106.80932306272929
+  type: way
+  amenity_type: marketplace
+- id: 352856285
+  name: Pasar Petojo
+  alt_name: []
+  latitude: -6.162878294307493
+  longitude: 106.81206841861592
+  type: way
+  amenity_type: marketplace
+- id: 482340843
+  name: Pasar Johar Baru
+  alt_name: []
+  latitude: -6.185430993675241
+  longitude: 106.85554422942228
+  type: way
+  amenity_type: marketplace
+- id: 484689774
+  name: Pasar Genjing
+  alt_name: []
+  latitude: -6.194417627119439
+  longitude: 106.8600902510674
+  type: way
+  amenity_type: marketplace
+- id: 484850437
+  name: Pasar Antik dan Koper Jakarta, Surabaya
+  alt_name: []
+  latitude: -6.197498757194863
+  longitude: 106.83931957842643
+  type: way
+  amenity_type: marketplace
+- id: 484874671
+  name: Pasar Bendungan Hilir
+  alt_name: []
+  latitude: -6.215401328164179
+  longitude: 106.81495491159448
+  type: way
+  amenity_type: marketplace
+- id: 485254692
+  name: Pasar Jaya Gondangdia
+  alt_name: []
+  latitude: -6.186505986364784
+  longitude: 106.83209982052826
+  type: way
+  amenity_type: marketplace
+- id: 485868913
+  name: Pasar Jati Rawasari
+  alt_name: []
+  latitude: -6.183388489883686
+  longitude: 106.8636013226657
+  type: way
+  amenity_type: marketplace
+- id: 485868974
+  name: Pasar Cempaka Putih Barat
+  alt_name: []
+  latitude: -6.1729189930255615
+  longitude: 106.86317475985119
+  type: way
+  amenity_type: marketplace
+- id: 485886225
+  name: Pasar Gembrong Cempaka Putih
+  alt_name: []
+  latitude: -6.179867756450735
+  longitude: 106.86018776029766
+  type: way
+  amenity_type: marketplace
+- id: 485987557
+  name: Induk Usaha Kecil Pulo Gundul
+  alt_name: []
+  latitude: -6.180705881288425
+  longitude: 106.85143465804978
+  type: way
+  amenity_type: marketplace
+- id: 488357424
+  name: Pasar Rawasari
+  alt_name: []
+  latitude: -6.185414399178286
+  longitude: 106.872238490906
+  type: way
+  amenity_type: marketplace
+- id: 491263437
+  name: Pasar Gaplok
+  alt_name: []
+  latitude: -6.18110468859354
+  longitude: 106.84681177004809
+  type: way
+  amenity_type: marketplace
+- id: 491273914
+  name: Pasar Jaya Nangka Bungur
+  alt_name: []
+  latitude: -6.167877899999999
+  longitude: 106.84960929999998
+  type: way
+  amenity_type: marketplace
+- id: 492247983
+  name: Pasar Kwitang
+  alt_name: []
+  latitude: -6.184870836351045
+  longitude: 106.84143586026917
+  type: way
+  amenity_type: marketplace
+- id: 492944996
+  name: Pasar Gandaria
+  alt_name: []
+  latitude: -6.188317607099711
+  longitude: 106.8184750603263
+  type: way
+  amenity_type: marketplace
+- id: 495428591
+  name: Pasar Kemayoran
+  alt_name: []
+  latitude: -6.161048575689568
+  longitude: 106.85530785495314
+  type: way
+  amenity_type: marketplace
+- id: 496611744
+  name: Pasar Paseban Area Pusat
+  alt_name: []
+  latitude: -6.191556922209348
+  longitude: 106.8494836437899
+  type: way
+  amenity_type: marketplace
+- id: 500872191
+  name: Pasar Serdang Jaya
+  alt_name: []
+  latitude: -6.156726850000001
+  longitude: 106.86448555
+  type: way
+  amenity_type: marketplace
+- id: 501932123
+  name: Pasar Kambing
+  alt_name: []
+  latitude: -6.193120561247126
+  longitude: 106.8130968513283
+  type: way
+  amenity_type: marketplace
+- id: 507502903
+  name: Pasar Timbul Kartini
+  alt_name: []
+  latitude: -6.151467310826367
+  longitude: 106.83073570404514
+  type: way
+  amenity_type: marketplace
+- id: 1160194191
+  name: Ikatan Restoran dan Taman Indonesia (IRTI)
+  alt_name:
+  - Pasar Malam Monas
+  latitude: -6.179744296636762
+  longitude: 106.82478861590558
+  type: way
+  amenity_type: marketplace
+- id: 8414126722
+  name: Pasar Cideng Thomas
+  alt_name: []
+  latitude: -6.179838
+  longitude: 106.8133731
+  type: node
+  amenity_type: marketplace
+- id: 9336457753
+  name: Pasar Paseban
+  alt_name: []
+  latitude: -6.1921356
+  longitude: 106.8486652
+  type: node
+  amenity_type: marketplace
