@@ -1,14 +1,13 @@
 import fs from "fs";
 import yaml from "js-yaml";
-import { ObjectType } from "./types";
 
-const readYamlFile = (filePath: string) => {
+const readYamlFile = <T>(filePath: string) => {
   try {
     const fileContents = fs.readFileSync(filePath, "utf8");
-    return yaml.load(fileContents) as ObjectType;
+    return yaml.load(fileContents) as T;
   } catch (e) {
     console.error("Error reading YAML file:", e);
-    return null;
+    return {} as T;
   }
 };
 

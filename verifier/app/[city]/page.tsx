@@ -1,14 +1,11 @@
-import { loadCityData } from "@/libs"
+import { loadCityData } from "@/libs";
+import { GoogleMaps } from "@/components";
 
-const Page = async ({ params }: { params: { city: string } }) => {
-  const { city } = await params
-  const cityData = loadCityData(city);
+const Page = async ({ params }: { params: { city?: string } }) => {
+  const { city } = await params;
+  const cityData = loadCityData(city ?? "");
 
-  return (
-    <div>
-      {JSON.stringify(cityData.locations.districts)}
-    </div>
-  )
-}
+  return <GoogleMaps data={cityData} />;
+};
 
-export default Page
+export default Page;

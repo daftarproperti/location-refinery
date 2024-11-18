@@ -1,65 +1,65 @@
 import path from "path";
 import readYamlFile from "./readYamlFile";
-import { ObjectType } from "./types";
+import { Amenity, Area, City, Data } from "@/types";
 
-const loadCityData = (cityName: string) => {
+const loadCityData = (cityName: string): Data => {
   const cityDir = path.join("..", "output", cityName);
-  const cityInfo = readYamlFile(path.join(cityDir, "city.yaml"));
+  const cityInfo = readYamlFile<City>(path.join(cityDir, "city.yaml"));
 
-  const districtObject = readYamlFile(
+  const districtObject = readYamlFile<{ districts: Area[] }>(
     path.join(cityDir, "areas", "district.yaml")
   );
-  const districtsObject = districtObject?.["districts"] as ObjectType[];
+  const districtsObject = districtObject.districts;
   const districts = districtsObject?.map((item) => ({
     ...item,
-    boundaries: readYamlFile(
-      path.join(cityDir, "areas", item?.["boundaries"] as string)
-    )?.["boundaries"],
+    boundaries: readYamlFile<Area>(
+      path.join(cityDir, "areas", item.boundaries as string)
+    ).boundaries,
   }));
 
-  const subDistrictObject = readYamlFile(
+  const subDistrictObject = readYamlFile<{ "sub-districts": Area[] }>(
     path.join(cityDir, "areas", "sub-district.yaml")
   );
-  const subDistrictsObject = subDistrictObject?.["sub-districts"] as ObjectType[];
+  const subDistrictsObject = subDistrictObject["sub-districts"];
   const subDistricts = subDistrictsObject?.map((item) => ({
     ...item,
-    boundaries: readYamlFile(
-      path.join(cityDir, "areas", item?.["boundaries"] as string)
-    )?.["boundaries"],
+    boundaries: readYamlFile<Area>(
+      path.join(cityDir, "areas", item.boundaries as string)
+    ).boundaries,
   }));
 
-  const schoolsObject = readYamlFile(
+  const schools = readYamlFile<{ objects: Amenity[] }>(
     path.join(cityDir, "amenities", "schools.yaml")
-  );
-  const hospitalsObject = readYamlFile(
+  ).objects;
+  const hospitals = readYamlFile<{ objects: Amenity[] }>(
     path.join(cityDir, "amenities", "hospitals.yaml")
-  );
-  const busStationObject = readYamlFile(
+  ).objects;
+  const busStations = readYamlFile<{ objects: Amenity[] }>(
     path.join(cityDir, "amenities", "bus_stations.yaml")
-  );
-  const fireStationObject = readYamlFile(
+  ).objects;
+  const fireStations = readYamlFile<{ objects: Amenity[] }>(
     path.join(cityDir, "amenities", "fire_stations.yaml")
-  );
-  const marketplacesObject = readYamlFile(
+  ).objects;
+  const marketplaces = readYamlFile<{ objects: Amenity[] }>(
     path.join(cityDir, "amenities", "marketplaces.yaml")
-  );
-  const universitiesObject = readYamlFile(
+  ).objects;
+  const universities = readYamlFile<{ objects: Amenity[] }>(
     path.join(cityDir, "amenities", "universities.yaml")
-  );
-  const placesOfWorshipObject = readYamlFile(
+  ).objects;
+  const placesOfWorship = readYamlFile<{ objects: Amenity[] }>(
     path.join(cityDir, "amenities", "places_of_worship.yaml")
-  );
+  ).objects;
 
   const locations = {
     districts,
     subDistricts,
-    schools: schoolsObject?.["objects"],
-    hospitals: hospitalsObject?.["objects"],
-    busStations: busStationObject?.["objects"],
-    fireStations: fireStationObject?.["objects"],
-    marketplaces: marketplacesObject?.["objects"],
-    universities: universitiesObject?.["objects"],
-    placesOfWorship: placesOfWorshipObject?.["objects"],
+    schools,
+    hospitals,
+    busStations,
+    fireStations,
+    marketplaces,
+    universities,
+    placesOfWorship,
   };
 
   return { cityInfo, locations };
