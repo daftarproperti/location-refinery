@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   Box,
   ClickAwayListener,
@@ -10,9 +10,10 @@ import {
 } from "@mui/material";
 import { Close } from "@mui/icons-material";
 
-import { Locations } from "@/types";
+import { Boundary, Locations } from "@/types";
 
 const Searchbox = ({
+  map,
   locations,
 }: {
   map?: google.maps.Map;
@@ -22,6 +23,8 @@ const Searchbox = ({
   const [id, setId] = useState<number>();
   const [type, setType] = useState("");
   const [isOpen, setIsOpen] = useState(false);
+  const [, setLine] = useState<google.maps.Polyline>();
+  const [, setMarker] = useState<google.maps.marker.AdvancedMarkerElement>();
 
   const onOpen = () => {
     setIsOpen(true);
@@ -30,6 +33,58 @@ const Searchbox = ({
   const onClose = () => {
     setIsOpen(false);
   };
+
+  useEffect(() => {
+    if (!map) return;
+    if (id) {
+      locations[type as keyof Locations]?.forEach((item) => {
+        if ("boundaries" in item && item.id === id) {
+          const boundaries = item.boundaries as Boundary[];
+          const path = boundaries.map((boundary) => ({
+            lat: boundary.lat,
+            lng: boundary.lon,
+          }));
+          const polyline = new google.maps.Polyline({
+            path,
+            map,
+            strokeColor: "#FF0000",
+            strokeOpacity: 0.8,
+            strokeWeight: 3,
+          });
+          setLine((prev) => {
+            if (prev) prev.setMap(null);
+            return polyline;
+          });
+          setMarker((prev) => {
+            if (prev) prev.map = null;
+            return undefined;
+          });
+        } else if ("latitude" in item && item.id === id) {
+          const marker = new google.maps.marker.AdvancedMarkerElement({
+            position: { lat: item.latitude, lng: item.longitude },
+            map,
+          });
+          setMarker((prev) => {
+            if (prev) prev.map = null;
+            return marker;
+          });
+          setLine((prev) => {
+            if (prev) prev.setMap(null);
+            return undefined;
+          });
+        }
+      });
+    } else if (!type) {
+      setLine((prev) => {
+        if (prev) prev.setMap(null);
+        return undefined;
+      });
+      setMarker((prev) => {
+        if (prev) prev.map = null;
+        return undefined;
+      });
+    }
+  }, [map, type, id, locations]);
 
   return (
     <Box
@@ -72,7 +127,10 @@ const Searchbox = ({
                 color="action"
                 fontSize="small"
                 sx={{ cursor: "pointer" }}
-                onClick={() => setType("")}
+                onClick={() => {
+                  setType("");
+                  setId(undefined);
+                }}
               />
             ) : null}
           </Paper>
