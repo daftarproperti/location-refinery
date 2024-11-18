@@ -44,16 +44,12 @@ class OSMParser:
 
     def generate_boundaries(self, element):
         boundaries = []
-        seen_ids = set()
 
         if 'members' in element:
             for member in element['members']:
                 if member['type'] == 'way' and member['ref'] in self.ways:
                     way = self.ways[member['ref']]
                     for node_id in way.get('nodes', []):
-                        if node_id in seen_ids:
-                            continue
-
                         node = self.nodes.get(node_id)
                         if node and 'lat' in node and 'lon' in node:
                             boundaries.append({
@@ -61,13 +57,9 @@ class OSMParser:
                                 'lat': node['lat'],
                                 'lon': node['lon']
                             })
-                            seen_ids.add(node_id)
 
         elif 'nodes' in element:
             for node_id in element['nodes']:
-                if node_id in seen_ids:
-                    continue
-
                 node = self.nodes.get(node_id)
                 if node and 'lat' in node and 'lon' in node:
                     boundaries.append({
@@ -75,10 +67,6 @@ class OSMParser:
                         'lat': node['lat'],
                         'lon': node['lon']
                     })
-                    seen_ids.add(node_id)
-
-
-        boundaries.sort(key=lambda x: x['osmId'])
 
         return boundaries
 
