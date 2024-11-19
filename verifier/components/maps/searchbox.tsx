@@ -27,8 +27,9 @@ const Searchbox = ({
   const [loc, setLoc] = useState<Area | Amenity>();
   const [type, setType] = useState("");
   const [isOpen, setIsOpen] = useState(false);
-  const [, setLine] = useState<google.maps.Polyline>();
-  const [, setMarker] = useState<google.maps.marker.AdvancedMarkerElement>();
+  const [, setLines] = useState<google.maps.Polyline[]>();
+  const [markers, setMarkers] =
+    useState<google.maps.marker.AdvancedMarkerElement[]>();
 
   const onOpen = () => {
     setIsOpen(true);
@@ -38,57 +39,108 @@ const Searchbox = ({
     setIsOpen(false);
   };
 
+  const onResetLines = () => {
+    setLines((prev) => {
+      if (prev) prev.forEach((line) => line.setMap(null));
+      return undefined;
+    });
+  };
+
+  const onResetMarkers = () => {
+    setMarkers((prev) => {
+      if (prev) prev.forEach((marker) => (marker.map = null));
+      return undefined;
+    });
+  };
+
   useEffect(() => {
-    if (!map) return;
-    if (loc) {
-      locations[type as keyof Locations]?.forEach((item) => {
-        if ("boundaries" in item && item.id === loc.id) {
-          const boundaries = item.boundaries as Boundary[];
-          const path = boundaries.map((boundary) => ({
-            lat: boundary.lat,
-            lng: boundary.lon,
-          }));
-          const polyline = new google.maps.Polyline({
-            path,
-            map,
-            strokeColor: "#FF0000",
-            strokeOpacity: 0.8,
-            strokeWeight: 3,
-          });
-          setLine((prev) => {
-            if (prev) prev.setMap(null);
-            return polyline;
-          });
-          setMarker((prev) => {
-            if (prev) prev.map = null;
-            return undefined;
-          });
-        } else if ("latitude" in item && item.id === loc.id) {
-          const marker = new google.maps.marker.AdvancedMarkerElement({
-            position: { lat: item.latitude, lng: item.longitude },
-            map,
-          });
-          setMarker((prev) => {
-            if (prev) prev.map = null;
-            return marker;
-          });
-          setLine((prev) => {
-            if (prev) prev.setMap(null);
-            return undefined;
-          });
-        }
-      });
-    } else if (!type) {
-      setLine((prev) => {
-        if (prev) prev.setMap(null);
-        return undefined;
-      });
-      setMarker((prev) => {
-        if (prev) prev.map = null;
-        return undefined;
-      });
+    onResetLines();
+    onResetMarkers();
+    if (type) {
+      if (loc) {
+        locations[type as keyof Locations]?.forEach((item) => {
+          if ("boundaries" in item && item.id === loc.id) {
+            const boundaries = item.boundaries as Boundary[];
+            const path = boundaries.map((boundary) => ({
+              lat: boundary.lat,
+              lng: boundary.lon,
+            }));
+            const polyline = new google.maps.Polyline({
+              path,
+              map,
+              strokeColor: "#FF0000",
+              strokeOpacity: 0.8,
+              strokeWeight: 3,
+            });
+            setLines([polyline]);
+            const marker = new google.maps.marker.AdvancedMarkerElement({
+              position: { lat: item.lat, lng: item.lon },
+              title: item.id.toString(),
+              map,
+            });
+            setMarkers([marker]);
+          } else if ("latitude" in item && item.id === loc.id) {
+            const marker = new google.maps.marker.AdvancedMarkerElement({
+              position: { lat: item.latitude, lng: item.longitude },
+              map,
+            });
+            setMarkers([marker]);
+          }
+        });
+      } else {
+        locations[type as keyof Locations]?.forEach((item) => {
+          if ("boundaries" in item) {
+            const boundaries = item.boundaries as Boundary[];
+            const path = boundaries.map((boundary) => ({
+              lat: boundary.lat,
+              lng: boundary.lon,
+            }));
+            const polyline = new google.maps.Polyline({
+              path,
+              map,
+              strokeColor: "#FF0000",
+              strokeOpacity: 0.8,
+              strokeWeight: 3,
+            });
+            setLines((prev) => {
+              return prev ? [...prev, polyline] : [polyline];
+            });
+            const marker = new google.maps.marker.AdvancedMarkerElement({
+              position: { lat: item.lat, lng: item.lon },
+              title: item.id.toString(),
+              map,
+            });
+            setMarkers((prev) => {
+              return prev ? [...prev, marker] : [marker];
+            });
+          } else if ("latitude" in item) {
+            const marker = new google.maps.marker.AdvancedMarkerElement({
+              position: { lat: item.latitude, lng: item.longitude },
+              title: item.id.toString(),
+              map,
+            });
+            setMarkers((prev) => {
+              return prev ? [...prev, marker] : [marker];
+            });
+          }
+        });
+      }
     }
   }, [map, type, loc, locations]);
+
+  useEffect(() => {
+    markers?.forEach((marker) => {
+      marker.addListener("click", () => {
+        setLoc((prev) =>
+          prev
+            ? undefined
+            : locations[type as keyof Locations]?.find(
+                (item) => item.id === parseInt(marker.title)
+              )
+        );
+      });
+    });
+  }, [locations, markers, type]);
 
   return (
     <Box
