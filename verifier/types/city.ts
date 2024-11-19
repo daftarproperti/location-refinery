@@ -27,6 +27,8 @@ export type Area = {
   name: string;
   boundaries: Boundary[] | string;
   alt_name: string[];
+  lat: number;
+  lon: number;
 };
 
 export type Boundary = {

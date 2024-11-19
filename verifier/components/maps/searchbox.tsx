@@ -6,11 +6,15 @@ import {
   MenuItem,
   MenuList,
   Paper,
+  Table,
+  TableBody,
+  TableCell,
+  TableRow,
   Typography,
 } from "@mui/material";
 import { Close } from "@mui/icons-material";
 
-import { Boundary, Locations } from "@/types";
+import { Amenity, Area, Boundary, Locations } from "@/types";
 
 const Searchbox = ({
   map,
@@ -20,7 +24,7 @@ const Searchbox = ({
   locations: Locations;
 }) => {
   const inputRef = useRef<HTMLInputElement>(null);
-  const [id, setId] = useState<number>();
+  const [loc, setLoc] = useState<Area | Amenity>();
   const [type, setType] = useState("");
   const [isOpen, setIsOpen] = useState(false);
   const [, setLine] = useState<google.maps.Polyline>();
@@ -36,9 +40,9 @@ const Searchbox = ({
 
   useEffect(() => {
     if (!map) return;
-    if (id) {
+    if (loc) {
       locations[type as keyof Locations]?.forEach((item) => {
-        if ("boundaries" in item && item.id === id) {
+        if ("boundaries" in item && item.id === loc.id) {
           const boundaries = item.boundaries as Boundary[];
           const path = boundaries.map((boundary) => ({
             lat: boundary.lat,
@@ -59,7 +63,7 @@ const Searchbox = ({
             if (prev) prev.map = null;
             return undefined;
           });
-        } else if ("latitude" in item && item.id === id) {
+        } else if ("latitude" in item && item.id === loc.id) {
           const marker = new google.maps.marker.AdvancedMarkerElement({
             position: { lat: item.latitude, lng: item.longitude },
             map,
@@ -84,7 +88,7 @@ const Searchbox = ({
         return undefined;
       });
     }
-  }, [map, type, id, locations]);
+  }, [map, type, loc, locations]);
 
   return (
     <Box
@@ -129,7 +133,7 @@ const Searchbox = ({
                 sx={{ cursor: "pointer" }}
                 onClick={() => {
                   setType("");
-                  setId(undefined);
+                  setLoc(undefined);
                 }}
               />
             ) : null}
@@ -155,7 +159,7 @@ const Searchbox = ({
                   onClick={() => {
                     onClose();
                     setType(key);
-                    setId(undefined);
+                    setLoc(undefined);
                   }}
                 >
                   <Typography
@@ -181,15 +185,14 @@ const Searchbox = ({
             left: 0,
             right: 0,
             zIndex: -1,
-            height: id ? 52 : 520,
-            maxHeight: "calc(100vh - 96px)",
+            maxHeight: loc ? 52 : 520,
             overflowY: "auto",
             position: "absolute",
           }}
         >
           <MenuList disablePadding>
-            {id ? (
-              <MenuItem onClick={() => setId(undefined)}>
+            {loc ? (
+              <MenuItem onClick={() => setLoc(undefined)}>
                 <Typography
                   lineHeight={2.5}
                   color="textSecondary"
@@ -197,20 +200,12 @@ const Searchbox = ({
                   whiteSpace="nowrap"
                   textOverflow="ellipsis"
                 >
-                  {
-                    locations[type as keyof Locations]?.find(
-                      (item) => item.id === id
-                    )?.name
-                  }
+                  {loc?.name}
                 </Typography>
               </MenuItem>
             ) : (
               locations[type as keyof Locations]?.map((item) => (
-                <MenuItem
-                  key={item.id}
-                  selected={item.id === id}
-                  onClick={() => setId(item.id)}
-                >
+                <MenuItem key={item.id} onClick={() => setLoc(item)}>
                   <Typography
                     lineHeight={2.5}
                     color="textSecondary"
@@ -224,6 +219,75 @@ const Searchbox = ({
               ))
             )}
           </MenuList>
+        </Paper>
+      ) : null}
+
+      {loc ? (
+        <Paper
+          elevation={3}
+          sx={{
+            mx: 0.5,
+            top: 132,
+            left: 0,
+            right: 0,
+            zIndex: -1,
+            maxHeight: "calc(100vh - 96px)",
+            overflowY: "auto",
+            position: "absolute",
+          }}
+        >
+          <Table>
+            <TableBody>
+              <TableRow>
+                <TableCell>
+                  <Typography color="textSecondary" variant="body2">
+                    OSM ID
+                  </Typography>
+                </TableCell>
+                <TableCell>
+                  <Typography color="textSecondary" variant="body2">
+                    {loc?.id}
+                  </Typography>
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <Typography color="textSecondary" variant="body2">
+                    Koordinat
+                  </Typography>
+                </TableCell>
+                <TableCell>
+                  {loc ? (
+                    <Typography color="textSecondary" variant="body2">
+                      {"boundaries" in loc ? (
+                        <span>
+                          {loc?.lat}, {loc?.lon}
+                        </span>
+                      ) : (
+                        <span>
+                          {loc?.latitude}, {loc?.longitude}
+                        </span>
+                      )}
+                    </Typography>
+                  ) : null}
+                </TableCell>
+              </TableRow>
+              {loc.alt_name.length ? (
+                <TableRow>
+                  <TableCell>
+                    <Typography color="textSecondary" variant="body2">
+                      Nama lain
+                    </Typography>
+                  </TableCell>
+                  <TableCell>
+                    <Typography color="textSecondary" variant="body2">
+                      {loc.alt_name.join(", ")}
+                    </Typography>
+                  </TableCell>
+                </TableRow>
+              ) : null}
+            </TableBody>
+          </Table>
         </Paper>
       ) : null}
     </Box>
