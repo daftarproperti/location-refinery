@@ -27,7 +27,7 @@ const Searchbox = ({
   const [loc, setLoc] = useState<Area | Amenity>();
   const [type, setType] = useState("");
   const [isOpen, setIsOpen] = useState(false);
-  const [, setLines] = useState<google.maps.Polyline[]>();
+  const [, setLines] = useState<google.maps.Polygon[]>();
   const [markers, setMarkers] =
     useState<google.maps.marker.AdvancedMarkerElement[]>();
 
@@ -61,18 +61,20 @@ const Searchbox = ({
         locations[type as keyof Locations]?.forEach((item) => {
           if ("boundaries" in item && item.id === loc.id) {
             const boundaries = item.boundaries as Boundary[];
-            const path = boundaries.map((boundary) => ({
+            const paths = boundaries.map((boundary) => ({
               lat: boundary.lat,
               lng: boundary.lon,
             }));
-            const polyline = new google.maps.Polyline({
-              path,
+            const polygon = new google.maps.Polygon({
+              paths,
               map,
               strokeColor: "#FF0000",
-              strokeOpacity: 0.8,
-              strokeWeight: 3,
+              strokeOpacity: 1,
+              strokeWeight: 2.5,
+              fillColor: "#FF0000",
+              fillOpacity: 0.05,
             });
-            setLines([polyline]);
+            setLines([polygon]);
             const marker = new google.maps.marker.AdvancedMarkerElement({
               position: { lat: item.lat, lng: item.lon },
               title: item.id.toString(),
@@ -91,19 +93,21 @@ const Searchbox = ({
         locations[type as keyof Locations]?.forEach((item) => {
           if ("boundaries" in item) {
             const boundaries = item.boundaries as Boundary[];
-            const path = boundaries.map((boundary) => ({
+            const paths = boundaries.map((boundary) => ({
               lat: boundary.lat,
               lng: boundary.lon,
             }));
-            const polyline = new google.maps.Polyline({
-              path,
+            const polygon = new google.maps.Polygon({
+              paths,
               map,
               strokeColor: "#FF0000",
-              strokeOpacity: 0.8,
-              strokeWeight: 3,
+              strokeOpacity: 1,
+              strokeWeight: 2.5,
+              fillColor: "#FF0000",
+              fillOpacity: 0.05,
             });
             setLines((prev) => {
-              return prev ? [...prev, polyline] : [polyline];
+              return prev ? [...prev, polygon] : [polygon];
             });
             const marker = new google.maps.marker.AdvancedMarkerElement({
               position: { lat: item.lat, lng: item.lon },
