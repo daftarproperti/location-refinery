@@ -7,7 +7,7 @@ const loadCityData = (cityName: string): Data => {
   const cityInfo = readYamlFile<City>(path.join(cityDir, "city.yaml"));
 
   const districtObject = readYamlFile<{ districts: Area[] }>(
-    path.join(cityDir, "areas", "district.yaml")
+    path.join(cityDir, "areas", "districts.yaml")
   );
   const districtsObject = districtObject.districts;
   const districts = districtsObject?.map((item) => ({
@@ -18,7 +18,7 @@ const loadCityData = (cityName: string): Data => {
   }));
 
   const subDistrictObject = readYamlFile<{ "sub-districts": Area[] }>(
-    path.join(cityDir, "areas", "sub-district.yaml")
+    path.join(cityDir, "areas", "sub-districts.yaml")
   );
   const subDistrictsObject = subDistrictObject["sub-districts"];
   const subDistricts = subDistrictsObject?.map((item) => ({
