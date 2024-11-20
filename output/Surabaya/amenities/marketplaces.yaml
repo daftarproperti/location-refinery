@@ -2,15 +2,15 @@ objects:
 - id: 215101231
   name: Pasar Surya
   alt_name: []
-  latitude: 1982182631189.3333
-  longitude: 362237688490.6667
+  latitude: -7.268732050000001
+  longitude: 112.71350245000001
   type: way
   amenity_type: marketplace
 - id: 219077459
   name: Pasar Keputran
   alt_name: []
-  latitude: -7.276307684913394
-  longitude: 112.74395049447737
+  latitude: -7.274845535870169
+  longitude: 112.74275971240263
   type: way
   amenity_type: marketplace
 - id: 280307917
@@ -30,15 +30,15 @@ objects:
 - id: 311381412
   name: Pasar Pahing
   alt_name: []
-  latitude: -7.329710876894152
-  longitude: 112.77089936812989
+  latitude: -7.330642392137757
+  longitude: 112.77092214614107
   type: way
   amenity_type: marketplace
 - id: 311980592
   name: Tempat Pelelangan Ikan
   alt_name: []
-  latitude: -6.950281479489251
-  longitude: 112.46065063209264
+  latitude: -7.198601464907224
+  longitude: 112.66485474597826
   type: way
   amenity_type: marketplace
 - id: 349650754
@@ -51,442 +51,442 @@ objects:
 - id: 446941410
   name: Pasar Sinar Baru
   alt_name: []
-  latitude: -7.732425543114495
-  longitude: 112.79525888554483
+  latitude: -7.321827432065018
+  longitude: 112.77787483458043
   type: way
   amenity_type: marketplace
 - id: 447608021
   name: Pasar Gubeng Masjid
   alt_name: []
-  latitude: 50425956.40717414
-  longitude: 22790886.739367764
+  latitude: -7.2677089
+  longitude: 112.7529323
   type: way
   amenity_type: marketplace
 - id: 447623103
   name: Pasar Tunjungan
   alt_name: []
-  latitude: -6.512719889277085
-  longitude: 114.07085347774617
+  latitude: -7.260460403357816
+  longitude: 112.7389754599982
   type: way
   amenity_type: marketplace
 - id: 447623735
   name: Pasar Pecindilan
   alt_name: []
-  latitude: -7.247748562629195
-  longitude: 112.748988261267
+  latitude: -7.24753407465459
+  longitude: 112.74925684299342
   type: way
   amenity_type: marketplace
 - id: 447712076
   name: Pasar Dinoyo Tangsi
   alt_name: []
-  latitude: -7.34896811712778
-  longitude: 112.70728201318126
+  latitude: -7.286372585824578
+  longitude: 112.74317554071744
   type: way
   amenity_type: marketplace
 - id: 448271628
   name: Pasar Kembang
   alt_name: []
-  latitude: -7.269290756394326
-  longitude: 112.72949735706624
+  latitude: -7.269511339637346
+  longitude: 112.72936440441374
   type: way
   amenity_type: marketplace
 - id: 449182769
   name: Pasar Kedungsari
   alt_name: []
-  latitude: -7.267946767167192
-  longitude: 112.73646322898627
+  latitude: -7.267910514853905
+  longitude: 112.73637402794145
   type: way
   amenity_type: marketplace
 - id: 449294401
   name: Pasar Kaliasin
   alt_name: []
-  latitude: -7.263357688497815
-  longitude: 112.73807060902867
+  latitude: -7.264318806712816
+  longitude: 112.73792928743345
   type: way
   amenity_type: marketplace
 - id: 449316496
   name: Sentra Ikan Bulak
   alt_name: []
-  latitude: -7.225294245207089
-  longitude: 112.78699503287848
+  latitude: -7.22536122176239
+  longitude: 112.78694946828844
   type: way
   amenity_type: marketplace
 - id: 449519092
   name: Pasar Setro Makmur
   alt_name: []
-  latitude: -7.238511658748637
-  longitude: 112.77894541363256
+  latitude: -7.239089199332724
+  longitude: 112.77861279958867
   type: way
   amenity_type: marketplace
 - id: 449624547
   name: Pasar Rabardjo
   alt_name: []
-  latitude: -6.585979245556884
-  longitude: 113.00126069936026
+  latitude: -7.233663167988979
+  longitude: 112.77341223345955
   type: way
   amenity_type: marketplace
 - id: 449624585
   name: Pasar Pacar Keling
   alt_name: []
-  latitude: -7.260699493150521
-  longitude: 112.7582500958648
+  latitude: -7.26055574848569
+  longitude: 112.75835209282442
   type: way
   amenity_type: marketplace
 - id: 449639964
   name: Pasar Genteng Baru Surabaya
   alt_name: []
-  latitude: -8373090.13267932
-  longitude: -2042000.738391411
+  latitude: -7.25855945
+  longitude: 112.74073530000001
   type: way
   amenity_type: marketplace
 - id: 449650272
   name: Pasar Kepatihan
   alt_name: []
-  latitude: -7.249348597490504
-  longitude: 112.73903644575425
+  latitude: -7.249356096685589
+  longitude: 112.7390118511493
   type: way
   amenity_type: marketplace
 - id: 449652767
   name: Pasar Bunga Bratang
   alt_name: []
-  latitude: 1315715848.5638323
-  longitude: 134284514.5282167
+  latitude: -7.297745099999999
+  longitude: 112.76012095000002
   type: way
   amenity_type: marketplace
 - id: 449832222
   name: Pasar Pegirian
   alt_name: []
-  latitude: -7.227123192045178
-  longitude: 112.74551879746666
+  latitude: -7.227009477758657
+  longitude: 112.74556022174714
   type: way
   amenity_type: marketplace
 - id: 450294237
   name: Pasar Kapasan
   alt_name: []
-  latitude: -7.237424618756819
-  longitude: 112.75444993046246
+  latitude: -7.2393217918308945
+  longitude: 112.74945495738129
   type: way
   amenity_type: marketplace
 - id: 450509693
   name: Pasar Pucang Anom
   alt_name: []
-  latitude: -7.284026260170544
-  longitude: 112.75340864103654
+  latitude: -7.28402860687455
+  longitude: 112.7534013189102
   type: way
   amenity_type: marketplace
 - id: 450521503
   name: Pasar Pogot
   alt_name: []
-  latitude: -7.233810802489722
-  longitude: 112.76813383498782
+  latitude: -7.232352220766685
+  longitude: 112.76844637220091
   type: way
   amenity_type: marketplace
 - id: 450537996
   name: Pasar Manyar Surabaya
   alt_name: []
-  latitude: -7.282150506796529
-  longitude: 112.76229126201925
+  latitude: -7.280865055167125
+  longitude: 112.76234617144367
   type: way
   amenity_type: marketplace
 - id: 450698653
   name: Pasar Tradisional Tempurejo
   alt_name: []
-  latitude: -7.255851333279632
-  longitude: 112.79540477074735
+  latitude: -7.25581476386995
+  longitude: 112.79536050711673
   type: way
   amenity_type: marketplace
 - id: 450988776
   name: Pasar Jagir
   alt_name: []
-  latitude: -15.070493761070797
-  longitude: 110.61828445743902
+  latitude: -7.302932373622668
+  longitude: 112.74269036780802
   type: way
   amenity_type: marketplace
 - id: 451275115
   name: Pasar Surya Kedinding
   alt_name: []
-  latitude: -7.222436586554677
-  longitude: 112.77714796250719
+  latitude: -7.222693146459989
+  longitude: 112.77707857562459
   type: way
   amenity_type: marketplace
 - id: 451492077
   name: Pasar Krembangan
   alt_name: []
-  latitude: -4.743701030511121
-  longitude: 113.07094976573534
+  latitude: -7.23680752198868
+  longitude: 112.73253794675128
   type: way
   amenity_type: marketplace
 - id: 451558997
   name: Pasar Rungkut Baru
   alt_name: []
-  latitude: -7.842302564139309
-  longitude: 112.77482585993992
+  latitude: -7.323106054016286
+  longitude: 112.7722677751019
   type: way
   amenity_type: marketplace
 - id: 451558998
   name: Pasar Soponyono
   alt_name: []
-  latitude: -7.323087680331977
-  longitude: 112.77161798369266
+  latitude: -7.3230555446418695
+  longitude: 112.7715718925436
   type: way
   amenity_type: marketplace
 - id: 451666790
   name: Pasar Tradisional Syariah Az Zaitun I Kutisari
   alt_name: []
-  latitude: -7.1529002889635365
-  longitude: 112.75456391124743
+  latitude: -7.33753368719235
+  longitude: 112.74592997584729
   type: way
   amenity_type: marketplace
 - id: 451826906
   name: Pasar Baba'an Baru
   alt_name: []
-  latitude: -7.228498948760175
-  longitude: 112.7357484048172
+  latitude: -7.228426330212215
+  longitude: 112.73549378309413
   type: way
   amenity_type: marketplace
 - id: 451857622
   name: Pasar Wonokitri
   alt_name: []
-  latitude: -7.294957269761158
-  longitude: 112.7254037066127
+  latitude: -7.294564409807137
+  longitude: 112.72569861542448
   type: way
   amenity_type: marketplace
 - id: 452173173
   name: Pasar Bulak Banteng
   alt_name: []
-  latitude: -9.474268734613789
-  longitude: 112.35379236448955
+  latitude: -7.2179310279305975
+  longitude: 112.76105295932827
   type: way
   amenity_type: marketplace
 - id: 452371764
   name: Pasar Bulak Banteng
   alt_name: []
-  latitude: -7.212422586411706
-  longitude: 112.76536008165826
+  latitude: -7.212450032735055
+  longitude: 112.76529108861429
   type: way
   amenity_type: marketplace
 - id: 452580518
   name: Pasar Keputran Selatan
   alt_name: []
-  latitude: -7.277934343470644
-  longitude: 112.74383538528404
+  latitude: -7.27779085480775
+  longitude: 112.74374641267966
   type: way
   amenity_type: marketplace
 - id: 452601173
   name: Pasar Buah Pegirian
   alt_name: []
-  latitude: -7.223662222050618
-  longitude: 112.75196609600293
+  latitude: -7.223662222050617
+  longitude: 112.75196609600295
   type: way
   amenity_type: marketplace
 - id: 453439341
   name: Pasar Podomoro
   alt_name: []
-  latitude: -7.219730380414705
-  longitude: 112.76693231336372
+  latitude: -7.218712467573541
+  longitude: 112.76676618629175
   type: way
   amenity_type: marketplace
 - id: 453890072
   name: Pasar Dupak Baru
   alt_name: []
-  latitude: 2.709791840229494
-  longitude: 112.94403760235458
+  latitude: -7.24561742451016
+  longitude: 112.71481419599954
   type: way
   amenity_type: marketplace
 - id: 453926014
   name: Pasar Tradisional Jala Wage
   alt_name: []
-  latitude: -7.3123418000000004
-  longitude: 112.65155150000002
+  latitude: -7.312341800000001
+  longitude: 112.6515515
   type: way
   amenity_type: marketplace
 - id: 454132663
   name: Toko Barokah dan Isi Ulang
   alt_name: []
-  latitude: -7.244593979740419
-  longitude: 112.72264683560189
+  latitude: -7.243628643427706
+  longitude: 112.72263041070175
   type: way
   amenity_type: marketplace
 - id: 454182588
   name: Pasar Dupak Jaya
   alt_name: []
-  latitude: -7.243161528021077
-  longitude: 112.7257892560851
+  latitude: -7.242766193688879
+  longitude: 112.72583471165646
   type: way
   amenity_type: marketplace
 - id: 455037163
   name: Pasar Blauran Baru
   alt_name: []
-  latitude: -7.256326020421725
-  longitude: 112.7334573112854
+  latitude: -7.2565298012056045
+  longitude: 112.73348907175823
   type: way
   amenity_type: marketplace
 - id: 455426669
   name: Pasar Bangun Rejo
   alt_name: []
-  latitude: -10.621940921190344
-  longitude: 112.93665990129304
+  latitude: -7.239049226077012
+  longitude: 112.71718344061885
   type: way
   amenity_type: marketplace
 - id: 455437293
   name: Pasar Tradisional Darmo Permai
   alt_name: []
-  latitude: -7.286800498258817
-  longitude: 112.69842522619992
+  latitude: -7.284165270626456
+  longitude: 112.69888491762025
   type: way
   amenity_type: marketplace
 - id: 455599080
   name: Pasar Dorowati
   alt_name: []
-  latitude: 5782939.825893611
-  longitude: 1363797.2355002332
+  latitude: -7.268651800000001
+  longitude: 112.66894230000003
   type: way
   amenity_type: marketplace
 - id: 455658114
   name: Pasar Wiyung
   alt_name: []
   latitude: -7.314167792948848
-  longitude: 112.69409187691244
+  longitude: 112.69409187691247
   type: way
   amenity_type: marketplace
 - id: 455662485
   name: Pasar Kupang Gunung
   alt_name: []
-  latitude: -7.278519413335944
-  longitude: 112.72216083780519
+  latitude: -7.278591468358277
+  longitude: 112.722169291954
   type: way
   amenity_type: marketplace
 - id: 456503375
   name: Pasar Tembok Dukuh
   alt_name: []
-  latitude: -7.26074460502244
-  longitude: 112.72563477796827
+  latitude: -7.255504613021642
+  longitude: 112.7268093216617
   type: way
   amenity_type: marketplace
 - id: 456691659
   name: Pasar Karang Pilang
   alt_name: []
   latitude: -7.341783399886212
-  longitude: 112.6951133816241
+  longitude: 112.69511338162405
   type: way
   amenity_type: marketplace
 - id: 457112884
   name: Pasar Buah Tradisional
   alt_name: []
-  latitude: -7.25584180382804
-  longitude: 112.70118271641815
+  latitude: -7.2560791467052494
+  longitude: 112.70118216633196
   type: way
   amenity_type: marketplace
 - id: 457121451
   name: Pasar Gundih
   alt_name: []
-  latitude: -7.249351361670036
-  longitude: 112.7286470549268
+  latitude: -7.249445733676324
+  longitude: 112.72862591151949
   type: way
   amenity_type: marketplace
 - id: 458603907
   name: Pasar Surya Kendangsari
   alt_name: []
-  latitude: -6.921851869347368
-  longitude: 112.9334220677521
+  latitude: -7.324797914220944
+  longitude: 112.75053215221381
   type: way
   amenity_type: marketplace
 - id: 458634483
   name: Pasar Simo Hilir
   alt_name: []
-  latitude: -7.270329900881343
-  longitude: 112.70667984488719
+  latitude: -7.2715857803650525
+  longitude: 112.70630821885432
   type: way
   amenity_type: marketplace
 - id: 459701260
   name: Pasar Banjar Sugihan
   alt_name: []
-  latitude: -7.255249928806421
-  longitude: 112.65847183360557
+  latitude: -7.255309179377836
+  longitude: 112.65837556659002
   type: way
   amenity_type: marketplace
 - id: 459921941
   name: Pasar Dukuh Kupang
   alt_name: []
-  latitude: -7.280661622147329
-  longitude: 112.71136088712852
+  latitude: -7.280891804135253
+  longitude: 112.71128364751016
   type: way
   amenity_type: marketplace
 - id: 459961189
   name: Pasar Surya Balongsari
   alt_name: []
-  latitude: -356541197328.0
-  longitude: -83246180864.0
+  latitude: -7.2594087
+  longitude: 112.67912015
   type: way
   amenity_type: marketplace
 - id: 461091820
   name: Pasar Krempyeng Sidosermo
   alt_name: []
-  latitude: -5.9033565607654435
-  longitude: 112.9046770679817
+  latitude: -7.309561173078024
+  longitude: 112.75199643762323
   type: way
   amenity_type: marketplace
 - id: 461277740
   name: Pasar Kandangan
   alt_name: []
-  latitude: -7.251917728950315
-  longitude: 112.65126111780401
+  latitude: -7.251857462484778
+  longitude: 112.65129235162419
   type: way
   amenity_type: marketplace
 - id: 461325703
   name: SWK Penjaringan Sari
   alt_name: []
-  latitude: -7.322259009260128
-  longitude: 112.7822856372857
+  latitude: -7.322259009260129
+  longitude: 112.78228563728571
   type: way
   amenity_type: marketplace
 - id: 463387637
   name: Pasar LKMK Pageasangan
   alt_name: []
-  latitude: -7.333385293042923
+  latitude: -7.333385293042922
   longitude: 112.71050872591951
   type: way
   amenity_type: marketplace
 - id: 464005721
   name: Pasar Ikan Hias Gunung Sari
   alt_name: []
-  latitude: -7.306011017165854
-  longitude: 112.72435240324485
+  latitude: -7.306011017165856
+  longitude: 112.72435240324488
   type: way
   amenity_type: marketplace
 - id: 464019349
   name: Pasar Bandarejo
   alt_name: []
-  latitude: -7.298710340044124
-  longitude: 112.62524405872249
+  latitude: -7.251239422889209
+  longitude: 112.64569180794363
   type: way
   amenity_type: marketplace
 - id: 464034846
   name: Pasar Bendul Merisi
   alt_name: []
   latitude: -7.306603700242383
-  longitude: 112.73645021885856
+  longitude: 112.73645021885854
   type: way
   amenity_type: marketplace
 - id: 464056570
   name: Pasar Induk Oso Wilangon
   alt_name: []
-  latitude: -7.22988690615035
-  longitude: 112.65848912324017
+  latitude: -7.211944335994882
+  longitude: 112.65409402680531
   type: way
   amenity_type: marketplace
 - id: 465070540
   name: Pasar Surya Gayungsari
   alt_name: []
-  latitude: -7.101907927051608
-  longitude: 112.74126864086563
+  latitude: -7.3322046526513445
+  longitude: 112.72084147388155
   type: way
   amenity_type: marketplace
 - id: 465324247
   name: Pasar Kendung
   alt_name: []
-  latitude: -7.250240657783752
-  longitude: 112.63516571559641
+  latitude: -7.250086421762981
+  longitude: 112.63529345892127
   type: way
   amenity_type: marketplace
 - id: 467091986
@@ -499,57 +499,57 @@ objects:
 - id: 468265000
   name: Pasar Kupang
   alt_name: []
-  latitude: -7.27462133202716
-  longitude: 112.72711703487275
+  latitude: -7.274621332027162
+  longitude: 112.72711703487276
   type: way
   amenity_type: marketplace
 - id: 468637720
   name: Pasar Tradisional Benowo
   alt_name: []
-  latitude: -7.2345942644686065
-  longitude: 112.61103319264643
+  latitude: -7.234594264468607
+  longitude: 112.61103319264647
   type: way
   amenity_type: marketplace
 - id: 468664312
   name: Pasar Dukuh Menanggal
   alt_name: []
-  latitude: -893887.6095232153
-  longitude: -204048.81462167052
+  latitude: -7.3423915
+  longitude: 112.71991134999999
   type: way
   amenity_type: marketplace
 - id: 471347448
   name: Pasar Burung Bratang
   alt_name: []
-  latitude: -7.297819582164111
-  longitude: 112.76071934352204
+  latitude: -7.297819582164114
+  longitude: 112.76071934352208
   type: way
   amenity_type: marketplace
 - id: 474313587
   name: Kantor Pusat PD Pasar Surya
   alt_name: []
-  latitude: -7.278914299999999
-  longitude: 112.7647769
+  latitude: -7.278914300000001
+  longitude: 112.76477690000003
   type: way
   amenity_type: marketplace
 - id: 486276844
   name: Pasar Pabean
   alt_name: []
   latitude: -7.234808134049403
-  longitude: 112.74082602580037
+  longitude: 112.74082602580039
   type: way
   amenity_type: marketplace
 - id: 487357290
   name: Fresh Market Citraland
   alt_name: []
   latitude: -7.276106679838446
-  longitude: 112.64559686917757
+  longitude: 112.64559686917755
   type: way
   amenity_type: marketplace
 - id: 801863448
   name: Pasar Wisata Penjaringan Sari
   alt_name: []
-  latitude: -7.321740924513911
-  longitude: 112.78397054696583
+  latitude: -7.321771797840242
+  longitude: 112.78391984064709
   type: way
   amenity_type: marketplace
 - id: 4461489614

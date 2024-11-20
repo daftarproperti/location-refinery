@@ -3,15 +3,15 @@ objects:
   name: Terminal Tambak Osowilangon
   alt_name:
   - Terminal Osowilangun
-  latitude: -7.2180497462965025
-  longitude: 112.65342936490077
+  latitude: -7.2181752897860445
+  longitude: 112.65334064028258
   type: way
   amenity_type: bus_station
 - id: 275493021
   name: Terminal Kedung Cowek
   alt_name: []
-  latitude: -7.212454492221949
-  longitude: 112.77940244048561
+  latitude: -7.212820420314994
+  longitude: 112.77936734351188
   type: way
   amenity_type: bus_station
 - id: 320141897
@@ -25,7 +25,7 @@ objects:
   name: Terminal Kalimas Barat
   alt_name: []
   latitude: -7.223189767536678
-  longitude: 112.73783678913563
+  longitude: 112.73783678913561
   type: way
   amenity_type: bus_station
 - id: 455261261
@@ -38,29 +38,29 @@ objects:
 - id: 459921946
   name: Terminal Dukuh Kupang
   alt_name: []
-  latitude: -6.457224151071177
-  longitude: 112.9411863734704
+  latitude: -7.281387797053012
+  longitude: 112.71197478017369
   type: way
   amenity_type: bus_station
 - id: 466854271
   name: Terminal Intermoda Joyoboyo
   alt_name: []
-  latitude: -7.298682242831024
-  longitude: 112.73642291154674
+  latitude: -7.298926101785703
+  longitude: 112.73647112974317
   type: way
   amenity_type: bus_station
 - id: 467064615
   name: Terminal Menanggal
   alt_name: []
-  latitude: -7.341948282668471
-  longitude: 112.72235042190638
+  latitude: -7.341582789813884
+  longitude: 112.72255115094731
   type: way
   amenity_type: bus_station
 - id: 485783914
   name: Terminal Keputih
   alt_name: []
-  latitude: -7.2885453753327845
-  longitude: 112.80266308313402
+  latitude: -7.294610148823812
+  longitude: 112.80184225180096
   type: way
   amenity_type: bus_station
 - id: 486883056
@@ -73,14 +73,14 @@ objects:
 - id: 486886496
   name: Terminal Bratang
   alt_name: []
-  latitude: -7.296042177730538
-  longitude: 112.76306323872303
+  latitude: -7.298877395574341
+  longitude: 112.7615634437541
   type: way
   amenity_type: bus_station
 - id: 486891854
   name: Terminal Kenjeran
   alt_name: []
-  latitude: -7.240564116146274
+  latitude: -7.240564116146276
   longitude: 112.7945523736387
   type: way
   amenity_type: bus_station
@@ -88,7 +88,7 @@ objects:
   name: Terminal Manukan
   alt_name: []
   latitude: -7.268143
-  longitude: 112.66670554999999
+  longitude: 112.66670555000002
   type: way
   amenity_type: bus_station
 - id: 7967496185
