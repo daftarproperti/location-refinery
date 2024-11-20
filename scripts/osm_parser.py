@@ -49,14 +49,20 @@ class OSMParser:
             for member in element['members']:
                 if member['type'] == 'way' and member['ref'] in self.ways:
                     way = self.ways[member['ref']]
+                    way_nodes = []
                     for node_id in way.get('nodes', []):
                         node = self.nodes.get(node_id)
                         if node and 'lat' in node and 'lon' in node:
-                            boundaries.append({
+                            way_nodes.append({
                                 'osmId': node_id,
                                 'lat': node['lat'],
                                 'lon': node['lon']
                             })
+                    if boundaries and (way_nodes[0] == boundaries[0] or way_nodes[-1] == boundaries[0]):
+                        boundaries.reverse()
+                    if boundaries and way_nodes[0] != boundaries[-1]:
+                        way_nodes = way_nodes[::-1]
+                    boundaries.extend(way_nodes)
 
         elif 'nodes' in element:
             for node_id in element['nodes']:
