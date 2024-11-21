@@ -13,6 +13,7 @@ import {
   Typography,
 } from "@mui/material";
 import { Close } from "@mui/icons-material";
+import groupBy from "lodash.groupby";
 
 import { Amenity, Area, Boundary, Locations } from "@/types";
 
@@ -27,7 +28,7 @@ const Searchbox = ({
   const [loc, setLoc] = useState<Area | Amenity>();
   const [type, setType] = useState("");
   const [isOpen, setIsOpen] = useState(false);
-  const [, setLines] = useState<google.maps.Polygon[]>();
+  const [, setLines] = useState<google.maps.Polyline[]>();
   const [markers, setMarkers] =
     useState<google.maps.marker.AdvancedMarkerElement[]>();
 
@@ -61,26 +62,34 @@ const Searchbox = ({
         locations[type as keyof Locations]?.forEach((item) => {
           if ("boundaries" in item && item.id === loc.id) {
             const boundaries = item.boundaries as Boundary[];
-            const paths = boundaries.map((boundary) => ({
-              lat: boundary.lat,
-              lng: boundary.lon,
-            }));
-            const polygon = new google.maps.Polygon({
-              paths,
-              map,
-              strokeColor: "#FF0000",
-              strokeOpacity: 1,
-              strokeWeight: 2.5,
-              fillColor: "#FF0000",
-              fillOpacity: 0.05,
+            const groupedPath = groupBy(
+              boundaries,
+              (boundary) => boundary.wayId
+            );
+            Object.values(groupedPath).forEach((boundaries) => {
+              const path = boundaries.map((boundary) => ({
+                lat: boundary.lat,
+                lng: boundary.lon,
+              }));
+              const polyline = new google.maps.Polyline({
+                path,
+                map,
+                strokeColor: "#FF0000",
+                strokeOpacity: 1,
+                strokeWeight: 2.5,
+              });
+              setLines((prev) => {
+                return prev ? [...prev, polyline] : [polyline];
+              });
+              const marker = new google.maps.marker.AdvancedMarkerElement({
+                position: { lat: item.lat, lng: item.lon },
+                title: item.id.toString(),
+                map,
+              });
+              setMarkers((prev) => {
+                return prev ? [...prev, marker] : [marker];
+              });
             });
-            setLines([polygon]);
-            const marker = new google.maps.marker.AdvancedMarkerElement({
-              position: { lat: item.lat, lng: item.lon },
-              title: item.id.toString(),
-              map,
-            });
-            setMarkers([marker]);
           } else if ("latitude" in item && item.id === loc.id) {
             const marker = new google.maps.marker.AdvancedMarkerElement({
               position: { lat: item.latitude, lng: item.longitude },
@@ -93,29 +102,33 @@ const Searchbox = ({
         locations[type as keyof Locations]?.forEach((item) => {
           if ("boundaries" in item) {
             const boundaries = item.boundaries as Boundary[];
-            const paths = boundaries.map((boundary) => ({
-              lat: boundary.lat,
-              lng: boundary.lon,
-            }));
-            const polygon = new google.maps.Polygon({
-              paths,
-              map,
-              strokeColor: "#FF0000",
-              strokeOpacity: 1,
-              strokeWeight: 2.5,
-              fillColor: "#FF0000",
-              fillOpacity: 0.05,
-            });
-            setLines((prev) => {
-              return prev ? [...prev, polygon] : [polygon];
-            });
-            const marker = new google.maps.marker.AdvancedMarkerElement({
-              position: { lat: item.lat, lng: item.lon },
-              title: item.id.toString(),
-              map,
-            });
-            setMarkers((prev) => {
-              return prev ? [...prev, marker] : [marker];
+            const groupedPath = groupBy(
+              boundaries,
+              (boundary) => boundary.wayId
+            );
+            Object.values(groupedPath).forEach((boundaries) => {
+              const path = boundaries.map((boundary) => ({
+                lat: boundary.lat,
+                lng: boundary.lon,
+              }));
+              const polyline = new google.maps.Polyline({
+                path,
+                map,
+                strokeColor: "#FF0000",
+                strokeOpacity: 1,
+                strokeWeight: 2.5,
+              });
+              setLines((prev) => {
+                return prev ? [...prev, polyline] : [polyline];
+              });
+              const marker = new google.maps.marker.AdvancedMarkerElement({
+                position: { lat: item.lat, lng: item.lon },
+                title: item.id.toString(),
+                map,
+              });
+              setMarkers((prev) => {
+                return prev ? [...prev, marker] : [marker];
+              });
             });
           } else if ("latitude" in item) {
             const marker = new google.maps.marker.AdvancedMarkerElement({

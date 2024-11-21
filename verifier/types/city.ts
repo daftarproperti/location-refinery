@@ -32,8 +32,10 @@ export type Area = {
 };
 
 export type Boundary = {
+  id: number;
   lat: number;
   lon: number;
+  wayId: number;
 };
 
 export type Amenity = {
