@@ -56,7 +56,8 @@ class OSMParser:
                             way_nodes.append({
                                 'osmId': node_id,
                                 'lat': node['lat'],
-                                'lon': node['lon']
+                                'lon': node['lon'],
+                                'wayId': way.get('id', '')
                             })
                     if boundaries and (way_nodes[0] == boundaries[0] or way_nodes[-1] == boundaries[0]):
                         boundaries.reverse()
@@ -129,4 +130,15 @@ class OSMParser:
 
         return centroid
         
+
+    def get_area_centroid(self, element):
+        if 'members' in element:
+            for member in element['members']:
+                if member['type'] == 'node' and member['ref'] in self.nodes:
+                    node = self.nodes[member['ref']]
+                    if node and 'lat' in node and 'lon' in node:
+                        return {
+                            'lat': node['lat'],
+                            'lon': node['lon']
+                        }
 

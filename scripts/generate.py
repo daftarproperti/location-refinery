@@ -122,9 +122,9 @@ def generate_city_data_by_name(name, osm_parser, yaml_helper):
             'boundaries': boundaries
         }
 
-        centroid = osm_parser.get_centroid(boundaries)
-        lat = float(centroid.y)
-        lon = float(centroid.x)
+        centroid = osm_parser.get_area_centroid(element)
+        lat = float(centroid['lat'])
+        lon = float(centroid['lon'])
 
         area_details['lat'] = lat
         area_details['lon'] = lon
@@ -222,9 +222,9 @@ def main():
                 'boundaries': boundaries
             }
 
-            centroid = osm_parser.get_centroid(boundaries)
-            lat = float(centroid.y)
-            lon = float(centroid.x)
+            centroid = osm_parser.get_area_centroid(element)
+            lat = float(centroid['lat'])
+            lon = float(centroid['lon'])
 
             area_details['lat'] = lat
             area_details['lon'] = lon
