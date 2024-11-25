@@ -2,43 +2,43 @@ objects:
 - id: 2084973
   name: SMK Negeri 27 Jakarta
   alt_name: []
-  latitude: -6.166230888917404
-  longitude: 106.83570940511834
+  latitude: -6.166206887943401
+  longitude: 106.8357193232834
   type: relation
   amenity_type: school
 - id: 7134657
   name: SD Umum
   alt_name: []
-  latitude: -6.183996431760175
-  longitude: 106.85567361233018
+  latitude: -6.183997759941892
+  longitude: 106.85566616242964
   type: relation
   amenity_type: school
 - id: 7162934
   name: SD Negeri Tanah Tinggi 01 Pagi
   alt_name: []
-  latitude: -6.176619371918455
-  longitude: 106.84654281907348
+  latitude: -6.176619124458926
+  longitude: 106.84654904601399
   type: relation
   amenity_type: school
 - id: 7268563
   name: SD Negeri Menteng 01 Jakarta
   alt_name: []
-  latitude: -6.198699558968
-  longitude: 106.82906142875709
+  latitude: -6.198694034233448
+  longitude: 106.82907070120349
   type: relation
   amenity_type: school
 - id: 7319322
   name: Sekolah Paket 1
   alt_name: []
-  latitude: -6.2126354996524205
-  longitude: 106.81531370281556
+  latitude: -6.21263854628308
+  longitude: 106.81531185865217
   type: relation
   amenity_type: school
 - id: 7454034
   name: SD Negeri Serdang 01 03 Pagi, 04 Petang
   alt_name: []
-  latitude: -6.161312833513171
-  longitude: 106.86340764861724
+  latitude: -6.161313542319471
+  longitude: 106.8634047942546
   type: relation
   amenity_type: school
 - id: 120509599

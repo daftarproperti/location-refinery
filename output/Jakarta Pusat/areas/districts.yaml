@@ -5,61 +5,61 @@ districts:
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802405.yaml
-  lat: -6.184251298230282
-  lon: 106.84639883708438
+  lat: -6.1870337
+  lon: 106.8456647
 - id: 5802406
   name: Cempaka Putih
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802406.yaml
-  lat: -6.18087514140187
-  lon: 106.86809626157601
+  lat: -6.1809681
+  lon: 106.8686755
 - id: 5802412
   name: Kemayoran
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802412.yaml
-  lat: -6.162455008248095
-  lon: 106.85546906996457
+  lat: -6.1612378
+  lon: 106.854882
 - id: 5802417
   name: Tanah Abang
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802417.yaml
-  lat: -6.205518323550841
-  lon: 106.8093380483322
+  lat: -6.2023017
+  lon: 106.8123067
 - id: 5802422
   name: Johar Baru
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802422.yaml
-  lat: -6.18207717510641
-  lon: 106.85452416557641
+  lat: -6.1823441
+  lon: 106.8536917
 - id: 5802432
   name: Sawah Besar
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802432.yaml
-  lat: -6.154151010097433
-  lon: 106.83312139959307
+  lat: -6.1528327
+  lon: 106.8344879
 - id: 7212895
   name: Menteng
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/7212895.yaml
-  lat: -6.195778455449088
-  lon: 106.83485691400121
+  lat: -6.1982846
+  lon: 106.8361625
 - id: 7313694
   name: Gambir
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/7313694.yaml
-  lat: -6.171388160990628
-  lon: 106.81788666829632
+  lat: -6.1714571
+  lon: 106.8198395

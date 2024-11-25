@@ -5,349 +5,349 @@ sub-districts:
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802134.yaml
-  lat: -6.16677948073272
-  lon: 106.83470024129531
+  lat: -6.164901
+  lon: 106.8334669
 - id: 5802159
   name: Kebon Sirih
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802159.yaml
-  lat: -6.18507132441062
-  lon: 106.83115424873394
+  lat: -6.1850822
+  lon: 106.8311054
 - id: 5802161
   name: Galur
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802161.yaml
-  lat: -6.176128111966904
-  lon: 106.8553379395757
+  lat: -6.176019
+  lon: 106.8551951
 - id: 5802164
   name: Gunung Sahari Utara
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802164.yaml
-  lat: -6.149362901330896
-  lon: 106.83825326199712
+  lat: -6.1504141
+  lon: 106.8376909
 - id: 5802169
   name: Bendungan Hilir
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802169.yaml
-  lat: -6.208822490482537
-  lon: 106.80909501975643
+  lat: -6.2087254
+  lon: 106.8086398
 - id: 5802181
   name: Petamburan
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802181.yaml
-  lat: -6.196818994626592
-  lon: 106.80609544917883
+  lat: -6.1953983
+  lon: 106.8068864
 - id: 5802190
   name: Karet Tengsin
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802190.yaml
-  lat: -6.206859587987081
-  lon: 106.81645686114099
+  lat: -6.2074731
+  lon: 106.8164889
 - id: 5802196
   name: Mangga Dua Selatan
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802196.yaml
-  lat: -6.1423593503017155
-  lon: 106.82818598724917
+  lat: -6.1414295
+  lon: 106.8282223
 - id: 5802202
   name: Kebon Kacang
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802202.yaml
-  lat: -6.190261310383641
-  lon: 106.81693206269225
+  lat: -6.1902407
+  lon: 106.8166009
 - id: 5802205
   name: Kebon Kelapa
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802205.yaml
-  lat: -6.164209569921013
-  lon: 106.82448223649338
+  lat: -6.1642923
+  lon: 106.8247393
 - id: 5802218
   name: Kampung Bali
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802218.yaml
-  lat: -6.1852079276110175
-  lon: 106.81656816014025
+  lat: -6.1849724
+  lon: 106.8160095
 - id: 5802237
   name: Karang Anyar
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802237.yaml
-  lat: -6.154094105250127
-  lon: 106.82906527908649
+  lat: -6.1546781
+  lon: 106.8290162
 - id: 5802246
   name: Duri Pulo
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802246.yaml
-  lat: -6.16342023820217
-  lon: 106.80485926511403
+  lat: -6.1636195
+  lon: 106.8044806
 - id: 5802247
   name: Gambir
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802247.yaml
-  lat: -6.176521565408032
-  lon: 106.8261642797034
+  lat: -6.1763617
+  lon: 106.8270627
 - id: 5802249
   name: Cideng
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802249.yaml
-  lat: -6.173118392371189
-  lon: 106.80824212834146
+  lat: -6.1736811
+  lon: 106.8092825
 - id: 5802255
   name: Harapan Mulya
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802255.yaml
-  lat: -6.170443616435499
-  lon: 106.8560448460216
+  lat: -6.1699191
+  lon: 106.856581
 - id: 5802264
   name: Tanah Tinggi
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802264.yaml
-  lat: -6.179209359811672
-  lon: 106.84918124520271
+  lat: -6.1798929
+  lon: 106.8494106
 - id: 5802272
   name: Senen
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802272.yaml
-  lat: -6.176317558744226
-  lon: 106.84064152077322
+  lat: -6.17644
+  lon: 106.8389595
 - id: 5802285
   name: Petojo Selatan
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802285.yaml
-  lat: -6.17508329085075
-  lon: 106.8159557595605
+  lat: -6.1750093
+  lon: 106.816434
 - id: 5802290
   name: Kebon Melati
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802290.yaml
-  lat: -6.197025975194265
-  lon: 106.81591225215206
+  lat: -6.1974872
+  lon: 106.8165458
 - id: 5802292
   name: Sumur Batu
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802292.yaml
-  lat: -6.163182147530694
-  lon: 106.8700923439979
+  lat: -6.1636676
+  lon: 106.8701023
 - id: 5802307
   name: Kampung Rawa
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802307.yaml
-  lat: -6.1795534530571254
-  lon: 106.85542565467956
+  lat: -6.1795121
+  lon: 106.855659
 - id: 5802319
   name: Petojo Utara
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802319.yaml
-  lat: -6.165243756482864
-  lon: 106.81560335998014
+  lat: -6.1655438
+  lon: 106.8153732
 - id: 5802325
   name: Gondangdia
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802325.yaml
-  lat: -6.19127434670304
-  lon: 106.82782264466016
+  lat: -6.1911755
+  lon: 106.8293576
 - id: 5802329
   name: Kartini
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802329.yaml
-  lat: -6.153139519120437
-  lon: 106.83312381198469
+  lat: -6.1540643
+  lon: 106.8340684
 - id: 5802331
   name: Bungur
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802331.yaml
-  lat: -6.171505210365825
-  lon: 106.84806073991439
+  lat: -6.1713909
+  lon: 106.8482316
 - id: 5802334
   name: Gelora
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802334.yaml
-  lat: -6.216388917385351
-  lon: 106.80143869086437
+  lat: -6.2149918
+  lon: 106.8005721
 - id: 5802339
   name: Paseban
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802339.yaml
-  lat: -6.193478820411232
-  lon: 106.85264900205023
+  lat: -6.1922568
+  lon: 106.8525086
 - id: 5802342
   name: Kenari
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802342.yaml
-  lat: -6.193543314194677
-  lon: 106.84717605235167
+  lat: -6.1926888
+  lon: 106.8465703
 - id: 5802346
   name: Utan Panjang
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802346.yaml
-  lat: -6.165331435683057
-  lon: 106.85431200363307
+  lat: -6.1648717
+  lon: 106.8548145
 - id: 5802355
   name: Kebon Kosong
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802355.yaml
-  lat: -6.157778039220106
-  lon: 106.8543159114172
+  lat: -6.156322
+  lon: 106.8542865
 - id: 5802357
   name: Kemayoran
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802357.yaml
-  lat: -6.164730538631404
-  lon: 106.84596905537035
+  lat: -6.1648157
+  lon: 106.8450861
 - id: 5802372
   name: Johar Baru
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802372.yaml
-  lat: -6.185712881136838
-  lon: 106.85696934688127
+  lat: -6.1857706
+  lon: 106.8567766
 - id: 5802378
   name: Cempaka Baru
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802378.yaml
-  lat: -6.168132997365781
-  lon: 106.8627583899218
+  lat: -6.1677049
+  lon: 106.8619785
 - id: 5802385
   name: Kramat
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802385.yaml
-  lat: -6.183302514191759
-  lon: 106.8462708503786
+  lat: -6.1838194
+  lon: 106.845965
 - id: 5802388
   name: Gunung Sahari Selatan
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802388.yaml
-  lat: -6.159213079389815
-  lon: 106.84386795066504
+  lat: -6.1570118
+  lon: 106.84439
 - id: 5802389
   name: Kwitang
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802389.yaml
-  lat: -6.183552555665097
-  lon: 106.84008477969711
+  lat: -6.1837065
+  lon: 106.8402976
 - id: 5802390
   name: Serdang
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/5802390.yaml
-  lat: -6.158879317416062
-  lon: 106.86142156579746
+  lat: -6.1592853
+  lon: 106.8613335
 - id: 7192893
   name: Rawasari
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/7192893.yaml
-  lat: -6.190663342667186
-  lon: 106.86580947818115
+  lat: -6.1900838
+  lon: 106.864429
 - id: 7198380
   name: Cempaka Putih Timur
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/7198380.yaml
-  lat: -6.17594496231823
-  lon: 106.87181573615804
+  lat: -6.1763601
+  lon: 106.8704399
 - id: 7198389
   name: Cempaka Putih Barat
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/7198389.yaml
-  lat: -6.17961112870838
-  lon: 106.86368842643253
+  lat: -6.1797434
+  lon: 106.863096
 - id: 7212530
   name: Menteng
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/7212530.yaml
-  lat: -6.2009073970437
-  lon: 106.8340628452955
+  lat: -6.2010459
+  lon: 106.8352111
 - id: 7212612
   name: Pegangsaan
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/7212612.yaml
-  lat: -6.201858740596766
-  lon: 106.84789674373795
+  lat: -6.2019499
+  lon: 106.8474914
 - id: 7212839
   name: Cikini
   alt_name: []
   type: relation
   admin_level: '7'
   boundaries: boundaries/7212839.yaml
-  lat: -6.191460651054155
-  lon: 106.83965147305506
+  lat: -6.1913465
+  lon: 106.8395502

@@ -2,8 +2,8 @@ objects:
 - id: 9627236
   name: Masjid Istiqlal
   alt_name: []
-  latitude: -6.170368503624405
-  longitude: 106.83115545845284
+  latitude: -6.1702259303344595
+  longitude: 106.83110970363121
   type: relation
   amenity_type: place_of_worship
 - id: 28193120

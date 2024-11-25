@@ -2,8 +2,8 @@ objects:
 - id: 12613976
   name: Rumah Sakit Pertamina Jaya (RSPJ)
   alt_name: []
-  latitude: -6.173147846695931
-  longitude: 106.87587723594925
+  latitude: -6.173141239699637
+  longitude: 106.87586971949474
   type: relation
   amenity_type: hospital
 - id: 120509598
