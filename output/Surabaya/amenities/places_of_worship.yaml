@@ -395,8 +395,8 @@ objects:
 - id: 422548631
   name: Masjid Al Amiin
   alt_name: []
-  latitude: -7.2511360336988755
-  longitude: 112.72840375794394
+  latitude: -7.251154133698875
+  longitude: 112.72839205794394
   type: way
   amenity_type: place_of_worship
 - id: 422952963

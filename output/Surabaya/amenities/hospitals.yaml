@@ -2,8 +2,8 @@ objects:
 - id: 6703135
   name: Rumah Sakit TNI AL Dr. Oepomo
   alt_name: []
-  latitude: -7.2119862964754855
-  longitude: 112.72464139140874
+  latitude: -7.212005545822897
+  longitude: 112.72466885941438
   type: relation
   amenity_type: hospital
 - id: 121862400

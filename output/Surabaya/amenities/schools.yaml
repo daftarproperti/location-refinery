@@ -2,78 +2,78 @@ objects:
 - id: 6868158
   name: MI KH.A.Sidiq
   alt_name: []
-  latitude: -7.214426902199482
-  longitude: 112.60789641808097
+  latitude: -7.214445890450508
+  longitude: 112.60790322556758
   type: relation
   amenity_type: school
 - id: 6868332
   name: SMP Hang Tuah 1
   alt_name: []
-  latitude: -7.289871786883541
-  longitude: 112.73201521587016
+  latitude: -7.289850407469923
+  longitude: 112.73200175176315
   type: relation
   amenity_type: school
 - id: 7212544
   name: SMA Negeri 6 Surabaya
   alt_name: []
-  latitude: -7.2633145868484625
-  longitude: 112.74453155049697
+  latitude: -7.263317578004016
+  longitude: 112.74453826481623
   type: relation
   amenity_type: school
 - id: 7226739
   name: SMK Unitomo Surabaya
   alt_name: []
-  latitude: -7.297657132964515
-  longitude: 112.76508264706035
+  latitude: -7.297666300716865
+  longitude: 112.76508418606522
   type: relation
   amenity_type: school
 - id: 7226740
   name: SMP Dr. Soetomo
   alt_name: []
-  latitude: -7.297609206519449
-  longitude: 112.76450572267917
+  latitude: -7.2976176157876465
+  longitude: 112.76451793991792
   type: relation
   amenity_type: school
 - id: 7226766
   name: SD-SMP Santo Yosef
   alt_name: []
-  latitude: -7.298979781016928
-  longitude: 112.73566385771251
+  latitude: -7.2989518537433735
+  longitude: 112.73566646735485
   type: relation
   amenity_type: school
 - id: 7229603
   name: TK-SD-SMP-SMA Yayasan Santa Louisa
   alt_name: []
-  latitude: -7.257424232971346
-  longitude: 112.72189545879928
+  latitude: -7.257478567941664
+  longitude: 112.72188415436186
   type: relation
   amenity_type: school
 - id: 7229605
   name: SMP Kristen St. Vincentius
   alt_name: []
-  latitude: -7.256740478196801
-  longitude: 112.72063998004633
+  latitude: -7.25673796715117
+  longitude: 112.72063283581949
   type: relation
   amenity_type: school
 - id: 7229870
   name: TK, SMP, dan SMA Nurul Huda
   alt_name: []
-  latitude: -7.23247834890807
-  longitude: 112.74834496617817
+  latitude: -7.232433121677763
+  longitude: 112.74806735341693
   type: relation
   amenity_type: school
 - id: 7229933
   name: SMA Dr. Soetomo
   alt_name: []
-  latitude: -7.298871853376454
-  longitude: 112.76430947249318
+  latitude: -7.298868754699606
+  longitude: 112.76430951882689
   type: relation
   amenity_type: school
 - id: 7231555
   name: SMP-SMA GIKI 2 Surabaya
   alt_name: []
-  latitude: -7.273992302330326
-  longitude: 112.74771178343372
+  latitude: -7.273999187605224
+  longitude: 112.74770869269297
   type: relation
   amenity_type: school
 - id: 36977874

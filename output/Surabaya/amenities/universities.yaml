@@ -2,15 +2,15 @@ objects:
 - id: 7219092
   name: Universitas Nadhlatul Ulama Surabaya
   alt_name: []
-  latitude: -7.322593370217196
-  longitude: 112.73916227978313
+  latitude: -7.324294017037672
+  longitude: 112.73705534040619
   type: relation
   amenity_type: university
 - id: 8225816
   name: Universitas Airlangga
   alt_name: []
-  latitude: -7.267546833338593
-  longitude: 112.78443107999395
+  latitude: -7.267883531465414
+  longitude: 112.7859941371086
   type: relation
   amenity_type: university
 - id: 70364905

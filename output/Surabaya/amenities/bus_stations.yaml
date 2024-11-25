@@ -91,27 +91,6 @@ objects:
   longitude: 112.66670555000002
   type: way
   amenity_type: bus_station
-- id: 7967496185
-  name: Stasiun Benowo
-  alt_name: []
-  latitude: -7.2339372
-  longitude: 112.6152001
-  type: node
-  amenity_type: bus_station
-- id: 7984622686
-  name: Stasiun Tandes
-  alt_name: []
-  latitude: -7.2589001
-  longitude: 112.6870173
-  type: node
-  amenity_type: bus_station
-- id: 7984622688
-  name: Stasiun Mesigit
-  alt_name: []
-  latitude: -7.2411082
-  longitude: 112.7269139
-  type: node
-  amenity_type: bus_station
 - id: 7991938286
   name: Stasiun Kalimas
   alt_name: []
