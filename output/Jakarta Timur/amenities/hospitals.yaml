@@ -2,15 +2,15 @@ objects:
 - id: 7409174
   name: Rumah Sakit Bhayangkara TK. IR. Said Sukanto
   alt_name: []
-  latitude: -6.270209292272409
-  longitude: 106.87117475261472
+  latitude: -6.269582402233912
+  longitude: 106.87067416162077
   type: relation
   amenity_type: hospital
 - id: 7409284
   name: Rumah Sakit DIK Pusdikkes TNI AD
   alt_name: []
-  latitude: -6.276616373429094
-  longitude: 106.86933085674572
+  latitude: -6.276975843719961
+  longitude: 106.86921325550746
   type: relation
   amenity_type: hospital
 - id: 119913162

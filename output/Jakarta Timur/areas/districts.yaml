@@ -6,16 +6,16 @@ districts:
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802391.yaml
-  lat: -6.325696441101473
-  lon: 106.90325036463445
+  lat: -6.3247473
+  lon: 106.9021956
 - id: 5802396
   name: Pasar Rebo
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802396.yaml
-  lat: -6.326743562471133
-  lon: 106.85780555574648
+  lat: -6.3278343
+  lon: 106.8552961
 - id: 5802397
   name: Pulo Gadung
   alt_name:
@@ -23,61 +23,61 @@ districts:
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802397.yaml
-  lat: -6.193291781660695
-  lon: 106.88904486490604
+  lat: -6.1911125
+  lon: 106.8896352
 - id: 5802399
   name: Cakung
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802399.yaml
-  lat: -6.1894483757481185
-  lon: 106.94062179811961
+  lat: -6.187658
+  lon: 106.941465
 - id: 5802410
   name: Jatinegara
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802410.yaml
-  lat: -6.2274805166492
-  lon: 106.87719236367148
+  lat: -6.2253086
+  lon: 106.8785167
 - id: 5802421
   name: Kramat Jati
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802421.yaml
-  lat: -6.27691508001348
-  lon: 106.8653880477918
+  lat: -6.2758505
+  lon: 106.8643076
 - id: 5802426
   name: Makasar
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802426.yaml
-  lat: -6.2654802243120145
-  lon: 106.8911281418987
+  lat: -6.2674188
+  lon: 106.8907825
 - id: 5802429
   name: Matraman
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802429.yaml
-  lat: -6.20369679597245
-  lon: 106.86453031143586
+  lat: -6.2035575
+  lon: 106.8640189
 - id: 5802430
   name: Ciracas
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802430.yaml
-  lat: -6.3342643540809
-  lon: 106.87851174125231
+  lat: -6.3436047
+  lon: 106.8770835
 - id: 5802431
   name: Duren Sawit
   alt_name: []
   type: relation
   admin_level: '6'
   boundaries: boundaries/5802431.yaml
-  lat: -6.232574696012499
-  lon: 106.92069575404014
+  lat: -6.230547
+  lon: 106.9185805

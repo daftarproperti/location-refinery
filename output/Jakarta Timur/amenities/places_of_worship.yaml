@@ -2,22 +2,22 @@ objects:
 - id: 7301840
   name: Gereja Santa Maria
   alt_name: []
-  latitude: -6.220169392666909
-  longitude: 106.86426599918175
+  latitude: -6.220161899377495
+  longitude: 106.86427202324863
   type: relation
   amenity_type: place_of_worship
 - id: 7346785
   name: Mushollah CV. Indovrom
   alt_name: []
-  latitude: -6.267670663747092
-  longitude: 106.88313370233492
+  latitude: -6.26766872286838
+  longitude: 106.88313615601834
   type: relation
   amenity_type: place_of_worship
 - id: 17971839
   name: Musholla Miftahul Jannah
   alt_name: []
-  latitude: -6.221075699007035
-  longitude: 106.89867399918418
+  latitude: -6.2216466391028655
+  longitude: 106.89855579493693
   type: relation
   amenity_type: place_of_worship
 - id: 119430980
@@ -519,7 +519,8 @@ objects:
   amenity_type: place_of_worship
 - id: 155935902
   name: Mushola Darrusalam
-  alt_name: []
+  alt_name:
+  - Musholla Darrusalam
   latitude: -6.264403513651044
   longitude: 106.85696795023685
   type: way
@@ -4292,7 +4293,8 @@ objects:
   amenity_type: place_of_worship
 - id: 315857271
   name: Mushala Al Hidayah
-  alt_name: []
+  alt_name:
+  - Musholla Al Hidayah
   latitude: -6.252693116119142
   longitude: 106.85969161762621
   type: way

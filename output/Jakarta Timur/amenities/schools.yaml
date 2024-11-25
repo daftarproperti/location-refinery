@@ -2,127 +2,127 @@ objects:
 - id: 7117141
   name: SD Negeri Utan Kayu Selatan 11 Pagi
   alt_name: []
-  latitude: -6.207404730661422
-  longitude: 106.87166940126578
+  latitude: -6.207385580470181
+  longitude: 106.87167556722247
   type: relation
   amenity_type: school
 - id: 7170235
   name: SD Negeri Rawa Bunga 11 dan 12
   alt_name: []
-  latitude: -6.221608898976447
-  longitude: 106.8714456594246
+  latitude: -6.221604238118609
+  longitude: 106.87144406430349
   type: relation
   amenity_type: school
 - id: 7250222
   name: SMP Negeri 149 Jakarta
   alt_name: []
-  latitude: -6.22982235199157
-  longitude: 106.88210371745492
+  latitude: -6.2298183282406026
+  longitude: 106.88210448449402
   type: relation
   amenity_type: school
 - id: 7250223
   name: SMA Negeri 100 Jakarta
   alt_name: []
-  latitude: -6.229358423854805
-  longitude: 106.8823264386649
+  latitude: -6.229355532919862
+  longitude: 106.88232853346756
   type: relation
   amenity_type: school
 - id: 7313407
   name: SD Negeri Cakung Barat 06, 07 Pagi dan 11, 12 Petang
   alt_name: []
-  latitude: -6.191635424015572
-  longitude: 106.94277958093835
+  latitude: -6.191636757347473
+  longitude: 106.94278758391955
   type: relation
   amenity_type: school
 - id: 7321732
   name: SD Tarakanita 5
   alt_name: []
-  latitude: -6.194234255631423
-  longitude: 106.88905793445495
+  latitude: -6.194241893451591
+  longitude: 106.88907542342831
   type: relation
   amenity_type: school
 - id: 7329354
   name: SD-SMP-SMA Santo Yoseph
   alt_name: []
-  latitude: -6.181521504606867
-  longitude: 106.96974398873799
+  latitude: -6.181522983576919
+  longitude: 106.96974276475467
   type: relation
   amenity_type: school
 - id: 7331180
   name: SD, SMP, SMA Don Bosco
   alt_name: []
-  latitude: -6.174447501176608
-  longitude: 106.88145329946458
+  latitude: -6.174442203695058
+  longitude: 106.88144999803635
   type: relation
   amenity_type: school
 - id: 7341719
   name: MTs-MI-TK Islam Ar-Rahmah
   alt_name: []
-  latitude: -6.34611235681169
-  longitude: 106.885002334385
+  latitude: -6.346113660498365
+  longitude: 106.88500978523244
   type: relation
   amenity_type: school
 - id: 7342504
   name: SD-SMP Harapan Bunda
   alt_name: []
-  latitude: -6.195096158852297
-  longitude: 106.94939310909292
+  latitude: -6.195100834180966
+  longitude: 106.94938837820797
   type: relation
   amenity_type: school
 - id: 7374468
   name: SD Negeri 01 Pagi Kebon Manggis
   alt_name: []
-  latitude: -6.210942435294425
-  longitude: 106.8580470235439
+  latitude: -6.210931632348992
+  longitude: 106.85805026465812
   type: relation
   amenity_type: school
 - id: 7390075
   name: Perkumpulan Sekolah Kristen Djakarta
   alt_name: []
-  latitude: -6.211739089495359
-  longitude: 106.8589239404584
+  latitude: -6.211730176580899
+  longitude: 106.8589064788507
   type: relation
   amenity_type: school
 - id: 7391871
   name: SD Negeri Kebon Manggis 08 Pagi
   alt_name: []
-  latitude: -6.204994093274867
-  longitude: 106.8567674486293
+  latitude: -6.204994249610413
+  longitude: 106.85676783093456
   type: relation
   amenity_type: school
 - id: 7404391
   name: SMK Negeri 24 Jakarta
   alt_name: []
-  latitude: -6.321710432745028
-  longitude: 106.89978226125776
+  latitude: -6.3216758838167735
+  longitude: 106.89979912937754
   type: relation
   amenity_type: school
 - id: 7437532
   name: SMK Budi Murni 1 dan 3
   alt_name: []
-  latitude: -6.231086571774773
-  longitude: 106.91070965761595
+  latitude: -6.2310993071794725
+  longitude: 106.91067561208482
   type: relation
   amenity_type: school
 - id: 7454890
   name: BPS & K
   alt_name: []
-  latitude: -6.233372684571666
-  longitude: 106.93879234388946
+  latitude: -6.233362519019433
+  longitude: 106.93879468857685
   type: relation
   amenity_type: school
 - id: 7459439
   name: SD Negeri Kalisari 02
   alt_name: []
-  latitude: -6.333020727702594
-  longitude: 106.84644293046605
+  latitude: -6.333022767664004
+  longitude: 106.84646108150797
   type: relation
   amenity_type: school
 - id: 7523269
   name: SDN Pondok Bambu 02 Pagi
   alt_name: []
-  latitude: -6.233582971680284
-  longitude: 106.89689137160191
+  latitude: -6.233586876518491
+  longitude: 106.8968852581509
   type: relation
   amenity_type: school
 - id: 117086163
@@ -7389,6 +7389,13 @@ objects:
   alt_name: []
   latitude: -6.323282601617525
   longitude: 106.85206021631745
+  type: way
+  amenity_type: school
+- id: 1336410709
+  name: TK Permata Bunda
+  alt_name: []
+  latitude: -6.289883333674253
+  longitude: 106.86092612350217
   type: way
   amenity_type: school
 - id: 1682958727
