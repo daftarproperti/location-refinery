@@ -1,6 +1,7 @@
 # Location Refinery
 
-This Python script extracts data from OSM and export it as code.
+Refines from OpenStreetMap to location database as code.
+Useful to extract, refine, and verify location knowledge for further processing.
 
 ## Prerequisites
 
