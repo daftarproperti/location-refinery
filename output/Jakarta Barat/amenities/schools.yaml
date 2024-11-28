@@ -1,0 +1,5254 @@
+objects:
+- id: 7253551
+  name: SLB Pangudi Luhur
+  alt_name: []
+  latitude: -6.1877443749891
+  longitude: 106.75498196389537
+  type: relation
+  amenity_type: school
+- id: 7330931
+  name: SD Bhakti (YKKP)
+  alt_name: []
+  latitude: -6.191292142244351
+  longitude: 106.78347435629951
+  type: relation
+  amenity_type: school
+- id: 7426673
+  name: Sekolah Citra Kasih
+  alt_name: []
+  latitude: -6.135727750832511
+  longitude: 106.7017773138569
+  type: relation
+  amenity_type: school
+- id: 7431392
+  name: Al Ihsan School
+  alt_name: []
+  latitude: -6.198028980343097
+  longitude: 106.72955497433891
+  type: relation
+  amenity_type: school
+- id: 7451140
+  name: SMP SMA Katolik Abdi Siswa
+  alt_name: []
+  latitude: -6.1815525242028855
+  longitude: 106.78020992654717
+  type: relation
+  amenity_type: school
+- id: 7462520
+  name: SD Negeri Tanjung Duren Selatan 05 Pagi
+  alt_name: []
+  latitude: -6.181220527470716
+  longitude: 106.78560081606173
+  type: relation
+  amenity_type: school
+- id: 7548051
+  name: SMP Negeri 201 Jakarta
+  alt_name: []
+  latitude: -6.127111129371438
+  longitude: 106.73448493899751
+  type: relation
+  amenity_type: school
+- id: 7583655
+  name: SMP - SMA - SMK 1 Cengkareng Jakarta
+  alt_name: []
+  latitude: -6.142349672388182
+  longitude: 106.71793473064704
+  type: relation
+  amenity_type: school
+- id: 7583927
+  name: MI Negeri 7 Cengkareng
+  alt_name: []
+  latitude: -6.14561927557621
+  longitude: 106.73609927969221
+  type: relation
+  amenity_type: school
+- id: 7644325
+  name: SMP Negeri 204 Jakarta
+  alt_name: []
+  latitude: -6.1398052913511405
+  longitude: 106.70138708253192
+  type: relation
+  amenity_type: school
+- id: 32717234
+  name: SD El Shaddai Pelita Bangsa School
+  alt_name: []
+  latitude: -6.117766754491722
+  longitude: 106.70296890405831
+  type: way
+  amenity_type: school
+- id: 120910939
+  name: SMP Negeri 88 Jakarta
+  alt_name: []
+  latitude: -6.193054149338204
+  longitude: 106.79508614193554
+  type: way
+  amenity_type: school
+- id: 121986321
+  name: SMK Negeri 11 Jakarta
+  alt_name: []
+  latitude: -6.140607479282421
+  longitude: 106.81658090975718
+  type: way
+  amenity_type: school
+- id: 122159881
+  name: SMA Negeri 57 Jakarta
+  alt_name: []
+  latitude: -6.17447178213741
+  longitude: 106.75620921568142
+  type: way
+  amenity_type: school
+- id: 122216804
+  name: SDS Tunas Muda IKKT
+  alt_name: []
+  latitude: -6.197004399556924
+  longitude: 106.79222669790708
+  type: way
+  amenity_type: school
+- id: 124897023
+  name: SMP Negeri 22 Jakarta
+  alt_name:
+  - SMP N 22
+  latitude: -6.138480040007996
+  longitude: 106.81613188052428
+  type: way
+  amenity_type: school
+- id: 124897381
+  name: SD Negeri Mangga Besar 15 Pagi
+  alt_name: []
+  latitude: -6.144820929465946
+  longitude: 106.81762838075745
+  type: way
+  amenity_type: school
+- id: 153303568
+  name: SD Negeri Angke 01,04,05,06
+  alt_name: []
+  latitude: -6.145939509465856
+  longitude: 106.7986045909039
+  type: way
+  amenity_type: school
+- id: 153318863
+  name: SD Negeri Angke 03 Pagi
+  alt_name: []
+  latitude: -6.143641868882143
+  longitude: 106.7994990191066
+  type: way
+  amenity_type: school
+- id: 153751733
+  name: MTs Al Hidayah
+  alt_name: []
+  latitude: -6.162696847837371
+  longitude: 106.75011708177506
+  type: way
+  amenity_type: school
+- id: 155252912
+  name: KB-TK-SD-SMP-SMA Kristen Kalam Kudus
+  alt_name: []
+  latitude: -6.142901302386088
+  longitude: 106.82124339985012
+  type: way
+  amenity_type: school
+- id: 156901021
+  name: Madrasah Ibtidaiyah Nurul Anwar
+  alt_name: []
+  latitude: -6.145617177043725
+  longitude: 106.81056553022417
+  type: way
+  amenity_type: school
+- id: 156903218
+  name: SDN/SMP salatiga
+  alt_name: []
+  latitude: -6.152285550000001
+  longitude: 106.78777294999999
+  type: way
+  amenity_type: school
+- id: 156909665
+  name: SD Tanjung
+  alt_name: []
+  latitude: -6.161397500000001
+  longitude: 106.79608515000002
+  type: way
+  amenity_type: school
+- id: 156912818
+  name: Yayasan Spring Field School- TK & SD
+  alt_name: []
+  latitude: -6.174488476003603
+  longitude: 106.74400379236069
+  type: way
+  amenity_type: school
+- id: 156915073
+  name: SMP - SMK (SMEA) Islam Tomang Raya
+  alt_name: []
+  latitude: -6.178974579523617
+  longitude: 106.79880859589909
+  type: way
+  amenity_type: school
+- id: 156915100
+  name: SD Negeri Jati Pulo 03 & 04 Pagi
+  alt_name: []
+  latitude: -6.179743451166617
+  longitude: 106.80857974505392
+  type: way
+  amenity_type: school
+- id: 156915142
+  name: SD Negeri Jati Pulo 05-06 Pagi
+  alt_name: []
+  latitude: -6.17660516733643
+  longitude: 106.80407540538884
+  type: way
+  amenity_type: school
+- id: 156915146
+  name: SD Negeri Jati Pulo 01 Pagi
+  alt_name: []
+  latitude: -6.176861009391545
+  longitude: 106.80440989111517
+  type: way
+  amenity_type: school
+- id: 156916807
+  name: SMP Kartini
+  alt_name: []
+  latitude: -6.148719846018845
+  longitude: 106.8235989686578
+  type: way
+  amenity_type: school
+- id: 156916934
+  name: SD Negeri Maphar 01 Pagi
+  alt_name: []
+  latitude: -6.1566932
+  longitude: 106.81950420000001
+  type: way
+  amenity_type: school
+- id: 156917241
+  name: SD Negeri Grogol 11
+  alt_name: []
+  latitude: -6.1637621763056485
+  longitude: 106.79778211869477
+  type: way
+  amenity_type: school
+- id: 156917242
+  name: Yayasan Perguruan Sumbangsih
+  alt_name: []
+  latitude: -6.164202560447911
+  longitude: 106.79719172577063
+  type: way
+  amenity_type: school
+- id: 156917375
+  name: Central School (TK, SD, SMP, SMU)
+  alt_name: []
+  latitude: -6.177750991240381
+  longitude: 106.74647732385004
+  type: way
+  amenity_type: school
+- id: 156917385
+  name: Pondok Pesantren Al Washilah
+  alt_name: []
+  latitude: -6.16824596844616
+  longitude: 106.75112928328161
+  type: way
+  amenity_type: school
+- id: 156917390
+  name: Yayasan Budi Pekerti Luhur TK-SMA
+  alt_name: []
+  latitude: -6.176730145651856
+  longitude: 106.74662396686941
+  type: way
+  amenity_type: school
+- id: 156917397
+  name: SD Negeri Kembangan Utara 09,10 Pagi, 11,12 Petang
+  alt_name: []
+  latitude: -6.1592924515201535
+  longitude: 106.74861317470717
+  type: way
+  amenity_type: school
+- id: 156917452
+  name: MI Chairiyah Mansuriah
+  alt_name: []
+  latitude: -6.1456588743086815
+  longitude: 106.8057998520779
+  type: way
+  amenity_type: school
+- id: 156917466
+  name: SD Laksa Bhakti
+  alt_name: []
+  latitude: -6.143440669447581
+  longitude: 106.80531956394593
+  type: way
+  amenity_type: school
+- id: 156917467
+  name: SD Tunas Pembangunan
+  alt_name: []
+  latitude: -6.146832962897283
+  longitude: 106.80476882472534
+  type: way
+  amenity_type: school
+- id: 156917616
+  name: SD Negeri Tanah Sereal 01 Pagi & 02 Petang
+  alt_name: []
+  latitude: -6.150227314555649
+  longitude: 106.81175881009996
+  type: way
+  amenity_type: school
+- id: 156917683
+  name: SD Negeri Kemanggisan 14 pagi & 15 Pagi
+  alt_name: []
+  latitude: -6.192574703632086
+  longitude: 106.78612967884507
+  type: way
+  amenity_type: school
+- id: 156917695
+  name: SD Negeri Kemanggisan 17/18
+  alt_name: []
+  latitude: -6.192243799935013
+  longitude: 106.78399777393372
+  type: way
+  amenity_type: school
+- id: 156917740
+  name: TK-SD-SMP Budi Bahasa
+  alt_name: []
+  latitude: -6.156758596209738
+  longitude: 106.79956107678272
+  type: way
+  amenity_type: school
+- id: 156917741
+  name: SD-SMP MDT PKBM Kali Baru
+  alt_name: []
+  latitude: -6.1579890992183515
+  longitude: 106.797683960868
+  type: way
+  amenity_type: school
+- id: 156917742
+  name: SD Negeri Kali Anyar 01 Pagi 02 Petang
+  alt_name: []
+  latitude: -6.155713223145427
+  longitude: 106.79876012707949
+  type: way
+  amenity_type: school
+- id: 156917858
+  name: SD Negeri Mangga Besar 11 Pagi
+  alt_name: []
+  latitude: -6.143443489274458
+  longitude: 106.81918342256317
+  type: way
+  amenity_type: school
+- id: 156917859
+  name: Yayasan Pendidikan Sentosa Abadi
+  alt_name: []
+  latitude: -6.1436823364203095
+  longitude: 106.81999451879784
+  type: way
+  amenity_type: school
+- id: 156918122
+  name: SLTP MA MAK Ribathiyah Ponpes Asshiddiqiyah Pusat
+  alt_name: []
+  latitude: -6.174563723893238
+  longitude: 106.76640320289131
+  type: way
+  amenity_type: school
+- id: 156918134
+  name: SMP - SMK Eka Sakti
+  alt_name: []
+  latitude: -6.152607532589885
+  longitude: 106.74645158178235
+  type: way
+  amenity_type: school
+- id: 156918469
+  name: SD Negeri Tanah Sereal 03 Pagi-04 Petang
+  alt_name: []
+  latitude: -6.154599803914965
+  longitude: 106.80986923981287
+  type: way
+  amenity_type: school
+- id: 156918957
+  name: SD, SMP Sekolah Fajar Sion
+  alt_name: []
+  latitude: -6.138121422303924
+  longitude: 106.81803281518931
+  type: way
+  amenity_type: school
+- id: 156918958
+  name: SD Negeri Pinangsia 06 Pagi
+  alt_name: []
+  latitude: -6.138302599999996
+  longitude: 106.81607074999998
+  type: way
+  amenity_type: school
+- id: 156918980
+  name: SD Negeri Kemanggisan 08 Pagi
+  alt_name: []
+  latitude: -6.195824734800644
+  longitude: 106.79467275033612
+  type: way
+  amenity_type: school
+- id: 156918990
+  name: SMAN 15, SMKN 04 Muhammadiyah
+  alt_name: []
+  latitude: -6.186742085113685
+  longitude: 106.79571487169636
+  type: way
+  amenity_type: school
+- id: 156919223
+  name: SD Negeri Kota Bambu 01 Pagi
+  alt_name: []
+  latitude: -6.183206464695644
+  longitude: 106.80933400257139
+  type: way
+  amenity_type: school
+- id: 156919225
+  name: SLTP-SMU-SMK Yayasan Josua
+  alt_name: []
+  latitude: -6.185726371271763
+  longitude: 106.80746153936481
+  type: way
+  amenity_type: school
+- id: 156919226
+  name: SMP Negeri 130 Jakarta
+  alt_name: []
+  latitude: -6.183171633563336
+  longitude: 106.8090648899306
+  type: way
+  amenity_type: school
+- id: 156919513
+  name: SMP Negeri 187 Jakarta
+  alt_name: []
+  latitude: -6.171788968528229
+  longitude: 106.69732485427623
+  type: way
+  amenity_type: school
+- id: 156919524
+  name: SD Negeri Semanan 08 & 12 Pagi, 13 & 14 petang
+  alt_name: []
+  latitude: -6.167831849999997
+  longitude: 106.70394755
+  type: way
+  amenity_type: school
+- id: 156919536
+  name: SMP Negeri 205 Jakarta
+  alt_name: []
+  latitude: -6.170201450666784
+  longitude: 106.70735035761776
+  type: way
+  amenity_type: school
+- id: 156919735
+  name: SMK Negeri 9 Jakarta
+  alt_name: []
+  latitude: -6.13511307598205
+  longitude: 106.8047712499099
+  type: way
+  amenity_type: school
+- id: 156920399
+  name: SMP Negeri 105 Jakarta
+  alt_name: []
+  latitude: -6.1900293909832875
+  longitude: 106.7233276984659
+  type: way
+  amenity_type: school
+- id: 156920437
+  name: SD Kasih Bunda
+  alt_name: []
+  latitude: -6.156149470648513
+  longitude: 106.82489709255792
+  type: way
+  amenity_type: school
+- id: 156920440
+  name: SD Negeri Tamansari 07 dan 08 Pagi
+  alt_name: []
+  latitude: -6.15415551372574
+  longitude: 106.82534018939663
+  type: way
+  amenity_type: school
+- id: 156920441
+  name: SMK Strada 2 Tamansari
+  alt_name: []
+  latitude: -6.156119331929201
+  longitude: 106.824491166086
+  type: way
+  amenity_type: school
+- id: 156920444
+  name: SD, SMP Melania dan SMK Paramitha 2
+  alt_name: []
+  latitude: -6.155726856533342
+  longitude: 106.8250029049135
+  type: way
+  amenity_type: school
+- id: 156920880
+  name: Sekolah Kristen Makarios
+  alt_name: []
+  latitude: -6.175247815458259
+  longitude: 106.74932223125815
+  type: way
+  amenity_type: school
+- id: 156920996
+  name: SD, SMP, SMA Sekolah Kemurnian I
+  alt_name: []
+  latitude: -6.1464718
+  longitude: 106.81322069999999
+  type: way
+  amenity_type: school
+- id: 156921003
+  name: TK, SD, SMP, SMA Sekolah Ricci
+  alt_name: []
+  latitude: -6.143464695224357
+  longitude: 106.81222140289081
+  type: way
+  amenity_type: school
+- id: 156921449
+  name: SMP Negeri 75 Jakarta
+  alt_name: []
+  latitude: -6.198280704735244
+  longitude: 106.76599703192866
+  type: way
+  amenity_type: school
+- id: 156921464
+  name: SD Negeri Kebon Jeruk 8
+  alt_name: []
+  latitude: -6.198235107933692
+  longitude: 106.76694429674558
+  type: way
+  amenity_type: school
+- id: 156921787
+  name: SD Negeri Sukabumi Utara 01
+  alt_name: []
+  latitude: -6.208462719781944
+  longitude: 106.77831030528623
+  type: way
+  amenity_type: school
+- id: 156921810
+  name: SMP AL-Hasanah
+  alt_name: []
+  latitude: -6.205724944087556
+  longitude: 106.77642377333558
+  type: way
+  amenity_type: school
+- id: 156922059
+  name: SD Negeri Tanjung Duren Utara 01 Pagi
+  alt_name: []
+  latitude: -6.171917322232545
+  longitude: 106.7849711526474
+  type: way
+  amenity_type: school
+- id: 156922069
+  name: SD Negeri Tanjung Duren Utara 02-04 Pagi
+  alt_name: []
+  latitude: -6.172544781041601
+  longitude: 106.78376998957165
+  type: way
+  amenity_type: school
+- id: 156923517
+  name: SD Negeri Kamal 03 Pagi & 04 Pagi
+  alt_name: []
+  latitude: -6.105912083429616
+  longitude: 106.70067426203036
+  type: way
+  amenity_type: school
+- id: 156923585
+  name: Sekolah Bukit Sion
+  alt_name: []
+  latitude: -6.20310167607559
+  longitude: 106.75114060528935
+  type: way
+  amenity_type: school
+- id: 156923599
+  name: Yayasan Tarbiyah Islamiyah Al Alawiyah (Satria)- MI, MTs, SMK Satria
+  alt_name: []
+  latitude: -6.2085697400089455
+  longitude: 106.75915387320526
+  type: way
+  amenity_type: school
+- id: 156923939
+  name: Madrasah Ibtidaiyah
+  alt_name: []
+  latitude: -6.176395610803747
+  longitude: 106.75370400918759
+  type: way
+  amenity_type: school
+- id: 156923942
+  name: SD Negeri 04 Pagi
+  alt_name: []
+  latitude: -6.181995027355302
+  longitude: 106.76140960597023
+  type: way
+  amenity_type: school
+- id: 156923955
+  name: SD - SMP - SMA Patriot Pancasila
+  alt_name: []
+  latitude: -6.107878183024427
+  longitude: 106.69960579272546
+  type: way
+  amenity_type: school
+- id: 156924038
+  name: SD Negeri Duri Kosambi 06 Pagi
+  alt_name: []
+  latitude: -6.176703713027265
+  longitude: 106.72324272697186
+  type: way
+  amenity_type: school
+- id: 156924250
+  name: SD Impres 6
+  alt_name: []
+  latitude: -6.215104851872885
+  longitude: 106.75575561194901
+  type: way
+  amenity_type: school
+- id: 156924255
+  name: Petra National Plus School
+  alt_name: []
+  latitude: -6.220191968484753
+  longitude: 106.75069062398637
+  type: way
+  amenity_type: school
+- id: 156924261
+  name: SMP Negeri 142 Jakarta
+  alt_name: []
+  latitude: -6.219688559140131
+  longitude: 106.75790449534149
+  type: way
+  amenity_type: school
+- id: 156924668
+  name: SMK Islam AA
+  alt_name: []
+  latitude: -6.181508967923425
+  longitude: 106.7856212743954
+  type: way
+  amenity_type: school
+- id: 156924957
+  name: SMP Negeri 101 Jakarta
+  alt_name: []
+  latitude: -6.202876871132043
+  longitude: 106.79329734025603
+  type: way
+  amenity_type: school
+- id: 156925889
+  name: MTs Negeri 11 Jakarta
+  alt_name: []
+  latitude: -6.153476614758365
+  longitude: 106.76081386027819
+  type: way
+  amenity_type: school
+- id: 156927288
+  name: SD Negeri Cengkareng Barat 13 Pagi
+  alt_name: []
+  latitude: -6.129519019229032
+  longitude: 106.72295542121105
+  type: way
+  amenity_type: school
+- id: 156927289
+  name: SD Negeri Cengkareng Barat 14 Pagi, 20 Petang
+  alt_name: []
+  latitude: -6.128810555312023
+  longitude: 106.7243173951406
+  type: way
+  amenity_type: school
+- id: 156927290
+  name: SD Negeri Cengkareng Barat 16 pagi & 17 Petang
+  alt_name: []
+  latitude: -6.13071822760891
+  longitude: 106.72707073601956
+  type: way
+  amenity_type: school
+- id: 156927292
+  name: SMP Negeri 249 Jakarta
+  alt_name: []
+  latitude: -6.12953153210509
+  longitude: 106.72477180255203
+  type: way
+  amenity_type: school
+- id: 156928127
+  name: SD Negeri Jelambar 08 Pagi
+  alt_name: []
+  latitude: -6.162271043052949
+  longitude: 106.78435538448811
+  type: way
+  amenity_type: school
+- id: 156928811
+  name: SD Negeri Cengkareng Timur 03 Pagi, 04 Petang
+  alt_name: []
+  latitude: -6.15056682575399
+  longitude: 106.73138945849189
+  type: way
+  amenity_type: school
+- id: 156928815
+  name: SD Negeri Cengkareng Timur 21 Pagi
+  alt_name: []
+  latitude: -6.12405048395956
+  longitude: 106.73111059213387
+  type: way
+  amenity_type: school
+- id: 156928921
+  name: SDN 01/02/03
+  alt_name: []
+  latitude: -6.194624380107871
+  longitude: 106.8050326797273
+  type: way
+  amenity_type: school
+- id: 156931610
+  name: SMP Negeri 271
+  alt_name: []
+  latitude: -6.221295077496331
+  longitude: 106.76842335430091
+  type: way
+  amenity_type: school
+- id: 156959011
+  name: SD-SLTP-SMU Galatia 2
+  alt_name: []
+  latitude: -6.155752273093205
+  longitude: 106.77570115276185
+  type: way
+  amenity_type: school
+- id: 156959014
+  name: Perguruan Tunas Harapan SD-SMP-SMU-SMK
+  alt_name: []
+  latitude: -6.155042208898274
+  longitude: 106.77235859904583
+  type: way
+  amenity_type: school
+- id: 157038259
+  name: SMP Negeri 125 Jakarta
+  alt_name: []
+  latitude: -6.144195893756111
+  longitude: 106.71323037450361
+  type: way
+  amenity_type: school
+- id: 157198014
+  name: SMAN PLKN 30
+  alt_name: []
+  latitude: -6.184798777754182
+  longitude: 106.77335735536187
+  type: way
+  amenity_type: school
+- id: 157198015
+  name: SMK Negeri 60
+  alt_name: []
+  latitude: -6.1856789334783295
+  longitude: 106.77214305580772
+  type: way
+  amenity_type: school
+- id: 157198016
+  name: SMP Negeri 191
+  alt_name: []
+  latitude: -6.184758405975784
+  longitude: 106.77273387433215
+  type: way
+  amenity_type: school
+- id: 157204603
+  name: Madrasah Ibtidaiyah Al Hikam
+  alt_name: []
+  latitude: -6.211590569604987
+  longitude: 106.76816252022137
+  type: way
+  amenity_type: school
+- id: 157204609
+  name: SD Negeri Kelapa Dua 06
+  alt_name: []
+  latitude: -6.216406623231608
+  longitude: 106.76615442658218
+  type: way
+  amenity_type: school
+- id: 157205919
+  name: SD Negeri Duri Kepa 11 Pagi
+  alt_name: []
+  latitude: -6.186446863586628
+  longitude: 106.77540814051999
+  type: way
+  amenity_type: school
+- id: 157205923
+  name: SMK Dewi Sartika
+  alt_name: []
+  latitude: -6.170743824667676
+  longitude: 106.77833064779765
+  type: way
+  amenity_type: school
+- id: 157205925
+  name: SD Negeri 01 Duri Kepa
+  alt_name: []
+  latitude: -6.186415953765325
+  longitude: 106.7756854404384
+  type: way
+  amenity_type: school
+- id: 157205926
+  name: SMP-SMA Kemurnian II
+  alt_name: []
+  latitude: -6.1684845753128075
+  longitude: 106.77903536013828
+  type: way
+  amenity_type: school
+- id: 157205929
+  name: SMP - SMA Widuri
+  alt_name: []
+  latitude: -6.18362295
+  longitude: 106.77158315
+  type: way
+  amenity_type: school
+- id: 157205934
+  name: Sekolah Dharma Bangsa
+  alt_name: []
+  latitude: -6.167145264318861
+  longitude: 106.77871517117546
+  type: way
+  amenity_type: school
+- id: 157206000
+  name: Tunas Muda School
+  alt_name: []
+  latitude: -6.192091729359849
+  longitude: 106.72744104766224
+  type: way
+  amenity_type: school
+- id: 157206001
+  name: IPEKA Intregrated Cristian School
+  alt_name: []
+  latitude: -6.192360998328379
+  longitude: 106.73592888549338
+  type: way
+  amenity_type: school
+- id: 157209580
+  name: SD Negeri Meruya Utara 12,13,15
+  alt_name: []
+  latitude: -6.195717746647226
+  longitude: 106.75196119035878
+  type: way
+  amenity_type: school
+- id: 157209586
+  name: SMA Negeri 112
+  alt_name: []
+  latitude: -6.191507745329088
+  longitude: 106.75641006219536
+  type: way
+  amenity_type: school
+- id: 157212207
+  name: SMP Negeri 134 Jakarta
+  alt_name: []
+  latitude: -6.1991507002250446
+  longitude: 106.73876198846708
+  type: way
+  amenity_type: school
+- id: 157212212
+  name: SD Meruya Utara 02 Pagi
+  alt_name: []
+  latitude: -6.199136031854006
+  longitude: 106.7414405319753
+  type: way
+  amenity_type: school
+- id: 158980846
+  name: SD Negeri Kebon Jeruk 10
+  alt_name: []
+  latitude: -6.200658809212903
+  longitude: 106.76803580866796
+  type: way
+  amenity_type: school
+- id: 159803058
+  name: SD Negeri Meruya Selatan 04
+  alt_name: []
+  latitude: -6.211347209770554
+  longitude: 106.72598142402246
+  type: way
+  amenity_type: school
+- id: 159803061
+  name: Saint John's School
+  alt_name: []
+  latitude: -6.20966672106857
+  longitude: 106.72621528030542
+  type: way
+  amenity_type: school
+- id: 159805472
+  name: Yayasan Abacu - TK & SD Abata
+  alt_name: []
+  latitude: -6.203495012885704
+  longitude: 106.75558187544237
+  type: way
+  amenity_type: school
+- id: 159805496
+  name: Sekolah Bukit Sion
+  alt_name: []
+  latitude: -6.200262425359915
+  longitude: 106.7512000259615
+  type: way
+  amenity_type: school
+- id: 159805498
+  name: Yayasan Abacu - TK & SD Abata
+  alt_name: []
+  latitude: -6.203185825151898
+  longitude: 106.75525340337765
+  type: way
+  amenity_type: school
+- id: 159805499
+  name: SD Negeri Srengseng 05 Pagi, 06 Pagi, 08 Petang
+  alt_name: []
+  latitude: -6.202765328183634
+  longitude: 106.75691993392736
+  type: way
+  amenity_type: school
+- id: 185574585
+  name: Sekolah Kristen IPEKA Tomang II
+  alt_name: []
+  latitude: -6.1695360775007115
+  longitude: 106.77902484554069
+  type: way
+  amenity_type: school
+- id: 193646283
+  name: SD Negeri Rawa Buaya 07 Pagi, 08 Pagi
+  alt_name: []
+  latitude: -6.164824373527764
+  longitude: 106.73303766115565
+  type: way
+  amenity_type: school
+- id: 193651141
+  name: Madrasah Al Mashiriah
+  alt_name: []
+  latitude: -6.168779876249238
+  longitude: 106.73316145272386
+  type: way
+  amenity_type: school
+- id: 193651196
+  name: MI Al-Mashriyyah
+  alt_name: []
+  latitude: -6.168232992316231
+  longitude: 106.73298978078827
+  type: way
+  amenity_type: school
+- id: 240457865
+  name: SD Negeri Kembangan Utara 01
+  alt_name: []
+  latitude: -6.176254569216769
+  longitude: 106.73413099891616
+  type: way
+  amenity_type: school
+- id: 240457870
+  name: SD Negeri Cengkareng Timur 17 Pagi, 18 Pagi, 19 Petang
+  alt_name: []
+  latitude: -6.147011411717336
+  longitude: 106.7405664390783
+  type: way
+  amenity_type: school
+- id: 249666199
+  name: SD Cinta Kasih Tzu Chi
+  alt_name: []
+  latitude: -6.131657992255433
+  longitude: 106.73763618046443
+  type: way
+  amenity_type: school
+- id: 295362231
+  name: Yayasan Spring Field School - SMA
+  alt_name: []
+  latitude: -6.166894020541764
+  longitude: 106.7463330557152
+  type: way
+  amenity_type: school
+- id: 304172751
+  name: SD Negeri Pegadungan 06 Pagi, 07 Pagi, 10 Petang, 15 Petang
+  alt_name: []
+  latitude: -6.136344194504647
+  longitude: 106.69282271391823
+  type: way
+  amenity_type: school
+- id: 305102665
+  name: SMPK 7 & SMAK 4 Penabur
+  alt_name: []
+  latitude: -6.175271608915191
+  longitude: 106.76298785798376
+  type: way
+  amenity_type: school
+- id: 314072500
+  name: SD Negeri Kedaung Kaliangke 01 Pagi, 07 Petang
+  alt_name: []
+  latitude: -6.1509208
+  longitude: 106.77082874999998
+  type: way
+  amenity_type: school
+- id: 314083002
+  name: SMP Negeri 132 Jakarta
+  alt_name: []
+  latitude: -6.153519031245869
+  longitude: 106.7592778238904
+  type: way
+  amenity_type: school
+- id: 314357270
+  name: SD Negeri Kedaung Kaliangke 12 Pagi
+  alt_name: []
+  latitude: -6.154109644266624
+  longitude: 106.76283702998535
+  type: way
+  amenity_type: school
+- id: 314411989
+  name: Itti Hadiyah
+  alt_name: []
+  latitude: -6.166264099999999
+  longitude: 106.73540055
+  type: way
+  amenity_type: school
+- id: 314510706
+  name: Sekolah Rahmani
+  alt_name: []
+  latitude: -6.164596259115401
+  longitude: 106.73787337681067
+  type: way
+  amenity_type: school
+- id: 314668096
+  name: SD Negeri 09 Pagi
+  alt_name: []
+  latitude: -6.139430696074599
+  longitude: 106.71945180844949
+  type: way
+  amenity_type: school
+- id: 314668097
+  name: SD Negeri 10 Pagi
+  alt_name: []
+  latitude: -6.139173179315656
+  longitude: 106.71952268568778
+  type: way
+  amenity_type: school
+- id: 314668098
+  name: SD, SMP, SMA Kasih Karunia
+  alt_name: []
+  latitude: -6.139381099541562
+  longitude: 106.72001127872828
+  type: way
+  amenity_type: school
+- id: 314669767
+  name: SMK Negeri 53 Jakarta
+  alt_name: []
+  latitude: -6.132234118794471
+  longitude: 106.72573712458684
+  type: way
+  amenity_type: school
+- id: 314669768
+  name: SMP - SMA St Kristoforus II
+  alt_name: []
+  latitude: -6.134444237081187
+  longitude: 106.72466636746975
+  type: way
+  amenity_type: school
+- id: 314669770
+  name: Yayasan Miftahul Huda
+  alt_name: []
+  latitude: -6.132985088429401
+  longitude: 106.72442031908022
+  type: way
+  amenity_type: school
+- id: 314679086
+  name: Yayasan Alfiani
+  alt_name: []
+  latitude: -6.14888955
+  longitude: 106.72287595
+  type: way
+  amenity_type: school
+- id: 314689866
+  name: Yayasan Baptis
+  alt_name: []
+  latitude: -6.144219200000001
+  longitude: 106.7463823
+  type: way
+  amenity_type: school
+- id: 315413710
+  name: MI Darussalam
+  alt_name: []
+  latitude: -6.174777679100893
+  longitude: 106.7568707626453
+  type: way
+  amenity_type: school
+- id: 315413750
+  name: SD Negeri Kedoya Utara 01
+  alt_name: []
+  latitude: -6.1738593999999996
+  longitude: 106.75904995
+  type: way
+  amenity_type: school
+- id: 315413751
+  name: SD Negeri 03 Pagi 07 Petang
+  alt_name: []
+  latitude: -6.174207513888734
+  longitude: 106.75630990401561
+  type: way
+  amenity_type: school
+- id: 315413753
+  name: SLB Kusuma Bangsa
+  alt_name: []
+  latitude: -6.162470682645784
+  longitude: 106.7620433818813
+  type: way
+  amenity_type: school
+- id: 315867363
+  name: MA Al - Quran
+  alt_name: []
+  latitude: -6.162310000000001
+  longitude: 106.72657495000001
+  type: way
+  amenity_type: school
+- id: 315867365
+  name: SMK Ad-Da'wah
+  alt_name: []
+  latitude: -6.172973780406263
+  longitude: 106.72281963395083
+  type: way
+  amenity_type: school
+- id: 315867366
+  name: Madrasah
+  alt_name: []
+  latitude: -6.1558249504187845
+  longitude: 106.72181697715907
+  type: way
+  amenity_type: school
+- id: 315867403
+  name: SD - SMP Kristen Kalam Kudus
+  alt_name: []
+  latitude: -6.168742886807424
+  longitude: 106.71680116972247
+  type: way
+  amenity_type: school
+- id: 315867404
+  name: MI & SMP Al-Yauma
+  alt_name: []
+  latitude: -6.170223291478642
+  longitude: 106.7202124325012
+  type: way
+  amenity_type: school
+- id: 315867405
+  name: SD - SMP Impian Bunda
+  alt_name: []
+  latitude: -6.172518087239891
+  longitude: 106.71223576536205
+  type: way
+  amenity_type: school
+- id: 315867407
+  name: SD Negeri Duri Kosambi 09 & 10 pagi,11 petang
+  alt_name: []
+  latitude: -6.166242639388419
+  longitude: 106.72510761549789
+  type: way
+  amenity_type: school
+- id: 315867408
+  name: SMA Impian Bunda
+  alt_name: []
+  latitude: -6.172550483171428
+  longitude: 106.71273489175286
+  type: way
+  amenity_type: school
+- id: 315867410
+  name: SMP/SMA Kalam Kudus
+  alt_name: []
+  latitude: -6.170894958005876
+  longitude: 106.71510431645135
+  type: way
+  amenity_type: school
+- id: 315867413
+  name: MTs & MA Annida Al-Islamy
+  alt_name: []
+  latitude: -6.164491468376926
+  longitude: 106.72476454780484
+  type: way
+  amenity_type: school
+- id: 315876542
+  name: MI. Bahrul Ulum
+  alt_name: []
+  latitude: -6.157429444612347
+  longitude: 106.718679044662
+  type: way
+  amenity_type: school
+- id: 316748082
+  name: SD Negeri Tegal Alur 17 & 18 pagi
+  alt_name: []
+  latitude: -6.120121673070667
+  longitude: 106.72686946063982
+  type: way
+  amenity_type: school
+- id: 316748083
+  name: SD Negeri Tegal Alur 03 pagi & 12 Petang
+  alt_name: []
+  latitude: -6.12278645
+  longitude: 106.71989165000001
+  type: way
+  amenity_type: school
+- id: 316748086
+  name: SD Negeri Tegal Alur 11 Pagi
+  alt_name: []
+  latitude: -6.128693043817268
+  longitude: 106.71762257130646
+  type: way
+  amenity_type: school
+- id: 316748098
+  name: TK, SD, MTs. An - Nur
+  alt_name: []
+  latitude: -6.128301829997878
+  longitude: 106.71527127365971
+  type: way
+  amenity_type: school
+- id: 316748226
+  name: SD Negeri 01, 03 pagi & 08, 12 Petang
+  alt_name: []
+  latitude: -6.129354172421083
+  longitude: 106.74282965607064
+  type: way
+  amenity_type: school
+- id: 316748227
+  name: SD Negeri Kapuk 15/16 Pagi
+  alt_name: []
+  latitude: -6.130660449999998
+  longitude: 106.74199989999998
+  type: way
+  amenity_type: school
+- id: 316757669
+  name: Sekolah Duta Bangsa
+  alt_name: []
+  latitude: -6.132584649999999
+  longitude: 106.74395289999998
+  type: way
+  amenity_type: school
+- id: 316896277
+  name: SD Negeri Cengkareng Barat 07 Pagi & 08 Petang
+  alt_name: []
+  latitude: -6.15251167872772
+  longitude: 106.72462620086728
+  type: way
+  amenity_type: school
+- id: 316896278
+  name: SD Negeri Cengkareng Barat 11 Pagi
+  alt_name: []
+  latitude: -6.144383112992718
+  longitude: 106.72002603926688
+  type: way
+  amenity_type: school
+- id: 316896281
+  name: SMK Bunga Nusa 1
+  alt_name: []
+  latitude: -6.141722873500701
+  longitude: 106.72472942366913
+  type: way
+  amenity_type: school
+- id: 316896284
+  name: SMP, SMA Al Huda & SMK Mutiara Bangsa
+  alt_name: []
+  latitude: -6.1497308084502675
+  longitude: 106.72688369904893
+  type: way
+  amenity_type: school
+- id: 316912719
+  name: Madrasah Al - Asas
+  alt_name: []
+  latitude: -6.1401845218040885
+  longitude: 106.74613599474603
+  type: way
+  amenity_type: school
+- id: 316915828
+  name: SD SMP Esti Bakti
+  alt_name: []
+  latitude: -6.1402665292941885
+  longitude: 106.76023956727909
+  type: way
+  amenity_type: school
+- id: 317317798
+  name: Madrasah Diniyah Asysyamsuriyah
+  alt_name: []
+  latitude: -6.13966846908712
+  longitude: 106.71991254525126
+  type: way
+  amenity_type: school
+- id: 317480420
+  name: SD Negeri Kapuk 05 & 14 Pagi
+  alt_name: []
+  latitude: -6.143508035006862
+  longitude: 106.7684594225392
+  type: way
+  amenity_type: school
+- id: 319372912
+  name: SD Negeri 07 Duri Kosambi
+  alt_name: []
+  latitude: -6.179190599999999
+  longitude: 106.71423240000001
+  type: way
+  amenity_type: school
+- id: 319373637
+  name: SMP - SMA Al-Itqon
+  alt_name: []
+  latitude: -6.175239682705095
+  longitude: 106.71940845493502
+  type: way
+  amenity_type: school
+- id: 319373645
+  name: SD Negeri Duri Kosambi 01 Pagi, 03 Petang
+  alt_name: []
+  latitude: -6.176164335096216
+  longitude: 106.72101990574895
+  type: way
+  amenity_type: school
+- id: 322422073
+  name: SD SMP Wawasan Nusantara
+  alt_name: []
+  latitude: -6.143064942423226
+  longitude: 106.75268528572377
+  type: way
+  amenity_type: school
+- id: 334801957
+  name: SD Negeri Cengkareng Timur 05 Pagi, 06 Petang
+  alt_name: []
+  latitude: -6.149232449368836
+  longitude: 106.72839570917726
+  type: way
+  amenity_type: school
+- id: 334801960
+  name: SMP Negeri 248 Jakarta
+  alt_name: []
+  latitude: -6.14965583501253
+  longitude: 106.72922777552314
+  type: way
+  amenity_type: school
+- id: 334807413
+  name: Madrasah
+  alt_name: []
+  latitude: -6.150997150000002
+  longitude: 106.73280165
+  type: way
+  amenity_type: school
+- id: 334807414
+  name: Madrasah
+  alt_name: []
+  latitude: -6.150860150000001
+  longitude: 106.7343048
+  type: way
+  amenity_type: school
+- id: 334807415
+  name: Masdrasah
+  alt_name:
+  - Madrasah
+  latitude: -6.152597337001558
+  longitude: 106.73664738036354
+  type: way
+  amenity_type: school
+- id: 335533639
+  name: Madrasah Nurul Iman
+  alt_name: []
+  latitude: -6.147800863598541
+  longitude: 106.7333234309093
+  type: way
+  amenity_type: school
+- id: 336940753
+  name: SD Kasih Setia
+  alt_name: []
+  latitude: -6.146765577683606
+  longitude: 106.73405775893964
+  type: way
+  amenity_type: school
+- id: 337145804
+  name: Yayasan Panca Cemerlang
+  alt_name: []
+  latitude: -6.135976169638213
+  longitude: 106.73807289651276
+  type: way
+  amenity_type: school
+- id: 344087071
+  name: Sekolah Dian Harapan
+  alt_name: []
+  latitude: -6.147284600363128
+  longitude: 106.70754765042474
+  type: way
+  amenity_type: school
+- id: 363262311
+  name: SMK Negeri 42 Jakarta
+  alt_name: []
+  latitude: -6.143979915246982
+  longitude: 106.72974495499551
+  type: way
+  amenity_type: school
+- id: 365809783
+  name: SD Negeri Cengkareng Timur 10,12 pagi & 11,13 Petang
+  alt_name: []
+  latitude: -6.147027391385892
+  longitude: 106.73316745495224
+  type: way
+  amenity_type: school
+- id: 365825286
+  name: SD Bina Mulia I, SMP Pelita II
+  alt_name: []
+  latitude: -6.147505596369679
+  longitude: 106.73547227589195
+  type: way
+  amenity_type: school
+- id: 383422606
+  name: SMP Negeri 278 Jakarta
+  alt_name: []
+  latitude: -6.109873888205254
+  longitude: 106.6978400245863
+  type: way
+  amenity_type: school
+- id: 384393386
+  name: SD Negeri Kamal 05/06 Pagi
+  alt_name: []
+  latitude: -6.10034013450101
+  longitude: 106.70836096924432
+  type: way
+  amenity_type: school
+- id: 458086480
+  name: MI Hidayatul Istiqomah
+  alt_name: []
+  latitude: -6.162554986195758
+  longitude: 106.74925712551322
+  type: way
+  amenity_type: school
+- id: 470110101
+  name: SMK Telkom Jakarta
+  alt_name: []
+  latitude: -6.154417400482488
+  longitude: 106.75081533037181
+  type: way
+  amenity_type: school
+- id: 489184863
+  name: MI Miftahul Huda
+  alt_name: []
+  latitude: -6.157691524598687
+  longitude: 106.80043065807877
+  type: way
+  amenity_type: school
+- id: 489184894
+  name: Yayasan Pendidikan Masyarakat Islam "Bahagia" (SD/SMP/SMK)
+  alt_name: []
+  latitude: -6.159129068538832
+  longitude: 106.79897763201555
+  type: way
+  amenity_type: school
+- id: 489688323
+  name: MI LKMPDK Rabiatul Adawiyah
+  alt_name: []
+  latitude: -6.150928841551521
+  longitude: 106.79744267300511
+  type: way
+  amenity_type: school
+- id: 490047931
+  name: Yayasan Pendidikan Havard (TK-SD-SMP-SMK)
+  alt_name: []
+  latitude: -6.142926854892741
+  longitude: 106.79599606415375
+  type: way
+  amenity_type: school
+- id: 490047947
+  name: SD Islam Teladan YKPI PG/PT
+  alt_name: []
+  latitude: -6.1484956
+  longitude: 106.79778024999999
+  type: way
+  amenity_type: school
+- id: 490047955
+  name: MI Miftahul Huda
+  alt_name: []
+  latitude: -6.144506750000001
+  longitude: 106.79501469999998
+  type: way
+  amenity_type: school
+- id: 490047957
+  name: Sekolah Dhammasavana (TK-SD-SMP-SMA-SMEA)
+  alt_name: []
+  latitude: -6.143606790936545
+  longitude: 106.79267128252617
+  type: way
+  amenity_type: school
+- id: 490633752
+  name: SDS Sari Putra
+  alt_name: []
+  latitude: -6.147033111414926
+  longitude: 106.79315487682446
+  type: way
+  amenity_type: school
+- id: 490793452
+  name: Bukit Sinai School (KB-TK-SD-SMP)
+  alt_name: []
+  latitude: -6.146252265270621
+  longitude: 106.79765271774153
+  type: way
+  amenity_type: school
+- id: 490815232
+  name: SD Negeri Jembatan Besi 01-03 Pagi 02-04 Petang
+  alt_name: []
+  latitude: -6.1529547082879805
+  longitude: 106.79848829928865
+  type: way
+  amenity_type: school
+- id: 490815243
+  name: Sekolah TK-SD Budi
+  alt_name: []
+  latitude: -6.15096525
+  longitude: 106.79867155000001
+  type: way
+  amenity_type: school
+- id: 491329709
+  name: SMP Negeri 219 Jakarta
+  alt_name: []
+  latitude: -6.2168075437976595
+  longitude: 106.72474187267386
+  type: way
+  amenity_type: school
+- id: 491498627
+  name: SMK PGRI 2 Jakarta
+  alt_name: []
+  latitude: -6.16123725
+  longitude: 106.74831894999998
+  type: way
+  amenity_type: school
+- id: 491583089
+  name: KB-TK-SD-SMP "JOY"
+  alt_name: []
+  latitude: -6.140538480004839
+  longitude: 106.80233990585391
+  type: way
+  amenity_type: school
+- id: 491583090
+  name: SD Negeri 01 Pekojan
+  alt_name: []
+  latitude: -6.137495662741374
+  longitude: 106.80239125505945
+  type: way
+  amenity_type: school
+- id: 491583102
+  name: SMP Jame Pekojan
+  alt_name: []
+  latitude: -6.140746657468421
+  longitude: 106.80461532043735
+  type: way
+  amenity_type: school
+- id: 491583112
+  name: SMP Raudlatul Islamiyah Pekojan
+  alt_name: []
+  latitude: -6.140482094500546
+  longitude: 106.80107628263895
+  type: way
+  amenity_type: school
+- id: 491583123
+  name: SMP Negeri 32 Jakarta
+  alt_name: []
+  latitude: -6.13973877168245
+  longitude: 106.80719584662357
+  type: way
+  amenity_type: school
+- id: 492003138
+  name: SDN Palmerah 01,03,05 Pagi
+  alt_name: []
+  latitude: -6.205012545404913
+  longitude: 106.79612537604214
+  type: way
+  amenity_type: school
+- id: 492019614
+  name: SMK Prima Wisata
+  alt_name: []
+  latitude: -6.173593401526089
+  longitude: 106.74872176842621
+  type: way
+  amenity_type: school
+- id: 492025920
+  name: Yayasan Spring Field School
+  alt_name: []
+  latitude: -6.17616119264791
+  longitude: 106.73867847613974
+  type: way
+  amenity_type: school
+- id: 492069244
+  name: YPI Sa'adaturadain
+  alt_name: []
+  latitude: -6.1805883470904295
+  longitude: 106.73212039159263
+  type: way
+  amenity_type: school
+- id: 492262924
+  name: SD Sekolah Ricci
+  alt_name: []
+  latitude: -6.142621500000001
+  longitude: 106.81228804999999
+  type: way
+  amenity_type: school
+- id: 492273399
+  name: Yayasan Pendidikan Kristen Kemuliaan Bunda TK-SD-SMP
+  alt_name: []
+  latitude: -6.143637600000001
+  longitude: 106.80341690000002
+  type: way
+  amenity_type: school
+- id: 492280343
+  name: SD Emanuil
+  alt_name: []
+  latitude: -6.143067690228545
+  longitude: 106.81141230628585
+  type: way
+  amenity_type: school
+- id: 492336592
+  name: TK-SD-SLTP Candra Jaya
+  alt_name: []
+  latitude: -6.14637285
+  longitude: 106.80146330000001
+  type: way
+  amenity_type: school
+- id: 492336628
+  name: MTs Chairiyah Mansuryah (pagi) SMPI Chairiyah Mansuriyah (Siang)
+  alt_name: []
+  latitude: -6.145249337853218
+  longitude: 106.80593189028272
+  type: way
+  amenity_type: school
+- id: 492336640
+  name: SD Negeri Jembatan Lima 01-03 Pagi 02-04 Petang
+  alt_name: []
+  latitude: -6.1472801712287195
+  longitude: 106.80647548389999
+  type: way
+  amenity_type: school
+- id: 492702878
+  name: MI Al Muawanatul Khaeriyah
+  alt_name: []
+  latitude: -6.151154568085298
+  longitude: 106.80245596474917
+  type: way
+  amenity_type: school
+- id: 492899427
+  name: SMP Negeri 111 Jakarta
+  alt_name: []
+  latitude: -6.191812639703515
+  longitude: 106.78336807027063
+  type: way
+  amenity_type: school
+- id: 492899430
+  name: SMA Negeri 78 Jakarta
+  alt_name: []
+  latitude: -6.191792858122033
+  longitude: 106.78283490724742
+  type: way
+  amenity_type: school
+- id: 492965778
+  name: Yayasan Nurul Wihdah
+  alt_name: []
+  latitude: -6.149231800000001
+  longitude: 106.80654285000001
+  type: way
+  amenity_type: school
+- id: 492965783
+  name: Yayasan Bina Karya
+  alt_name: []
+  latitude: -6.149523250266256
+  longitude: 106.80715945134588
+  type: way
+  amenity_type: school
+- id: 492965784
+  name: Sekolah Sinar Dharma (TK-SD-SMP-SMA)
+  alt_name: []
+  latitude: -6.14927105
+  longitude: 106.80705069999999
+  type: way
+  amenity_type: school
+- id: 492969058
+  name: SDN Palmerah 17 Pagi
+  alt_name: []
+  latitude: -6.204016501791995
+  longitude: 106.78432616432359
+  type: way
+  amenity_type: school
+- id: 492969170
+  name: MA Negeri 22 Jakarta
+  alt_name: []
+  latitude: -6.198194999926397
+  longitude: 106.79078046646758
+  type: way
+  amenity_type: school
+- id: 492969226
+  name: SD Negeri Palmerah 09 Pagi
+  alt_name: []
+  latitude: -6.207573097458275
+  longitude: 106.7883475856005
+  type: way
+  amenity_type: school
+- id: 492969239
+  name: SMK Negeri 13 Jakarta
+  alt_name: []
+  latitude: -6.203021582571489
+  longitude: 106.78576323368183
+  type: way
+  amenity_type: school
+- id: 492969242
+  name: SD Negeri 19 & 20 Pagi
+  alt_name: []
+  latitude: -6.203191334008708
+  longitude: 106.78489669480741
+  type: way
+  amenity_type: school
+- id: 492969243
+  name: SDN Palmerah 21 dan 22 Pagi
+  alt_name: []
+  latitude: -6.203519218991002
+  longitude: 106.78469665625045
+  type: way
+  amenity_type: school
+- id: 492969268
+  name: SD Negeri Palmerah 15 Pagi
+  alt_name: []
+  latitude: -6.203620326868386
+  longitude: 106.7842787108949
+  type: way
+  amenity_type: school
+- id: 493547921
+  name: Sekolah Notre Dame - Yayasan Santa Maria
+  alt_name: []
+  latitude: -6.187229691226934
+  longitude: 106.7426795794946
+  type: way
+  amenity_type: school
+- id: 493552357
+  name: TK-SD-SMP-SMA Permata Bunda
+  alt_name: []
+  latitude: -6.15726755
+  longitude: 106.80668
+  type: way
+  amenity_type: school
+- id: 493611653
+  name: Sekolah Kasih Bunda
+  alt_name: []
+  latitude: -6.160928806469432
+  longitude: 106.75549007390782
+  type: way
+  amenity_type: school
+- id: 493633403
+  name: Yayasan Regina Pacis
+  alt_name: []
+  latitude: -6.201387363323506
+  longitude: 106.79681102627376
+  type: way
+  amenity_type: school
+- id: 493633425
+  name: SD Negeri Palmerah 23
+  alt_name: []
+  latitude: -6.202435894865616
+  longitude: 106.7866840342105
+  type: way
+  amenity_type: school
+- id: 493633432
+  name: SMK (SMIP) Teladan
+  alt_name: []
+  latitude: -6.19923380600067
+  longitude: 106.79582870768557
+  type: way
+  amenity_type: school
+- id: 493633465
+  name: SD Negeri Palmerah 07 Pagi
+  alt_name: []
+  latitude: -6.205712331519734
+  longitude: 106.7961905937197
+  type: way
+  amenity_type: school
+- id: 493633486
+  name: SMA Negeri 16 Jakarta
+  alt_name: []
+  latitude: -6.201628521860758
+  longitude: 106.7921252963322
+  type: way
+  amenity_type: school
+- id: 493633487
+  name: SD Negeri 25 Pagi
+  alt_name: []
+  latitude: -6.201540848167684
+  longitude: 106.79153505295169
+  type: way
+  amenity_type: school
+- id: 493633497
+  name: MTS dan SMK Al-Mafatih
+  alt_name: []
+  latitude: -6.19825607929505
+  longitude: 106.79104692640529
+  type: way
+  amenity_type: school
+- id: 493633499
+  name: SD Juara Jakarta Barat
+  alt_name: []
+  latitude: -6.203660536328293
+  longitude: 106.78942534395469
+  type: way
+  amenity_type: school
+- id: 493711292
+  name: SD Negeri Kembangan Utara 05/08
+  alt_name: []
+  latitude: -6.170037471955183
+  longitude: 106.74802179191606
+  type: way
+  amenity_type: school
+- id: 493711307
+  name: SD Negeri Kembangan Utara 04
+  alt_name: []
+  latitude: -6.180395705167849
+  longitude: 106.74148152919824
+  type: way
+  amenity_type: school
+- id: 493711313
+  name: SD Swasta Montessori
+  alt_name: []
+  latitude: -6.175848799999998
+  longitude: 106.73432434999997
+  type: way
+  amenity_type: school
+- id: 493711344
+  name: Yayasan Al Manshuriyah RA s/d SMK
+  alt_name: []
+  latitude: -6.174046108156074
+  longitude: 106.74936546189032
+  type: way
+  amenity_type: school
+- id: 493711386
+  name: MI Al Hasyimiyah
+  alt_name: []
+  latitude: -6.181487799625618
+  longitude: 106.73170401137213
+  type: way
+  amenity_type: school
+- id: 493711399
+  name: Yayasan Ri'ayatul Ummah
+  alt_name: []
+  latitude: -6.17658914146302
+  longitude: 106.73640592191032
+  type: way
+  amenity_type: school
+- id: 493972521
+  name: Yayasan Nasional Garuda (TK- SD-SMP)
+  alt_name: []
+  latitude: -6.1538240500000025
+  longitude: 106.80713945000001
+  type: way
+  amenity_type: school
+- id: 494065355
+  name: SD Negeri Duri Utara 01-03-05 Pagi 02-04-06 Petang
+  alt_name: []
+  latitude: -6.1540766999932845
+  longitude: 106.80408708025152
+  type: way
+  amenity_type: school
+- id: 494065389
+  name: KB-TK-SD-SMP Budaya Mulia
+  alt_name: []
+  latitude: -6.152502379472667
+  longitude: 106.80561535061925
+  type: way
+  amenity_type: school
+- id: 494099204
+  name: MTS 35 Jakarta
+  alt_name: []
+  latitude: -6.192911597860915
+  longitude: 106.79131265166772
+  type: way
+  amenity_type: school
+- id: 494099262
+  name: SD Negeri Kemanggisan 03 pagi, 05 Pagi
+  alt_name: []
+  latitude: -6.1929016500000005
+  longitude: 106.7943049
+  type: way
+  amenity_type: school
+- id: 494099343
+  name: MIT Jam'iyyatil Huda
+  alt_name: []
+  latitude: -6.1948514
+  longitude: 106.78837695
+  type: way
+  amenity_type: school
+- id: 494099375
+  name: SDN Kemanggisan 12 dan 13 Pagi
+  alt_name: []
+  latitude: -6.193779239051601
+  longitude: 106.7912526081845
+  type: way
+  amenity_type: school
+- id: 494099668
+  name: SD Muhammadiyah 48 Pagi dan Madrasah Diniyah Sore
+  alt_name: []
+  latitude: -6.191101816197137
+  longitude: 106.79481432615252
+  type: way
+  amenity_type: school
+- id: 494099954
+  name: SD Negeri Kemanggisan 01 Pagi, 02 Petang
+  alt_name: []
+  latitude: -6.1931011716415485
+  longitude: 106.7946941931314
+  type: way
+  amenity_type: school
+- id: 494099986
+  name: SD Negeri Kemanggisan 10 Pagi
+  alt_name: []
+  latitude: -6.1935546678478
+  longitude: 106.79150215788424
+  type: way
+  amenity_type: school
+- id: 494149506
+  name: SD Negeri Kembangan Selatan 01 Pagi
+  alt_name: []
+  latitude: -6.18794829125243
+  longitude: 106.72523165519993
+  type: way
+  amenity_type: school
+- id: 494155128
+  name: Yayasan Budi Murni
+  alt_name: []
+  latitude: -6.184013698372594
+  longitude: 106.75621307366941
+  type: way
+  amenity_type: school
+- id: 494155140
+  name: SD Negeri Kembangan Selatan 03
+  alt_name: []
+  latitude: -6.177758631847496
+  longitude: 106.74814931577914
+  type: way
+  amenity_type: school
+- id: 494634672
+  name: TK-SD-SMP-SMA-SMK Pelita
+  alt_name: []
+  latitude: -6.15589106558005
+  longitude: 106.80216634025034
+  type: way
+  amenity_type: school
+- id: 494634707
+  name: Yayasan Pendidikan KB-TK-SD Widuri Indah 1
+  alt_name: []
+  latitude: -6.156293556282338
+  longitude: 106.80315937953294
+  type: way
+  amenity_type: school
+- id: 494683907
+  name: Holly Angels - TK & SD
+  alt_name: []
+  latitude: -6.1953283500000005
+  longitude: 106.7518888
+  type: way
+  amenity_type: school
+- id: 494683912
+  name: SD SMP SMA Samaria Kudus
+  alt_name: []
+  latitude: -6.196544835836846
+  longitude: 106.7544182995797
+  type: way
+  amenity_type: school
+- id: 494692225
+  name: Raffles International Cristian School
+  alt_name: []
+  latitude: -6.195882680140213
+  longitude: 106.75632390388576
+  type: way
+  amenity_type: school
+- id: 494692232
+  name: SIS
+  alt_name: []
+  latitude: -6.1972912766713435
+  longitude: 106.76098708091554
+  type: way
+  amenity_type: school
+- id: 494692260
+  name: SD Negeri 09 Pagi
+  alt_name: []
+  latitude: -6.196279644190185
+  longitude: 106.75896460194305
+  type: way
+  amenity_type: school
+- id: 494692262
+  name: SD Negeri Meruya Utara 10 Pagi
+  alt_name: []
+  latitude: -6.196314988521212
+  longitude: 106.75919521183826
+  type: way
+  amenity_type: school
+- id: 495235616
+  name: TK-SD-SMP-SMA Damai
+  alt_name: []
+  latitude: -6.159088939900951
+  longitude: 106.80477837984358
+  type: way
+  amenity_type: school
+- id: 495235626
+  name: SLB/B-C Kasih Bunda
+  alt_name: []
+  latitude: -6.159766432633675
+  longitude: 106.80569326416574
+  type: way
+  amenity_type: school
+- id: 495328964
+  name: KB-TK-SD-SMP Murtini
+  alt_name: []
+  latitude: -6.15293654461892
+  longitude: 106.8102650299076
+  type: way
+  amenity_type: school
+- id: 495346767
+  name: TK-SD-MD Sa'Adatuddarain
+  alt_name: []
+  latitude: -6.1606963607072185
+  longitude: 106.80616074765985
+  type: way
+  amenity_type: school
+- id: 495346786
+  name: SD Luar Biasa Bagian C-1 "Tri-Asih I"
+  alt_name: []
+  latitude: -6.161195309122686
+  longitude: 106.80564393558619
+  type: way
+  amenity_type: school
+- id: 495395064
+  name: SDN Kota Bambu 03 Pagi/04 Petang
+  alt_name: []
+  latitude: -6.188335601035358
+  longitude: 106.80819798659383
+  type: way
+  amenity_type: school
+- id: 495395218
+  name: SDN Kota Bambu 07 Pagi
+  alt_name: []
+  latitude: -6.187612622910726
+  longitude: 106.81008761990351
+  type: way
+  amenity_type: school
+- id: 495402671
+  name: SMK Patmos Campus
+  alt_name: []
+  latitude: -6.197689319092333
+  longitude: 106.73879351832072
+  type: way
+  amenity_type: school
+- id: 495402702
+  name: Global Nusantara International School
+  alt_name: []
+  latitude: -6.1921976999999995
+  longitude: 106.73854924999999
+  type: way
+  amenity_type: school
+- id: 495402724
+  name: SMP Negeri 215 Jakarta
+  alt_name: []
+  latitude: -6.201677579222473
+  longitude: 106.73728548085273
+  type: way
+  amenity_type: school
+- id: 495402736
+  name: Yayasan Ak Ikhwan Meruya (TK-SMP)
+  alt_name: []
+  latitude: -6.19495575
+  longitude: 106.73688725000001
+  type: way
+  amenity_type: school
+- id: 496038072
+  name: SD & SMP Harapan
+  alt_name: []
+  latitude: -6.18326132408342
+  longitude: 106.8065010800056
+  type: way
+  amenity_type: school
+- id: 496571955
+  name: SMP Negeri 206 Jakarta
+  alt_name: []
+  latitude: -6.213958960657033
+  longitude: 106.73626906589568
+  type: way
+  amenity_type: school
+- id: 496571959
+  name: SD Negeri 03 Pagi Meruya Selatan
+  alt_name: []
+  latitude: -6.214384208385615
+  longitude: 106.73632344433037
+  type: way
+  amenity_type: school
+- id: 496574636
+  name: SMP Kembangan
+  alt_name: []
+  latitude: -6.193275239306118
+  longitude: 106.72723499994714
+  type: way
+  amenity_type: school
+- id: 496574698
+  name: Pusat Kegiatan Belajar Masyarakat Negeri 06 Meruya Utara
+  alt_name: []
+  latitude: -6.196107250000001
+  longitude: 106.72899655000002
+  type: way
+  amenity_type: school
+- id: 496574720
+  name: SD Negeri Meruya Utara 05
+  alt_name: []
+  latitude: -6.19593372198641
+  longitude: 106.72935437375548
+  type: way
+  amenity_type: school
+- id: 496575165
+  name: Lazuardi Cordova
+  alt_name: []
+  latitude: -6.204148629640644
+  longitude: 106.74103140028475
+  type: way
+  amenity_type: school
+- id: 496586383
+  name: Sekolah Bhinneka Tunggal Ika
+  alt_name: []
+  latitude: -6.1506889473199005
+  longitude: 106.80812123680168
+  type: way
+  amenity_type: school
+- id: 496588226
+  name: MI Negeri 19 Jakarta Barat
+  alt_name: []
+  latitude: -6.215078849999999
+  longitude: 106.72284835000002
+  type: way
+  amenity_type: school
+- id: 496618552
+  name: Yayasan Pendidiakan Islam Al Azhar Kembangan
+  alt_name: []
+  latitude: -6.214463024214388
+  longitude: 106.72739338283267
+  type: way
+  amenity_type: school
+- id: 496640538
+  name: Pendidikan Islam Tambora (SD-SMP-SMA)
+  alt_name: []
+  latitude: -6.145253490660744
+  longitude: 106.81015604414017
+  type: way
+  amenity_type: school
+- id: 496640544
+  name: Komplek Pendidikan SMAN 19, SMPN 63, SDN Tambora 01-02-03, TK Perniagaan
+  alt_name: []
+  latitude: -6.142260097615677
+  longitude: 106.80897203825126
+  type: way
+  amenity_type: school
+- id: 497089959
+  name: Yayasan Sekar Laut - PT. Pelni
+  alt_name: []
+  latitude: -6.192558399320327
+  longitude: 106.80225967704384
+  type: way
+  amenity_type: school
+- id: 497089964
+  name: Yayasan Kristen Lemuel (TK-SD-SMP)
+  alt_name: []
+  latitude: -6.1984241051991145
+  longitude: 106.80277741210038
+  type: way
+  amenity_type: school
+- id: 497090307
+  name: SD Negeri Slipi 07 Pagi
+  alt_name: []
+  latitude: -6.191048862748145
+  longitude: 106.80012219287822
+  type: way
+  amenity_type: school
+- id: 497090636
+  name: SD Negeri Slipi 01 Pagi
+  alt_name: []
+  latitude: -6.195857093691603
+  longitude: 106.80458092670379
+  type: way
+  amenity_type: school
+- id: 497090666
+  name: SD Negeri Slipi 15 Pagi dan 18 Pagi
+  alt_name: []
+  latitude: -6.193510078667285
+  longitude: 106.80129058290747
+  type: way
+  amenity_type: school
+- id: 497090704
+  name: SLB Negeri 5 Jakarta
+  alt_name: []
+  latitude: -6.193611428531802
+  longitude: 106.80095995098415
+  type: way
+  amenity_type: school
+- id: 497090754
+  name: SMK Negeri 17 Jakarta
+  alt_name: []
+  latitude: -6.191395449122996
+  longitude: 106.79996919269293
+  type: way
+  amenity_type: school
+- id: 497090955
+  name: SMP dan SMK Ibu Pertiwi
+  alt_name: []
+  latitude: -6.194066373289236
+  longitude: 106.79804012127356
+  type: way
+  amenity_type: school
+- id: 497108676
+  name: SD Negeri Jati Pulo 08 Pagi
+  alt_name: []
+  latitude: -6.179983652322134
+  longitude: 106.79926312308423
+  type: way
+  amenity_type: school
+- id: 497108813
+  name: SD dan SMP Trinity
+  alt_name: []
+  latitude: -6.1754587271492545
+  longitude: 106.80363988197543
+  type: way
+  amenity_type: school
+- id: 497108881
+  name: SD Negeri Jati Pulo 07
+  alt_name: []
+  latitude: -6.179537680353959
+  longitude: 106.79905781281079
+  type: way
+  amenity_type: school
+- id: 497585878
+  name: SLB Negeri 06 Jakarta
+  alt_name: []
+  latitude: -6.213510632630338
+  longitude: 106.74168044462296
+  type: way
+  amenity_type: school
+- id: 497585879
+  name: SD Negeri Meruya Selatan 06 Pagi
+  alt_name: []
+  latitude: -6.213221809373921
+  longitude: 106.74170627577078
+  type: way
+  amenity_type: school
+- id: 499207345
+  name: MI Al - Istiqomah
+  alt_name: []
+  latitude: -6.16051684875953
+  longitude: 106.69078573162284
+  type: way
+  amenity_type: school
+- id: 499207357
+  name: MI Nurul Yaqin
+  alt_name: []
+  latitude: -6.159894477202953
+  longitude: 106.71452655260556
+  type: way
+  amenity_type: school
+- id: 499207362
+  name: SMP & SMK Dwi Warna, SMA Tunas Indonesia
+  alt_name: []
+  latitude: -6.162450476126954
+  longitude: 106.71356760235453
+  type: way
+  amenity_type: school
+- id: 499217343
+  name: SD Negeri Meruya Selatan 01 Pagi & 02 Petang
+  alt_name: []
+  latitude: -6.2111299961824935
+  longitude: 106.7356053847828
+  type: way
+  amenity_type: school
+- id: 499250273
+  name: SD Negeri Semanan 09
+  alt_name: []
+  latitude: -6.1705323734318505
+  longitude: 106.70746532114438
+  type: way
+  amenity_type: school
+- id: 499250280
+  name: SD Negeri Semanan 05 Pagi, 10 Petang, 11 Petang
+  alt_name: []
+  latitude: -6.171005174236589
+  longitude: 106.69850385069451
+  type: way
+  amenity_type: school
+- id: 499250302
+  name: SD Negeri Semanan 04 Pagi
+  alt_name: []
+  latitude: -6.171834253096175
+  longitude: 106.69688186668084
+  type: way
+  amenity_type: school
+- id: 499250311
+  name: SD Negeri Semanan 01 Pagi, 02 Petang, 03 Pagi, 07 Petang
+  alt_name: []
+  latitude: -6.159573295547575
+  longitude: 106.70531519697953
+  type: way
+  amenity_type: school
+- id: 499250330
+  name: Yayasan Islam Miftahul Mu'in Cahaya TK, SDS, MD
+  alt_name: []
+  latitude: -6.171161123591519
+  longitude: 106.70754555427344
+  type: way
+  amenity_type: school
+- id: 499250331
+  name: SD Negeri Semanan 06 Pagi
+  alt_name: []
+  latitude: -6.169945970988351
+  longitude: 106.70739104636058
+  type: way
+  amenity_type: school
+- id: 499250340
+  name: Sekolah Kristen Tiara Kasih
+  alt_name: []
+  latitude: -6.16536820082075
+  longitude: 106.7115784376274
+  type: way
+  amenity_type: school
+- id: 499250373
+  name: SMA dan SMK Setia Gama
+  alt_name: []
+  latitude: -6.1692822106139875
+  longitude: 106.70770367206514
+  type: way
+  amenity_type: school
+- id: 499250396
+  name: SMA Negeri 94 Jakarta
+  alt_name: []
+  latitude: -6.167550316986722
+  longitude: 106.70223192831867
+  type: way
+  amenity_type: school
+- id: 499250403
+  name: SD-SMP Taruna Bangsa
+  alt_name: []
+  latitude: -6.171142725015517
+  longitude: 106.70072635294305
+  type: way
+  amenity_type: school
+- id: 499250431
+  name: MTs Negeri 40 Jakarta
+  alt_name: []
+  latitude: -6.175278935747365
+  longitude: 106.70204703129987
+  type: way
+  amenity_type: school
+- id: 499769131
+  name: SMP-SMK YMIK Joglo
+  alt_name: []
+  latitude: -6.217448480682936
+  longitude: 106.73350444315612
+  type: way
+  amenity_type: school
+- id: 499777996
+  name: SMP - SMK Era Pembangunan 3
+  alt_name: []
+  latitude: -6.1696206734963335
+  longitude: 106.6924412763413
+  type: way
+  amenity_type: school
+- id: 499778029
+  name: SD Ash-Shomadiyah
+  alt_name: []
+  latitude: -6.160574494024177
+  longitude: 106.69229296147441
+  type: way
+  amenity_type: school
+- id: 499778039
+  name: SDIT-SMPIT Daarun Na'iim
+  alt_name: []
+  latitude: -6.159116835821147
+  longitude: 106.7044774338486
+  type: way
+  amenity_type: school
+- id: 499778046
+  name: SMK Kebudayaan Jakarta
+  alt_name: []
+  latitude: -6.165159156770105
+  longitude: 106.7026488065863
+  type: way
+  amenity_type: school
+- id: 499781047
+  name: SMP Al Bayan Islamic School
+  alt_name: []
+  latitude: -6.224066486367041
+  longitude: 106.72815276712552
+  type: way
+  amenity_type: school
+- id: 499781049
+  name: Yayasan Abdi Karya (Yadika) - SMP & SMA Yadika 5 Joglo
+  alt_name: []
+  latitude: -6.222991844544357
+  longitude: 106.72055464289352
+  type: way
+  amenity_type: school
+- id: 499781068
+  name: SD Negeri Joglo 08 Pagi
+  alt_name: []
+  latitude: -6.216492717709165
+  longitude: 106.72444738097404
+  type: way
+  amenity_type: school
+- id: 499781071
+  name: SD Negeri Joglo 10 Pagi
+  alt_name: []
+  latitude: -6.218052668260341
+  longitude: 106.72764881082428
+  type: way
+  amenity_type: school
+- id: 499781073
+  name: MTs Negeri 27 Jakarta
+  alt_name: []
+  latitude: -6.22087274659214
+  longitude: 106.7181859475174
+  type: way
+  amenity_type: school
+- id: 499781077
+  name: SD Negeri Joglo 09
+  alt_name: []
+  latitude: -6.21913648650908
+  longitude: 106.71928342599598
+  type: way
+  amenity_type: school
+- id: 499781082
+  name: SMA Negeri 101 Jakarta
+  alt_name: []
+  latitude: -6.21797848675704
+  longitude: 106.7199604847171
+  type: way
+  amenity_type: school
+- id: 499781085
+  name: MAN 10 Jakarta
+  alt_name: []
+  latitude: -6.216934166700709
+  longitude: 106.72102532414145
+  type: way
+  amenity_type: school
+- id: 499781090
+  name: SD Negeri Joglo 01,02,03 dan 04
+  alt_name: []
+  latitude: -6.221395883054853
+  longitude: 106.73183263925861
+  type: way
+  amenity_type: school
+- id: 499781091
+  name: SD Negeri 03 Pagi & 04 Petang
+  alt_name: []
+  latitude: -6.221771849999999
+  longitude: 106.7318317
+  type: way
+  amenity_type: school
+- id: 499781153
+  name: SD Swasta Jakarta Islamic School
+  alt_name: []
+  latitude: -6.223271269371173
+  longitude: 106.72252017384766
+  type: way
+  amenity_type: school
+- id: 499793958
+  name: SD Negeri Joglo 05 Pagi & 07 Petang
+  alt_name: []
+  latitude: -6.22159405257759
+  longitude: 106.73156077090056
+  type: way
+  amenity_type: school
+- id: 499793963
+  name: SD Al Irsyad
+  alt_name: []
+  latitude: -6.222370754180174
+  longitude: 106.73202957541447
+  type: way
+  amenity_type: school
+- id: 499805077
+  name: MI Al Amanah
+  alt_name: []
+  latitude: -6.222032544430316
+  longitude: 106.74098959029403
+  type: way
+  amenity_type: school
+- id: 499819151
+  name: SMP Negeri 207 Jakarta
+  alt_name: []
+  latitude: -6.199282788103594
+  longitude: 106.75139917606252
+  type: way
+  amenity_type: school
+- id: 499839535
+  name: SD Negeri Sukabumi Selatan 01 03 Pagi
+  alt_name: []
+  latitude: -6.218245849999999
+  longitude: 106.76954415
+  type: way
+  amenity_type: school
+- id: 499839546
+  name: MA Aliyah Al Falah
+  alt_name: []
+  latitude: -6.224708034163697
+  longitude: 106.76746493238095
+  type: way
+  amenity_type: school
+- id: 499839602
+  name: TK SD SMP Kristen Lemuel
+  alt_name: []
+  latitude: -6.218094699217942
+  longitude: 106.76620142163132
+  type: way
+  amenity_type: school
+- id: 499839605
+  name: SD Salam Al Falah I PG/PT
+  alt_name: []
+  latitude: -6.226421994353239
+  longitude: 106.77227456451631
+  type: way
+  amenity_type: school
+- id: 500063981
+  name: TK-SD-SMP-SMK Cindera Mata Indah
+  alt_name: []
+  latitude: -6.1557244298028975
+  longitude: 106.80501072975422
+  type: way
+  amenity_type: school
+- id: 500297135
+  name: Yayasan Safa Marwah
+  alt_name: []
+  latitude: -6.1998117255388845
+  longitude: 106.75927663523248
+  type: way
+  amenity_type: school
+- id: 500299499
+  name: SD Negeri Srengseng 01 Pagi & 02 Petang
+  alt_name: []
+  latitude: -6.214946866984857
+  longitude: 106.75945519765467
+  type: way
+  amenity_type: school
+- id: 500302977
+  name: SD Negeri Srengseng 04 Pagi
+  alt_name: []
+  latitude: -6.215142078822664
+  longitude: 106.75957054012243
+  type: way
+  amenity_type: school
+- id: 500302993
+  name: SD Negeri Joglo 06 Pagi
+  alt_name: []
+  latitude: -6.214040239075132
+  longitude: 106.75509403029493
+  type: way
+  amenity_type: school
+- id: 500304811
+  name: SMP Islam Plus Az Zahra
+  alt_name: []
+  latitude: -6.201663430869516
+  longitude: 106.7593847136403
+  type: way
+  amenity_type: school
+- id: 500308146
+  name: Yayasan Bina Insan Mandiri (SD, SMP & SMK)
+  alt_name: []
+  latitude: -6.199156360904617
+  longitude: 106.757942458941
+  type: way
+  amenity_type: school
+- id: 500311816
+  name: SMA Negeri 85 Jakarta
+  alt_name: []
+  latitude: -6.215151557374398
+  longitude: 106.75875218605249
+  type: way
+  amenity_type: school
+- id: 500346198
+  name: HighScope Indonesia
+  alt_name: []
+  latitude: -6.219851368000633
+  longitude: 106.7516968008928
+  type: way
+  amenity_type: school
+- id: 500361698
+  name: SD Islam Terpadu Citra Az Zahra
+  alt_name: []
+  latitude: -6.220368618203288
+  longitude: 106.75698786442453
+  type: way
+  amenity_type: school
+- id: 500361700
+  name: Yayasan Miftahul Falah (TK,SD,SMP & SMK)
+  alt_name: []
+  latitude: -6.2195381167915125
+  longitude: 106.76019000933276
+  type: way
+  amenity_type: school
+- id: 500361701
+  name: National High Jakarta School
+  alt_name: []
+  latitude: -6.217751738922777
+  longitude: 106.76405534188542
+  type: way
+  amenity_type: school
+- id: 500577006
+  name: MI Al Islamiyah
+  alt_name: []
+  latitude: -6.225020765702918
+  longitude: 106.77747024787254
+  type: way
+  amenity_type: school
+- id: 500577010
+  name: SD Negeri 07 Pagi Sukabumi Selatan
+  alt_name: []
+  latitude: -6.217521050877758
+  longitude: 106.77416803561101
+  type: way
+  amenity_type: school
+- id: 500577011
+  name: SD Negeri Sukabumi Selatan
+  alt_name: []
+  latitude: -6.223503269033519
+  longitude: 106.77463816322636
+  type: way
+  amenity_type: school
+- id: 500577012
+  name: SMK Negeri 45 Jakarta
+  alt_name: []
+  latitude: -6.224040524881433
+  longitude: 106.77466164427456
+  type: way
+  amenity_type: school
+- id: 500579508
+  name: SDI Al-Falah II Pagi & SDI Al-Falah III Petang
+  alt_name: []
+  latitude: -6.216559057434968
+  longitude: 106.77595599277952
+  type: way
+  amenity_type: school
+- id: 500647757
+  name: SDIT/SMPIT/SMAIT Almaka
+  alt_name: []
+  latitude: -6.155166272540497
+  longitude: 106.70296929670249
+  type: way
+  amenity_type: school
+- id: 500647796
+  name: SMA Negeri 84 Jakarta
+  alt_name: []
+  latitude: -6.145406661879475
+  longitude: 106.70437601255813
+  type: way
+  amenity_type: school
+- id: 500647799
+  name: SD Negeri Kalideres 09-10 Pagi
+  alt_name: []
+  latitude: -6.1545262544215635
+  longitude: 106.71232553722669
+  type: way
+  amenity_type: school
+- id: 500647807
+  name: SMK Jakarta 1
+  alt_name: []
+  latitude: -6.1472604920112675
+  longitude: 106.70309849245199
+  type: way
+  amenity_type: school
+- id: 500647856
+  name: SD Negeri Kalideres 07 Pagi
+  alt_name: []
+  latitude: -6.148728504459731
+  longitude: 106.70308775892953
+  type: way
+  amenity_type: school
+- id: 500647874
+  name: SD Negeri Kalideres 01 Pagi, 02 Petang, 03 Pagi, 04 Petang
+  alt_name: []
+  latitude: -6.15429912680504
+  longitude: 106.70412964170495
+  type: way
+  amenity_type: school
+- id: 500647881
+  name: RA & MI Tammas, SMP Terpadu & SMK Syanggit Cendekia
+  alt_name: []
+  latitude: -6.152664705295532
+  longitude: 106.70522759258928
+  type: way
+  amenity_type: school
+- id: 500647882
+  name: SD Muslimat
+  alt_name: []
+  latitude: -6.152406370696083
+  longitude: 106.70558572042829
+  type: way
+  amenity_type: school
+- id: 500647898
+  name: SMK Cengkareng
+  alt_name: []
+  latitude: -6.1549883900294455
+  longitude: 106.70280921902427
+  type: way
+  amenity_type: school
+- id: 500648005
+  name: SMP Plus Putra Indonesia dan SMK Jaya Raya 1 Jakarta
+  alt_name: []
+  latitude: -6.152342149650328
+  longitude: 106.71708212330235
+  type: way
+  amenity_type: school
+- id: 500648075
+  name: SD Negeri Kalideres 12 Pagi
+  alt_name: []
+  latitude: -6.145766932669326
+  longitude: 106.70455436183002
+  type: way
+  amenity_type: school
+- id: 500648082
+  name: Sekolah Kristen IPEKA
+  alt_name: []
+  latitude: -6.152993545628742
+  longitude: 106.71505411626228
+  type: way
+  amenity_type: school
+- id: 500826201
+  name: Madrasah Ibtidaiyah Manba'ul Chairat I
+  alt_name: []
+  latitude: -6.151137126226086
+  longitude: 106.80390339093076
+  type: way
+  amenity_type: school
+- id: 500871968
+  name: MI Darul Muqinin
+  alt_name: []
+  latitude: -6.209321786351303
+  longitude: 106.7744826867412
+  type: way
+  amenity_type: school
+- id: 500872052
+  name: Yayasan Perguruan Islam Al Fkhriyah
+  alt_name: []
+  latitude: -6.2139622946428466
+  longitude: 106.77508748422395
+  type: way
+  amenity_type: school
+- id: 500876632
+  name: SD - SMP - SLB Bina Kamil
+  alt_name: []
+  latitude: -6.147121299999999
+  longitude: 106.6904022
+  type: way
+  amenity_type: school
+- id: 500876637
+  name: SD Negeri Kalideres 05 Pagi
+  alt_name: []
+  latitude: -6.142949231939209
+  longitude: 106.69298330621717
+  type: way
+  amenity_type: school
+- id: 500876711
+  name: KB - TK - SD Harapan Mulia
+  alt_name: []
+  latitude: -6.156188715930459
+  longitude: 106.6976879208797
+  type: way
+  amenity_type: school
+- id: 500876865
+  name: SMP-SMA Bina Kusuma
+  alt_name: []
+  latitude: -6.14407223299645
+  longitude: 106.69534534577788
+  type: way
+  amenity_type: school
+- id: 500876871
+  name: SD Bina Kusuma
+  alt_name: []
+  latitude: -6.145577085588632
+  longitude: 106.69479843823122
+  type: way
+  amenity_type: school
+- id: 500876934
+  name: SMP Negeri 186 Jakarta Barat
+  alt_name: []
+  latitude: -6.1344080322204375
+  longitude: 106.690871426929
+  type: way
+  amenity_type: school
+- id: 500876976
+  name: Sekolah San Marino
+  alt_name: []
+  latitude: -6.150382712728745
+  longitude: 106.69376105280756
+  type: way
+  amenity_type: school
+- id: 500913131
+  name: SD Kartika X-5
+  alt_name: []
+  latitude: -6.157257132936696
+  longitude: 106.69708960732238
+  type: way
+  amenity_type: school
+- id: 500913132
+  name: SMP & SMK Insan Cita
+  alt_name: []
+  latitude: -6.151893841548932
+  longitude: 106.68867675852374
+  type: way
+  amenity_type: school
+- id: 500913139
+  name: KB/TK/SDIT Baiturrahman Citra
+  alt_name: []
+  latitude: -6.148730245256295
+  longitude: 106.69692035342403
+  type: way
+  amenity_type: school
+- id: 500913264
+  name: MI Al Falah
+  alt_name: []
+  latitude: -6.1523027
+  longitude: 106.6908604
+  type: way
+  amenity_type: school
+- id: 500913292
+  name: SMP & SMK Kartika
+  alt_name: []
+  latitude: -6.156048149999999
+  longitude: 106.69836275
+  type: way
+  amenity_type: school
+- id: 500913300
+  name: SMP & SMK Kartika
+  alt_name: []
+  latitude: -6.156183365929956
+  longitude: 106.69811196478165
+  type: way
+  amenity_type: school
+- id: 500913317
+  name: SMP Negeri 225 Jakarta
+  alt_name: []
+  latitude: -6.152208244710912
+  longitude: 106.69147090194659
+  type: way
+  amenity_type: school
+- id: 501533734
+  name: MTs Negeri 12 Jakarta
+  alt_name: []
+  latitude: -6.204634640529925
+  longitude: 106.77481692296992
+  type: way
+  amenity_type: school
+- id: 501533739
+  name: SD Negeri 03 Pagi Sukabumi Utara
+  alt_name: []
+  latitude: -6.2035169913505115
+  longitude: 106.77437962554734
+  type: way
+  amenity_type: school
+- id: 501533740
+  name: SD Negeri 07 Sukabumi Utara
+  alt_name: []
+  latitude: -6.2055881019446195
+  longitude: 106.78174875642786
+  type: way
+  amenity_type: school
+- id: 501533741
+  name: SD Negeri 09 Sukabumi Utara
+  alt_name: []
+  latitude: -6.207279199999999
+  longitude: 106.7810887
+  type: way
+  amenity_type: school
+- id: 501533746
+  name: SD Negeri Sukabumi Utara 04
+  alt_name: []
+  latitude: -6.206917100000001
+  longitude: 106.77249465
+  type: way
+  amenity_type: school
+- id: 501533750
+  name: SD Negeri Sukabumi Utara 05 Pagi - 06 Pagi
+  alt_name: []
+  latitude: -6.203231176535277
+  longitude: 106.78006487773797
+  type: way
+  amenity_type: school
+- id: 501533751
+  name: SMP-SMK Kebon Jeruk
+  alt_name: []
+  latitude: -6.204980582152337
+  longitude: 106.77421474470991
+  type: way
+  amenity_type: school
+- id: 501533753
+  name: TK SDI SMP PKBM Al Hasanah
+  alt_name: []
+  latitude: -6.205820855419292
+  longitude: 106.77602030690043
+  type: way
+  amenity_type: school
+- id: 502042401
+  name: MI Nurul Mustofa
+  alt_name: []
+  latitude: -6.113806652860944
+  longitude: 106.69817013539358
+  type: way
+  amenity_type: school
+- id: 502043136
+  name: MI Sullamun Najah
+  alt_name: []
+  latitude: -6.115372180592154
+  longitude: 106.691476519528
+  type: way
+  amenity_type: school
+- id: 502043625
+  name: Yayasan Akklecia Mahkota KB - TK - SD
+  alt_name: []
+  latitude: -6.117694950000001
+  longitude: 106.68751895000001
+  type: way
+  amenity_type: school
+- id: 502096938
+  name: MI dan SMP Ar-Rohman
+  alt_name: []
+  latitude: -6.107135630375316
+  longitude: 106.6981896088861
+  type: way
+  amenity_type: school
+- id: 502250024
+  name: Madrasah Ibtidaiyah Najmul
+  alt_name: []
+  latitude: -6.10386615
+  longitude: 106.6913189
+  type: way
+  amenity_type: school
+- id: 502250109
+  name: MTs Negeri 37 Jakarta
+  alt_name: []
+  latitude: -6.097845473425078
+  longitude: 106.7031290073738
+  type: way
+  amenity_type: school
+- id: 502250115
+  name: SD Mentari
+  alt_name: []
+  latitude: -6.098133260710414
+  longitude: 106.70309850683363
+  type: way
+  amenity_type: school
+- id: 502250130
+  name: SMP Negeri 224 Jakarta
+  alt_name: []
+  latitude: -6.097270732809808
+  longitude: 106.70129720177343
+  type: way
+  amenity_type: school
+- id: 502250139
+  name: SD Negeri Kamal 09 Pagi
+  alt_name: []
+  latitude: -6.096606270609367
+  longitude: 106.69399236579706
+  type: way
+  amenity_type: school
+- id: 502250177
+  name: MI dan MTS Al-Gaotsiyah Kamal
+  alt_name: []
+  latitude: -6.103143853251134
+  longitude: 106.71053052446851
+  type: way
+  amenity_type: school
+- id: 502250221
+  name: Madrasah Ibtidaiyah Al-Abbasiyah
+  alt_name: []
+  latitude: -6.101111836645483
+  longitude: 106.70648795291949
+  type: way
+  amenity_type: school
+- id: 502250314
+  name: SD Negeri Kamal 01 Pagi dan 08 Petang
+  alt_name: []
+  latitude: -6.099839683257802
+  longitude: 106.704044027967
+  type: way
+  amenity_type: school
+- id: 502327664
+  name: MI Negeri 1 Jakarta
+  alt_name: []
+  latitude: -6.111293137722465
+  longitude: 106.70177118016696
+  type: way
+  amenity_type: school
+- id: 502327668
+  name: MI - MTS Amanatul Muslimin, SMP - SMA Putra Negara, SMK Patriot Nusantara
+  alt_name: []
+  latitude: -6.105212550000001
+  longitude: 106.70050160000001
+  type: way
+  amenity_type: school
+- id: 502327686
+  name: SD Negeri Benda dan SD Negeri Rawa Bokor
+  alt_name: []
+  latitude: -6.1226497710950145
+  longitude: 106.68711843892146
+  type: way
+  amenity_type: school
+- id: 502327708
+  name: SD Asih Mulia
+  alt_name: []
+  latitude: -6.109929832754627
+  longitude: 106.70299469839757
+  type: way
+  amenity_type: school
+- id: 502327711
+  name: SMA Negeri 95 Jakarta
+  alt_name: []
+  latitude: -6.126070011210433
+  longitude: 106.70341143606014
+  type: way
+  amenity_type: school
+- id: 502327837
+  name: Yayasan Padindi SD-SMP-SMA-SMK
+  alt_name: []
+  latitude: -6.116328165049366
+  longitude: 106.70716175042286
+  type: way
+  amenity_type: school
+- id: 502327894
+  name: SMP Negeri 190 Jakarta
+  alt_name: []
+  latitude: -6.1084999945411695
+  longitude: 106.70264458746614
+  type: way
+  amenity_type: school
+- id: 502328005
+  name: SD Negeri Kamal 07 Pagi & 10 Petang
+  alt_name: []
+  latitude: -6.108711821003968
+  longitude: 106.70273387963874
+  type: way
+  amenity_type: school
+- id: 502550483
+  name: Yayasan Iman Pengharapan dan Kasih
+  alt_name: []
+  latitude: -6.186548271647656
+  longitude: 106.75028452366428
+  type: way
+  amenity_type: school
+- id: 505431066
+  name: SD Negeri 13 14 09 Pagi Duri Kepa
+  alt_name: []
+  latitude: -6.17926260348809
+  longitude: 106.77217053730047
+  type: way
+  amenity_type: school
+- id: 505708596
+  name: Yayasan Pendidikan Umum Dewi Sartika
+  alt_name: []
+  latitude: -6.167666182434522
+  longitude: 106.77547629999313
+  type: way
+  amenity_type: school
+- id: 505721701
+  name: SD Negeri Meruya Utara 08 Pagi & 11 Petang
+  alt_name: []
+  latitude: -6.203633502934895
+  longitude: 106.73813030912206
+  type: way
+  amenity_type: school
+- id: 505772460
+  name: SD Negeri Kelapa Dua 03/04
+  alt_name: []
+  latitude: -6.214294737382857
+  longitude: 106.77178785904142
+  type: way
+  amenity_type: school
+- id: 505801323
+  name: Yayasan Harapan Bangsa
+  alt_name: []
+  latitude: -6.1713268999999995
+  longitude: 106.7730411
+  type: way
+  amenity_type: school
+- id: 506322565
+  name: SD Negeri 13 dan 14
+  alt_name: []
+  latitude: -6.205764252316655
+  longitude: 106.7912863286444
+  type: way
+  amenity_type: school
+- id: 506322566
+  name: SMP Negeri 61 Jakarta
+  alt_name: []
+  latitude: -6.191864446819581
+  longitude: 106.80005669292319
+  type: way
+  amenity_type: school
+- id: 506378998
+  name: TKA TPA MI Raudhatul Rataayah
+  alt_name: []
+  latitude: -6.17221
+  longitude: 106.80426240000001
+  type: way
+  amenity_type: school
+- id: 506629872
+  name: SMK Informatika Kaffah Unggul 2
+  alt_name: []
+  latitude: -6.151610311273874
+  longitude: 106.79588517971658
+  type: way
+  amenity_type: school
+- id: 506629883
+  name: Perhimpunan Sosial Candra Naya (TK-SD-SMP-SMA-SMK Farmasi)
+  alt_name: []
+  latitude: -6.149939788978729
+  longitude: 106.79767765861061
+  type: way
+  amenity_type: school
+- id: 507171004
+  name: SD Negeri 03 Pagi & 04 Petang
+  alt_name: []
+  latitude: -6.194356533130857
+  longitude: 106.75635639799209
+  type: way
+  amenity_type: school
+- id: 507229064
+  name: Sekolah Mahabodhi Vidya
+  alt_name: []
+  latitude: -6.129858770673615
+  longitude: 106.70781214085268
+  type: way
+  amenity_type: school
+- id: 507229066
+  name: Sudin Pendidikan Menengah PMBM Negeri 19 Pegadungan
+  alt_name: []
+  latitude: -6.138855423923706
+  longitude: 106.70292312519798
+  type: way
+  amenity_type: school
+- id: 507229200
+  name: SD - SMP - SMA Djuwita
+  alt_name: []
+  latitude: -6.138484129634438
+  longitude: 106.69997161012961
+  type: way
+  amenity_type: school
+- id: 507229210
+  name: SD Negeri Pegadungan 03 Pagi
+  alt_name: []
+  latitude: -6.139079859085004
+  longitude: 106.70278808160343
+  type: way
+  amenity_type: school
+- id: 507229211
+  name: SMK Al Firdaus
+  alt_name: []
+  latitude: -6.1397320222118585
+  longitude: 106.70213385671485
+  type: way
+  amenity_type: school
+- id: 507229217
+  name: SD Negeri Pegadungan 05 Pagi
+  alt_name: []
+  latitude: -6.139801506991552
+  longitude: 106.70098921027171
+  type: way
+  amenity_type: school
+- id: 507229228
+  name: SMK PGRI 5 Jakarta
+  alt_name: []
+  latitude: -6.140397045550839
+  longitude: 106.69579473400042
+  type: way
+  amenity_type: school
+- id: 507229255
+  name: Yayasan Fajrul Islam
+  alt_name: []
+  latitude: -6.130215315029257
+  longitude: 106.69629157121253
+  type: way
+  amenity_type: school
+- id: 507229256
+  name: SMP, SMA, SMK Fajrul Islam
+  alt_name: []
+  latitude: -6.129276097535755
+  longitude: 106.69529139495114
+  type: way
+  amenity_type: school
+- id: 507229257
+  name: Ananda Islamic School
+  alt_name: []
+  latitude: -6.132283601411041
+  longitude: 106.69114798620681
+  type: way
+  amenity_type: school
+- id: 507229263
+  name: Yayasan Nurul Jannah Al-Islamiyyah
+  alt_name: []
+  latitude: -6.127259901272858
+  longitude: 106.6951558879689
+  type: way
+  amenity_type: school
+- id: 507229276
+  name: SD Negeri Pegadungan 11 Pagi
+  alt_name: []
+  latitude: -6.1435563255368715
+  longitude: 106.70195147096061
+  type: way
+  amenity_type: school
+- id: 507229277
+  name: SMP Negeri 169 Jakarta
+  alt_name: []
+  latitude: -6.143193442315381
+  longitude: 106.70200002020087
+  type: way
+  amenity_type: school
+- id: 507229279
+  name: SD Negeri Pegadungan 12 Pagi
+  alt_name: []
+  latitude: -6.141300230636905
+  longitude: 106.6964418895289
+  type: way
+  amenity_type: school
+- id: 507229280
+  name: SMK PGRI 24 Jakarta
+  alt_name: []
+  latitude: -6.1428281939024405
+  longitude: 106.70284742901447
+  type: way
+  amenity_type: school
+- id: 507229282
+  name: MI, MTs, MA Da'il Khairaat
+  alt_name: []
+  latitude: -6.142643008905096
+  longitude: 106.6969171581484
+  type: way
+  amenity_type: school
+- id: 507229283
+  name: SD Negeri Pegadungan 01 Pagi dan 08 Petang
+  alt_name: []
+  latitude: -6.142275289957622
+  longitude: 106.69593071366958
+  type: way
+  amenity_type: school
+- id: 507229295
+  name: SMK PGRI 36 Jakarta
+  alt_name: []
+  latitude: -6.141200118761517
+  longitude: 106.70520924858114
+  type: way
+  amenity_type: school
+- id: 507486730
+  name: Mts. Sirojul Huda
+  alt_name: []
+  latitude: -6.146561175062644
+  longitude: 106.71525898358753
+  type: way
+  amenity_type: school
+- id: 507486734
+  name: Sekolah Mentari
+  alt_name: []
+  latitude: -6.135034157063032
+  longitude: 106.70546604102786
+  type: way
+  amenity_type: school
+- id: 507486771
+  name: SD Negeri 13 & 14 Pagi Pegadungan
+  alt_name: []
+  latitude: -6.14426276610497
+  longitude: 106.71371259699664
+  type: way
+  amenity_type: school
+- id: 507486788
+  name: SD Negeri Pegadungan 02 & 04 Pagi
+  alt_name: []
+  latitude: -6.129059402718569
+  longitude: 106.70538863992876
+  type: way
+  amenity_type: school
+- id: 507486795
+  name: KB - TK - SD Bina Kusuma
+  alt_name: []
+  latitude: -6.1349273
+  longitude: 106.7003567
+  type: way
+  amenity_type: school
+- id: 507486818
+  name: KIS School
+  alt_name: []
+  latitude: -6.136875251622533
+  longitude: 106.70693369357701
+  type: way
+  amenity_type: school
+- id: 507486821
+  name: MI & SMP Miftahusaadah
+  alt_name: []
+  latitude: -6.136722800840931
+  longitude: 106.71447224522475
+  type: way
+  amenity_type: school
+- id: 507486844
+  name: MI, Mts Safinatul Husna & SMK Putra Nusantara
+  alt_name: []
+  latitude: -6.1394975137294825
+  longitude: 106.71589587719663
+  type: way
+  amenity_type: school
+- id: 507486864
+  name: Global Montessori School
+  alt_name: []
+  latitude: -6.13415915
+  longitude: 106.69978385
+  type: way
+  amenity_type: school
+- id: 508064938
+  name: Bina Bangsa School
+  alt_name: []
+  latitude: -6.1861908129388254
+  longitude: 106.78129771171149
+  type: way
+  amenity_type: school
+- id: 508064939
+  name: Bina Bangsa School (Pre and Primary School)
+  alt_name: []
+  latitude: -6.188390764015919
+  longitude: 106.78098862990583
+  type: way
+  amenity_type: school
+- id: 508065032
+  name: PG-TK-SD Islam Darul Athfal
+  alt_name: []
+  latitude: -6.20137975
+  longitude: 106.77670459999999
+  type: way
+  amenity_type: school
+- id: 508065034
+  name: SD MKGR
+  alt_name: []
+  latitude: -6.19872126534251
+  longitude: 106.77751866746274
+  type: way
+  amenity_type: school
+- id: 508065035
+  name: SD Negeri Kebon Jeruk 15 Pagi
+  alt_name: []
+  latitude: -6.2023290831797695
+  longitude: 106.7759127442713
+  type: way
+  amenity_type: school
+- id: 508065036
+  name: SD Negeri Kebon Jeruk 17 Pagi & 18 Pagi
+  alt_name: []
+  latitude: -6.187480124881825
+  longitude: 106.77968721518292
+  type: way
+  amenity_type: school
+- id: 508065037
+  name: SD Negeri Kebon Jeruk 4
+  alt_name: []
+  latitude: -6.195517524753355
+  longitude: 106.77649015575003
+  type: way
+  amenity_type: school
+- id: 508065038
+  name: SMK Wiyata Satya
+  alt_name: []
+  latitude: -6.1946831524156325
+  longitude: 106.77973874704695
+  type: way
+  amenity_type: school
+- id: 508065039
+  name: SMP Negeri 127 Jakarta
+  alt_name: []
+  latitude: -6.198218
+  longitude: 106.77843840000001
+  type: way
+  amenity_type: school
+- id: 508065040
+  name: SMP PGRI 26
+  alt_name: []
+  latitude: -6.194421322275446
+  longitude: 106.77593958096254
+  type: way
+  amenity_type: school
+- id: 508065043
+  name: Sekolah Tarsisius II
+  alt_name: []
+  latitude: -6.19963257047894
+  longitude: 106.781904886268
+  type: way
+  amenity_type: school
+- id: 508065044
+  name: Yayasan Karya Sang Timur Indonesia
+  alt_name: []
+  latitude: -6.189974032124849
+  longitude: 106.77992147666565
+  type: way
+  amenity_type: school
+- id: 508065046
+  name: Yayasan Ishlah Al Hasany
+  alt_name: []
+  latitude: -6.190981118588451
+  longitude: 106.77529819931918
+  type: way
+  amenity_type: school
+- id: 508079384
+  name: Sekolah Citra Kasih
+  alt_name: []
+  latitude: -6.12231365
+  longitude: 106.7036369
+  type: way
+  amenity_type: school
+- id: 508079387
+  name: Dian Kasih School
+  alt_name: []
+  latitude: -6.123204089631726
+  longitude: 106.70330546674673
+  type: way
+  amenity_type: school
+- id: 508079392
+  name: Pelita Bangsa School
+  alt_name: []
+  latitude: -6.1197142543071195
+  longitude: 106.70134362344356
+  type: way
+  amenity_type: school
+- id: 508079504
+  name: Kairos Gracia School
+  alt_name: []
+  latitude: -6.1432085999999995
+  longitude: 106.7170873
+  type: way
+  amenity_type: school
+- id: 508079509
+  name: Sekolah Katolik St. Kristoforus II
+  alt_name: []
+  latitude: -6.1426820153080595
+  longitude: 106.71284295514843
+  type: way
+  amenity_type: school
+- id: 508079510
+  name: SD - SLTP Kemurnian III
+  alt_name: []
+  latitude: -6.1371252022030305
+  longitude: 106.70410144439438
+  type: way
+  amenity_type: school
+- id: 508109503
+  name: SD Negeri Kebon Jeruk 11
+  alt_name: []
+  latitude: -6.198628046881052
+  longitude: 106.77164046477442
+  type: way
+  amenity_type: school
+- id: 508109529
+  name: SMA Negeri 65 Jakarta
+  alt_name: []
+  latitude: -6.200831616815835
+  longitude: 106.76873692679342
+  type: way
+  amenity_type: school
+- id: 508109568
+  name: SD Negeri Kebon Jeruk 02
+  alt_name: []
+  latitude: -6.193556413416302
+  longitude: 106.77130409966026
+  type: way
+  amenity_type: school
+- id: 508109630
+  name: Yayasan Nahjul Huda
+  alt_name: []
+  latitude: -6.200215371601294
+  longitude: 106.76386971390832
+  type: way
+  amenity_type: school
+- id: 508130706
+  name: SD Negeri Kelapa Dua 01 Pagi
+  alt_name: []
+  latitude: -6.207247932004888
+  longitude: 106.7689632647578
+  type: way
+  amenity_type: school
+- id: 508130707
+  name: SD Negeri Kelapa Dua 05 Pagi
+  alt_name: []
+  latitude: -6.207884205550142
+  longitude: 106.76557331431187
+  type: way
+  amenity_type: school
+- id: 508130708
+  name: SMP Negeri 189 Jakarta
+  alt_name: []
+  latitude: -6.207171711174874
+  longitude: 106.76820747960338
+  type: way
+  amenity_type: school
+- id: 508130709
+  name: SMP-SMK Kevin Jesus
+  alt_name: []
+  latitude: -6.20323327550978
+  longitude: 106.76860103962404
+  type: way
+  amenity_type: school
+- id: 508137837
+  name: SD - SMP - SMA Galatia 3
+  alt_name: []
+  latitude: -6.140922430357664
+  longitude: 106.71668152111009
+  type: way
+  amenity_type: school
+- id: 508137841
+  name: Madrasah As-Salafiah
+  alt_name: []
+  latitude: -6.133159369068748
+  longitude: 106.70973864352118
+  type: way
+  amenity_type: school
+- id: 508137854
+  name: SD Kristen Kasih Kemuliaan
+  alt_name: []
+  latitude: -6.138839080460311
+  longitude: 106.7135019582317
+  type: way
+  amenity_type: school
+- id: 508137855
+  name: SMP - SMA Kristen Kasih Kemuliaan
+  alt_name: []
+  latitude: -6.139039385533814
+  longitude: 106.71383205216242
+  type: way
+  amenity_type: school
+- id: 508323025
+  name: Sekolah Suci Hati
+  alt_name: []
+  latitude: -6.139813949581383
+  longitude: 106.8164151808761
+  type: way
+  amenity_type: school
+- id: 508430718
+  name: SMP Kristen Samaria Tomang
+  alt_name: []
+  latitude: -6.171762583570679
+  longitude: 106.80186060088968
+  type: way
+  amenity_type: school
+- id: 508663639
+  name: SMA Yadika 1 Duri Kepa
+  alt_name: []
+  latitude: -6.179208500000001
+  longitude: 106.76810479999999
+  type: way
+  amenity_type: school
+- id: 508663642
+  name: Yayasan Pendidikan Jakarta Kedoya
+  alt_name: []
+  latitude: -6.175240099999999
+  longitude: 106.75726164999999
+  type: way
+  amenity_type: school
+- id: 508663643
+  name: Yayasan Pendidikan Jakarta Kedoya
+  alt_name: []
+  latitude: -6.176588550000001
+  longitude: 106.75701435
+  type: way
+  amenity_type: school
+- id: 508768842
+  name: Yayasan Al Mubarak
+  alt_name: []
+  latitude: -6.221776473778113
+  longitude: 106.72903585570565
+  type: way
+  amenity_type: school
+- id: 508955236
+  name: SMP - SMK Citra Utama
+  alt_name: []
+  latitude: -6.112688038706765
+  longitude: 106.71288457253523
+  type: way
+  amenity_type: school
+- id: 508955403
+  name: Yayasan Abdi Karya
+  alt_name: []
+  latitude: -6.122375623314389
+  longitude: 106.72314636497164
+  type: way
+  amenity_type: school
+- id: 508955407
+  name: SMP Islam Al-Qomar
+  alt_name: []
+  latitude: -6.1253050131088145
+  longitude: 106.72321413706341
+  type: way
+  amenity_type: school
+- id: 508955414
+  name: SMA Negeri 56 Jakarta
+  alt_name: []
+  latitude: -6.119738167528751
+  longitude: 106.72044055363256
+  type: way
+  amenity_type: school
+- id: 508955418
+  name: PKBM 20 Tegal Alur
+  alt_name: []
+  latitude: -6.11822305
+  longitude: 106.71859635
+  type: way
+  amenity_type: school
+- id: 508955422
+  name: SD Negeri Tegal Alur 10 Pagi, 14 Petang
+  alt_name: []
+  latitude: -6.115480656672226
+  longitude: 106.72455575775537
+  type: way
+  amenity_type: school
+- id: 508955424
+  name: MI, SMP, SMK Al-Mu'min
+  alt_name: []
+  latitude: -6.113335085208851
+  longitude: 106.72236680241517
+  type: way
+  amenity_type: school
+- id: 508955430
+  name: SD Negeri Tegal Alur 01 Pagi, 19 Petang
+  alt_name: []
+  latitude: -6.104535235327191
+  longitude: 106.71057245985273
+  type: way
+  amenity_type: school
+- id: 508955433
+  name: MA Tahdzibun Nuhfudz
+  alt_name: []
+  latitude: -6.109582274302473
+  longitude: 106.7123568315802
+  type: way
+  amenity_type: school
+- id: 508955434
+  name: MTs Tahdzibun Nuhfudz
+  alt_name: []
+  latitude: -6.109462332057942
+  longitude: 106.71198801144297
+  type: way
+  amenity_type: school
+- id: 508955438
+  name: SD Negeri Tegal Alur 06 Pagi, 07 Pagi, 21 Petang
+  alt_name: []
+  latitude: -6.113842741821814
+  longitude: 106.71243811912694
+  type: way
+  amenity_type: school
+- id: 508955441
+  name: MI As-Saudiyah
+  alt_name: []
+  latitude: -6.113599358514834
+  longitude: 106.7106574521958
+  type: way
+  amenity_type: school
+- id: 508955453
+  name: SLB SD-SMP-SMA Kuntum Mekar
+  alt_name: []
+  latitude: -6.121092076185558
+  longitude: 106.71877329330889
+  type: way
+  amenity_type: school
+- id: 509126768
+  name: SD Negeri Kedoya Selatan I
+  alt_name: []
+  latitude: -6.183206135881916
+  longitude: 106.76123804925189
+  type: way
+  amenity_type: school
+- id: 509126771
+  name: SD Negeri Kedoya Selatan 4
+  alt_name: []
+  latitude: -6.183712871936367
+  longitude: 106.75900006838201
+  type: way
+  amenity_type: school
+- id: 509146854
+  name: KB-TK-SD-SMP Rasa Sayang Mandiri
+  alt_name: []
+  latitude: -6.1716691500000005
+  longitude: 106.76886105
+  type: way
+  amenity_type: school
+- id: 509184167
+  name: SD Negeri Duri Kepa 07 Pagi
+  alt_name: []
+  latitude: -6.164049425147217
+  longitude: 106.76919570144997
+  type: way
+  amenity_type: school
+- id: 509195574
+  name: MI At-Toyyibah, SMA Cakra Buana, SLTP PGRI 39 Jakarta
+  alt_name: []
+  latitude: -6.127699051562617
+  longitude: 106.71939496496553
+  type: way
+  amenity_type: school
+- id: 509195723
+  name: MA Negeri 16 Jakarta
+  alt_name: []
+  latitude: -6.1172133646642175
+  longitude: 106.71941858217393
+  type: way
+  amenity_type: school
+- id: 509195736
+  name: SD Kasih Anugerah
+  alt_name: []
+  latitude: -6.121808311757666
+  longitude: 106.71724878731617
+  type: way
+  amenity_type: school
+- id: 509530234
+  name: SMP Negeri 229 Jakarta
+  alt_name: []
+  latitude: -6.197242808581899
+  longitude: 106.77271698705489
+  type: way
+  amenity_type: school
+- id: 509530237
+  name: Yayasan Pendidikan Ar Raudhah
+  alt_name: []
+  latitude: -6.197518473481411
+  longitude: 106.78084693311895
+  type: way
+  amenity_type: school
+- id: 509797511
+  name: SD Negeri Duri Kepa 03
+  alt_name: []
+  latitude: -6.174380707925832
+  longitude: 106.77485772258517
+  type: way
+  amenity_type: school
+- id: 509803397
+  name: SD Blossom School
+  alt_name: []
+  latitude: -6.123751250000001
+  longitude: 106.70594274999999
+  type: way
+  amenity_type: school
+- id: 509803411
+  name: SMK Margi Luhur
+  alt_name: []
+  latitude: -6.1237196351457435
+  longitude: 106.71303956366951
+  type: way
+  amenity_type: school
+- id: 509803412
+  name: SD Negeri Tegal Alur 09 Pagi, 16 Petang
+  alt_name: []
+  latitude: -6.123793072995412
+  longitude: 106.71509562336728
+  type: way
+  amenity_type: school
+- id: 509803416
+  name: SD Negeri Tegal Alur 15 Pagi, 20 Petang
+  alt_name: []
+  latitude: -6.121354300000001
+  longitude: 106.72948344999999
+  type: way
+  amenity_type: school
+- id: 509803430
+  name: SD Bina Putra
+  alt_name: []
+  latitude: -6.124882999445027
+  longitude: 106.7166429521809
+  type: way
+  amenity_type: school
+- id: 509803437
+  name: SD - SMP - SMK Cahaya Prima
+  alt_name: []
+  latitude: -6.12446194330947
+  longitude: 106.71660385432145
+  type: way
+  amenity_type: school
+- id: 509803462
+  name: SD Negeri Tegal Alur 02, 04, 05 Pagi
+  alt_name: []
+  latitude: -6.118181354083683
+  longitude: 106.7134150844791
+  type: way
+  amenity_type: school
+- id: 510491635
+  name: TK-SD-SMP-SMA-SMK Santo Leo
+  alt_name: []
+  latitude: -6.148682796326038
+  longitude: 106.82093401559032
+  type: way
+  amenity_type: school
+- id: 510503101
+  name: SMK Strada II
+  alt_name: []
+  latitude: -6.1570306725612785
+  longitude: 106.8232497496208
+  type: way
+  amenity_type: school
+- id: 510907551
+  name: Miracle School
+  alt_name: []
+  latitude: -6.191834669190878
+  longitude: 106.76253109642579
+  type: way
+  amenity_type: school
+- id: 510955132
+  name: MTs Negeri 8
+  alt_name: []
+  latitude: -6.177184610979977
+  longitude: 106.70560408513573
+  type: way
+  amenity_type: school
+- id: 510986659
+  name: SMA Negeri 17 Jakarta
+  alt_name: []
+  latitude: -6.152535390528508
+  longitude: 106.8239942750441
+  type: way
+  amenity_type: school
+- id: 510986675
+  name: SD Negeri Tamansari 01,03,05, dan 09 Pagi
+  alt_name: []
+  latitude: -6.153624070474152
+  longitude: 106.8251354415494
+  type: way
+  amenity_type: school
+- id: 511003760
+  name: Yayasan Pendidikan Widuri Jaya
+  alt_name: []
+  latitude: -6.17790905
+  longitude: 106.7715335
+  type: way
+  amenity_type: school
+- id: 511876006
+  name: Yayasan Nurul Ikhlas Assanusiah
+  alt_name: []
+  latitude: -6.178871470658867
+  longitude: 106.77628146307016
+  type: way
+  amenity_type: school
+- id: 511895422
+  name: SD Negeri 05 06 Pagi
+  alt_name: []
+  latitude: -6.172207050000002
+  longitude: 106.77295140000001
+  type: way
+  amenity_type: school
+- id: 511895423
+  name: SD Negeri Duri Kepa 16 Pagi
+  alt_name: []
+  latitude: -6.172944224654381
+  longitude: 106.77935200419451
+  type: way
+  amenity_type: school
+- id: 511895424
+  name: SD Negeri Duri Kepa 17 Pagi
+  alt_name: []
+  latitude: -6.172244899999999
+  longitude: 106.77936005000001
+  type: way
+  amenity_type: school
+- id: 511895425
+  name: SMP Negeri 220 Jakarta
+  alt_name: []
+  latitude: -6.175974795019891
+  longitude: 106.77924890138351
+  type: way
+  amenity_type: school
+- id: 511895428
+  name: Sekolah Pelita Jakarta Barat
+  alt_name: []
+  latitude: -6.165102054518668
+  longitude: 106.77202758883668
+  type: way
+  amenity_type: school
+- id: 511938978
+  name: Sekolah Kristen Bala Keselamatan (PG-SMP)
+  alt_name: []
+  latitude: -6.148787876252807
+  longitude: 106.82066040346965
+  type: way
+  amenity_type: school
+- id: 512260732
+  name: Sekolah Ichthus Jakarta
+  alt_name: []
+  latitude: -6.176275050000001
+  longitude: 106.76233605000002
+  type: way
+  amenity_type: school
+- id: 512260733
+  name: SDK 11 Penabur
+  alt_name: []
+  latitude: -6.173916127412873
+  longitude: 106.76358191742511
+  type: way
+  amenity_type: school
+- id: 512260787
+  name: SMP Negeri 197
+  alt_name: []
+  latitude: -6.170659361396644
+  longitude: 106.75898028962422
+  type: way
+  amenity_type: school
+- id: 512260798
+  name: Sekolah St. Andreas
+  alt_name: []
+  latitude: -6.168499934558608
+  longitude: 106.7594812048215
+  type: way
+  amenity_type: school
+- id: 512300105
+  name: Sekolah Kristen Kalam Kudus II
+  alt_name: []
+  latitude: -6.16322065
+  longitude: 106.75894554999999
+  type: way
+  amenity_type: school
+- id: 512474061
+  name: Yayasan Pendidikan Islam Al Mujahidin Joglo
+  alt_name: []
+  latitude: -6.220794667761607
+  longitude: 106.73678353408111
+  type: way
+  amenity_type: school
+- id: 512497773
+  name: SD Negeri Rawa Buaya 01 pagi & 04 Petang
+  alt_name: []
+  latitude: -6.166299814209118
+  longitude: 106.73608125616694
+  type: way
+  amenity_type: school
+- id: 512497776
+  name: SD Negeri Rawa Buaya 02, 03 pagi & 05 Petang
+  alt_name: []
+  latitude: -6.16504251264466
+  longitude: 106.72817653759107
+  type: way
+  amenity_type: school
+- id: 512713848
+  name: SD Negeri 09 kedoya utara
+  alt_name: []
+  latitude: -6.162369602740651
+  longitude: 106.76451051101152
+  type: way
+  amenity_type: school
+- id: 512713851
+  name: Sekolah Providentia
+  alt_name: []
+  latitude: -6.1663517409337745
+  longitude: 106.76379311662546
+  type: way
+  amenity_type: school
+- id: 512732991
+  name: Yayasan Bunda Hati Kudus SD-SMP-SMA Vianney
+  alt_name: []
+  latitude: -6.171457806878595
+  longitude: 106.72994682181503
+  type: way
+  amenity_type: school
+- id: 512732996
+  name: MI Assauddiniiyah
+  alt_name: []
+  latitude: -6.162893349520005
+  longitude: 106.73057669073938
+  type: way
+  amenity_type: school
+- id: 512732998
+  name: SD Islam Insan Mulia
+  alt_name: []
+  latitude: -6.16491585
+  longitude: 106.73055834999998
+  type: way
+  amenity_type: school
+- id: 512732999
+  name: MI Asaasuddiiniyah
+  alt_name: []
+  latitude: -6.16333975
+  longitude: 106.7286408
+  type: way
+  amenity_type: school
+- id: 512733000
+  name: SMP Negeri 264 Jakarta
+  alt_name: []
+  latitude: -6.164574625638939
+  longitude: 106.72838620579562
+  type: way
+  amenity_type: school
+- id: 512733005
+  name: SD - SMP - SMA National Global School
+  alt_name: []
+  latitude: -6.1685329733722645
+  longitude: 106.73610791490435
+  type: way
+  amenity_type: school
+- id: 512733019
+  name: SD-SMP-SMA-SMK Lamaholot
+  alt_name: []
+  latitude: -6.163971509565481
+  longitude: 106.7369122423946
+  type: way
+  amenity_type: school
+- id: 513190973
+  name: SD Negeri Kedoya Utara 04
+  alt_name: []
+  latitude: -6.170254755645933
+  longitude: 106.75928533685271
+  type: way
+  amenity_type: school
+- id: 513554635
+  name: SD, SMP, SMA, SMK Lamaholot
+  alt_name: []
+  latitude: -6.164876909913954
+  longitude: 106.73620113655412
+  type: way
+  amenity_type: school
+- id: 513554717
+  name: Sekolah Trinitas SD, SMP, SMA
+  alt_name: []
+  latitude: -6.166263786325096
+  longitude: 106.74118163559427
+  type: way
+  amenity_type: school
+- id: 513554846
+  name: SD, SMP Carina Sayang
+  alt_name: []
+  latitude: -6.16537123606038
+  longitude: 106.74494865951047
+  type: way
+  amenity_type: school
+- id: 513554891
+  name: SD, SMP, SMA Al-Mukhlisin
+  alt_name: []
+  latitude: -6.162607230900096
+  longitude: 106.73773178023222
+  type: way
+  amenity_type: school
+- id: 513554929
+  name: SD - SMP Harapan Lestari
+  alt_name: []
+  latitude: -6.16118975
+  longitude: 106.7380531
+  type: way
+  amenity_type: school
+- id: 513554965
+  name: MI Shirratulrahman
+  alt_name: []
+  latitude: -6.156183063957864
+  longitude: 106.7329061957445
+  type: way
+  amenity_type: school
+- id: 513554969
+  name: SMP Yapindo II
+  alt_name: []
+  latitude: -6.155783650000001
+  longitude: 106.7319861
+  type: way
+  amenity_type: school
+- id: 513554971
+  name: MI Al-Jairy
+  alt_name: []
+  latitude: -6.156882933333333
+  longitude: 106.74223383536045
+  type: way
+  amenity_type: school
+- id: 513554977
+  name: SD Negeri Rawa Buaya 09 Pagi, 10 Petang
+  alt_name: []
+  latitude: -6.1609222500000005
+  longitude: 106.74454405
+  type: way
+  amenity_type: school
+- id: 513554979
+  name: SMP & SMK Kesatuan
+  alt_name: []
+  latitude: -6.161246774229869
+  longitude: 106.74512504436639
+  type: way
+  amenity_type: school
+- id: 513554982
+  name: SMP Islam An-Nasiriin
+  alt_name: []
+  latitude: -6.162817996046186
+  longitude: 106.74680629223366
+  type: way
+  amenity_type: school
+- id: 513573099
+  name: SMK Negeri 35 Jakarta
+  alt_name: []
+  latitude: -6.154472738856027
+  longitude: 106.81191998445848
+  type: way
+  amenity_type: school
+- id: 513573100
+  name: Yayasan Tri Ratna
+  alt_name: []
+  latitude: -6.158539397576136
+  longitude: 106.81540547118307
+  type: way
+  amenity_type: school
+- id: 513573239
+  name: SD Negeri Krukut 01,03 Pagi dan 04 Petang
+  alt_name: []
+  latitude: -6.1594511400056335
+  longitude: 106.81771378276049
+  type: way
+  amenity_type: school
+- id: 513840197
+  name: SMA Negeri 2 Jakarta
+  alt_name: []
+  latitude: -6.148630665337046
+  longitude: 106.81585115858555
+  type: way
+  amenity_type: school
+- id: 513840207
+  name: SD Negeri 01,03,05 Pagi dan 02,06 Petang
+  alt_name: []
+  latitude: -6.153990624429552
+  longitude: 106.81387893332128
+  type: way
+  amenity_type: school
+- id: 514055437
+  name: Sekolah Guang Ming
+  alt_name: []
+  latitude: -6.17299097019465
+  longitude: 106.78327919077216
+  type: way
+  amenity_type: school
+- id: 514712518
+  name: SD Negeri Tanjung Duren Selatan 01 dan 03 Pagi
+  alt_name: []
+  latitude: -6.180682561534118
+  longitude: 106.78564832531883
+  type: way
+  amenity_type: school
+- id: 514725988
+  name: Yayasan Al Musyarofah
+  alt_name: []
+  latitude: -6.223992120467394
+  longitude: 106.74373643690758
+  type: way
+  amenity_type: school
+- id: 514735124
+  name: Narada School
+  alt_name: []
+  latitude: -6.174610417582065
+  longitude: 106.71151617707733
+  type: way
+  amenity_type: school
+- id: 515218170
+  name: SD Negeri Tanjung Duren Utara 06 Pagi - 07 Petang
+  alt_name: []
+  latitude: -6.183977689982548
+  longitude: 106.78307667456473
+  type: way
+  amenity_type: school
+- id: 515218171
+  name: SD-SMP Al-Isra
+  alt_name: []
+  latitude: -6.177682095793285
+  longitude: 106.78299575732231
+  type: way
+  amenity_type: school
+- id: 515218172
+  name: SMP Negeri 89 Jakarta
+  alt_name: []
+  latitude: -6.178061525013068
+  longitude: 106.78223607561779
+  type: way
+  amenity_type: school
+- id: 515218176
+  name: Yayasan Al-Chasanah
+  alt_name: []
+  latitude: -6.177677550765223
+  longitude: 106.7822716091875
+  type: way
+  amenity_type: school
+- id: 515218177
+  name: Yayasan Pembinaan dan Pendidikan Islam Assa'adatul Abadiyah
+  alt_name: []
+  latitude: -6.183952666200687
+  longitude: 106.78264607364176
+  type: way
+  amenity_type: school
+- id: 515415628
+  name: SD Tunas Delima
+  alt_name: []
+  latitude: -6.176917049999999
+  longitude: 106.78632429999999
+  type: way
+  amenity_type: school
+- id: 515426796
+  name: MTS dan MA Daarus Sa'adah
+  alt_name: []
+  latitude: -6.179254090769287
+  longitude: 106.70672232671926
+  type: way
+  amenity_type: school
+- id: 515426805
+  name: MTs dan SMA Cahaya Fadilah
+  alt_name: []
+  latitude: -6.163005616202967
+  longitude: 106.72647738952493
+  type: way
+  amenity_type: school
+- id: 515426812
+  name: MI Permata Bunda
+  alt_name: []
+  latitude: -6.1690809829191755
+  longitude: 106.72046370586442
+  type: way
+  amenity_type: school
+- id: 515426815
+  name: SD - SMP - SMA Santoleo II
+  alt_name: []
+  latitude: -6.174105709524862
+  longitude: 106.71540229572133
+  type: way
+  amenity_type: school
+- id: 515426822
+  name: SMA Kristen Kalam Kudus II
+  alt_name: []
+  latitude: -6.17156978970362
+  longitude: 106.71564577623703
+  type: way
+  amenity_type: school
+- id: 515426845
+  name: SD Angela
+  alt_name: []
+  latitude: -6.1651195545913025
+  longitude: 106.7236658476167
+  type: way
+  amenity_type: school
+- id: 515490562
+  name: SMP Negeri 176 Jakarta Barat
+  alt_name: []
+  latitude: -6.182311046340097
+  longitude: 106.72044293836146
+  type: way
+  amenity_type: school
+- id: 515490566
+  name: SD Negeri Duri Kosambi 02 Pagi
+  alt_name: []
+  latitude: -6.170296408851762
+  longitude: 106.7232601186098
+  type: way
+  amenity_type: school
+- id: 515490567
+  name: SD Negeri Duri Kosambi 05 Pagi
+  alt_name: []
+  latitude: -6.169970572069134
+  longitude: 106.72332517550844
+  type: way
+  amenity_type: school
+- id: 515490577
+  name: MA Negeri 12 Jakarta
+  alt_name: []
+  latitude: -6.1812833337037025
+  longitude: 106.71929732669732
+  type: way
+  amenity_type: school
+- id: 515490581
+  name: SD Nusantara
+  alt_name: []
+  latitude: -6.1809184517148505
+  longitude: 106.71925675278649
+  type: way
+  amenity_type: school
+- id: 515490587
+  name: MI - MTs - MA Ad-Da'wah
+  alt_name: []
+  latitude: -6.179593421371395
+  longitude: 106.72340785037773
+  type: way
+  amenity_type: school
+- id: 515492394
+  name: MA Negeri 1 Jakarta
+  alt_name: []
+  latitude: -6.164027403963122
+  longitude: 106.79783747533116
+  type: way
+  amenity_type: school
+- id: 515492396
+  name: Pimpinan Cabang Muhammadiyah Grogol SD 10 - SMP 12 - SMA 24
+  alt_name: []
+  latitude: -6.163237400000001
+  longitude: 106.793584
+  type: way
+  amenity_type: school
+- id: 515492398
+  name: SD Negeri 05 - 07 Grogol
+  alt_name: []
+  latitude: -6.159690293667935
+  longitude: 106.79655584719926
+  type: way
+  amenity_type: school
+- id: 515492399
+  name: SD Negeri Grogol 01 Pagi
+  alt_name: []
+  latitude: -6.155298512826491
+  longitude: 106.79433987182905
+  type: way
+  amenity_type: school
+- id: 515492404
+  name: Yayasan Kesejahteraan Anak Dan Remaja Tanjung
+  alt_name: []
+  latitude: -6.161419765414452
+  longitude: 106.79624542743211
+  type: way
+  amenity_type: school
+- id: 515492405
+  name: Yayasan Pendidikan Baptis Elim
+  alt_name: []
+  latitude: -6.162856682711651
+  longitude: 106.79369209528961
+  type: way
+  amenity_type: school
+- id: 515552322
+  name: MI. Thariqul Khair
+  alt_name: []
+  latitude: -6.154496260307905
+  longitude: 106.72137816129785
+  type: way
+  amenity_type: school
+- id: 515552338
+  name: MI Zahrotul Athfal, SMP Asia
+  alt_name: []
+  latitude: -6.156678829444277
+  longitude: 106.72583702141188
+  type: way
+  amenity_type: school
+- id: 515984639
+  name: SD Negeri Pinangsia 03 dan 05 Pagi
+  alt_name: []
+  latitude: -6.1387962068043995
+  longitude: 106.81458506554095
+  type: way
+  amenity_type: school
+- id: 516507355
+  name: SMP Negeri 69 Jakarta
+  alt_name: []
+  latitude: -6.1761908434539405
+  longitude: 106.78725361150796
+  type: way
+  amenity_type: school
+- id: 516524782
+  name: SD Negeri Duri Kosambi 04 Pagi
+  alt_name: []
+  latitude: -6.182110128298272
+  longitude: 106.72062947464295
+  type: way
+  amenity_type: school
+- id: 516524783
+  name: SD Negeri Duri Kosambi 07 & 08 Pagi
+  alt_name: []
+  latitude: -6.180288929599272
+  longitude: 106.71259852236993
+  type: way
+  amenity_type: school
+- id: 516542324
+  name: SD Negeri Cengkareng Barat 19 Pagi
+  alt_name: []
+  latitude: -6.141210136392057
+  longitude: 106.72584851747663
+  type: way
+  amenity_type: school
+- id: 516542329
+  name: SD Negeri Cengkareng Barat 03 Pagi & 04 Petang
+  alt_name: []
+  latitude: -6.150323568729606
+  longitude: 106.72371234538652
+  type: way
+  amenity_type: school
+- id: 516542330
+  name: SD Negeri Cengkareng Barat 05 Pagi & 06 Petang
+  alt_name: []
+  latitude: -6.150232641982707
+  longitude: 106.72323222459211
+  type: way
+  amenity_type: school
+- id: 516542331
+  name: SD Negeri Cengkareng Barat 01 Pagi & 02 Petang, 012 Pagi
+  alt_name: []
+  latitude: -6.1500362000000015
+  longitude: 106.72357325000002
+  type: way
+  amenity_type: school
+- id: 516542333
+  name: SMA Negeri 33 Jakarta
+  alt_name: []
+  latitude: -6.149333917193464
+  longitude: 106.72684056378017
+  type: way
+  amenity_type: school
+- id: 516542360
+  name: SMP Negeri 45 Jakarta
+  alt_name: []
+  latitude: -6.150698035029604
+  longitude: 106.7230962159766
+  type: way
+  amenity_type: school
+- id: 516542364
+  name: SD Kertapawitan
+  alt_name: []
+  latitude: -6.150900957554386
+  longitude: 106.72180331451156
+  type: way
+  amenity_type: school
+- id: 516542368
+  name: SMK Muhammadiyah 13 Perhotelan
+  alt_name: []
+  latitude: -6.151080677954092
+  longitude: 106.71977129231685
+  type: way
+  amenity_type: school
+- id: 516619325
+  name: SD, SMP Mulia Kencana
+  alt_name: []
+  latitude: -6.12669618097054
+  longitude: 106.72778174840523
+  type: way
+  amenity_type: school
+- id: 516619338
+  name: SLB Cahaya Bintang
+  alt_name: []
+  latitude: -6.134577050000002
+  longitude: 106.7225249
+  type: way
+  amenity_type: school
+- id: 516619339
+  name: SD Lia Stephanie
+  alt_name: []
+  latitude: -6.135242899601677
+  longitude: 106.72115937103953
+  type: way
+  amenity_type: school
+- id: 516619341
+  name: SD Kasih Immanuel
+  alt_name: []
+  latitude: -6.13576915
+  longitude: 106.72340750000001
+  type: way
+  amenity_type: school
+- id: 516619346
+  name: SD IT, SMP IT Amani Ar-Rasyid
+  alt_name: []
+  latitude: -6.13155149024868
+  longitude: 106.72925178070588
+  type: way
+  amenity_type: school
+- id: 516619347
+  name: SMP IT An-Nashr
+  alt_name: []
+  latitude: -6.132620651947054
+  longitude: 106.72960267576866
+  type: way
+  amenity_type: school
+- id: 516619353
+  name: MI Miftahul Huda, SMP Yapida, SMK Didaktika
+  alt_name: []
+  latitude: -6.132894051867461
+  longitude: 106.72290085529262
+  type: way
+  amenity_type: school
+- id: 516619371
+  name: SD, SMP, SMA Pelita Kasih
+  alt_name: []
+  latitude: -6.141234255912402
+  longitude: 106.72249152048407
+  type: way
+  amenity_type: school
+- id: 517144327
+  name: SD, SMP, SMK Kristen Cendrawasih
+  alt_name: []
+  latitude: -6.143657431445473
+  longitude: 106.72361869095998
+  type: way
+  amenity_type: school
+- id: 517144384
+  name: MI - SMP Uswatun Hasanah, SMA Nasional Nusantara
+  alt_name: []
+  latitude: -6.144947093723564
+  longitude: 106.72804763057252
+  type: way
+  amenity_type: school
+- id: 517171133
+  name: SD Betania
+  alt_name: []
+  latitude: -6.153584193158953
+  longitude: 106.78476456271488
+  type: way
+  amenity_type: school
+- id: 517171134
+  name: SD Negeri Jelambar 06
+  alt_name: []
+  latitude: -6.1590946447896116
+  longitude: 106.78412172279363
+  type: way
+  amenity_type: school
+- id: 517171135
+  name: SD Negeri Jelambar I Pagi
+  alt_name: []
+  latitude: -6.158698214516465
+  longitude: 106.78941158851637
+  type: way
+  amenity_type: school
+- id: 517171136
+  name: SMP Negeri 274 Jakarta
+  alt_name: []
+  latitude: -6.159587500000001
+  longitude: 106.79005630000003
+  type: way
+  amenity_type: school
+- id: 517171137
+  name: SMP Negeri 83 Jakarta
+  alt_name: []
+  latitude: -6.158077349999999
+  longitude: 106.78681479999999
+  type: way
+  amenity_type: school
+- id: 517171142
+  name: Yayasan Pendidikan Dharma Jaya
+  alt_name: []
+  latitude: -6.15444347024041
+  longitude: 106.78621903873646
+  type: way
+  amenity_type: school
+- id: 517182297
+  name: SMP SMK Bhara Trikora
+  alt_name: []
+  latitude: -6.15988453824171
+  longitude: 106.78169626700938
+  type: way
+  amenity_type: school
+- id: 517182329
+  name: SD Negeri Jelambar 03 - 04
+  alt_name: []
+  latitude: -6.159537002729242
+  longitude: 106.78806090723111
+  type: way
+  amenity_type: school
+- id: 517182354
+  name: PKMB Jelambar
+  alt_name:
+  - PKBM Jelambar
+  latitude: -6.161086423054074
+  longitude: 106.78724514563079
+  type: way
+  amenity_type: school
+- id: 517182394
+  name: Sekolah Katolik Kristoforus
+  alt_name: []
+  latitude: -6.164243421514899
+  longitude: 106.78626287950631
+  type: way
+  amenity_type: school
+- id: 517182402
+  name: Sekolah Bunda Hati Kudus
+  alt_name: []
+  latitude: -6.16404319937427
+  longitude: 106.78561818231019
+  type: way
+  amenity_type: school
+- id: 517190404
+  name: Yayasan Pendidikan Dharma Jaya
+  alt_name: []
+  latitude: -6.159773095019449
+  longitude: 106.7852375758053
+  type: way
+  amenity_type: school
+- id: 517227462
+  name: Penabur
+  alt_name: []
+  latitude: -6.1741388843122715
+  longitude: 106.76402732312026
+  type: way
+  amenity_type: school
+- id: 518166979
+  name: SD Negeri 07, 09 Pagi & 22 Petang
+  alt_name: []
+  latitude: -6.144815706030599
+  longitude: 106.73152106618882
+  type: way
+  amenity_type: school
+- id: 518166980
+  name: SMP Darul Izzah, SMA Yandika
+  alt_name: []
+  latitude: -6.153825869188437
+  longitude: 106.73111119651337
+  type: way
+  amenity_type: school
+- id: 518276486
+  name: SMK PGRI 35
+  alt_name: []
+  latitude: -6.146123878816699
+  longitude: 106.73920553146385
+  type: way
+  amenity_type: school
+- id: 518276489
+  name: SMA dan SMK IP Yakin
+  alt_name: []
+  latitude: -6.151155007172417
+  longitude: 106.73002812441598
+  type: way
+  amenity_type: school
+- id: 518276517
+  name: SMP At-Taufik
+  alt_name: []
+  latitude: -6.147282022667462
+  longitude: 106.73346241408468
+  type: way
+  amenity_type: school
+- id: 518276526
+  name: SMP Harapan Jaya
+  alt_name: []
+  latitude: -6.15398785482715
+  longitude: 106.73317285026242
+  type: way
+  amenity_type: school
+- id: 518276533
+  name: SMA - SMK Harapan Jaya I
+  alt_name: []
+  latitude: -6.153782421531847
+  longitude: 106.73293367175924
+  type: way
+  amenity_type: school
+- id: 518276541
+  name: SD Harapan Jaya I
+  alt_name: []
+  latitude: -6.153073215759464
+  longitude: 106.73192920186706
+  type: way
+  amenity_type: school
+- id: 518276546
+  name: SMP Darrosta
+  alt_name: []
+  latitude: -6.15390909251066
+  longitude: 106.74232547356144
+  type: way
+  amenity_type: school
+- id: 518276552
+  name: SD Negeri Cengkareng Timur 15 Pagi, 022 Petang
+  alt_name: []
+  latitude: -6.152635127667689
+  longitude: 106.74033868697853
+  type: way
+  amenity_type: school
+- id: 518276553
+  name: SD Negeri Cengkareng Timur 15 Pagi, 022 Petang
+  alt_name: []
+  latitude: -6.152648008548837
+  longitude: 106.74029807175837
+  type: way
+  amenity_type: school
+- id: 518276559
+  name: SD, SMP, SMA Kasih Bagi Bangsa
+  alt_name: []
+  latitude: -6.150681149171896
+  longitude: 106.73223991690885
+  type: way
+  amenity_type: school
+- id: 518301890
+  name: SD Negeri 03 Tomang
+  alt_name: []
+  latitude: -6.17670481103645
+  longitude: 106.79659553917165
+  type: way
+  amenity_type: school
+- id: 518301891
+  name: SD Negeri Tomang 01 & 09 Pagi
+  alt_name: []
+  latitude: -6.172841813016609
+  longitude: 106.79763406735687
+  type: way
+  amenity_type: school
+- id: 518301892
+  name: SD Negeri Tomang 08 Pagi
+  alt_name: []
+  latitude: -6.174621166108974
+  longitude: 106.80076664314325
+  type: way
+  amenity_type: school
+- id: 518301893
+  name: SD Negeri Tomang 11 Pagi
+  alt_name: []
+  latitude: -6.1723289999999995
+  longitude: 106.8018012
+  type: way
+  amenity_type: school
+- id: 518301894
+  name: SMA Muhammadiyah 13 Jakarta
+  alt_name: []
+  latitude: -6.17640229369997
+  longitude: 106.7970173628714
+  type: way
+  amenity_type: school
+- id: 518301895
+  name: SMA Negeri 23 Jakarta
+  alt_name: []
+  latitude: -6.1724776817247475
+  longitude: 106.79769806435763
+  type: way
+  amenity_type: school
+- id: 518301896
+  name: SMP Negeri 286 Jakarta
+  alt_name: []
+  latitude: -6.172552520121352
+  longitude: 106.8020456390298
+  type: way
+  amenity_type: school
+- id: 518478786
+  name: Play Field Kids Academy Srengseng
+  alt_name: []
+  latitude: -6.204546358326288
+  longitude: 106.75726047670943
+  type: way
+  amenity_type: school
+- id: 518483272
+  name: SD Kristen Samaria Tomang
+  alt_name: []
+  latitude: -6.172328882795737
+  longitude: 106.80064506714353
+  type: way
+  amenity_type: school
+- id: 518483327
+  name: SD SMK Islam Perti
+  alt_name: []
+  latitude: -6.170113326206181
+  longitude: 106.79469949318175
+  type: way
+  amenity_type: school
+- id: 518491798
+  name: MTs Al-Wahab
+  alt_name: []
+  latitude: -6.126600949999999
+  longitude: 106.73696289999998
+  type: way
+  amenity_type: school
+- id: 518491800
+  name: SMK Citra Adhi Pratama
+  alt_name: []
+  latitude: -6.123521105546984
+  longitude: 106.73118896399363
+  type: way
+  amenity_type: school
+- id: 518491802
+  name: SMP Islam Al-Wahab
+  alt_name: []
+  latitude: -6.123975905453861
+  longitude: 106.73233255544227
+  type: way
+  amenity_type: school
+- id: 518491803
+  name: MI Tarbiyatul Athfal
+  alt_name: []
+  latitude: -6.12377220276894
+  longitude: 106.73251187186376
+  type: way
+  amenity_type: school
+- id: 518491809
+  name: SMP, SMK, SMA Cinta Kasih Tzu Chi
+  alt_name: []
+  latitude: -6.131319602257
+  longitude: 106.73792482793614
+  type: way
+  amenity_type: school
+- id: 519224904
+  name: SD Negeri Jelambar Baru 01
+  alt_name: []
+  latitude: -6.148238500000002
+  longitude: 106.78260940000003
+  type: way
+  amenity_type: school
+- id: 519224907
+  name: TK SD SMP Amal Kebajikan Arief Rahman
+  alt_name: []
+  latitude: -6.146772202824869
+  longitude: 106.78221918874918
+  type: way
+  amenity_type: school
+- id: 519224914
+  name: SMK Mutiara Bangsa 3 School
+  alt_name: []
+  latitude: -6.145297810175531
+  longitude: 106.78214063882074
+  type: way
+  amenity_type: school
+- id: 519224940
+  name: Yayasan Riyadhul Mu'minin
+  alt_name: []
+  latitude: -6.144681139456156
+  longitude: 106.78415682960545
+  type: way
+  amenity_type: school
+- id: 519224969
+  name: TK SD SMP SMK Pancaran Berkat
+  alt_name: []
+  latitude: -6.147735872249969
+  longitude: 106.789145853827
+  type: way
+  amenity_type: school
+- id: 519224986
+  name: TK SD SMP Taman Harapan Indah
+  alt_name: []
+  latitude: -6.146558822136614
+  longitude: 106.78568291783314
+  type: way
+  amenity_type: school
+- id: 519230110
+  name: SD Negeri Jelambar Baru 03 Pagi 04 Petang 05 Pagi 06 Petang
+  alt_name: []
+  latitude: -6.149562274803475
+  longitude: 106.78753034379602
+  type: way
+  amenity_type: school
+- id: 519230277
+  name: SD Negeri Jelambar Baru 07 Pagi 08 Petang 09 Pagi
+  alt_name: []
+  latitude: -6.153267876566862
+  longitude: 106.79068447455529
+  type: way
+  amenity_type: school
+- id: 519250157
+  name: Yayasan Budhi Dharma Maitayus
+  alt_name: []
+  latitude: -6.149092200000001
+  longitude: 106.78460905000001
+  type: way
+  amenity_type: school
+- id: 519953263
+  name: SD Negeri Kedaung Kaliangke 13 Pagi
+  alt_name: []
+  latitude: -6.154302464966431
+  longitude: 106.76305900772515
+  type: way
+  amenity_type: school
+- id: 519953265
+  name: SD Negeri Kedaung Kaliangke 08 Pagi, 09 Pagi
+  alt_name: []
+  latitude: -6.154646952755078
+  longitude: 106.76243439815472
+  type: way
+  amenity_type: school
+- id: 519953266
+  name: SD Negeri Kedaung Kaliangke 03 Pagi
+  alt_name: []
+  latitude: -6.154374393911976
+  longitude: 106.76262556893566
+  type: way
+  amenity_type: school
+- id: 519953270
+  name: SDIT Al-Muttaqin
+  alt_name: []
+  latitude: -6.155306635271894
+  longitude: 106.76168774718289
+  type: way
+  amenity_type: school
+- id: 519953292
+  name: SD Negeri Kedaung Kaliangke 10 Pagi, 11 Petang, 04 Petang
+  alt_name: []
+  latitude: -6.152727469656529
+  longitude: 106.75936294938444
+  type: way
+  amenity_type: school
+- id: 519953304
+  name: SD Negeri Kedaung Kaliangke 14 Pagi
+  alt_name: []
+  latitude: -6.143585525450527
+  longitude: 106.75101349905586
+  type: way
+  amenity_type: school
+- id: 520009256
+  name: SMA-SMK Yadika
+  alt_name: []
+  latitude: -6.1778816744527
+  longitude: 106.7814948960138
+  type: way
+  amenity_type: school
+- id: 520038174
+  name: Nurul Fikri Tanjung Duren
+  alt_name: []
+  latitude: -6.1785757909823875
+  longitude: 106.78385852510927
+  type: way
+  amenity_type: school
+- id: 520167884
+  name: MI Nurul Mu'min
+  alt_name: []
+  latitude: -6.143946917866276
+  longitude: 106.75294565617642
+  type: way
+  amenity_type: school
+- id: 520167887
+  name: SD Negeri Kedaung Kali Angke 05 & 06 Pagi
+  alt_name: []
+  latitude: -6.152773723691873
+  longitude: 106.76033658912289
+  type: way
+  amenity_type: school
+- id: 521698474
+  name: Sinotif
+  alt_name: []
+  latitude: -6.173986262562717
+  longitude: 106.78558557515099
+  type: way
+  amenity_type: school
+- id: 521705508
+  name: MA Negeri 17 Jakarta
+  alt_name: []
+  latitude: -6.129363865032909
+  longitude: 106.74062089200247
+  type: way
+  amenity_type: school
+- id: 521705509
+  name: MTs Negeri 36 Jakarta
+  alt_name: []
+  latitude: -6.129607849999998
+  longitude: 106.74106925
+  type: way
+  amenity_type: school
+- id: 521856834
+  name: SD Negeri Wijaya Kusuma 05 Pagi 06 Petang 07 Pagi 08 Petang
+  alt_name: []
+  latitude: -6.1600934999999994
+  longitude: 106.77602110000001
+  type: way
+  amenity_type: school
+- id: 521856835
+  name: SD-SLTP-SMK Citra Pelita Kudus
+  alt_name: []
+  latitude: -6.15675420779187
+  longitude: 106.77667079638897
+  type: way
+  amenity_type: school
+- id: 521856836
+  name: SD-SMP-SMA Kristen Imanuel
+  alt_name: []
+  latitude: -6.157555899999998
+  longitude: 106.779347
+  type: way
+  amenity_type: school
+- id: 521856837
+  name: SMK Insan Aqila 4 Jakarta
+  alt_name: []
+  latitude: -6.163806478038071
+  longitude: 106.78129825870185
+  type: way
+  amenity_type: school
+- id: 521856838
+  name: SMP Islam Taqwa - SMK Bhakti
+  alt_name: []
+  latitude: -6.1609386990132435
+  longitude: 106.77360306468034
+  type: way
+  amenity_type: school
+- id: 521856839
+  name: SMP Negeri 82 Grogol Jakarta Barat
+  alt_name: []
+  latitude: -6.158344436854538
+  longitude: 106.77357192616627
+  type: way
+  amenity_type: school
+- id: 521966019
+  name: SD Negeri 01 03 Pagi, 07 Petang Wijaya Kusuma
+  alt_name: []
+  latitude: -6.15271662690463
+  longitude: 106.77447010238959
+  type: way
+  amenity_type: school
+- id: 521966022
+  name: Mts Negeri 10 Jakarta
+  alt_name: []
+  latitude: -6.152133518161635
+  longitude: 106.7741495595059
+  type: way
+  amenity_type: school
+- id: 521966048
+  name: SD Negeri Wijaya Kusuma 02 Pagi
+  alt_name: []
+  latitude: -6.1503034822101466
+  longitude: 106.7780160465249
+  type: way
+  amenity_type: school
+- id: 521966049
+  name: TK SD SMP Duta Ursula School
+  alt_name: []
+  latitude: -6.150290025202438
+  longitude: 106.77776424469273
+  type: way
+  amenity_type: school
+- id: 521966055
+  name: SMP SMK Duta Mas
+  alt_name: []
+  latitude: -6.1508381786911785
+  longitude: 106.77934001819935
+  type: way
+  amenity_type: school
+- id: 521966064
+  name: Sekolah Kristen Al Masih
+  alt_name: []
+  latitude: -6.144865313609531
+  longitude: 106.7773084753397
+  type: way
+  amenity_type: school
+- id: 522330473
+  name: MI Al - Khairiyah
+  alt_name: []
+  latitude: -6.15650138960318
+  longitude: 106.72126495715065
+  type: way
+  amenity_type: school
+- id: 522333732
+  name: SD Anugerah, SMP Harapan Bangsa, SMK Harapan Raya
+  alt_name: []
+  latitude: -6.139615302284171
+  longitude: 106.76336768505361
+  type: way
+  amenity_type: school
+- id: 522335017
+  name: SMP Esti Bakti
+  alt_name: []
+  latitude: -6.1398377129587365
+  longitude: 106.75964057884006
+  type: way
+  amenity_type: school
+- id: 522414793
+  name: Imanusakti Islamic Kids Learning Center
+  alt_name: []
+  latitude: -6.147468014314216
+  longitude: 106.74591628170947
+  type: way
+  amenity_type: school
+- id: 522414819
+  name: SDI, SMP Al Mukhlisin, SMK Permata Dunia
+  alt_name: []
+  latitude: -6.142675745967257
+  longitude: 106.74248837320883
+  type: way
+  amenity_type: school
+- id: 522414887
+  name: SMK Dian Jakarta
+  alt_name: []
+  latitude: -6.141817097115423
+  longitude: 106.74140021608693
+  type: way
+  amenity_type: school
+- id: 522414911
+  name: SD Aulia
+  alt_name: []
+  latitude: -6.140199850000001
+  longitude: 106.74549050000002
+  type: way
+  amenity_type: school
+- id: 523573446
+  name: SD Negeri Kapuk 10 Petang
+  alt_name: []
+  latitude: -6.147744398437576
+  longitude: 106.7424881745609
+  type: way
+  amenity_type: school
+- id: 523573447
+  name: SD, SMP, SMA Baptis Cengkareng Indah
+  alt_name: []
+  latitude: -6.143704097865074
+  longitude: 106.74726201270833
+  type: way
+  amenity_type: school
+- id: 523573461
+  name: SD Negeri Kapuk 11 Pagi, 13 Petang
+  alt_name: []
+  latitude: -6.152057697052732
+  longitude: 106.74762131819901
+  type: way
+  amenity_type: school
+- id: 523573480
+  name: SMP Negeri 100 Jakarta
+  alt_name: []
+  latitude: -6.141988949070102
+  longitude: 106.74899250946827
+  type: way
+  amenity_type: school
+- id: 523573486
+  name: SD Negeri Kapuk 06 Pagi, 07 Petang
+  alt_name: []
+  latitude: -6.144118765693619
+  longitude: 106.74786038273425
+  type: way
+  amenity_type: school
+- id: 523573487
+  name: SD Negeri Kapuk 02 Pagi, 04 Petang
+  alt_name: []
+  latitude: -6.144090402595978
+  longitude: 106.74757099151198
+  type: way
+  amenity_type: school
+- id: 523573490
+  name: SD - SMP - SMA Katolik Bintang Kejora
+  alt_name: []
+  latitude: -6.147001225260485
+  longitude: 106.74761089172658
+  type: way
+  amenity_type: school
+- id: 523573491
+  name: MI Al-Hasaniyyah
+  alt_name: []
+  latitude: -6.14711395317904
+  longitude: 106.74938672464893
+  type: way
+  amenity_type: school
+- id: 523573499
+  name: SD, SMP Seraphine Bakti Utama
+  alt_name: []
+  latitude: -6.150322893391101
+  longitude: 106.74349544525579
+  type: way
+  amenity_type: school
+- id: 523650053
+  name: SD, SMP Da'watul Islamiyah
+  alt_name: []
+  latitude: -6.142967547353131
+  longitude: 106.74111899817174
+  type: way
+  amenity_type: school
+- id: 523650056
+  name: MI, SMP, SMA, SMK Nurul Iman Kapuk
+  alt_name: []
+  latitude: -6.136616020510968
+  longitude: 106.74529549015371
+  type: way
+  amenity_type: school
+- id: 523650059
+  name: SD - SMP Islam Kemuliaan
+  alt_name: []
+  latitude: -6.130542207638857
+  longitude: 106.74108538246384
+  type: way
+  amenity_type: school
+- id: 523650062
+  name: SD Daarut Taqwa Al-Hamidiyah
+  alt_name: []
+  latitude: -6.1331636000000005
+  longitude: 106.74149225000002
+  type: way
+  amenity_type: school
+- id: 523650070
+  name: MI Yapinha
+  alt_name: []
+  latitude: -6.1348848225312755
+  longitude: 106.74830547706586
+  type: way
+  amenity_type: school
+- id: 523650072
+  name: MI At-Taubah
+  alt_name: []
+  latitude: -6.137849846763729
+  longitude: 106.74836581517603
+  type: way
+  amenity_type: school
+- id: 523796044
+  name: MI An-Nur, SMP - SMA Bina Taruna
+  alt_name: []
+  latitude: -6.137635671411207
+  longitude: 106.7573316373445
+  type: way
+  amenity_type: school
+- id: 523796045
+  name: SD Esti Bakti
+  alt_name: []
+  latitude: -6.139500665048268
+  longitude: 106.75905079291582
+  type: way
+  amenity_type: school
+- id: 523796049
+  name: SD, SMP Wawasan Nusantara
+  alt_name: []
+  latitude: -6.142138652207445
+  longitude: 106.75260679365066
+  type: way
+  amenity_type: school
+- id: 525505326
+  name: SMP Negeri 108 Jakarta
+  alt_name: []
+  latitude: -6.132821409938804
+  longitude: 106.72638987401515
+  type: way
+  amenity_type: school
+- id: 525539429
+  name: SD Negeri Cengkareng Timur 01 Pagi, 02 Petang
+  alt_name: []
+  latitude: -6.1542538865647805
+  longitude: 106.73308341168577
+  type: way
+  amenity_type: school
+- id: 528605746
+  name: SMP Harapan Lestari
+  alt_name: []
+  latitude: -6.1617169999999994
+  longitude: 106.73812740000001
+  type: way
+  amenity_type: school
+- id: 1089611817
+  name: Sekolah TK SD SMP Strada
+  alt_name: []
+  latitude: -6.147351036210805
+  longitude: 106.73546260556083
+  type: way
+  amenity_type: school
+- id: 1110584758
+  name: SMPN 54 Taman Sari
+  alt_name: []
+  latitude: -6.143591077917699
+  longitude: 106.810946505801
+  type: way
+  amenity_type: school
+- id: 4849266606
+  name: RA-MI-MTS Darul Ulum
+  alt_name: []
+  latitude: -6.1980056
+  longitude: 106.7824638
+  type: node
+  amenity_type: school
+- id: 4871022276
+  name: TK-SD Elo 1
+  alt_name: []
+  latitude: -6.1527553
+  longitude: 106.8093999
+  type: node
+  amenity_type: school
+- id: 4871574193
+  name: Midiatama Academy
+  alt_name: []
+  latitude: -6.1919484
+  longitude: 106.7452699
+  type: node
+  amenity_type: school
+- id: 4974594632
+  name: KB - TK - SD Agape Kudus
+  alt_name: []
+  latitude: -6.1346877
+  longitude: 106.7062166
+  type: node
+  amenity_type: school
+- id: 4974594633
+  name: KB - TK - SD Dharma Surya
+  alt_name: []
+  latitude: -6.1345091
+  longitude: 106.7052993
+  type: node
+  amenity_type: school
+- id: 4981916177
+  name: TK - SD Syalom
+  alt_name: []
+  latitude: -6.1578635
+  longitude: 106.8090512
+  type: node
+  amenity_type: school
+- id: 5032149100
+  name: SD Harapan Kasih
+  alt_name: []
+  latitude: -6.1804742
+  longitude: 106.7829761
+  type: node
+  amenity_type: school
+- id: 5057618588
+  name: SMP - SMA Cengkareng 1, SMK Cengkareng 2 Jakarta
+  alt_name: []
+  latitude: -6.1343645
+  longitude: 106.7380087
+  type: node
+  amenity_type: school
+- id: 5285527706
+  name: Springfield International School PB3
+  alt_name: []
+  latitude: -6.166528
+  longitude: 106.7466761
+  type: node
+  amenity_type: school
+- id: 5441478821
+  name: Madrasah Ibtidaiyah Al Furqon
+  alt_name: []
+  latitude: -6.1454378
+  longitude: 106.7304884
+  type: node
+  amenity_type: school
+- id: 9064896763
+  name: SMK & SMP Tanjung
+  alt_name: []
+  latitude: -6.1615113
+  longitude: 106.7962306
+  type: node
+  amenity_type: school
+- id: 9599110217
+  name: SMK Widya Patria 2
+  alt_name: []
+  latitude: -6.213384
+  longitude: 106.7252087
+  type: node
+  amenity_type: school
+- id: 12145093664
+  name: LKP Salon Dewi
+  alt_name: []
+  latitude: -6.1573088
+  longitude: 106.7007994
+  type: node
+  amenity_type: school
+- id: 12361068530
+  name: SMA Negeri 96 Jakarta
+  alt_name: []
+  latitude: -6.1466837
+  longitude: 106.7398435
+  type: node
+  amenity_type: school

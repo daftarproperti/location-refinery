@@ -1,0 +1,156 @@
+objects:
+- id: 156916802
+  name: Pemadam Kebakaran POSDAMKAR Jakarta Barat
+  alt_name: []
+  latitude: -6.147980300000001
+  longitude: 106.82261435
+  type: way
+  amenity_type: fire_station
+- id: 156918941
+  name: Pemadam Kebakaran Tamansari
+  alt_name: []
+  latitude: -6.134321859574012
+  longitude: 106.81510391213313
+  type: way
+  amenity_type: fire_station
+- id: 156922063
+  name: Suku Dinas Pemadam Kebakaran Jakarta Barat
+  alt_name: []
+  latitude: -6.17339375
+  longitude: 106.78786405
+  type: way
+  amenity_type: fire_station
+- id: 314669765
+  name: Pos Pemadam Kebakaran Sektor Cengkareng
+  alt_name: []
+  latitude: -6.1330085500000004
+  longitude: 106.71870970000002
+  type: way
+  amenity_type: fire_station
+- id: 316896266
+  name: Pos Pemadam Kebakaran Cengkareng Barat
+  alt_name: []
+  latitude: -6.145281034757137
+  longitude: 106.72832981422283
+  type: way
+  amenity_type: fire_station
+- id: 490047940
+  name: Pos Angke Sudin Damkar dan Penyelamatan Kota Jakbar
+  alt_name: []
+  latitude: -6.143675750000001
+  longitude: 106.80022515000002
+  type: way
+  amenity_type: fire_station
+- id: 491227241
+  name: Pos Pemadam Kebakaran Sektor Kembangan
+  alt_name: []
+  latitude: -6.218506465165096
+  longitude: 106.7249150178373
+  type: way
+  amenity_type: fire_station
+- id: 492957154
+  name: Pemadam Kebakaran Pos Puri Sakti
+  alt_name: []
+  latitude: -6.181265556845695
+  longitude: 106.74727982527554
+  type: way
+  amenity_type: fire_station
+- id: 492965791
+  name: Pos Pemadam Kebakaran Krendang
+  alt_name: []
+  latitude: -6.148173325664982
+  longitude: 106.80423228945602
+  type: way
+  amenity_type: fire_station
+- id: 492969152
+  name: Pos Balakar Kelurahan Palmerah
+  alt_name: []
+  latitude: -6.202782773905467
+  longitude: 106.79248523522948
+  type: way
+  amenity_type: fire_station
+- id: 493548964
+  name: Pemadam Kebakaran Sektor Kecamatan Kembangan
+  alt_name: []
+  latitude: -6.184509624675641
+  longitude: 106.73856299118701
+  type: way
+  amenity_type: fire_station
+- id: 495395080
+  name: Pos Pemadam Kebakaran Kota Bambu Selatan
+  alt_name: []
+  latitude: -6.186998206084097
+  longitude: 106.80982377605108
+  type: way
+  amenity_type: fire_station
+- id: 495632109
+  name: Pemadam Kebakaran Sektor Kec. Tambora
+  alt_name: []
+  latitude: -6.133926460726989
+  longitude: 106.80861482115341
+  type: way
+  amenity_type: fire_station
+- id: 500913196
+  name: Pemadam Kebakaran Pos Citra 1
+  alt_name: []
+  latitude: -6.14670347349008
+  longitude: 106.69378544150732
+  type: way
+  amenity_type: fire_station
+- id: 502327633
+  name: Kantor Pemadam Kebakaran Sektor Kalideres
+  alt_name: []
+  latitude: -6.119439564622297
+  longitude: 106.70306715704903
+  type: way
+  amenity_type: fire_station
+- id: 505031580
+  name: Pos Pemadam Kebakaran
+  alt_name: []
+  latitude: -6.200529935869017
+  longitude: 106.76830707144049
+  type: way
+  amenity_type: fire_station
+- id: 507486750
+  name: Pos Pemadam Kebakaran Kelurahan Pegadungan
+  alt_name: []
+  latitude: -6.142255900000001
+  longitude: 106.71121965
+  type: way
+  amenity_type: fire_station
+- id: 508109489
+  name: Pos Pemadam Kebakaran Sektor Kebon Jeruk
+  alt_name: []
+  latitude: -6.190110245197708
+  longitude: 106.77265441631197
+  type: way
+  amenity_type: fire_station
+- id: 512497771
+  name: Pemadam Kebakaran Pos Rawa Buaya
+  alt_name: []
+  latitude: -6.162977228707216
+  longitude: 106.73149998752986
+  type: way
+  amenity_type: fire_station
+- id: 515426800
+  name: Pos Pemadam Kebakaran Pos Kresek
+  alt_name:
+  - Dinas Pemadam Kebakaran Pos Duri Kosambi
+  latitude: -6.17726535
+  longitude: 106.70736924999999
+  type: way
+  amenity_type: fire_station
+- id: 521966018
+  name: Pos Pemadam Kebakaran Grogol Petamburan
+  alt_name: []
+  latitude: -6.15280745
+  longitude: 106.77349400000001
+  type: way
+  amenity_type: fire_station
+- id: 521966057
+  name: Pos Damkar Duta Mas
+  alt_name: []
+  latitude: -6.15083435
+  longitude: 106.77996854999999
+  type: way
+  amenity_type: fire_station

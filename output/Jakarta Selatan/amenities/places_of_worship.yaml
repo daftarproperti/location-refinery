@@ -1,0 +1,7475 @@
+objects:
+- id: 7549884
+  name: GBI Kebayoran
+  alt_name: []
+  latitude: -6.24214958099043
+  longitude: 106.80737674032672
+  type: relation
+  amenity_type: place_of_worship
+- id: 10674799
+  name: Masjid At-Taqwa
+  alt_name: []
+  latitude: -6.24053000306689
+  longitude: 106.8027133645781
+  type: relation
+  amenity_type: place_of_worship
+- id: 119740833
+  name: Masjid Al Ikhsan
+  alt_name: []
+  latitude: -6.227284936233143
+  longitude: 106.81656990393175
+  type: way
+  amenity_type: place_of_worship
+- id: 119918026
+  name: Masjid Al Iqdam
+  alt_name: []
+  latitude: -6.322364154711102
+  longitude: 106.83727818891049
+  type: way
+  amenity_type: place_of_worship
+- id: 120385640
+  name: Masjid Al Ikhlas Jatipadang
+  alt_name: []
+  latitude: -6.286308563151379
+  longitude: 106.82948111359329
+  type: way
+  amenity_type: place_of_worship
+- id: 120390225
+  name: Masjid Jami' Maulana Hasanudin
+  alt_name: []
+  latitude: -6.2438072
+  longitude: 106.85315664999999
+  type: way
+  amenity_type: place_of_worship
+- id: 120390234
+  name: Gedung Pertemuan Advent
+  alt_name:
+  - Kantor Pusat Gereja Masehi Advent Hari Ketujuh
+  latitude: -6.24279866405152
+  longitude: 106.84612633398392
+  type: way
+  amenity_type: place_of_worship
+- id: 120629574
+  name: Masjid Jami Al Ikhsan
+  alt_name: []
+  latitude: -6.350448651095289
+  longitude: 106.83369176317049
+  type: way
+  amenity_type: place_of_worship
+- id: 120840924
+  name: Masjid Al Mustaqim
+  alt_name: []
+  latitude: -6.242177149999999
+  longitude: 106.8306677
+  type: way
+  amenity_type: place_of_worship
+- id: 120882287
+  name: Masjid Al Hidayah
+  alt_name: []
+  latitude: -6.239438089306465
+  longitude: 106.84112282243758
+  type: way
+  amenity_type: place_of_worship
+- id: 121129269
+  name: Masjid Al-Bayyinah
+  alt_name: []
+  latitude: -6.211383486768345
+  longitude: 106.82875767465436
+  type: way
+  amenity_type: place_of_worship
+- id: 121158380
+  name: Masjid Daarul Muqorrobien
+  alt_name: []
+  latitude: -6.22815424636947
+  longitude: 106.83430713203182
+  type: way
+  amenity_type: place_of_worship
+- id: 121158823
+  name: Masjid Darul Mukorobin
+  alt_name: []
+  latitude: -6.237049894706752
+  longitude: 106.83143643778011
+  type: way
+  amenity_type: place_of_worship
+- id: 121261383
+  name: Masjid Jami Al Maghfiroh
+  alt_name: []
+  latitude: -6.2915367001127205
+  longitude: 106.81269881146412
+  type: way
+  amenity_type: place_of_worship
+- id: 121261401
+  name: Masjid Jami Al azhar
+  alt_name: []
+  latitude: -6.297162966100031
+  longitude: 106.83468896714764
+  type: way
+  amenity_type: place_of_worship
+- id: 121370653
+  name: Masjid Ar Rahman
+  alt_name: []
+  latitude: -6.290154649999999
+  longitude: 106.7883552
+  type: way
+  amenity_type: place_of_worship
+- id: 121370675
+  name: Masjid Al Barkah
+  alt_name: []
+  latitude: -6.28438433125234
+  longitude: 106.81128897105737
+  type: way
+  amenity_type: place_of_worship
+- id: 122140833
+  name: Masjid Jami' Al-Ijabah
+  alt_name: []
+  latitude: -6.241932978841695
+  longitude: 106.83228148491472
+  type: way
+  amenity_type: place_of_worship
+- id: 122140865
+  name: Masjid Jami' Nurul Islam
+  alt_name: []
+  latitude: -6.240918505216248
+  longitude: 106.81936295391013
+  type: way
+  amenity_type: place_of_worship
+- id: 122152089
+  name: Salahuddin
+  alt_name: []
+  latitude: -6.226202289618335
+  longitude: 106.81442455132138
+  type: way
+  amenity_type: place_of_worship
+- id: 122152164
+  name: Masjid Baitul Ilmi
+  alt_name: []
+  latitude: -6.235070767697192
+  longitude: 106.82621949386478
+  type: way
+  amenity_type: place_of_worship
+- id: 122152168
+  name: Masjid At-Taufiq
+  alt_name: []
+  latitude: -6.205336217989471
+  longitude: 106.83329648784753
+  type: way
+  amenity_type: place_of_worship
+- id: 122152218
+  name: Masjid Attaufiq
+  alt_name: []
+  latitude: -6.232814330081036
+  longitude: 106.8239863598553
+  type: way
+  amenity_type: place_of_worship
+- id: 122152266
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.244987078194889
+  longitude: 106.85530085357814
+  type: way
+  amenity_type: place_of_worship
+- id: 122211525
+  name: Masjid Jami Ar Ridwan
+  alt_name: []
+  latitude: -6.226342699999999
+  longitude: 106.84630745000001
+  type: way
+  amenity_type: place_of_worship
+- id: 124080197
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.230284800000001
+  longitude: 106.80790395
+  type: way
+  amenity_type: place_of_worship
+- id: 124839538
+  name: Huria Kristen Batak Protestan Kebayoran Baru
+  alt_name: []
+  latitude: -6.234001821951483
+  longitude: 106.79405240426101
+  type: way
+  amenity_type: place_of_worship
+- id: 152054499
+  name: Masjid Nurul Falah
+  alt_name: []
+  latitude: -6.352302397836517
+  longitude: 106.82443868198415
+  type: way
+  amenity_type: place_of_worship
+- id: 153309494
+  name: Masjid Jami Al Istiqomah
+  alt_name: []
+  latitude: -6.272865756170381
+  longitude: 106.82522243684498
+  type: way
+  amenity_type: place_of_worship
+- id: 153494635
+  name: Masjid Jami Nurul Huda
+  alt_name: []
+  latitude: -6.33665575
+  longitude: 106.8355492
+  type: way
+  amenity_type: place_of_worship
+- id: 155812918
+  name: Masjid Jami' Al Hikmah
+  alt_name: []
+  latitude: -6.313514030005087
+  longitude: 106.79629275827617
+  type: way
+  amenity_type: place_of_worship
+- id: 155935902
+  name: Mushola Darrusalam
+  alt_name:
+  - Musholla Darrusalam
+  latitude: -6.264403513651044
+  longitude: 106.85696795023685
+  type: way
+  amenity_type: place_of_worship
+- id: 156830045
+  name: Masjid Al Mubaroq
+  alt_name: []
+  latitude: -6.231516121037719
+  longitude: 106.81963818629164
+  type: way
+  amenity_type: place_of_worship
+- id: 156830079
+  name: Musholla Al-Muttaqin
+  alt_name: []
+  latitude: -6.235169826908099
+  longitude: 106.82095637610371
+  type: way
+  amenity_type: place_of_worship
+- id: 156834791
+  name: Masjid Jami' Ar-Rohmah
+  alt_name: []
+  latitude: -6.23483196968118
+  longitude: 106.82285940485252
+  type: way
+  amenity_type: place_of_worship
+- id: 157344196
+  name: Masjid Raihanul Hamim
+  alt_name: []
+  latitude: -6.2411386
+  longitude: 106.82765615000001
+  type: way
+  amenity_type: place_of_worship
+- id: 157344200
+  name: Masjid Jami Al Munawwar
+  alt_name: []
+  latitude: -6.24971275
+  longitude: 106.8421669
+  type: way
+  amenity_type: place_of_worship
+- id: 157344713
+  name: Masjid Jami Al-Istiqamah
+  alt_name: []
+  latitude: -6.2277216502599675
+  longitude: 106.82335691250499
+  type: way
+  amenity_type: place_of_worship
+- id: 157344715
+  name: Masjid Istiqomah
+  alt_name: []
+  latitude: -6.233771400000001
+  longitude: 106.82683145
+  type: way
+  amenity_type: place_of_worship
+- id: 157344728
+  name: Masjid Al-Istiqomah
+  alt_name: []
+  latitude: -6.231898623674407
+  longitude: 106.82404000855448
+  type: way
+  amenity_type: place_of_worship
+- id: 157344789
+  name: Masjid Darussalam
+  alt_name: []
+  latitude: -6.228203075342889
+  longitude: 106.81094830540547
+  type: way
+  amenity_type: place_of_worship
+- id: 157344895
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.250340879448651
+  longitude: 106.80818618096298
+  type: way
+  amenity_type: place_of_worship
+- id: 157344924
+  name: Masjid Al-Abror
+  alt_name: []
+  latitude: -6.207899100000002
+  longitude: 106.8256746
+  type: way
+  amenity_type: place_of_worship
+- id: 157344925
+  name: Masjid Jami' Al-Amal
+  alt_name: []
+  latitude: -6.207083478789127
+  longitude: 106.82336909401215
+  type: way
+  amenity_type: place_of_worship
+- id: 157345083
+  name: Masjid Jami' Al Hasanain
+  alt_name: []
+  latitude: -6.246431818881166
+  longitude: 106.8563249965536
+  type: way
+  amenity_type: place_of_worship
+- id: 157345087
+  name: Masjid Jami' Raudhatus Shalihin
+  alt_name: []
+  latitude: -6.245480100000001
+  longitude: 106.85944040000001
+  type: way
+  amenity_type: place_of_worship
+- id: 157345569
+  name: Masjid Al-Istiqomah
+  alt_name: []
+  latitude: -6.274314716900145
+  longitude: 106.796070549457
+  type: way
+  amenity_type: place_of_worship
+- id: 157345570
+  name: Masjid Nurul Yaqin
+  alt_name: []
+  latitude: -6.263621789841246
+  longitude: 106.79406802771013
+  type: way
+  amenity_type: place_of_worship
+- id: 157345585
+  name: Masjid Jami' Baitul Khair
+  alt_name: []
+  latitude: -6.249012097766487
+  longitude: 106.85894398185772
+  type: way
+  amenity_type: place_of_worship
+- id: 157345588
+  name: Masjid Jami' Darul Mukhtar
+  alt_name: []
+  latitude: -6.24852385
+  longitude: 106.86202949999999
+  type: way
+  amenity_type: place_of_worship
+- id: 157345589
+  name: Masjid Al Muttaqien
+  alt_name: []
+  latitude: -6.249645228792776
+  longitude: 106.85489468245386
+  type: way
+  amenity_type: place_of_worship
+- id: 157345688
+  name: Musholla An-Nur
+  alt_name: []
+  latitude: -6.259973423707755
+  longitude: 106.84796008770887
+  type: way
+  amenity_type: place_of_worship
+- id: 157345690
+  name: Al - Huda
+  alt_name: []
+  latitude: -6.263263371803745
+  longitude: 106.84073877094747
+  type: way
+  amenity_type: place_of_worship
+- id: 157345691
+  name: Masjid Al Khairiyah
+  alt_name: []
+  latitude: -6.26598845
+  longitude: 106.84058710000001
+  type: way
+  amenity_type: place_of_worship
+- id: 157345697
+  name: Masjid Jami' Nurul Hidayah Kalibata
+  alt_name: []
+  latitude: -6.264964878516003
+  longitude: 106.83451776849827
+  type: way
+  amenity_type: place_of_worship
+- id: 157346023
+  name: Masjid Jami' Daarul Falah
+  alt_name: []
+  latitude: -6.278245752526106
+  longitude: 106.79309646755432
+  type: way
+  amenity_type: place_of_worship
+- id: 157346286
+  name: Mushalla Al Ikhlas
+  alt_name:
+  - Musholla Al Ikhlas
+  latitude: -6.244768204861653
+  longitude: 106.85199768024928
+  type: way
+  amenity_type: place_of_worship
+- id: 157347050
+  name: Gereja Santapan Rohani Indonesia Jemaat Kebayoran Baru
+  alt_name: []
+  latitude: -6.242283165488734
+  longitude: 106.8134115040977
+  type: way
+  amenity_type: place_of_worship
+- id: 157347062
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.244703449834953
+  longitude: 106.81113939461096
+  type: way
+  amenity_type: place_of_worship
+- id: 157347064
+  name: Masjid Nurul Hilal
+  alt_name: []
+  latitude: -6.240713793754141
+  longitude: 106.80899467453806
+  type: way
+  amenity_type: place_of_worship
+- id: 157347068
+  name: Masjid Jami Nurul Huda
+  alt_name: []
+  latitude: -6.241895100216942
+  longitude: 106.81408257374665
+  type: way
+  amenity_type: place_of_worship
+- id: 157347110
+  name: Masjid As-Syifa
+  alt_name: []
+  latitude: -6.2179319
+  longitude: 106.81617165
+  type: way
+  amenity_type: place_of_worship
+- id: 157347123
+  name: Masjid Jami Baitul Mughni
+  alt_name: []
+  latitude: -6.231070474267074
+  longitude: 106.82139058553145
+  type: way
+  amenity_type: place_of_worship
+- id: 157347124
+  name: Vihara Amurva Bhumi
+  alt_name: []
+  latitude: -6.218598151788265
+  longitude: 106.81879579182763
+  type: way
+  amenity_type: place_of_worship
+- id: 157347154
+  name: Masjid Baitul Mukhlisin
+  alt_name: []
+  latitude: -6.2207486589608845
+  longitude: 106.81531458775369
+  type: way
+  amenity_type: place_of_worship
+- id: 157347169
+  name: Mushola Nurul Huda
+  alt_name:
+  - Musholla Nurul Huda
+  latitude: -6.225396168772258
+  longitude: 106.82136923532727
+  type: way
+  amenity_type: place_of_worship
+- id: 157347175
+  name: Masjid Hidayatullah
+  alt_name: []
+  latitude: -6.217397483325517
+  longitude: 106.81755674359432
+  type: way
+  amenity_type: place_of_worship
+- id: 157348237
+  name: Gereja Santa Maria
+  alt_name: []
+  latitude: -6.289860052140564
+  longitude: 106.82466471778903
+  type: way
+  amenity_type: place_of_worship
+- id: 157348257
+  name: Masjid Hayatul Islam
+  alt_name: []
+  latitude: -6.288624465319006
+  longitude: 106.83450456834271
+  type: way
+  amenity_type: place_of_worship
+- id: 157348266
+  name: Masjid Jami Al Furqon
+  alt_name: []
+  latitude: -6.2816031205244105
+  longitude: 106.83004869131233
+  type: way
+  amenity_type: place_of_worship
+- id: 157348269
+  name: Masjid Jami Al Huda
+  alt_name: []
+  latitude: -6.295270749999999
+  longitude: 106.82802989999999
+  type: way
+  amenity_type: place_of_worship
+- id: 157348273
+  name: Masjid Jami Al Istiqomah
+  alt_name: []
+  latitude: -6.283556850000001
+  longitude: 106.83568030000002
+  type: way
+  amenity_type: place_of_worship
+- id: 157348278
+  name: Masjid Al Ridwan
+  alt_name: []
+  latitude: -6.292144199999999
+  longitude: 106.83110110000001
+  type: way
+  amenity_type: place_of_worship
+- id: 157348283
+  name: Masjid Jami An Nur
+  alt_name: []
+  latitude: -6.281918179398366
+  longitude: 106.83391180380418
+  type: way
+  amenity_type: place_of_worship
+- id: 157348284
+  name: Masjid Jami Hidayatul Mutaqin
+  alt_name: []
+  latitude: -6.2920895646515875
+  longitude: 106.82674182165839
+  type: way
+  amenity_type: place_of_worship
+- id: 157348290
+  name: Masjid Mujahidin
+  alt_name: []
+  latitude: -6.288974993852776
+  longitude: 106.82695670328425
+  type: way
+  amenity_type: place_of_worship
+- id: 157349466
+  name: Masjid MTs Negeri 32
+  alt_name: []
+  latitude: -6.224262576990416
+  longitude: 106.74055908948951
+  type: way
+  amenity_type: place_of_worship
+- id: 157349575
+  name: GBI Rehobot Perdatam
+  alt_name: []
+  latitude: -6.247214399521452
+  longitude: 106.84891582856125
+  type: way
+  amenity_type: place_of_worship
+- id: 157349576
+  name: Masjid Al Istijabah
+  alt_name: []
+  latitude: -6.248235328838944
+  longitude: 106.85152621363488
+  type: way
+  amenity_type: place_of_worship
+- id: 157349578
+  name: Masjid Jami' Fathul Jami
+  alt_name: []
+  latitude: -6.250455685417967
+  longitude: 106.84892312523151
+  type: way
+  amenity_type: place_of_worship
+- id: 157349671
+  name: Masjid Kramat Pela
+  alt_name: []
+  latitude: -6.250379322830015
+  longitude: 106.79607304222057
+  type: way
+  amenity_type: place_of_worship
+- id: 157349935
+  name: Gereja Santa Perawan Maria Ratu
+  alt_name: []
+  latitude: -6.238394280143515
+  longitude: 106.81446143198505
+  type: way
+  amenity_type: place_of_worship
+- id: 157349944
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.23741860528253
+  longitude: 106.81686122139742
+  type: way
+  amenity_type: place_of_worship
+- id: 157349945
+  name: Masjid Nurul Mujahidin
+  alt_name: []
+  latitude: -6.236745399999999
+  longitude: 106.80925309999998
+  type: way
+  amenity_type: place_of_worship
+- id: 157350130
+  name: Masjid Nur Abu Wizar
+  alt_name: []
+  latitude: -6.253208914475231
+  longitude: 106.7981101714579
+  type: way
+  amenity_type: place_of_worship
+- id: 157350249
+  name: Masjid Al Hidayah
+  alt_name: []
+  latitude: -6.239867740002459
+  longitude: 106.81280351105522
+  type: way
+  amenity_type: place_of_worship
+- id: 157350250
+  name: Masjid Jami Nurul Iman
+  alt_name: []
+  latitude: -6.240652930911576
+  longitude: 106.81030313939102
+  type: way
+  amenity_type: place_of_worship
+- id: 157350386
+  name: Masjid Jami Baitul Hamid
+  alt_name: []
+  latitude: -6.238158299999999
+  longitude: 106.8058224
+  type: way
+  amenity_type: place_of_worship
+- id: 157350387
+  name: Masjid Jami Nurul Hidayah
+  alt_name: []
+  latitude: -6.23279185
+  longitude: 106.8144803
+  type: way
+  amenity_type: place_of_worship
+- id: 157350648
+  name: Masjid Al Mujtami'in
+  alt_name: []
+  latitude: -6.263736094923856
+  longitude: 106.82915639775733
+  type: way
+  amenity_type: place_of_worship
+- id: 157350651
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.261886290169897
+  longitude: 106.84079631139599
+  type: way
+  amenity_type: place_of_worship
+- id: 157350823
+  name: Musholla Nurul Yaqin
+  alt_name: []
+  latitude: -6.245934913896488
+  longitude: 106.76715294322243
+  type: way
+  amenity_type: place_of_worship
+- id: 157350830
+  name: Masjid Al Muawanah
+  alt_name: []
+  latitude: -6.23254595
+  longitude: 106.7605358
+  type: way
+  amenity_type: place_of_worship
+- id: 157351762
+  name: Mushola Al Anwar
+  alt_name:
+  - Musholla Al Anwar
+  latitude: -6.24291387800164
+  longitude: 106.82887324669402
+  type: way
+  amenity_type: place_of_worship
+- id: 157351769
+  name: Masjid As Sa'adah
+  alt_name: []
+  latitude: -6.2450360280579025
+  longitude: 106.83471006490444
+  type: way
+  amenity_type: place_of_worship
+- id: 157351778
+  name: Masjid Al Falah
+  alt_name: []
+  latitude: -6.24345698290391
+  longitude: 106.82487180229077
+  type: way
+  amenity_type: place_of_worship
+- id: 157351782
+  name: Mushola Nurul Ikhwan
+  alt_name:
+  - Musholla Nurul Ikhwan
+  latitude: -6.242414242707941
+  longitude: 106.82382347499686
+  type: way
+  amenity_type: place_of_worship
+- id: 157353680
+  name: Mushollah Al Muqoddimah
+  alt_name:
+  - Musholla Al Muqoddimah
+  latitude: -6.335898249999997
+  longitude: 106.82471589999997
+  type: way
+  amenity_type: place_of_worship
+- id: 157353879
+  name: Masjid Al-Barkah
+  alt_name: []
+  latitude: -6.273884552072807
+  longitude: 106.80603831673595
+  type: way
+  amenity_type: place_of_worship
+- id: 157353880
+  name: Masjid Jami' Al-I'tishom
+  alt_name: []
+  latitude: -6.277542317980054
+  longitude: 106.80807244599812
+  type: way
+  amenity_type: place_of_worship
+- id: 157353887
+  name: Masjid Birrul-Amin
+  alt_name: []
+  latitude: -6.275930800000001
+  longitude: 106.80491169999999
+  type: way
+  amenity_type: place_of_worship
+- id: 157354386
+  name: Gereja Kristen Indonesia Kebayoran Baru
+  alt_name: []
+  latitude: -6.247380945806386
+  longitude: 106.80106203006984
+  type: way
+  amenity_type: place_of_worship
+- id: 157354403
+  name: Masjid Daarul Ilmi STIK
+  alt_name: []
+  latitude: -6.2434178000000005
+  longitude: 106.80655010000002
+  type: way
+  amenity_type: place_of_worship
+- id: 157354405
+  name: Masjid Syarif Hidayatullah
+  alt_name: []
+  latitude: -6.246884116405032
+  longitude: 106.8060564957677
+  type: way
+  amenity_type: place_of_worship
+- id: 157354570
+  name: Masjid Al-Huda
+  alt_name: []
+  latitude: -6.238016377606346
+  longitude: 106.82406870768992
+  type: way
+  amenity_type: place_of_worship
+- id: 157354572
+  name: Masjid At Taisyir
+  alt_name: []
+  latitude: -6.236535079585504
+  longitude: 106.81912345837375
+  type: way
+  amenity_type: place_of_worship
+- id: 157354594
+  name: Masjid Assalam
+  alt_name: []
+  latitude: -6.210593
+  longitude: 106.84057070000001
+  type: way
+  amenity_type: place_of_worship
+- id: 157354605
+  name: Masjid Jami Assalam
+  alt_name: []
+  latitude: -6.21107311703892
+  longitude: 106.83961960551166
+  type: way
+  amenity_type: place_of_worship
+- id: 157354607
+  name: Masjid Jami Al-Abror
+  alt_name: []
+  latitude: -6.207942966512066
+  longitude: 106.8424260445991
+  type: way
+  amenity_type: place_of_worship
+- id: 157354634
+  name: Masjid Al-Makmur
+  alt_name: []
+  latitude: -6.231870128697836
+  longitude: 106.83706346484114
+  type: way
+  amenity_type: place_of_worship
+- id: 157354636
+  name: Masjid Al-Barokah
+  alt_name: []
+  latitude: -6.229104663441822
+  longitude: 106.83660808565052
+  type: way
+  amenity_type: place_of_worship
+- id: 157354733
+  name: Masjid An Nur
+  alt_name: []
+  latitude: -6.246013961708107
+  longitude: 106.75563373689184
+  type: way
+  amenity_type: place_of_worship
+- id: 157354734
+  name: Masjid Al Amin
+  alt_name: []
+  latitude: -6.236669857010664
+  longitude: 106.7550167953396
+  type: way
+  amenity_type: place_of_worship
+- id: 157354735
+  name: Masjid Jami Al Huda
+  alt_name: []
+  latitude: -6.245305094902683
+  longitude: 106.75275388195861
+  type: way
+  amenity_type: place_of_worship
+- id: 157354737
+  name: Masjid Jami Baitut Taqwa
+  alt_name: []
+  latitude: -6.239929874455055
+  longitude: 106.7508541323887
+  type: way
+  amenity_type: place_of_worship
+- id: 157354740
+  name: Masjid Dian Al Ikhlas
+  alt_name: []
+  latitude: -6.243572282492586
+  longitude: 106.75809883143233
+  type: way
+  amenity_type: place_of_worship
+- id: 157355119
+  name: Masjid At-Tahiriyah
+  alt_name: []
+  latitude: -6.224991167621162
+  longitude: 106.85985204281307
+  type: way
+  amenity_type: place_of_worship
+- id: 157355120
+  name: Masjid As-Sudairi Muhammadiyah Bukit Duri
+  alt_name: []
+  latitude: -6.22058219604526
+  longitude: 106.85926981451753
+  type: way
+  amenity_type: place_of_worship
+- id: 157356700
+  name: Masjid Jami' Nurul Islam
+  alt_name: []
+  latitude: -6.260916674361331
+  longitude: 106.8492883936657
+  type: way
+  amenity_type: place_of_worship
+- id: 157356702
+  name: Musholla Guru Zain
+  alt_name: []
+  latitude: -6.260229675529042
+  longitude: 106.84359488767599
+  type: way
+  amenity_type: place_of_worship
+- id: 157356788
+  name: Masjid Al Ihsan
+  alt_name: []
+  latitude: -6.222830575333107
+  longitude: 106.86251976793885
+  type: way
+  amenity_type: place_of_worship
+- id: 157357168
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.228013646067814
+  longitude: 106.76083073006502
+  type: way
+  amenity_type: place_of_worship
+- id: 157357261
+  name: Huria Kristen Indonesia Jemaat Menteng Pulo Resort Jakarta III
+  alt_name: []
+  latitude: -6.221302799999999
+  longitude: 106.83820630000001
+  type: way
+  amenity_type: place_of_worship
+- id: 157357280
+  name: Masjid Al-Bakrie
+  alt_name: []
+  latitude: -6.2194030340811555
+  longitude: 106.83759667824869
+  type: way
+  amenity_type: place_of_worship
+- id: 157357282
+  name: Masjid Al Barkah
+  alt_name: []
+  latitude: -6.217876527438599
+  longitude: 106.84024985487483
+  type: way
+  amenity_type: place_of_worship
+- id: 157357286
+  name: Masjid Al Falah
+  alt_name: []
+  latitude: -6.219890049721468
+  longitude: 106.83949585014577
+  type: way
+  amenity_type: place_of_worship
+- id: 157357288
+  name: Masjid Jami' Al-Mujahidin
+  alt_name: []
+  latitude: -6.213981380647389
+  longitude: 106.83863710810232
+  type: way
+  amenity_type: place_of_worship
+- id: 157357296
+  name: Masjid As Suadah
+  alt_name: []
+  latitude: -6.221252574479801
+  longitude: 106.8442187092726
+  type: way
+  amenity_type: place_of_worship
+- id: 157357302
+  name: Masjid Daarun Najaah
+  alt_name: []
+  latitude: -6.217700422521894
+  longitude: 106.84042564061559
+  type: way
+  amenity_type: place_of_worship
+- id: 157357307
+  name: Masjid Nurul Jihad
+  alt_name: []
+  latitude: -6.219466208573153
+  longitude: 106.84433776669353
+  type: way
+  amenity_type: place_of_worship
+- id: 157357312
+  name: Masjid Sabiul Huda
+  alt_name: []
+  latitude: -6.22042517229515
+  longitude: 106.84225424288316
+  type: way
+  amenity_type: place_of_worship
+- id: 157357605
+  name: Masjid Al Bayinah
+  alt_name: []
+  latitude: -6.211159601454432
+  longitude: 106.82761792899544
+  type: way
+  amenity_type: place_of_worship
+- id: 157358072
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.264509587194147
+  longitude: 106.78975017348871
+  type: way
+  amenity_type: place_of_worship
+- id: 157358448
+  name: HKBP Menteng Lama
+  alt_name: []
+  latitude: -6.207275957579802
+  longitude: 106.83226299688012
+  type: way
+  amenity_type: place_of_worship
+- id: 157358452
+  name: Gereja Gesmani
+  alt_name: []
+  latitude: -6.207697101262784
+  longitude: 106.83745337932405
+  type: way
+  amenity_type: place_of_worship
+- id: 157358485
+  name: Masjid Jami Tangkuban Perahu
+  alt_name: []
+  latitude: -6.207323181913723
+  longitude: 106.83463150927335
+  type: way
+  amenity_type: place_of_worship
+- id: 157358555
+  name: Gereja Kristen Indonesia
+  alt_name: []
+  latitude: -6.2063584960821165
+  longitude: 106.83404551533273
+  type: way
+  amenity_type: place_of_worship
+- id: 157359387
+  name: Masjid Raya Pondok Indah
+  alt_name: []
+  latitude: -6.261562368586338
+  longitude: 106.78279624517191
+  type: way
+  amenity_type: place_of_worship
+- id: 157359519
+  name: Masjid Al Azhar Kemandoran
+  alt_name: []
+  latitude: -6.210562250000001
+  longitude: 106.79071075
+  type: way
+  amenity_type: place_of_worship
+- id: 157359524
+  name: Masjid Al Falah
+  alt_name: []
+  latitude: -6.21399495
+  longitude: 106.79131185
+  type: way
+  amenity_type: place_of_worship
+- id: 157359876
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.310890000000001
+  longitude: 106.8477278
+  type: way
+  amenity_type: place_of_worship
+- id: 157359894
+  name: Masjid Khusnul Khatimah
+  alt_name: []
+  latitude: -6.310364368228233
+  longitude: 106.84222108486102
+  type: way
+  amenity_type: place_of_worship
+- id: 157360071
+  name: Masjid Al-Mubasysyirin
+  alt_name: []
+  latitude: -6.215396579665208
+  longitude: 106.82621337362217
+  type: way
+  amenity_type: place_of_worship
+- id: 157360703
+  name: Masjid Jami Ayubalwasal
+  alt_name: []
+  latitude: -6.348642269848341
+  longitude: 106.80860069401692
+  type: way
+  amenity_type: place_of_worship
+- id: 157360705
+  name: Masjid Darusallam
+  alt_name: []
+  latitude: -6.346452850000001
+  longitude: 106.81008705
+  type: way
+  amenity_type: place_of_worship
+- id: 157360968
+  name: Masjid Miftahul Khoir
+  alt_name: []
+  latitude: -6.218419836790374
+  longitude: 106.8277396214716
+  type: way
+  amenity_type: place_of_worship
+- id: 157361046
+  name: Gereja Kristen Indonesia Karbela
+  alt_name: []
+  latitude: -6.2163995574454995
+  longitude: 106.82253255453537
+  type: way
+  amenity_type: place_of_worship
+- id: 157361061
+  name: Masjid Al-Huda
+  alt_name: []
+  latitude: -6.221149752534383
+  longitude: 106.82831397529425
+  type: way
+  amenity_type: place_of_worship
+- id: 157361062
+  name: Masjid Babus Salam
+  alt_name: []
+  latitude: -6.216472799999999
+  longitude: 106.82456609999998
+  type: way
+  amenity_type: place_of_worship
+- id: 157361065
+  name: Masjid Baiturrohman
+  alt_name: []
+  latitude: -6.222864713067514
+  longitude: 106.82756863576314
+  type: way
+  amenity_type: place_of_worship
+- id: 157361067
+  name: Masjid Jami' Darus Salam
+  alt_name: []
+  latitude: -6.22122455
+  longitude: 106.82947355
+  type: way
+  amenity_type: place_of_worship
+- id: 157361068
+  name: Masjid Jami' Nurul Hikmah
+  alt_name: []
+  latitude: -6.217856701384653
+  longitude: 106.82469496781707
+  type: way
+  amenity_type: place_of_worship
+- id: 157361070
+  name: masjid nuruttaqwa
+  alt_name: []
+  latitude: -6.220588127391994
+  longitude: 106.82549583706653
+  type: way
+  amenity_type: place_of_worship
+- id: 157361075
+  name: Masjid Sairul Jannah
+  alt_name: []
+  latitude: -6.219433531416154
+  longitude: 106.8215986519902
+  type: way
+  amenity_type: place_of_worship
+- id: 157361161
+  name: Masjid An Nur
+  alt_name: []
+  latitude: -6.346200199999999
+  longitude: 106.81526929999997
+  type: way
+  amenity_type: place_of_worship
+- id: 157361162
+  name: Masjid Al Jannah
+  alt_name: []
+  latitude: -6.338538093057291
+  longitude: 106.8235882809599
+  type: way
+  amenity_type: place_of_worship
+- id: 157361177
+  name: Masjid Jami' Nurul Yaqin
+  alt_name: []
+  latitude: -6.346222749278504
+  longitude: 106.83254281644345
+  type: way
+  amenity_type: place_of_worship
+- id: 157361178
+  name: Masjid Jami Nurul Akbar
+  alt_name: []
+  latitude: -6.338830072583991
+  longitude: 106.82913739095827
+  type: way
+  amenity_type: place_of_worship
+- id: 157361264
+  name: Masjid Al Fajar
+  alt_name: []
+  latitude: -6.23790095
+  longitude: 106.79292320000002
+  type: way
+  amenity_type: place_of_worship
+- id: 157361265
+  name: Masjid Al Ihsan
+  alt_name: []
+  latitude: -6.2383117626327405
+  longitude: 106.78782652982157
+  type: way
+  amenity_type: place_of_worship
+- id: 157361266
+  name: Masjid Nurul Yaqien
+  alt_name: []
+  latitude: -6.2343867500000005
+  longitude: 106.78800419999999
+  type: way
+  amenity_type: place_of_worship
+- id: 157361695
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.253751738913799
+  longitude: 106.77641474853453
+  type: way
+  amenity_type: place_of_worship
+- id: 157361773
+  name: Masjid Al Barkah
+  alt_name: []
+  latitude: -6.348551978021546
+  longitude: 106.80156341318653
+  type: way
+  amenity_type: place_of_worship
+- id: 157361774
+  name: Masjid Al Inayah
+  alt_name: []
+  latitude: -6.36221065
+  longitude: 106.80208544999998
+  type: way
+  amenity_type: place_of_worship
+- id: 157361793
+  name: Masjid Jami' At-Taubah
+  alt_name: []
+  latitude: -6.311297199999999
+  longitude: 106.80421224999999
+  type: way
+  amenity_type: place_of_worship
+- id: 157361794
+  name: Masjid Jami' Darussa'adah
+  alt_name: []
+  latitude: -6.3133383000000025
+  longitude: 106.8004854
+  type: way
+  amenity_type: place_of_worship
+- id: 157361795
+  name: Masjid Jami' Darussalam
+  alt_name: []
+  latitude: -6.307957828418907
+  longitude: 106.79891325251016
+  type: way
+  amenity_type: place_of_worship
+- id: 157362053
+  name: Masjid Jami' At-Taqwa
+  alt_name: []
+  latitude: -6.303719515716126
+  longitude: 106.79692894640286
+  type: way
+  amenity_type: place_of_worship
+- id: 157362056
+  name: Musholla Al-Hidayah
+  alt_name: []
+  latitude: -6.2225254320616274
+  longitude: 106.8551816045482
+  type: way
+  amenity_type: place_of_worship
+- id: 157362100
+  name: Masjid Jami Al Izzah
+  alt_name: []
+  latitude: -6.241840706759902
+  longitude: 106.85706030276894
+  type: way
+  amenity_type: place_of_worship
+- id: 157362101
+  name: Masjid Jami Al Jihad
+  alt_name: []
+  latitude: -6.237088878141375
+  longitude: 106.85629640350224
+  type: way
+  amenity_type: place_of_worship
+- id: 157362102
+  name: Masjid Jami Darul Falah
+  alt_name: []
+  latitude: -6.233932528973539
+  longitude: 106.85785183505074
+  type: way
+  amenity_type: place_of_worship
+- id: 157362103
+  name: Masjid Jami Al Huda
+  alt_name: []
+  latitude: -6.234294644707185
+  longitude: 106.85352330914442
+  type: way
+  amenity_type: place_of_worship
+- id: 157362104
+  name: Masjid Al-Muttaqien
+  alt_name: []
+  latitude: -6.241257749403313
+  longitude: 106.85410671013706
+  type: way
+  amenity_type: place_of_worship
+- id: 157362105
+  name: Masjid Raudhatul Jannah
+  alt_name: []
+  latitude: -6.228617945349837
+  longitude: 106.85763252507817
+  type: way
+  amenity_type: place_of_worship
+- id: 157362106
+  name: Masjid Ar-Rahmah
+  alt_name: []
+  latitude: -6.230045015294137
+  longitude: 106.85396581015961
+  type: way
+  amenity_type: place_of_worship
+- id: 157362147
+  name: Masjid Jami Nurul Falah
+  alt_name: []
+  latitude: -6.301171815585141
+  longitude: 106.82102403176916
+  type: way
+  amenity_type: place_of_worship
+- id: 157362148
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.298353918603788
+  longitude: 106.82181375115955
+  type: way
+  amenity_type: place_of_worship
+- id: 157362224
+  name: Gereja Kristen Oikoumene Indonesia
+  alt_name: []
+  latitude: -6.340604383654566
+  longitude: 106.8351113796966
+  type: way
+  amenity_type: place_of_worship
+- id: 157362228
+  name: Masjid Al Barkah
+  alt_name: []
+  latitude: -6.326364315646525
+  longitude: 106.8368846697737
+  type: way
+  amenity_type: place_of_worship
+- id: 157362230
+  name: Masjid Al Ikhlas
+  alt_name: []
+  latitude: -6.341540214115336
+  longitude: 106.83527425106509
+  type: way
+  amenity_type: place_of_worship
+- id: 157362232
+  name: Masjid Jami Al Maghfiroh
+  alt_name: []
+  latitude: -6.3311340614150815
+  longitude: 106.8398607540008
+  type: way
+  amenity_type: place_of_worship
+- id: 157362234
+  name: Masjid Abu Bakar Ash Shidiq
+  alt_name: []
+  latitude: -6.335100250000001
+  longitude: 106.83825800000001
+  type: way
+  amenity_type: place_of_worship
+- id: 157362235
+  name: Masjid Jami Ash Shidiqiyah
+  alt_name: []
+  latitude: -6.325756226352318
+  longitude: 106.84210603450745
+  type: way
+  amenity_type: place_of_worship
+- id: 157362236
+  name: Masjid As Syuhada
+  alt_name: []
+  latitude: -6.3326588500000005
+  longitude: 106.83645415000004
+  type: way
+  amenity_type: place_of_worship
+- id: 157362237
+  name: Masjid Nurul Fathon
+  alt_name: []
+  latitude: -6.34157107712116
+  longitude: 106.84023358424778
+  type: way
+  amenity_type: place_of_worship
+- id: 157362646
+  name: Masjid At Taufieq
+  alt_name: []
+  latitude: -6.2420420626289905
+  longitude: 106.85087677475576
+  type: way
+  amenity_type: place_of_worship
+- id: 157362650
+  name: Masjid Namira
+  alt_name: []
+  latitude: -6.2372886590542365
+  longitude: 106.84738987867922
+  type: way
+  amenity_type: place_of_worship
+- id: 157362652
+  name: Gereja Taman Firdaus
+  alt_name: []
+  latitude: -6.2297660448664685
+  longitude: 106.8504820394461
+  type: way
+  amenity_type: place_of_worship
+- id: 157362655
+  name: HKBP Tebet Barat
+  alt_name: []
+  latitude: -6.24197615
+  longitude: 106.85027015
+  type: way
+  amenity_type: place_of_worship
+- id: 157362656
+  name: Masjid Al Muhajirin
+  alt_name: []
+  latitude: -6.239403327408005
+  longitude: 106.85042401262824
+  type: way
+  amenity_type: place_of_worship
+- id: 157362659
+  name: Masjid Jami' Al-Muqorrobin
+  alt_name: []
+  latitude: -6.23092489804354
+  longitude: 106.85186974881142
+  type: way
+  amenity_type: place_of_worship
+- id: 157362680
+  name: Masjid Al Ittihaad
+  alt_name: []
+  latitude: -6.2317953
+  longitude: 106.84770015
+  type: way
+  amenity_type: place_of_worship
+- id: 157362737
+  name: Gereja Oekumene Bahtera Kasih Cilandak
+  alt_name: []
+  latitude: -6.298934526481331
+  longitude: 106.81434491402037
+  type: way
+  amenity_type: place_of_worship
+- id: 157362758
+  name: Masjid Al Faizin
+  alt_name: []
+  latitude: -6.278031380280334
+  longitude: 106.81950670743113
+  type: way
+  amenity_type: place_of_worship
+- id: 157362761
+  name: Masjid Medco
+  alt_name: []
+  latitude: -6.286333869500578
+  longitude: 106.81830004460298
+  type: way
+  amenity_type: place_of_worship
+- id: 157362878
+  name: Masjid Baitur Makmur
+  alt_name: []
+  latitude: -6.346046531245101
+  longitude: 106.82059765717341
+  type: way
+  amenity_type: place_of_worship
+- id: 157362880
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.343462729432084
+  longitude: 106.83097145639552
+  type: way
+  amenity_type: place_of_worship
+- id: 157363115
+  name: Masjid Jami Baitul Majid
+  alt_name: []
+  latitude: -6.251822627999587
+  longitude: 106.82317159172953
+  type: way
+  amenity_type: place_of_worship
+- id: 157363117
+  name: Masjid Jami' At-Taqwa
+  alt_name: []
+  latitude: -6.245845459878051
+  longitude: 106.81669575534265
+  type: way
+  amenity_type: place_of_worship
+- id: 157363118
+  name: Masjid Jami' Al-Aqwan
+  alt_name: []
+  latitude: -6.244032593095017
+  longitude: 106.81581178825267
+  type: way
+  amenity_type: place_of_worship
+- id: 157363119
+  name: Masjid Al-Hikmah
+  alt_name: []
+  latitude: -6.2490142897145
+  longitude: 106.81728457517174
+  type: way
+  amenity_type: place_of_worship
+- id: 157363120
+  name: Masjid Husnul Khotimah
+  alt_name: []
+  latitude: -6.248607973955409
+  longitude: 106.82087921237687
+  type: way
+  amenity_type: place_of_worship
+- id: 157363122
+  name: Masjid Riyadul Abidin
+  alt_name: []
+  latitude: -6.25222530191035
+  longitude: 106.81408045540529
+  type: way
+  amenity_type: place_of_worship
+- id: 157363135
+  name: GPIB Sumber Kasih
+  alt_name: []
+  latitude: -6.302420299999999
+  longitude: 106.78632800000001
+  type: way
+  amenity_type: place_of_worship
+- id: 157363140
+  name: Masjid Daarul Adzkaar
+  alt_name: []
+  latitude: -6.306336522889912
+  longitude: 106.78099884895752
+  type: way
+  amenity_type: place_of_worship
+- id: 157363176
+  name: Masjid Al Azhar
+  alt_name: []
+  latitude: -6.269517522309829
+  longitude: 106.83685989088328
+  type: way
+  amenity_type: place_of_worship
+- id: 157363178
+  name: Masjid Jami Al Hidayah
+  alt_name: []
+  latitude: -6.27937725
+  longitude: 106.83494905
+  type: way
+  amenity_type: place_of_worship
+- id: 157363179
+  name: Masjid Jami Al Ikhlas
+  alt_name: []
+  latitude: -6.273329001448321
+  longitude: 106.83610410591983
+  type: way
+  amenity_type: place_of_worship
+- id: 157363180
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.269290450000001
+  longitude: 106.8457735
+  type: way
+  amenity_type: place_of_worship
+- id: 157363181
+  name: Masjid Nurul Badar
+  alt_name: []
+  latitude: -6.268416076213109
+  longitude: 106.84525938274304
+  type: way
+  amenity_type: place_of_worship
+- id: 157363182
+  name: Masjid Jami Daarunna'im
+  alt_name: []
+  latitude: -6.271992985903558
+  longitude: 106.84249932886588
+  type: way
+  amenity_type: place_of_worship
+- id: 157363764
+  name: Masjid Jami Daarul Hasan
+  alt_name: []
+  latitude: -6.2756139420017405
+  longitude: 106.84149664569132
+  type: way
+  amenity_type: place_of_worship
+- id: 157363766
+  name: Masjid Sa'adatuddarain
+  alt_name: []
+  latitude: -6.279083858721147
+  longitude: 106.83738712557268
+  type: way
+  amenity_type: place_of_worship
+- id: 157363988
+  name: Masjid Baitul Muttaqin
+  alt_name: []
+  latitude: -6.265817313583907
+  longitude: 106.81580512416998
+  type: way
+  amenity_type: place_of_worship
+- id: 157363991
+  name: Mushala Al Istiqamah
+  alt_name:
+  - Musholla Al Istiqamah
+  latitude: -6.271686698438101
+  longitude: 106.8154509449951
+  type: way
+  amenity_type: place_of_worship
+- id: 157363999
+  name: Masjid Al-Barkah
+  alt_name: []
+  latitude: -6.257779750000001
+  longitude: 106.82302589999999
+  type: way
+  amenity_type: place_of_worship
+- id: 157364000
+  name: Masjid Al-Ibadah
+  alt_name: []
+  latitude: -6.267139499999999
+  longitude: 106.81769495
+  type: way
+  amenity_type: place_of_worship
+- id: 157364001
+  name: Masjid Al-Kautsar
+  alt_name: []
+  latitude: -6.2623812
+  longitude: 106.81773749999999
+  type: way
+  amenity_type: place_of_worship
+- id: 157364002
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.2673843293184595
+  longitude: 106.82360110340076
+  type: way
+  amenity_type: place_of_worship
+- id: 157364003
+  name: Masjid Jami Kemang
+  alt_name: []
+  latitude: -6.257092410843693
+  longitude: 106.8159734829953
+  type: way
+  amenity_type: place_of_worship
+- id: 157364034
+  name: Masjid Jami Al Ijtihad
+  alt_name: []
+  latitude: -6.306046456630341
+  longitude: 106.82953731971216
+  type: way
+  amenity_type: place_of_worship
+- id: 157364035
+  name: Masjid Jami Nurul Khoir
+  alt_name: []
+  latitude: -6.304304425280753
+  longitude: 106.8280901361421
+  type: way
+  amenity_type: place_of_worship
+- id: 157364037
+  name: Masjid An Nuur
+  alt_name: []
+  latitude: -6.324914219577622
+  longitude: 106.82653138481412
+  type: way
+  amenity_type: place_of_worship
+- id: 157364038
+  name: Mushollah Darul Muttaqin
+  alt_name:
+  - Musholla Darul Muttaqin
+  latitude: -6.324793563968582
+  longitude: 106.82513827724316
+  type: way
+  amenity_type: place_of_worship
+- id: 157364380
+  name: Masjid Jami' Al-Akhyar
+  alt_name: []
+  latitude: -6.234699797766697
+  longitude: 106.785035882898
+  type: way
+  amenity_type: place_of_worship
+- id: 157364381
+  name: Masjid Jami' Al Furqon
+  alt_name: []
+  latitude: -6.22771169140222
+  longitude: 106.78086034462709
+  type: way
+  amenity_type: place_of_worship
+- id: 157364382
+  name: Masjid Jami Istiqomah
+  alt_name: []
+  latitude: -6.226302997160111
+  longitude: 106.78940819941226
+  type: way
+  amenity_type: place_of_worship
+- id: 157364383
+  name: Masjid Jami' Al-Ma'ruf
+  alt_name: []
+  latitude: -6.2285768
+  longitude: 106.78532295
+  type: way
+  amenity_type: place_of_worship
+- id: 157364385
+  name: Masjid Jami' An-Nur
+  alt_name: []
+  latitude: -6.23252421901958
+  longitude: 106.78116240054463
+  type: way
+  amenity_type: place_of_worship
+- id: 157364386
+  name: Masjid Jami As Sa'adah
+  alt_name: []
+  latitude: -6.225494268980698
+  longitude: 106.79243334416394
+  type: way
+  amenity_type: place_of_worship
+- id: 157364387
+  name: Masjid Jami' Nurul Yaqin
+  alt_name: []
+  latitude: -6.2311876307484235
+  longitude: 106.76821824874527
+  type: way
+  amenity_type: place_of_worship
+- id: 157364852
+  name: Masjid Jami Al Ittihad
+  alt_name: []
+  latitude: -6.278586815589426
+  longitude: 106.83136398189131
+  type: way
+  amenity_type: place_of_worship
+- id: 157364891
+  name: Masjid Jami' Bait Al Rahman
+  alt_name: []
+  latitude: -6.259730826162102
+  longitude: 106.83003000776021
+  type: way
+  amenity_type: place_of_worship
+- id: 157365249
+  name: Masjid Jami Al Mutathohirin
+  alt_name: []
+  latitude: -6.3289447777087675
+  longitude: 106.83872528616016
+  type: way
+  amenity_type: place_of_worship
+- id: 157365892
+  name: Masjid Al Ikhlas
+  alt_name: []
+  latitude: -6.29477628104912
+  longitude: 106.84002101496039
+  type: way
+  amenity_type: place_of_worship
+- id: 157365893
+  name: Masjid Raya Palapa Baitus Salam
+  alt_name: []
+  latitude: -6.287774506291253
+  longitude: 106.8388463131609
+  type: way
+  amenity_type: place_of_worship
+- id: 157365894
+  name: Masjid Nurul Amal
+  alt_name: []
+  latitude: -6.292050584837782
+  longitude: 106.8368663630915
+  type: way
+  amenity_type: place_of_worship
+- id: 157365930
+  name: Masjid Jami Nurul Ihsan
+  alt_name: []
+  latitude: -6.353985330047444
+  longitude: 106.8085237571002
+  type: way
+  amenity_type: place_of_worship
+- id: 157365931
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.3512481228093804
+  longitude: 106.81003273555389
+  type: way
+  amenity_type: place_of_worship
+- id: 157366168
+  name: Masjid Jami' Al Mushonnif
+  alt_name: []
+  latitude: -6.217751125998639
+  longitude: 106.84690214211281
+  type: way
+  amenity_type: place_of_worship
+- id: 157366170
+  name: Masjid Al-Muttaqien
+  alt_name: []
+  latitude: -6.222667349694422
+  longitude: 106.84972192042108
+  type: way
+  amenity_type: place_of_worship
+- id: 157366171
+  name: Masjid At-Taqwa
+  alt_name: []
+  latitude: -6.2201962
+  longitude: 106.84687305
+  type: way
+  amenity_type: place_of_worship
+- id: 157366840
+  name: Masjid Al-Barkah
+  alt_name: []
+  latitude: -6.343738749999997
+  longitude: 106.8130243
+  type: way
+  amenity_type: place_of_worship
+- id: 157366841
+  name: Masjid Jami Al-Hikmah
+  alt_name: []
+  latitude: -6.340104623144639
+  longitude: 106.8202901514082
+  type: way
+  amenity_type: place_of_worship
+- id: 157366842
+  name: Masjid Al Mubarakah
+  alt_name: []
+  latitude: -6.340455406351819
+  longitude: 106.81074392167359
+  type: way
+  amenity_type: place_of_worship
+- id: 157366844
+  name: Masjid Al Musabbihin
+  alt_name: []
+  latitude: -6.327395490704489
+  longitude: 106.81261651932682
+  type: way
+  amenity_type: place_of_worship
+- id: 157366845
+  name: Masjid Darul Rahman
+  alt_name: []
+  latitude: -6.338388350000001
+  longitude: 106.8129665
+  type: way
+  amenity_type: place_of_worship
+- id: 157366846
+  name: Masjid Daarussa'adah
+  alt_name: []
+  latitude: -6.338318572077993
+  longitude: 106.80483658836702
+  type: way
+  amenity_type: place_of_worship
+- id: 157366847
+  name: Masjid El Syifa
+  alt_name: []
+  latitude: -6.332888150000001
+  longitude: 106.80709955000002
+  type: way
+  amenity_type: place_of_worship
+- id: 157367033
+  name: Masjid Al Amjad
+  alt_name: []
+  latitude: -6.258353199999999
+  longitude: 106.80045095
+  type: way
+  amenity_type: place_of_worship
+- id: 157367034
+  name: Masjid Al Hidayah
+  alt_name: []
+  latitude: -6.258692778548002
+  longitude: 106.80685092060294
+  type: way
+  amenity_type: place_of_worship
+- id: 157367035
+  name: Masjid Jami An Nur
+  alt_name: []
+  latitude: -6.264534394998577
+  longitude: 106.80687023221361
+  type: way
+  amenity_type: place_of_worship
+- id: 157367036
+  name: Masjid Jami Darul Amal
+  alt_name: []
+  latitude: -6.260408247724065
+  longitude: 106.8031318658313
+  type: way
+  amenity_type: place_of_worship
+- id: 157367756
+  name: Gereja Kristus Yesus
+  alt_name: []
+  latitude: -6.239852850504791
+  longitude: 106.78413280046554
+  type: way
+  amenity_type: place_of_worship
+- id: 157368371
+  name: Masjid Al Falah
+  alt_name: []
+  latitude: -6.213452944282865
+  longitude: 106.8482166726313
+  type: way
+  amenity_type: place_of_worship
+- id: 157368376
+  name: Masjid jami At Taqwa
+  alt_name: []
+  latitude: -6.212753355480659
+  longitude: 106.85545000927262
+  type: way
+  amenity_type: place_of_worship
+- id: 157368384
+  name: Masjid Al Ma'sum
+  alt_name: []
+  latitude: -6.2136020499999995
+  longitude: 106.84605934999999
+  type: way
+  amenity_type: place_of_worship
+- id: 157368389
+  name: Masjid Al Munawaroh
+  alt_name: []
+  latitude: -6.217434716364309
+  longitude: 106.85051529314333
+  type: way
+  amenity_type: place_of_worship
+- id: 157368396
+  name: Masjid Ash-Shalihien
+  alt_name: []
+  latitude: -6.209290155754062
+  longitude: 106.84792831866733
+  type: way
+  amenity_type: place_of_worship
+- id: 157368405
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.215511590406936
+  longitude: 106.84748829114564
+  type: way
+  amenity_type: place_of_worship
+- id: 157397567
+  name: Masjid Al-Istiqomah
+  alt_name: []
+  latitude: -6.247106648079429
+  longitude: 106.83310272208902
+  type: way
+  amenity_type: place_of_worship
+- id: 158041731
+  name: Simultaankerk
+  alt_name: []
+  latitude: -6.222541496782439
+  longitude: 106.83977625278443
+  type: way
+  amenity_type: place_of_worship
+- id: 159966308
+  name: Masjid Jami Nurul Huda
+  alt_name: []
+  latitude: -6.314007149999999
+  longitude: 106.82519115
+  type: way
+  amenity_type: place_of_worship
+- id: 159966310
+  name: Masjid Al Muawanah
+  alt_name: []
+  latitude: -6.347356821097227
+  longitude: 106.80505154034874
+  type: way
+  amenity_type: place_of_worship
+- id: 159966311
+  name: Masjid Daarul Ma'arif
+  alt_name: []
+  latitude: -6.3360658929014555
+  longitude: 106.8021461308224
+  type: way
+  amenity_type: place_of_worship
+- id: 162654633
+  name: Masjid Labs School
+  alt_name: []
+  latitude: -6.2454129
+  longitude: 106.79096625
+  type: way
+  amenity_type: place_of_worship
+- id: 162658782
+  name: Mushola Asy-Syuhada
+  alt_name:
+  - Musholla Asy-Syuhada
+  latitude: -6.314298772680445
+  longitude: 106.8153460373074
+  type: way
+  amenity_type: place_of_worship
+- id: 162804709
+  name: Al Ikhlas
+  alt_name: []
+  latitude: -6.2724036132871746
+  longitude: 106.81155459517568
+  type: way
+  amenity_type: place_of_worship
+- id: 162810066
+  name: Masjid Ar-Rahmah
+  alt_name: []
+  latitude: -6.259850427213535
+  longitude: 106.85141766204629
+  type: way
+  amenity_type: place_of_worship
+- id: 162810174
+  name: Masjid Jami' At Taubah
+  alt_name: []
+  latitude: -6.262191693840322
+  longitude: 106.85363817947174
+  type: way
+  amenity_type: place_of_worship
+- id: 162810227
+  name: Nurul Amalia
+  alt_name: []
+  latitude: -6.2606224660597105
+  longitude: 106.85311236733924
+  type: way
+  amenity_type: place_of_worship
+- id: 162810411
+  name: Mushola Al Hikmah
+  alt_name:
+  - Musholla Al Hikmah
+  latitude: -6.261727168467093
+  longitude: 106.8567332047101
+  type: way
+  amenity_type: place_of_worship
+- id: 162810516
+  name: Masjid Bangun Iman
+  alt_name: []
+  latitude: -6.259397839333328
+  longitude: 106.84903835007869
+  type: way
+  amenity_type: place_of_worship
+- id: 162810517
+  name: Masjid S.parman
+  alt_name: []
+  latitude: -6.259269924289342
+  longitude: 106.84859348753159
+  type: way
+  amenity_type: place_of_worship
+- id: 162810518
+  name: Masjid Shalahudin
+  alt_name: []
+  latitude: -6.258272730001283
+  longitude: 106.84947156245778
+  type: way
+  amenity_type: place_of_worship
+- id: 162931480
+  name: Musholla Mujahidin
+  alt_name: []
+  latitude: -6.2165548193402325
+  longitude: 106.8625212148533
+  type: way
+  amenity_type: place_of_worship
+- id: 162931649
+  name: Masjid Toladan
+  alt_name: []
+  latitude: -6.239898842026568
+  longitude: 106.8542172741314
+  type: way
+  amenity_type: place_of_worship
+- id: 162931986
+  name: Masjid Nurul Haq
+  alt_name: []
+  latitude: -6.236020632683189
+  longitude: 106.8599648467715
+  type: way
+  amenity_type: place_of_worship
+- id: 162932012
+  name: Masjid Baitul Muttaqien
+  alt_name: []
+  latitude: -6.24148090685117
+  longitude: 106.8599801482921
+  type: way
+  amenity_type: place_of_worship
+- id: 162932055
+  name: Masjid Jami' Al-Husna
+  alt_name: []
+  latitude: -6.233125850000001
+  longitude: 106.86184260000002
+  type: way
+  amenity_type: place_of_worship
+- id: 162932135
+  name: Mushola At Tabiin
+  alt_name:
+  - Musholla At Tabiin
+  latitude: -6.233551332061465
+  longitude: 106.86069493226084
+  type: way
+  amenity_type: place_of_worship
+- id: 162933508
+  name: Mushola
+  alt_name: []
+  latitude: -6.2584691999999995
+  longitude: 106.78673284999998
+  type: way
+  amenity_type: place_of_worship
+- id: 162933523
+  name: Masjid Jami Al Mukhlisin
+  alt_name: []
+  latitude: -6.252910002320485
+  longitude: 106.78840671223905
+  type: way
+  amenity_type: place_of_worship
+- id: 162933544
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.251145778556737
+  longitude: 106.7905879139001
+  type: way
+  amenity_type: place_of_worship
+- id: 162933545
+  name: Masjid Al Istianah
+  alt_name: []
+  latitude: -6.255116400000001
+  longitude: 106.7934508
+  type: way
+  amenity_type: place_of_worship
+- id: 162933805
+  name: Masjid Al Awwabin
+  alt_name: []
+  latitude: -6.266458548510875
+  longitude: 106.79178962388428
+  type: way
+  amenity_type: place_of_worship
+- id: 162945242
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.24790465
+  longitude: 106.79112025
+  type: way
+  amenity_type: place_of_worship
+- id: 162945453
+  name: Masjid Al Muttaqiin
+  alt_name: []
+  latitude: -6.2488178503287015
+  longitude: 106.79372937205886
+  type: way
+  amenity_type: place_of_worship
+- id: 162945684
+  name: Masjid Fajrul Islam
+  alt_name: []
+  latitude: -6.248562599999999
+  longitude: 106.78944854999997
+  type: way
+  amenity_type: place_of_worship
+- id: 162945686
+  name: Masjid Innayatullah
+  alt_name: []
+  latitude: -6.249545237438747
+  longitude: 106.79047743617456
+  type: way
+  amenity_type: place_of_worship
+- id: 163040936
+  name: Masjid Jami' Darunni'mah
+  alt_name: []
+  latitude: -6.309691365736517
+  longitude: 106.78671712067734
+  type: way
+  amenity_type: place_of_worship
+- id: 163045666
+  name: Masjid Al-Maqdis
+  alt_name: []
+  latitude: -6.207806703938636
+  longitude: 106.83787876749437
+  type: way
+  amenity_type: place_of_worship
+- id: 163045667
+  name: Masjid At-Tagwa
+  alt_name: []
+  latitude: -6.206934880642708
+  longitude: 106.83853722932258
+  type: way
+  amenity_type: place_of_worship
+- id: 163047706
+  name: Masjid Al Muslimin
+  alt_name: []
+  latitude: -6.29922641516277
+  longitude: 106.83903543421685
+  type: way
+  amenity_type: place_of_worship
+- id: 163058862
+  name: Masjid Nurul Islam
+  alt_name: []
+  latitude: -6.316071861280712
+  longitude: 106.84968725383901
+  type: way
+  amenity_type: place_of_worship
+- id: 163521407
+  name: Masjid Jami' Al Falah
+  alt_name: []
+  latitude: -6.289758102292551
+  longitude: 106.80317730210159
+  type: way
+  amenity_type: place_of_worship
+- id: 163521410
+  name: Masjid Jami' Al Ihsan
+  alt_name: []
+  latitude: -6.2875281
+  longitude: 106.80642639999999
+  type: way
+  amenity_type: place_of_worship
+- id: 163521414
+  name: Masjid Jami' Al Anwar
+  alt_name: []
+  latitude: -6.296496999999999
+  longitude: 106.802893
+  type: way
+  amenity_type: place_of_worship
+- id: 163523134
+  name: Masjid At-Taqwa
+  alt_name: []
+  latitude: -6.301468400000001
+  longitude: 106.8049573
+  type: way
+  amenity_type: place_of_worship
+- id: 163524239
+  name: Masjid Jami Al Ma'arif
+  alt_name: []
+  latitude: -6.293851549999999
+  longitude: 106.80910644999999
+  type: way
+  amenity_type: place_of_worship
+- id: 163525658
+  name: Masjid Baitul Makmur
+  alt_name: []
+  latitude: -6.285696121496244
+  longitude: 106.81953144505204
+  type: way
+  amenity_type: place_of_worship
+- id: 163532451
+  name: Masjid Jami Al-Ijtihad
+  alt_name: []
+  latitude: -6.212424281696215
+  longitude: 106.82198145243669
+  type: way
+  amenity_type: place_of_worship
+- id: 163533100
+  name: Masjid Al-lkhlas
+  alt_name: []
+  latitude: -6.2135205000000004
+  longitude: 106.82576615
+  type: way
+  amenity_type: place_of_worship
+- id: 163533938
+  name: Masjid AI-Jihad
+  alt_name: []
+  latitude: -6.213238652950547
+  longitude: 106.82780232841374
+  type: way
+  amenity_type: place_of_worship
+- id: 163534669
+  name: Masjid Jami Baiturrahman
+  alt_name: []
+  latitude: -6.295327620482777
+  longitude: 106.83159889032895
+  type: way
+  amenity_type: place_of_worship
+- id: 163534784
+  name: Masjid Dhya Ul Iman
+  alt_name: []
+  latitude: -6.288133709142809
+  longitude: 106.83299249315976
+  type: way
+  amenity_type: place_of_worship
+- id: 163537161
+  name: Masjid AI-Furgon
+  alt_name: []
+  latitude: -6.280698299999999
+  longitude: 106.84325860000001
+  type: way
+  amenity_type: place_of_worship
+- id: 163537162
+  name: Masjid Jami Nurul Jannah
+  alt_name: []
+  latitude: -6.282104578869531
+  longitude: 106.84403520609474
+  type: way
+  amenity_type: place_of_worship
+- id: 163537243
+  name: Masjid Jami Al Awwabin
+  alt_name: []
+  latitude: -6.286220599999999
+  longitude: 106.8417571
+  type: way
+  amenity_type: place_of_worship
+- id: 163537393
+  name: Masjid Jami Al Falaah
+  alt_name: []
+  latitude: -6.292427871175523
+  longitude: 106.83385665498088
+  type: way
+  amenity_type: place_of_worship
+- id: 163539179
+  name: Masjid Al Istiqomah
+  alt_name: []
+  latitude: -6.260854242468642
+  longitude: 106.77453852613145
+  type: way
+  amenity_type: place_of_worship
+- id: 163549163
+  name: Masjid As Syukur
+  alt_name: []
+  latitude: -6.217965179700827
+  longitude: 106.77893555016041
+  type: way
+  amenity_type: place_of_worship
+- id: 163549312
+  name: Masjid Jami' Darussalam
+  alt_name: []
+  latitude: -6.20910345
+  longitude: 106.78666929999999
+  type: way
+  amenity_type: place_of_worship
+- id: 163549372
+  name: Masjid An-Nur
+  alt_name: []
+  latitude: -6.219298899999999
+  longitude: 106.78531875
+  type: way
+  amenity_type: place_of_worship
+- id: 163549607
+  name: Masjid An-Nur
+  alt_name: []
+  latitude: -6.212914280587643
+  longitude: 106.78541745584461
+  type: way
+  amenity_type: place_of_worship
+- id: 163550484
+  name: Masjid Nurul Taubah
+  alt_name: []
+  latitude: -6.310832749999999
+  longitude: 106.82894494999998
+  type: way
+  amenity_type: place_of_worship
+- id: 163551541
+  name: Masjid Jami Al Maimun
+  alt_name: []
+  latitude: -6.300876376725437
+  longitude: 106.83019657232383
+  type: way
+  amenity_type: place_of_worship
+- id: 170994126
+  name: Masjid Jami' Al Huda
+  alt_name: []
+  latitude: -6.266494767620692
+  longitude: 106.78230554283222
+  type: way
+  amenity_type: place_of_worship
+- id: 176663648
+  name: Masjid Raya At Taqwa
+  alt_name: []
+  latitude: -6.277251195094414
+  longitude: 106.84537445767548
+  type: way
+  amenity_type: place_of_worship
+- id: 176663650
+  name: Gereja Katolik Keluarga Kudus Paroki Pasar Minggu
+  alt_name: []
+  latitude: -6.28809595
+  longitude: 106.84271099999998
+  type: way
+  amenity_type: place_of_worship
+- id: 176666239
+  name: Masjid Jami Baitul Akbar
+  alt_name: []
+  latitude: -6.26716549991084
+  longitude: 106.85056043904112
+  type: way
+  amenity_type: place_of_worship
+- id: 176770280
+  name: Masjid UKM
+  alt_name: []
+  latitude: -6.219619157691629
+  longitude: 106.83055985179128
+  type: way
+  amenity_type: place_of_worship
+- id: 180537084
+  name: Masjid Jami' Azzawiyah
+  alt_name: []
+  latitude: -6.214877727095853
+  longitude: 106.83265546422737
+  type: way
+  amenity_type: place_of_worship
+- id: 218839946
+  name: Masjid Paramadina
+  alt_name: []
+  latitude: -6.241362578420626
+  longitude: 106.83274221347753
+  type: way
+  amenity_type: place_of_worship
+- id: 218845617
+  name: Masjid Jami' Arrohmaanurrohim
+  alt_name: []
+  latitude: -6.250234478043651
+  longitude: 106.83628542150174
+  type: way
+  amenity_type: place_of_worship
+- id: 224604848
+  name: Masjid Jami' Al-Muttahidin
+  alt_name: []
+  latitude: -6.241154243159898
+  longitude: 106.84699362752146
+  type: way
+  amenity_type: place_of_worship
+- id: 225192126
+  name: Musholla
+  alt_name: []
+  latitude: -6.237666282016632
+  longitude: 106.84961566667718
+  type: way
+  amenity_type: place_of_worship
+- id: 225195944
+  name: Masjid Tebet Barat
+  alt_name: []
+  latitude: -6.239660210791718
+  longitude: 106.84872650251071
+  type: way
+  amenity_type: place_of_worship
+- id: 227727335
+  name: Masjid Raya Al Insan
+  alt_name: []
+  latitude: -6.221845368857223
+  longitude: 106.79466662233236
+  type: way
+  amenity_type: place_of_worship
+- id: 228166625
+  name: Musholla Nurul Huda
+  alt_name: []
+  latitude: -6.2378396
+  longitude: 106.85777230000001
+  type: way
+  amenity_type: place_of_worship
+- id: 230068152
+  name: Masjid Jami Nurul Yakin
+  alt_name: []
+  latitude: -6.235670092362473
+  longitude: 106.81687097603914
+  type: way
+  amenity_type: place_of_worship
+- id: 237619264
+  name: Musholla At-Taufiq
+  alt_name: []
+  latitude: -6.239093778441652
+  longitude: 106.85126524834817
+  type: way
+  amenity_type: place_of_worship
+- id: 264426522
+  name: Masjid Al-Hidayah
+  alt_name: []
+  latitude: -6.216342900000001
+  longitude: 106.8630723
+  type: way
+  amenity_type: place_of_worship
+- id: 264719459
+  name: Musholla
+  alt_name: []
+  latitude: -6.219136450000001
+  longitude: 106.8602778
+  type: way
+  amenity_type: place_of_worship
+- id: 282188469
+  name: Masjid Al - Khairiyah
+  alt_name: []
+  latitude: -6.310254381795371
+  longitude: 106.85032620658622
+  type: way
+  amenity_type: place_of_worship
+- id: 283049743
+  name: Mushola Al Mukhsinin
+  alt_name:
+  - Musholla Al Mukhsinin
+  latitude: -6.2261192
+  longitude: 106.86247245000001
+  type: way
+  amenity_type: place_of_worship
+- id: 283050824
+  name: Musholla Annawiyah
+  alt_name: []
+  latitude: -6.224295333213869
+  longitude: 106.86194091655126
+  type: way
+  amenity_type: place_of_worship
+- id: 283050877
+  name: Musholla Al-Hanafiah
+  alt_name: []
+  latitude: -6.223500649999999
+  longitude: 106.86170460000001
+  type: way
+  amenity_type: place_of_worship
+- id: 283060112
+  name: Masjid At Talim
+  alt_name: []
+  latitude: -6.26009465
+  longitude: 106.84380880000002
+  type: way
+  amenity_type: place_of_worship
+- id: 283061777
+  name: Musholla As Syarief
+  alt_name: []
+  latitude: -6.2263334499999985
+  longitude: 106.84175305000001
+  type: way
+  amenity_type: place_of_worship
+- id: 283066524
+  name: GPIB Jamaat Ekklesia
+  alt_name: []
+  latitude: -6.259356377240778
+  longitude: 106.84750381081176
+  type: way
+  amenity_type: place_of_worship
+- id: 283071275
+  name: Musholla Arrosidi
+  alt_name: []
+  latitude: -6.22224707307768
+  longitude: 106.86115124044751
+  type: way
+  amenity_type: place_of_worship
+- id: 283094463
+  name: Masjid Jami Al Falah
+  alt_name: []
+  latitude: -6.257241066551801
+  longitude: 106.84019925912897
+  type: way
+  amenity_type: place_of_worship
+- id: 283095765
+  name: Masjid Guru Amin
+  alt_name: []
+  latitude: -6.25786081742778
+  longitude: 106.8431759428593
+  type: way
+  amenity_type: place_of_worship
+- id: 283331198
+  name: Masjid Jami Nurul Hilal
+  alt_name: []
+  latitude: -6.257728723185742
+  longitude: 106.85949544040726
+  type: way
+  amenity_type: place_of_worship
+- id: 283331641
+  name: Masjid Jami' Al-Aliyah
+  alt_name: []
+  latitude: -6.235076899999999
+  longitude: 106.8644476
+  type: way
+  amenity_type: place_of_worship
+- id: 283434199
+  name: Musholla Al-Munawaroh
+  alt_name: []
+  latitude: -6.224611800000001
+  longitude: 106.85930075
+  type: way
+  amenity_type: place_of_worship
+- id: 283434350
+  name: Musholla Al-Fatah
+  alt_name: []
+  latitude: -6.2226297000000015
+  longitude: 106.86061935
+  type: way
+  amenity_type: place_of_worship
+- id: 283434420
+  name: Musholla Al-Zikri
+  alt_name: []
+  latitude: -6.222807899999999
+  longitude: 106.86033955
+  type: way
+  amenity_type: place_of_worship
+- id: 284355437
+  name: Masjid Al Kautsar
+  alt_name: []
+  latitude: -6.323913900000001
+  longitude: 106.83675439999999
+  type: way
+  amenity_type: place_of_worship
+- id: 292260251
+  name: Masjid Al Amin
+  alt_name: []
+  latitude: -6.238583400000001
+  longitude: 106.86053885000001
+  type: way
+  amenity_type: place_of_worship
+- id: 292260595
+  name: Mushola
+  alt_name: []
+  latitude: -6.2334752963427835
+  longitude: 106.859075280269
+  type: way
+  amenity_type: place_of_worship
+- id: 292261020
+  name: Mushola Islah
+  alt_name:
+  - Musholla Islah
+  latitude: -6.238370679833124
+  longitude: 106.8594048570732
+  type: way
+  amenity_type: place_of_worship
+- id: 292267180
+  name: Mushola Al Mutaqien
+  alt_name:
+  - Musholla Al Mutaqien
+  latitude: -6.234522663786603
+  longitude: 106.86017503064485
+  type: way
+  amenity_type: place_of_worship
+- id: 292267486
+  name: Mushola At Thobri
+  alt_name:
+  - Musholla At Thobri
+  latitude: -6.234124215658664
+  longitude: 106.8616113745618
+  type: way
+  amenity_type: place_of_worship
+- id: 292267711
+  name: Mushola
+  alt_name: []
+  latitude: -6.234906792025253
+  longitude: 106.86283772651049
+  type: way
+  amenity_type: place_of_worship
+- id: 292267819
+  name: Mushola Al Furqon
+  alt_name:
+  - Musholla Al Furqon
+  latitude: -6.234595637361063
+  longitude: 106.8618163757758
+  type: way
+  amenity_type: place_of_worship
+- id: 295466697
+  name: Mushala Al-Waqof
+  alt_name:
+  - Musholla Al-Waqof
+  latitude: -6.2509490955152565
+  longitude: 106.77643291989355
+  type: way
+  amenity_type: place_of_worship
+- id: 300679078
+  name: Musholla Baiturohman
+  alt_name: []
+  latitude: -6.30597110713955
+  longitude: 106.8014672741044
+  type: way
+  amenity_type: place_of_worship
+- id: 300725248
+  name: Masjid Jami Mardhotillah
+  alt_name: []
+  latitude: -6.354156091509583
+  longitude: 106.83357797956292
+  type: way
+  amenity_type: place_of_worship
+- id: 300725319
+  name: Mushollah Nurul Iman
+  alt_name:
+  - Musholla Nurul Iman
+  latitude: -6.3545718
+  longitude: 106.83501355
+  type: way
+  amenity_type: place_of_worship
+- id: 300729885
+  name: Musholla Darul Fallah
+  alt_name: []
+  latitude: -6.3074126
+  longitude: 106.79704384999998
+  type: way
+  amenity_type: place_of_worship
+- id: 302704259
+  name: Masjid Arrohmah
+  alt_name: []
+  latitude: -6.260673700000001
+  longitude: 106.82327780000003
+  type: way
+  amenity_type: place_of_worship
+- id: 307996035
+  name: Masjid Bilal ISTN
+  alt_name: []
+  latitude: -6.3540849999999995
+  longitude: 106.81392755
+  type: way
+  amenity_type: place_of_worship
+- id: 310394964
+  name: Masjid Al Falaah
+  alt_name: []
+  latitude: -6.254500350000001
+  longitude: 106.79103900000001
+  type: way
+  amenity_type: place_of_worship
+- id: 310394965
+  name: Masjid Jami Darul Qoror
+  alt_name: []
+  latitude: -6.254652653868323
+  longitude: 106.78827196836463
+  type: way
+  amenity_type: place_of_worship
+- id: 314070565
+  name: HKBP Tridarma
+  alt_name: []
+  latitude: -6.302663249613142
+  longitude: 106.80673431752587
+  type: way
+  amenity_type: place_of_worship
+- id: 314070568
+  name: Masjid Al Ba'yah
+  alt_name: []
+  latitude: -6.3030854
+  longitude: 106.80389525000001
+  type: way
+  amenity_type: place_of_worship
+- id: 314070572
+  name: Masjid Quba Nurul Amal
+  alt_name: []
+  latitude: -6.311697950000002
+  longitude: 106.79870440000002
+  type: way
+  amenity_type: place_of_worship
+- id: 314213779
+  name: Mushola Al-Ikhsan
+  alt_name:
+  - Musholla Al Ikhsan
+  latitude: -6.244389100000001
+  longitude: 106.81239615
+  type: way
+  amenity_type: place_of_worship
+- id: 314213780
+  name: Mushola Al-Mukminun
+  alt_name:
+  - Musholla Al-Mukminun
+  latitude: -6.2454771116630665
+  longitude: 106.81059737428883
+  type: way
+  amenity_type: place_of_worship
+- id: 314213782
+  name: Mushola Nurul Huda
+  alt_name:
+  - Musholla Nurul Huda
+  latitude: -6.244928304971685
+  longitude: 106.81066043331569
+  type: way
+  amenity_type: place_of_worship
+- id: 314213783
+  name: Mushola Nurul Ikhlas
+  alt_name:
+  - Musholla Nurul Ikhlas
+  latitude: -6.24390455
+  longitude: 106.81247015
+  type: way
+  amenity_type: place_of_worship
+- id: 314213785
+  name: Mushola YPAI
+  alt_name:
+  - Musholla YPAI
+  latitude: -6.246967600701092
+  longitude: 106.81174491674888
+  type: way
+  amenity_type: place_of_worship
+- id: 314669130
+  name: Musholla Al-Hidayah
+  alt_name: []
+  latitude: -6.250569900000001
+  longitude: 106.8619619
+  type: way
+  amenity_type: place_of_worship
+- id: 314669131
+  name: Musholla Nurul Intibah
+  alt_name: []
+  latitude: -6.249732231837342
+  longitude: 106.86088102646244
+  type: way
+  amenity_type: place_of_worship
+- id: 314670816
+  name: Musholla Al-Inabah
+  alt_name: []
+  latitude: -6.247474175947575
+  longitude: 106.86192059314367
+  type: way
+  amenity_type: place_of_worship
+- id: 314670818
+  name: Musholla Darussaadah
+  alt_name: []
+  latitude: -6.247288510842708
+  longitude: 106.85970882425326
+  type: way
+  amenity_type: place_of_worship
+- id: 314677974
+  name: Musholla Baithul Huda
+  alt_name: []
+  latitude: -6.250986958913123
+  longitude: 106.85436192968425
+  type: way
+  amenity_type: place_of_worship
+- id: 314683524
+  name: Musholla Al-Muhajirin
+  alt_name: []
+  latitude: -6.250619453823044
+  longitude: 106.85113756894897
+  type: way
+  amenity_type: place_of_worship
+- id: 314683525
+  name: Musholla Al-Ridho
+  alt_name: []
+  latitude: -6.251673038071572
+  longitude: 106.84890421442944
+  type: way
+  amenity_type: place_of_worship
+- id: 315250403
+  name: Musholla Al-Awabim
+  alt_name: []
+  latitude: -6.247783024447528
+  longitude: 106.85439935860698
+  type: way
+  amenity_type: place_of_worship
+- id: 315251753
+  name: Majelis Ta'lim Darut Taubah
+  alt_name: []
+  latitude: -6.249140613194737
+  longitude: 106.85262112533083
+  type: way
+  amenity_type: place_of_worship
+- id: 315251754
+  name: Musholla Al-Husna
+  alt_name: []
+  latitude: -6.248790130829874
+  longitude: 106.8526710052582
+  type: way
+  amenity_type: place_of_worship
+- id: 315254466
+  name: Musholla Darul Taubah
+  alt_name: []
+  latitude: -6.247879377882753
+  longitude: 106.84855824234941
+  type: way
+  amenity_type: place_of_worship
+- id: 315263090
+  name: Masjid Al Hidayah
+  alt_name: []
+  latitude: -6.262573550000003
+  longitude: 106.84761164999999
+  type: way
+  amenity_type: place_of_worship
+- id: 315263091
+  name: Masjid As Sa'adah
+  alt_name: []
+  latitude: -6.266710347139108
+  longitude: 106.84546115052862
+  type: way
+  amenity_type: place_of_worship
+- id: 315266417
+  name: Mushola Al Barokah
+  alt_name:
+  - Musholla Al Barokah
+  latitude: -6.258424655404049
+  longitude: 106.85887437861783
+  type: way
+  amenity_type: place_of_worship
+- id: 315266419
+  name: Mushola Al Ikhlas
+  alt_name:
+  - Musholla Al Ikhlas
+  latitude: -6.259284921547599
+  longitude: 106.85986613626477
+  type: way
+  amenity_type: place_of_worship
+- id: 315271453
+  name: Masjid Al Amin
+  alt_name: []
+  latitude: -6.253321803886226
+  longitude: 106.85156261762691
+  type: way
+  amenity_type: place_of_worship
+- id: 315271454
+  name: Masjid Hizbul Wathon
+  alt_name: []
+  latitude: -6.260840150000001
+  longitude: 106.85751235
+  type: way
+  amenity_type: place_of_worship
+- id: 315271455
+  name: Mushola Al Ikhlas
+  alt_name:
+  - Musholla Al Ikhlas
+  latitude: -6.260555682847802
+  longitude: 106.85951701671992
+  type: way
+  amenity_type: place_of_worship
+- id: 315271456
+  name: Mushola Al Khairiyah
+  alt_name:
+  - Musholla Al Khairiyah
+  latitude: -6.261203466174612
+  longitude: 106.85936469263652
+  type: way
+  amenity_type: place_of_worship
+- id: 315271457
+  name: Mushola Darussalam
+  alt_name:
+  - Musholla Darussalam
+  latitude: -6.26117525
+  longitude: 106.85845330000001
+  type: way
+  amenity_type: place_of_worship
+- id: 315271458
+  name: Mushola Darussobirin
+  alt_name:
+  - Musholla Darussobirin
+  latitude: -6.260848829260493
+  longitude: 106.85547864972928
+  type: way
+  amenity_type: place_of_worship
+- id: 315407515
+  name: Musholla Al-Amin
+  alt_name: []
+  latitude: -6.292161355672093
+  longitude: 106.8524525313762
+  type: way
+  amenity_type: place_of_worship
+- id: 315407516
+  name: Musholla Al-Barru
+  alt_name: []
+  latitude: -6.293371371237431
+  longitude: 106.84940238387135
+  type: way
+  amenity_type: place_of_worship
+- id: 315407517
+  name: Musholla Darul Muchlisin
+  alt_name: []
+  latitude: -6.2905860784419865
+  longitude: 106.85400620599528
+  type: way
+  amenity_type: place_of_worship
+- id: 315407518
+  name: Musholla Miftahul Jannah
+  alt_name: []
+  latitude: -6.29371688457513
+  longitude: 106.8489223672608
+  type: way
+  amenity_type: place_of_worship
+- id: 315407519
+  name: Musholla Nurul Amal
+  alt_name: []
+  latitude: -6.295384120703346
+  longitude: 106.85299455327163
+  type: way
+  amenity_type: place_of_worship
+- id: 315407520
+  name: Musholla Nurul Iman
+  alt_name: []
+  latitude: -6.29338595
+  longitude: 106.85130799999997
+  type: way
+  amenity_type: place_of_worship
+- id: 315411891
+  name: Masjid Jami Ash Sholihin
+  alt_name: []
+  latitude: -6.270759885312063
+  longitude: 106.85321542711233
+  type: way
+  amenity_type: place_of_worship
+- id: 315411892
+  name: Musholla Jani'atul Khair
+  alt_name: []
+  latitude: -6.271686764401273
+  longitude: 106.85503292247174
+  type: way
+  amenity_type: place_of_worship
+- id: 315470590
+  name: Masjid Nurul Ihsan
+  alt_name: []
+  latitude: -6.27403335
+  longitude: 106.84886485000001
+  type: way
+  amenity_type: place_of_worship
+- id: 315561107
+  name: Musholla Al-Fatimayyah
+  alt_name: []
+  latitude: -6.2840135
+  longitude: 106.84753445
+  type: way
+  amenity_type: place_of_worship
+- id: 315561108
+  name: Musholla Al-Mannar
+  alt_name: []
+  latitude: -6.28160675
+  longitude: 106.84796604999998
+  type: way
+  amenity_type: place_of_worship
+- id: 315561109
+  name: Musholla Al_Umroh
+  alt_name: []
+  latitude: -6.282566727963611
+  longitude: 106.84657636310342
+  type: way
+  amenity_type: place_of_worship
+- id: 315561110
+  name: Musholla Anniqmah
+  alt_name: []
+  latitude: -6.282826272824774
+  longitude: 106.8453438919191
+  type: way
+  amenity_type: place_of_worship
+- id: 315561111
+  name: Musholla Assa'adah
+  alt_name: []
+  latitude: -6.280631634903249
+  longitude: 106.84832556743527
+  type: way
+  amenity_type: place_of_worship
+- id: 315562637
+  name: Masjid Al-Muhajirin
+  alt_name: []
+  latitude: -6.29366655
+  longitude: 106.8420724
+  type: way
+  amenity_type: place_of_worship
+- id: 315562638
+  name: Musholla Al-Barkah
+  alt_name: []
+  latitude: -6.2862994457765975
+  longitude: 106.84630142170252
+  type: way
+  amenity_type: place_of_worship
+- id: 315562639
+  name: Musholla Al-Inayah
+  alt_name: []
+  latitude: -6.2852212000000005
+  longitude: 106.84720080000001
+  type: way
+  amenity_type: place_of_worship
+- id: 315562640
+  name: Musholla Sobabah
+  alt_name: []
+  latitude: -6.285432049999999
+  longitude: 106.84600800000001
+  type: way
+  amenity_type: place_of_worship
+- id: 315562641
+  name: Musholla
+  alt_name: []
+  latitude: -6.2860149
+  longitude: 106.84675744999998
+  type: way
+  amenity_type: place_of_worship
+- id: 315563667
+  name: Musholla Baiturrahman
+  alt_name: []
+  latitude: -6.288826022706191
+  longitude: 106.84967914286348
+  type: way
+  amenity_type: place_of_worship
+- id: 315563668
+  name: Musholla Nurul Amal
+  alt_name: []
+  latitude: -6.292343322709743
+  longitude: 106.84743874421251
+  type: way
+  amenity_type: place_of_worship
+- id: 315563669
+  name: Musholla Nurul Ikhlas
+  alt_name: []
+  latitude: -6.290540550000002
+  longitude: 106.84728205
+  type: way
+  amenity_type: place_of_worship
+- id: 315569488
+  name: Musholla Al-Muchlisin
+  alt_name: []
+  latitude: -6.287630200000001
+  longitude: 106.84703084999998
+  type: way
+  amenity_type: place_of_worship
+- id: 315569489
+  name: Musholla Al-Muhadjirin
+  alt_name: []
+  latitude: -6.28763525
+  longitude: 106.84502985
+  type: way
+  amenity_type: place_of_worship
+- id: 315569490
+  name: Musholla At-Taubah
+  alt_name: []
+  latitude: -6.288627823627318
+  longitude: 106.84602093875846
+  type: way
+  amenity_type: place_of_worship
+- id: 315569491
+  name: Musholla Baiturrahman
+  alt_name: []
+  latitude: -6.293795424446244
+  longitude: 106.84348811180195
+  type: way
+  amenity_type: place_of_worship
+- id: 315569492
+  name: Musholla Darussalam
+  alt_name: []
+  latitude: -6.2905668000000015
+  longitude: 106.84496705000001
+  type: way
+  amenity_type: place_of_worship
+- id: 315576154
+  name: Musholla Al-Muhajirin
+  alt_name: []
+  latitude: -6.217182286492113
+  longitude: 106.85488090007932
+  type: way
+  amenity_type: place_of_worship
+- id: 315576156
+  name: Musholla/MT Al-Iqdam
+  alt_name: []
+  latitude: -6.219434977084725
+  longitude: 106.85653086127174
+  type: way
+  amenity_type: place_of_worship
+- id: 315703053
+  name: Musholla An-Nur
+  alt_name: []
+  latitude: -6.2188927
+  longitude: 106.8543454
+  type: way
+  amenity_type: place_of_worship
+- id: 315703054
+  name: Musholla
+  alt_name: []
+  latitude: -6.219742739838378
+  longitude: 106.85287182739715
+  type: way
+  amenity_type: place_of_worship
+- id: 315705021
+  name: Musholla Muawanutulikhwah
+  alt_name: []
+  latitude: -6.22063379207437
+  longitude: 106.85305853109072
+  type: way
+  amenity_type: place_of_worship
+- id: 315709418
+  name: Masjid Jami' Al-Huda
+  alt_name: []
+  latitude: -6.222188976568994
+  longitude: 106.85380813517932
+  type: way
+  amenity_type: place_of_worship
+- id: 315709419
+  name: Musholla Al-Muktadi
+  alt_name: []
+  latitude: -6.223464000000001
+  longitude: 106.85402239999999
+  type: way
+  amenity_type: place_of_worship
+- id: 315709420
+  name: Musholla As-Salam
+  alt_name: []
+  latitude: -6.223111390590624
+  longitude: 106.85230413004402
+  type: way
+  amenity_type: place_of_worship
+- id: 315712114
+  name: Musholla Istiqomah
+  alt_name: []
+  latitude: -6.224302924517906
+  longitude: 106.85734613626477
+  type: way
+  amenity_type: place_of_worship
+- id: 315714127
+  name: Musholla At-Thahir
+  alt_name: []
+  latitude: -6.222324908462349
+  longitude: 106.85678426830935
+  type: way
+  amenity_type: place_of_worship
+- id: 315838277
+  name: Musholla Al-Ihsan
+  alt_name: []
+  latitude: -6.221128850000001
+  longitude: 106.85880265000002
+  type: way
+  amenity_type: place_of_worship
+- id: 315838280
+  name: Musholla Ar-Raduli
+  alt_name: []
+  latitude: -6.22064092599952
+  longitude: 106.85790868931616
+  type: way
+  amenity_type: place_of_worship
+- id: 315838941
+  name: Masjid Jami' Al-Atiq
+  alt_name: []
+  latitude: -6.226157205819304
+  longitude: 106.86358706935712
+  type: way
+  amenity_type: place_of_worship
+- id: 315838942
+  name: Mushola Al Quba
+  alt_name:
+  - Musholla Al Quba
+  latitude: -6.227016117934723
+  longitude: 106.86312874239754
+  type: way
+  amenity_type: place_of_worship
+- id: 315838943
+  name: Mushola Uswatun Hasanah
+  alt_name:
+  - Musholla Uswatun Hasanah
+  latitude: -6.227015500000001
+  longitude: 106.8638739
+  type: way
+  amenity_type: place_of_worship
+- id: 315839153
+  name: Mushola Al Haq
+  alt_name:
+  - Musholla Al Haq
+  latitude: -6.228732006650653
+  longitude: 106.86441317562947
+  type: way
+  amenity_type: place_of_worship
+- id: 315839154
+  name: Mushola Nurul Islam
+  alt_name:
+  - Musholla Nurul Islam
+  latitude: -6.229081800065864
+  longitude: 106.8629286555345
+  type: way
+  amenity_type: place_of_worship
+- id: 315839344
+  name: Masjid Az-Zahrah
+  alt_name: []
+  latitude: -6.227195746576865
+  longitude: 106.86148049549631
+  type: way
+  amenity_type: place_of_worship
+- id: 315840514
+  name: Masjid An Nur
+  alt_name: []
+  latitude: -6.2391126993040045
+  longitude: 106.86183526649171
+  type: way
+  amenity_type: place_of_worship
+- id: 315841023
+  name: Mushola Jihad
+  alt_name:
+  - Musholla Jihad
+  latitude: -6.239180500000001
+  longitude: 106.85959055000002
+  type: way
+  amenity_type: place_of_worship
+- id: 315841024
+  name: Musala Taubah
+  alt_name:
+  - Musholla Taubah
+  latitude: -6.239415705215769
+  longitude: 106.85898902458428
+  type: way
+  amenity_type: place_of_worship
+- id: 316322813
+  name: Musholla Baitul Rohman
+  alt_name: []
+  latitude: -6.21997501896167
+  longitude: 106.8620053439181
+  type: way
+  amenity_type: place_of_worship
+- id: 316335981
+  name: Musholla
+  alt_name: []
+  latitude: -6.266188962439276
+  longitude: 106.85353802585904
+  type: way
+  amenity_type: place_of_worship
+- id: 316480027
+  name: Masjid Jami' At-Taqwa
+  alt_name: []
+  latitude: -6.31156723008479
+  longitude: 106.7927372641068
+  type: way
+  amenity_type: place_of_worship
+- id: 316480028
+  name: Musholla Al Furqon
+  alt_name: []
+  latitude: -6.311870331909236
+  longitude: 106.79013456880249
+  type: way
+  amenity_type: place_of_worship
+- id: 316618924
+  name: Musholla Hidayatulloh
+  alt_name: []
+  latitude: -6.303886841582583
+  longitude: 106.79148402555975
+  type: way
+  amenity_type: place_of_worship
+- id: 316907767
+  name: Musholla Al-Dakwah
+  alt_name: []
+  latitude: -6.2241233000000005
+  longitude: 106.85848994999999
+  type: way
+  amenity_type: place_of_worship
+- id: 316907768
+  name: Musholla Al-Ikhlas
+  alt_name: []
+  latitude: -6.221982389489075
+  longitude: 106.85821241870748
+  type: way
+  amenity_type: place_of_worship
+- id: 316907769
+  name: Musholla Rodatul Jannah
+  alt_name: []
+  latitude: -6.223704113344963
+  longitude: 106.86043668105832
+  type: way
+  amenity_type: place_of_worship
+- id: 317470095
+  name: Musholla Nurul Iman
+  alt_name: []
+  latitude: -6.295269950000001
+  longitude: 106.84559329999999
+  type: way
+  amenity_type: place_of_worship
+- id: 319686217
+  name: Masjid Al-Islah
+  alt_name: []
+  latitude: -6.247027631127134
+  longitude: 106.77336727562553
+  type: way
+  amenity_type: place_of_worship
+- id: 333519277
+  name: Musholla At-Taabi'in
+  alt_name: []
+  latitude: -6.241280775573295
+  longitude: 106.82111383859626
+  type: way
+  amenity_type: place_of_worship
+- id: 334111193
+  name: Masjid Jami' Darut Taqwa
+  alt_name: []
+  latitude: -6.240881349999999
+  longitude: 106.82263594999998
+  type: way
+  amenity_type: place_of_worship
+- id: 334826351
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.227995800000001
+  longitude: 106.75842929999999
+  type: way
+  amenity_type: place_of_worship
+- id: 334826353
+  name: Musholla Al-Hidayah
+  alt_name: []
+  latitude: -6.2268299945851435
+  longitude: 106.75916832695154
+  type: way
+  amenity_type: place_of_worship
+- id: 334826354
+  name: Musholla Al-Mutatohirin
+  alt_name: []
+  latitude: -6.228994300000001
+  longitude: 106.7591015
+  type: way
+  amenity_type: place_of_worship
+- id: 334958352
+  name: Masjid Al Muharromah
+  alt_name: []
+  latitude: -6.230856738467401
+  longitude: 106.76401747523967
+  type: way
+  amenity_type: place_of_worship
+- id: 334965645
+  name: Masjid Jami Al Akhyar
+  alt_name: []
+  latitude: -6.244122706942113
+  longitude: 106.76172933258204
+  type: way
+  amenity_type: place_of_worship
+- id: 334965646
+  name: Masjid Jami Darulnajah
+  alt_name: []
+  latitude: -6.2470269
+  longitude: 106.76162505
+  type: way
+  amenity_type: place_of_worship
+- id: 334965648
+  name: Musholla Mukhlisin
+  alt_name: []
+  latitude: -6.2387216
+  longitude: 106.7607005
+  type: way
+  amenity_type: place_of_worship
+- id: 334965649
+  name: Musholla Nurul Haq
+  alt_name: []
+  latitude: -6.243081356481329
+  longitude: 106.76194547686318
+  type: way
+  amenity_type: place_of_worship
+- id: 334970106
+  name: Masjid Al Hikmah
+  alt_name: []
+  latitude: -6.2388333530711515
+  longitude: 106.76416146881186
+  type: way
+  amenity_type: place_of_worship
+- id: 334970107
+  name: Masjid Jami Al-Hidayah
+  alt_name: []
+  latitude: -6.24471020990013
+  longitude: 106.76465967992367
+  type: way
+  amenity_type: place_of_worship
+- id: 334970108
+  name: Masjid Nurul Fajri
+  alt_name: []
+  latitude: -6.244692480982598
+  longitude: 106.76658144476468
+  type: way
+  amenity_type: place_of_worship
+- id: 334970109
+  name: Musholla Al-Ithisom
+  alt_name: []
+  latitude: -6.243621257679062
+  longitude: 106.7643194719021
+  type: way
+  amenity_type: place_of_worship
+- id: 334970110
+  name: Musholla Islahul Bunian
+  alt_name: []
+  latitude: -6.2418461
+  longitude: 106.76391655
+  type: way
+  amenity_type: place_of_worship
+- id: 334971825
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.248210658060209
+  longitude: 106.76199582971482
+  type: way
+  amenity_type: place_of_worship
+- id: 334976896
+  name: Masjid Jami ul Ihsan
+  alt_name: []
+  latitude: -6.245036421176188
+  longitude: 106.76819825471658
+  type: way
+  amenity_type: place_of_worship
+- id: 334976897
+  name: Musholla Nurul Haq
+  alt_name: []
+  latitude: -6.2462677758726315
+  longitude: 106.76419215944671
+  type: way
+  amenity_type: place_of_worship
+- id: 334983510
+  name: Musholla Ar-Rahma
+  alt_name: []
+  latitude: -6.227373326840081
+  longitude: 106.76378647229528
+  type: way
+  amenity_type: place_of_worship
+- id: 334983511
+  name: Musholla As-Salafiyah
+  alt_name: []
+  latitude: -6.224531124994159
+  longitude: 106.76510043814531
+  type: way
+  amenity_type: place_of_worship
+- id: 335701171
+  name: Musholla Nurul Huda
+  alt_name: []
+  latitude: -6.249426422323412
+  longitude: 106.85637476367418
+  type: way
+  amenity_type: place_of_worship
+- id: 337720750
+  name: Masjid Baiturrahman El Nusa
+  alt_name: []
+  latitude: -6.29038595500741
+  longitude: 106.80883638250911
+  type: way
+  amenity_type: place_of_worship
+- id: 343207311
+  name: Masjid Jami Al Masykuriah
+  alt_name: []
+  latitude: -6.311243093482898
+  longitude: 106.83228452765218
+  type: way
+  amenity_type: place_of_worship
+- id: 370523592
+  name: Masjid Darussalam
+  alt_name: []
+  latitude: -6.309350878985709
+  longitude: 106.82099200426971
+  type: way
+  amenity_type: place_of_worship
+- id: 370523808
+  name: Masjid Ar Riyadhoh
+  alt_name: []
+  latitude: -6.30581550194098
+  longitude: 106.82480926491799
+  type: way
+  amenity_type: place_of_worship
+- id: 447197481
+  name: Mushalla al hikmah
+  alt_name:
+  - Musholla al hikmah
+  latitude: -6.295780923119749
+  longitude: 106.80873357555926
+  type: way
+  amenity_type: place_of_worship
+- id: 447218518
+  name: Pura
+  alt_name: []
+  latitude: -6.30062081289402
+  longitude: 106.812521159859
+  type: way
+  amenity_type: place_of_worship
+- id: 447814408
+  name: Musholla Nurul Iman
+  alt_name: []
+  latitude: -6.232042704336557
+  longitude: 106.77149406891111
+  type: way
+  amenity_type: place_of_worship
+- id: 471561536
+  name: Masjid Al Musyawarah
+  alt_name: []
+  latitude: -6.263702696898007
+  longitude: 106.779500051404
+  type: way
+  amenity_type: place_of_worship
+- id: 471765855
+  name: Masjid Baiturrahman
+  alt_name: []
+  latitude: -6.278453099999999
+  longitude: 106.77056895
+  type: way
+  amenity_type: place_of_worship
+- id: 481723033
+  name: Mushola Sa'adatul Ummah
+  alt_name:
+  - Musholla Sa'adatul Ummah
+  latitude: -6.2616646
+  longitude: 106.8369519
+  type: way
+  amenity_type: place_of_worship
+- id: 481740130
+  name: GPIB Jemaat Setia Budi
+  alt_name: []
+  latitude: -6.2085754
+  longitude: 106.82543034999999
+  type: way
+  amenity_type: place_of_worship
+- id: 481740438
+  name: Masjid Buncit Indah
+  alt_name: []
+  latitude: -6.2688900525399855
+  longitude: 106.83309386868507
+  type: way
+  amenity_type: place_of_worship
+- id: 481765409
+  name: Masjid Al Ihsan
+  alt_name: []
+  latitude: -6.208364899999999
+  longitude: 106.82803899999999
+  type: way
+  amenity_type: place_of_worship
+- id: 481920560
+  name: Mushola Al-Muhajirin
+  alt_name:
+  - Musholla Al-Muhajirin
+  latitude: -6.271845431079038
+  longitude: 106.81395623742843
+  type: way
+  amenity_type: place_of_worship
+- id: 481921575
+  name: Musholla Al-Islah Mampang Prapatan
+  alt_name: []
+  latitude: -6.244402676228168
+  longitude: 106.83076494138724
+  type: way
+  amenity_type: place_of_worship
+- id: 481935716
+  name: Masjid Nurul Iman Asy Syubani
+  alt_name: []
+  latitude: -6.210003423189933
+  longitude: 106.84864876503232
+  type: way
+  amenity_type: place_of_worship
+- id: 481941865
+  name: Masjid Teladan
+  alt_name: []
+  latitude: -6.238235567954418
+  longitude: 106.8539245451191
+  type: way
+  amenity_type: place_of_worship
+- id: 482098401
+  name: Kuil Hoseiji
+  alt_name: []
+  latitude: -6.212172387116702
+  longitude: 106.84542224529405
+  type: way
+  amenity_type: place_of_worship
+- id: 482140470
+  name: Masjid Jami' Nurul Ikhlas
+  alt_name: []
+  latitude: -6.272716231091722
+  longitude: 106.82888699625843
+  type: way
+  amenity_type: place_of_worship
+- id: 482145001
+  name: Musholla Al Mundzir
+  alt_name: []
+  latitude: -6.209850305924794
+  longitude: 106.85177037130948
+  type: way
+  amenity_type: place_of_worship
+- id: 482151185
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.257917743473466
+  longitude: 106.83136785026764
+  type: way
+  amenity_type: place_of_worship
+- id: 482155884
+  name: Gereja GPIB
+  alt_name: []
+  latitude: -6.208980794951404
+  longitude: 106.82537568389263
+  type: way
+  amenity_type: place_of_worship
+- id: 482162128
+  name: Masjid Darul Mustaqiem
+  alt_name: []
+  latitude: -6.209222351474896
+  longitude: 106.85043751694562
+  type: way
+  amenity_type: place_of_worship
+- id: 482163098
+  name: Masjid Jami Al Abror
+  alt_name: []
+  latitude: -6.239690795109427
+  longitude: 106.84377993162471
+  type: way
+  amenity_type: place_of_worship
+- id: 482171404
+  name: Masjid At-Tausir
+  alt_name: []
+  latitude: -6.233569092417077
+  longitude: 106.81876315674921
+  type: way
+  amenity_type: place_of_worship
+- id: 482191782
+  name: Masjid Jami' Assalafiyah
+  alt_name: []
+  latitude: -6.270266980438233
+  longitude: 106.83110166608357
+  type: way
+  amenity_type: place_of_worship
+- id: 482197229
+  name: Darul Muslimin
+  alt_name: []
+  latitude: -6.269302150481423
+  longitude: 106.82975322479996
+  type: way
+  amenity_type: place_of_worship
+- id: 482198006
+  name: Masjid Jami Darussalam
+  alt_name: []
+  latitude: -6.237487709728659
+  longitude: 106.81888756666089
+  type: way
+  amenity_type: place_of_worship
+- id: 482363046
+  name: Gereja Bethel Indonesia
+  alt_name: []
+  latitude: -6.240906014323774
+  longitude: 106.82660417341597
+  type: way
+  amenity_type: place_of_worship
+- id: 482380296
+  name: Masjid Jami' Ash Sholihin
+  alt_name: []
+  latitude: -6.24523578232359
+  longitude: 106.8409880961096
+  type: way
+  amenity_type: place_of_worship
+- id: 482380731
+  name: Masjid Jami' Ar-Riyadh
+  alt_name: []
+  latitude: -6.243084059933034
+  longitude: 106.83381041382718
+  type: way
+  amenity_type: place_of_worship
+- id: 482382425
+  name: Masjid Al-Ikhsan
+  alt_name: []
+  latitude: -6.208149550000001
+  longitude: 106.84133035
+  type: way
+  amenity_type: place_of_worship
+- id: 482399740
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.226936350000002
+  longitude: 106.8577785
+  type: way
+  amenity_type: place_of_worship
+- id: 482409446
+  name: Gereja Orang-Orang Suci Zaman Akhir
+  alt_name: []
+  latitude: -6.227737954072475
+  longitude: 106.84793397267663
+  type: way
+  amenity_type: place_of_worship
+- id: 482412575
+  name: Mushola Al Waqfiyah
+  alt_name:
+  - Musholla Al Waqfiyah
+  latitude: -6.270948844246064
+  longitude: 106.82961487917294
+  type: way
+  amenity_type: place_of_worship
+- id: 482413306
+  name: Masjid Jami Al Mushanifiyah
+  alt_name: []
+  latitude: -6.209349855414516
+  longitude: 106.84384871879753
+  type: way
+  amenity_type: place_of_worship
+- id: 482420895
+  name: Masjid At Taubah
+  alt_name: []
+  latitude: -6.21030931778319
+  longitude: 106.84307269472286
+  type: way
+  amenity_type: place_of_worship
+- id: 482426686
+  name: GPdI Antiokhia
+  alt_name: []
+  latitude: -6.2385599638866065
+  longitude: 106.84540183412093
+  type: way
+  amenity_type: place_of_worship
+- id: 483339103
+  name: Masjid Al Hijrah
+  alt_name: []
+  latitude: -6.244221841314947
+  longitude: 106.84810537385432
+  type: way
+  amenity_type: place_of_worship
+- id: 483346285
+  name: Masjid Baitul Ikhlas
+  alt_name: []
+  latitude: -6.233128849999998
+  longitude: 106.84525289999999
+  type: way
+  amenity_type: place_of_worship
+- id: 483368076
+  name: Gereja Kristen Protestan Simalungun
+  alt_name: []
+  latitude: -6.2457286
+  longitude: 106.8510436
+  type: way
+  amenity_type: place_of_worship
+- id: 483384582
+  name: Musholla As Syarief
+  alt_name: []
+  latitude: -6.2290944
+  longitude: 106.8378387
+  type: way
+  amenity_type: place_of_worship
+- id: 483388072
+  name: Masjid Jami As Salam
+  alt_name: []
+  latitude: -6.266669835039083
+  longitude: 106.82765622832083
+  type: way
+  amenity_type: place_of_worship
+- id: 483404620
+  name: Masjid Jami' An-Nur
+  alt_name: []
+  latitude: -6.234744712692731
+  longitude: 106.84300476696298
+  type: way
+  amenity_type: place_of_worship
+- id: 483404731
+  name: GBI Soepomo
+  alt_name: []
+  latitude: -6.235135200000001
+  longitude: 106.84373925000001
+  type: way
+  amenity_type: place_of_worship
+- id: 483407665
+  name: Masjid Jami' Darussalam
+  alt_name: []
+  latitude: -6.247198672940983
+  longitude: 106.84669263858797
+  type: way
+  amenity_type: place_of_worship
+- id: 483573385
+  name: Masjid Al-Husna
+  alt_name: []
+  latitude: -6.234768075982923
+  longitude: 106.83804619041807
+  type: way
+  amenity_type: place_of_worship
+- id: 483574584
+  name: Gereja Bethel Indonesia Jemaat Rehobot
+  alt_name: []
+  latitude: -6.247323875718565
+  longitude: 106.84903944776202
+  type: way
+  amenity_type: place_of_worship
+- id: 483579175
+  name: Masjid An Nur Perdatam
+  alt_name: []
+  latitude: -6.249325659127022
+  longitude: 106.84957579576637
+  type: way
+  amenity_type: place_of_worship
+- id: 483581861
+  name: Masjid Al-Ikhlas
+  alt_name: []
+  latitude: -6.254186440824883
+  longitude: 106.81175482531171
+  type: way
+  amenity_type: place_of_worship
+- id: 483585077
+  name: Masjid Nurul Fallah
+  alt_name: []
+  latitude: -6.2580314771283465
+  longitude: 106.81330634620033
+  type: way
+  amenity_type: place_of_worship
+- id: 483597841
+  name: Gereja Masehi Advent Ketujuh Tebet
+  alt_name: []
+  latitude: -6.224082775281002
+  longitude: 106.85502080749731
+  type: way
+  amenity_type: place_of_worship
+- id: 483600703
+  name: Masjid Al Khairiyah
+  alt_name: []
+  latitude: -6.2267698000000005
+  longitude: 106.84488400000001
+  type: way
+  amenity_type: place_of_worship
+- id: 483600938
+  name: Masjid Al Ikhlas
+  alt_name: []
+  latitude: -6.259320236938023
+  longitude: 106.82504786419092
+  type: way
+  amenity_type: place_of_worship
+- id: 483607253
+  name: Masjid Darul Muttaqin
+  alt_name: []
+  latitude: -6.2539543148931465
+  longitude: 106.82174502366323
+  type: way
+  amenity_type: place_of_worship
+- id: 483608213
+  name: Masjid Al Mubarakah
+  alt_name: []
+  latitude: -6.228295580215275
+  longitude: 106.84277890740255
+  type: way
+  amenity_type: place_of_worship
+- id: 483628625
+  name: Musholla At'Taubah
+  alt_name: []
+  latitude: -6.225342897592043
+  longitude: 106.85143298512497
+  type: way
+  amenity_type: place_of_worship
+- id: 483760410
+  name: Masjid Darus Sallam
+  alt_name: []
+  latitude: -6.235382626346187
+  longitude: 106.83147595536951
+  type: way
+  amenity_type: place_of_worship
+- id: 484154875
+  name: Musholla Al Falah
+  alt_name: []
+  latitude: -6.342944413305289
+  longitude: 106.80239727534597
+  type: way
+  amenity_type: place_of_worship
+- id: 484498067
+  name: Masjid As'Adah
+  alt_name: []
+  latitude: -6.337620123000556
+  longitude: 106.8001431383062
+  type: way
+  amenity_type: place_of_worship
+- id: 484502583
+  name: Masjid Husnul Khotimah
+  alt_name: []
+  latitude: -6.223525644226377
+  longitude: 106.83174358098933
+  type: way
+  amenity_type: place_of_worship
+- id: 484504265
+  name: Masjid Baitul Malikirrochman
+  alt_name: []
+  latitude: -6.2528944742531705
+  longitude: 106.84686879407423
+  type: way
+  amenity_type: place_of_worship
+- id: 484649852
+  name: Vihara Amurva Bhumi
+  alt_name: []
+  latitude: -6.2188136499999995
+  longitude: 106.8180047
+  type: way
+  amenity_type: place_of_worship
+- id: 484851668
+  name: Masjid Sabilulhuda
+  alt_name: []
+  latitude: -6.220570826025112
+  longitude: 106.84209400681587
+  type: way
+  amenity_type: place_of_worship
+- id: 484851694
+  name: Masjid Jami'iyyatuliman
+  alt_name: []
+  latitude: -6.2224603238316085
+  longitude: 106.84057706078299
+  type: way
+  amenity_type: place_of_worship
+- id: 484865466
+  name: Masjid Jami' Al Inabah
+  alt_name: []
+  latitude: -6.243215842211305
+  longitude: 106.83684513174988
+  type: way
+  amenity_type: place_of_worship
+- id: 485040795
+  name: Masjid At-Taubah
+  alt_name: []
+  latitude: -6.212026863310695
+  longitude: 106.84783792124342
+  type: way
+  amenity_type: place_of_worship
+- id: 485244599
+  name: Masjid Nur Muhammad
+  alt_name: []
+  latitude: -6.261823154178862
+  longitude: 106.82713016849445
+  type: way
+  amenity_type: place_of_worship
+- id: 485245839
+  name: Masjid Al-Husna
+  alt_name: []
+  latitude: -6.2435077828763985
+  longitude: 106.82216081277646
+  type: way
+  amenity_type: place_of_worship
+- id: 485245949
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.242347264313011
+  longitude: 106.82076327384777
+  type: way
+  amenity_type: place_of_worship
+- id: 485254236
+  name: Masjid Raudatul Fallah
+  alt_name: []
+  latitude: -6.22409348260614
+  longitude: 106.82986185348452
+  type: way
+  amenity_type: place_of_worship
+- id: 485278096
+  name: Masjid Miftahul Jannah
+  alt_name: []
+  latitude: -6.247516250000001
+  longitude: 106.83782625000002
+  type: way
+  amenity_type: place_of_worship
+- id: 485284091
+  name: Masjid Jami' Rohmatussholihin
+  alt_name: []
+  latitude: -6.258897877114682
+  longitude: 106.85709309144227
+  type: way
+  amenity_type: place_of_worship
+- id: 485774660
+  name: Masjid Al Muawanah
+  alt_name: []
+  latitude: -6.253199693557611
+  longitude: 106.83864394924416
+  type: way
+  amenity_type: place_of_worship
+- id: 485774665
+  name: Masjid Jami' At Taubah
+  alt_name: []
+  latitude: -6.2483363500000015
+  longitude: 106.83564009999999
+  type: way
+  amenity_type: place_of_worship
+- id: 485778028
+  name: Masjid Daarul Ilmi
+  alt_name: []
+  latitude: -6.259373200000003
+  longitude: 106.84725080000003
+  type: way
+  amenity_type: place_of_worship
+- id: 485778806
+  name: Masjid Jami Da'arul Hikmah
+  alt_name: []
+  latitude: -6.24108725
+  longitude: 106.82464835000002
+  type: way
+  amenity_type: place_of_worship
+- id: 485778807
+  name: Masjid Sadatussholin
+  alt_name: []
+  latitude: -6.244742991626056
+  longitude: 106.82718689289364
+  type: way
+  amenity_type: place_of_worship
+- id: 485780354
+  name: Masjid Jami' Ar Rahmah
+  alt_name: []
+  latitude: -6.259035370676418
+  longitude: 106.85320079877698
+  type: way
+  amenity_type: place_of_worship
+- id: 485782104
+  name: Mushola Azzaynyyah
+  alt_name:
+  - Musholla Azzaynyyah
+  latitude: -6.258725765667528
+  longitude: 106.85555600514594
+  type: way
+  amenity_type: place_of_worship
+- id: 485784058
+  name: Mushola Nurul Qomar
+  alt_name:
+  - Musholla Nurul Qomar
+  latitude: -6.259670071538166
+  longitude: 106.85466684488358
+  type: way
+  amenity_type: place_of_worship
+- id: 485786212
+  name: Masjid Al Jihad
+  alt_name: []
+  latitude: -6.212447761474412
+  longitude: 106.82562677755277
+  type: way
+  amenity_type: place_of_worship
+- id: 485797766
+  name: Masjid Jami' Nurul 'Amaliyah
+  alt_name: []
+  latitude: -6.258759509707743
+  longitude: 106.85081790369145
+  type: way
+  amenity_type: place_of_worship
+- id: 485991680
+  name: Masjid Al Ikhlas
+  alt_name: []
+  latitude: -6.250155144541609
+  longitude: 106.8171980797747
+  type: way
+  amenity_type: place_of_worship
+- id: 485996451
+  name: Masjid Jami Al Anwar
+  alt_name: []
+  latitude: -6.249082656635448
+  longitude: 106.81451761968277
+  type: way
+  amenity_type: place_of_worship
+- id: 485996682
+  name: Masjid Jami' Al-Abror
+  alt_name: []
+  latitude: -6.247585900953901
+  longitude: 106.81316656740707
+  type: way
+  amenity_type: place_of_worship
+- id: 486020656
+  name: Masjid Nurul Rahman
+  alt_name: []
+  latitude: -6.247533206564773
+  longitude: 106.817297624805
+  type: way
+  amenity_type: place_of_worship
+- id: 486031821
+  name: Masjid Al Hikmah
+  alt_name: []
+  latitude: -6.248719088990084
+  longitude: 106.8185000588276
+  type: way
+  amenity_type: place_of_worship
+- id: 486056534
+  name: Masjid Jami' Darusaalam
+  alt_name: []
+  latitude: -6.244766800000001
+  longitude: 106.82044379999999
+  type: way
+  amenity_type: place_of_worship
+- id: 486259758
+  name: Masjid Sholahudin
+  alt_name: []
+  latitude: -6.254381594621917
+  longitude: 106.85346763178727
+  type: way
+  amenity_type: place_of_worship
+- id: 486275915
+  name: GPIB Bukit Moria
+  alt_name: []
+  latitude: -6.2421533
+  longitude: 106.84469534999997
+  type: way
+  amenity_type: place_of_worship
+- id: 486490445
+  name: Gereja Isa Almasih
+  alt_name: []
+  latitude: -6.22222936026392
+  longitude: 106.84088226835844
+  type: way
+  amenity_type: place_of_worship
+- id: 486490652
+  name: Masjid Jami Asy-Syarief
+  alt_name: []
+  latitude: -6.23007454775423
+  longitude: 106.83944213194918
+  type: way
+  amenity_type: place_of_worship
+- id: 486507412
+  name: Masjid Jami' Al-Hidayah
+  alt_name: []
+  latitude: -6.22637312532866
+  longitude: 106.84987091418768
+  type: way
+  amenity_type: place_of_worship
+- id: 486523938
+  name: Masjid Jami Nurul Huda
+  alt_name: []
+  latitude: -6.2357988285327375
+  longitude: 106.84087930791867
+  type: way
+  amenity_type: place_of_worship
+- id: 486548690
+  name: Gereja St. Fransiskus Asisi
+  alt_name: []
+  latitude: -6.231411541793433
+  longitude: 106.84141969980624
+  type: way
+  amenity_type: place_of_worship
+- id: 487245942
+  name: Masjid Jami' At-Taufiq
+  alt_name: []
+  latitude: -6.215280850000001
+  longitude: 106.84852190000002
+  type: way
+  amenity_type: place_of_worship
+- id: 487295647
+  name: Masjid An-Nur
+  alt_name: []
+  latitude: -6.216588109272765
+  longitude: 106.84110415216693
+  type: way
+  amenity_type: place_of_worship
+- id: 487295683
+  name: Masjid Jami' At-Taqwa
+  alt_name: []
+  latitude: -6.21796155
+  longitude: 106.8429425
+  type: way
+  amenity_type: place_of_worship
+- id: 487295720
+  name: Masjid Babussalam
+  alt_name: []
+  latitude: -6.2160417814252575
+  longitude: 106.84184010516988
+  type: way
+  amenity_type: place_of_worship
+- id: 487296005
+  name: Masjid Baiturrahman
+  alt_name: []
+  latitude: -6.21687191571705
+  longitude: 106.84389882221664
+  type: way
+  amenity_type: place_of_worship
+- id: 487334332
+  name: Masjid Jami' Al-Hikmah
+  alt_name: []
+  latitude: -6.230999579914224
+  longitude: 106.8601129081237
+  type: way
+  amenity_type: place_of_worship
+- id: 487555452
+  name: Masjid Jami Al Muttaqien
+  alt_name: []
+  latitude: -6.262224236966877
+  longitude: 106.84570378094678
+  type: way
+  amenity_type: place_of_worship
+- id: 487578202
+  name: Masjid As-Sa'adah As-Sudairi
+  alt_name: []
+  latitude: -6.247638626610526
+  longitude: 106.82600428997276
+  type: way
+  amenity_type: place_of_worship
+- id: 487584993
+  name: Masjid Jami' Al Hidayah
+  alt_name: []
+  latitude: -6.254783865610813
+  longitude: 106.84156273980098
+  type: way
+  amenity_type: place_of_worship
+- id: 487635802
+  name: Masjid Baitussalam
+  alt_name: []
+  latitude: -6.254955218905096
+  longitude: 106.83375134723856
+  type: way
+  amenity_type: place_of_worship
+- id: 487638535
+  name: Masjid Al-Anwar
+  alt_name: []
+  latitude: -6.247010489407545
+  longitude: 106.81988162053958
+  type: way
+  amenity_type: place_of_worship
+- id: 487638536
+  name: Masjid Baiturrohim
+  alt_name: []
+  latitude: -6.245883450000001
+  longitude: 106.81424315
+  type: way
+  amenity_type: place_of_worship
+- id: 487668352
+  name: Masjid Jami Nurul Islam
+  alt_name: []
+  latitude: -6.254382757126923
+  longitude: 106.82822146915878
+  type: way
+  amenity_type: place_of_worship
+- id: 488174177
+  name: Gereja Baptis Indonesia GETSEMANI
+  alt_name: []
+  latitude: -6.2089026500000015
+  longitude: 106.83644385000001
+  type: way
+  amenity_type: place_of_worship
+- id: 488197086
+  name: Masjid Al Maghfiroh
+  alt_name: []
+  latitude: -6.2438797237127
+  longitude: 106.84833170619756
+  type: way
+  amenity_type: place_of_worship
+- id: 488371688
+  name: Masjid Jami' Baitul Mukhlishin
+  alt_name: []
+  latitude: -6.209465651076826
+  longitude: 106.84158919264517
+  type: way
+  amenity_type: place_of_worship
+- id: 488371729
+  name: Masjid Jami' Al-Ismai'liyyah
+  alt_name: []
+  latitude: -6.211457055621494
+  longitude: 106.84283302346587
+  type: way
+  amenity_type: place_of_worship
+- id: 488377719
+  name: Masjid Jami Ikhwanul Muslimin
+  alt_name: []
+  latitude: -6.265114672523708
+  longitude: 106.84340703713596
+  type: way
+  amenity_type: place_of_worship
+- id: 488417660
+  name: Masjid Jami Baitul Halim
+  alt_name: []
+  latitude: -6.2469126791619365
+  longitude: 106.8232883013313
+  type: way
+  amenity_type: place_of_worship
+- id: 488417683
+  name: Masjid Jami Al-Istikmal
+  alt_name: []
+  latitude: -6.252528481923722
+  longitude: 106.82593939677668
+  type: way
+  amenity_type: place_of_worship
+- id: 488417685
+  name: Masjid Jami Baiturrahim
+  alt_name: []
+  latitude: -6.251151828711714
+  longitude: 106.83211513672735
+  type: way
+  amenity_type: place_of_worship
+- id: 488417695
+  name: Masjid Jami Al-Anwar
+  alt_name: []
+  latitude: -6.25027788828178
+  longitude: 106.82893989859058
+  type: way
+  amenity_type: place_of_worship
+- id: 488417698
+  name: Masjid Jami Al-Hurriyyah
+  alt_name: []
+  latitude: -6.24577254401227
+  longitude: 106.83054818448352
+  type: way
+  amenity_type: place_of_worship
+- id: 488417734
+  name: Masjid Al Abror
+  alt_name: []
+  latitude: -6.250406158987569
+  longitude: 106.82604207100616
+  type: way
+  amenity_type: place_of_worship
+- id: 488432364
+  name: Masjid Al Ma'shum Swadaya
+  alt_name: []
+  latitude: -6.214093438389405
+  longitude: 106.84623176725223
+  type: way
+  amenity_type: place_of_worship
+- id: 488432416
+  name: Masjid Jami' Nurul Huda
+  alt_name: []
+  latitude: -6.215325784204582
+  longitude: 106.84715991050055
+  type: way
+  amenity_type: place_of_worship
+- id: 488432473
+  name: Masjid Al-Istiqomah
+  alt_name: []
+  latitude: -6.215095936702272
+  longitude: 106.85462162412077
+  type: way
+  amenity_type: place_of_worship
+- id: 489268784
+  name: Masjid At taqwa
+  alt_name: []
+  latitude: -6.216753697044713
+  longitude: 106.8534778275354
+  type: way
+  amenity_type: place_of_worship
+- id: 489268886
+  name: Masjid Nurus Solihin
+  alt_name: []
+  latitude: -6.21615677538827
+  longitude: 106.84721575651928
+  type: way
+  amenity_type: place_of_worship
+- id: 489268892
+  name: Masjid Al Maghfirah
+  alt_name: []
+  latitude: -6.215330696924826
+  longitude: 106.84545783221465
+  type: way
+  amenity_type: place_of_worship
+- id: 489272072
+  name: Musholla Al-Barokah
+  alt_name: []
+  latitude: -6.2515990196584195
+  longitude: 106.83001309112585
+  type: way
+  amenity_type: place_of_worship
+- id: 489536164
+  name: Masjid Jami' Arrohmah
+  alt_name: []
+  latitude: -6.254829405463623
+  longitude: 106.84521781965479
+  type: way
+  amenity_type: place_of_worship
+- id: 489556032
+  name: Masjid Jami' Daarul Muslimin
+  alt_name: []
+  latitude: -6.268223655724927
+  longitude: 106.82882992587211
+  type: way
+  amenity_type: place_of_worship
+- id: 490022856
+  name: Pura Kesatrya Loka
+  alt_name: []
+  latitude: -6.263305975257706
+  longitude: 106.83871959385246
+  type: way
+  amenity_type: place_of_worship
+- id: 490023880
+  name: Masjid Jami Ahmad Al Amin
+  alt_name: []
+  latitude: -6.2549335
+  longitude: 106.8370352
+  type: way
+  amenity_type: place_of_worship
+- id: 490044574
+  name: Masjid Uswah Afaf
+  alt_name: []
+  latitude: -6.21013805
+  longitude: 106.82592299999997
+  type: way
+  amenity_type: place_of_worship
+- id: 490060500
+  name: Masjid Al Makmur
+  alt_name: []
+  latitude: -6.2248521
+  longitude: 106.85590784999998
+  type: way
+  amenity_type: place_of_worship
+- id: 490060504
+  name: Masjid Al-Istiqomah
+  alt_name: []
+  latitude: -6.224214571644425
+  longitude: 106.86364413293242
+  type: way
+  amenity_type: place_of_worship
+- id: 490060591
+  name: Musholla Nurul Iman
+  alt_name: []
+  latitude: -6.217301404929394
+  longitude: 106.85849587005495
+  type: way
+  amenity_type: place_of_worship
+- id: 490060597
+  name: Masjid Darul Islam
+  alt_name: []
+  latitude: -6.217357849999999
+  longitude: 106.8592829
+  type: way
+  amenity_type: place_of_worship
+- id: 490060600
+  name: Masjid Jami' Hayatul Amal
+  alt_name: []
+  latitude: -6.220820080355434
+  longitude: 106.86242190308766
+  type: way
+  amenity_type: place_of_worship
+- id: 490060725
+  name: Masjid Jami Al Ishlah
+  alt_name: []
+  latitude: -6.218848068577206
+  longitude: 106.8573075438074
+  type: way
+  amenity_type: place_of_worship
+- id: 490061002
+  name: Masjid Jami' Al-Azhar
+  alt_name: []
+  latitude: -6.22037305
+  longitude: 106.85623670000001
+  type: way
+  amenity_type: place_of_worship
+- id: 490867166
+  name: Mushola Al Ikhlas
+  alt_name:
+  - Musholla Al Ikhlas
+  latitude: -6.261851275328914
+  longitude: 106.83260765444491
+  type: way
+  amenity_type: place_of_worship
+- id: 491036028
+  name: Masjid Jami Al Mujahidin
+  alt_name: []
+  latitude: -6.260532243683464
+  longitude: 106.83623632435497
+  type: way
+  amenity_type: place_of_worship
+- id: 491081409
+  name: Masjid Jami Nasruminallah
+  alt_name: []
+  latitude: -6.259011643721406
+  longitude: 106.84077030556772
+  type: way
+  amenity_type: place_of_worship
+- id: 491530007
+  name: Mushola Al Ikhsan
+  alt_name:
+  - Musholla Al-Ikhsan
+  latitude: -6.232508549745682
+  longitude: 106.85943916667071
+  type: way
+  amenity_type: place_of_worship
+- id: 491559958
+  name: Mushola Nurul Iman
+  alt_name:
+  - Musholla Nurul Iman
+  latitude: -6.259469813714911
+  longitude: 106.80951218059455
+  type: way
+  amenity_type: place_of_worship
+- id: 492028230
+  name: Musholla SDN 06 Tegal Parang
+  alt_name: []
+  latitude: -6.251181017380519
+  longitude: 106.82521848458224
+  type: way
+  amenity_type: place_of_worship
+- id: 492288343
+  name: Musholla Kantor Kecamatan Mampang
+  alt_name: []
+  latitude: -6.251854420738844
+  longitude: 106.82468179323192
+  type: way
+  amenity_type: place_of_worship
+- id: 493582386
+  name: Masjid Nurul Falah PLTD Senayan
+  alt_name: []
+  latitude: -6.216167257836399
+  longitude: 106.79564007165375
+  type: way
+  amenity_type: place_of_worship
+- id: 493583663
+  name: Mushollah Al Hidayah
+  alt_name:
+  - Musholla Al Hidayah
+  latitude: -6.218482299999998
+  longitude: 106.84955484999999
+  type: way
+  amenity_type: place_of_worship
+- id: 493600632
+  name: Masjid Jami' Al Ikhlas
+  alt_name: []
+  latitude: -6.217571707789385
+  longitude: 106.79353077516005
+  type: way
+  amenity_type: place_of_worship
+- id: 495425231
+  name: Masjid Al Kautsar
+  alt_name: []
+  latitude: -6.305098348250306
+  longitude: 106.8448184748722
+  type: way
+  amenity_type: place_of_worship
+- id: 495574565
+  name: Masjid Al Hidayah
+  alt_name: []
+  latitude: -6.217999116864926
+  longitude: 106.83824773351681
+  type: way
+  amenity_type: place_of_worship
+- id: 496468016
+  name: Masjid Miftahul Jannah
+  alt_name: []
+  latitude: -6.2472307514138805
+  longitude: 106.83751833350676
+  type: way
+  amenity_type: place_of_worship
+- id: 496562589
+  name: Masjid Jami Assyari
+  alt_name: []
+  latitude: -6.3047365819954235
+  longitude: 106.8383810546937
+  type: way
+  amenity_type: place_of_worship
+- id: 496587035
+  name: Masjid Jami Nurul Muhklis
+  alt_name: []
+  latitude: -6.348319574016289
+  longitude: 106.82061763831963
+  type: way
+  amenity_type: place_of_worship
+- id: 496587143
+  name: Masjid Al Baroqah
+  alt_name: []
+  latitude: -6.349177229657553
+  longitude: 106.8244585061778
+  type: way
+  amenity_type: place_of_worship
+- id: 497071036
+  name: Paroki Ratu Rosari Jagakarsa
+  alt_name: []
+  latitude: -6.3387492270362324
+  longitude: 106.82738405531025
+  type: way
+  amenity_type: place_of_worship
+- id: 497111527
+  name: Masjid Al Mukhlisin
+  alt_name: []
+  latitude: -6.3485409289031915
+  longitude: 106.79380840707243
+  type: way
+  amenity_type: place_of_worship
+- id: 497548992
+  name: Gereja Pouk
+  alt_name: []
+  latitude: -6.340244071313068
+  longitude: 106.83138972610459
+  type: way
+  amenity_type: place_of_worship
+- id: 497549001
+  name: Pura Agung Widhya Mandala
+  alt_name: []
+  latitude: -6.3403832685223955
+  longitude: 106.83128289364993
+  type: way
+  amenity_type: place_of_worship
+- id: 497549064
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.341836379117927
+  longitude: 106.83304025679523
+  type: way
+  amenity_type: place_of_worship
+- id: 497606801
+  name: Masjid Zaidatur Rahman
+  alt_name: []
+  latitude: -6.3308702238219485
+  longitude: 106.83206389114402
+  type: way
+  amenity_type: place_of_worship
+- id: 498229795
+  name: Masjid Al Jihad
+  alt_name: []
+  latitude: -6.228649255068241
+  longitude: 106.77661382460705
+  type: way
+  amenity_type: place_of_worship
+- id: 498423493
+  name: Masjid Gelanggang Remaja Jakarta Selatan
+  alt_name: []
+  latitude: -6.242399401556799
+  longitude: 106.79709665430963
+  type: way
+  amenity_type: place_of_worship
+- id: 498424545
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.287084331918738
+  longitude: 106.77345685416941
+  type: way
+  amenity_type: place_of_worship
+- id: 498430691
+  name: Masjid Falatehan
+  alt_name: []
+  latitude: -6.241617727978621
+  longitude: 106.80062103063845
+  type: way
+  amenity_type: place_of_worship
+- id: 498432526
+  name: Masjid Adilla At-taqwa
+  alt_name: []
+  latitude: -6.263524195991775
+  longitude: 106.78754993013519
+  type: way
+  amenity_type: place_of_worship
+- id: 498433324
+  name: Gereja Katholik Santo Yohanes Penginjil
+  alt_name: []
+  latitude: -6.2452484
+  longitude: 106.7953176
+  type: way
+  amenity_type: place_of_worship
+- id: 498439198
+  name: Masjid Al Hikmah
+  alt_name: []
+  latitude: -6.285712459449973
+  longitude: 106.77505758890756
+  type: way
+  amenity_type: place_of_worship
+- id: 498447283
+  name: Gereja Bethel Injil Sepenuh Bukti Karamel
+  alt_name: []
+  latitude: -6.2314917545168145
+  longitude: 106.77989637714441
+  type: way
+  amenity_type: place_of_worship
+- id: 498451098
+  name: Bio Hok Tek Tjeng Sin
+  alt_name: []
+  latitude: -6.2301211731566815
+  longitude: 106.77814115667277
+  type: way
+  amenity_type: place_of_worship
+- id: 498480791
+  name: Masjid Nurrur Rahman
+  alt_name: []
+  latitude: -6.237635118179788
+  longitude: 106.79955734604764
+  type: way
+  amenity_type: place_of_worship
+- id: 498482968
+  name: Masjid Agung Al Azhar
+  alt_name: []
+  latitude: -6.2350968587488005
+  longitude: 106.79936123791308
+  type: way
+  amenity_type: place_of_worship
+- id: 498514448
+  name: Masjid Al Falah
+  alt_name: []
+  latitude: -6.230838856870713
+  longitude: 106.79339136874592
+  type: way
+  amenity_type: place_of_worship
+- id: 498695629
+  name: Masjid Jami' At Taqwa
+  alt_name: []
+  latitude: -6.2172938
+  longitude: 106.78988120000001
+  type: way
+  amenity_type: place_of_worship
+- id: 498709230
+  name: GKI Pondok Indah
+  alt_name: []
+  latitude: -6.282282000000001
+  longitude: 106.78923954999999
+  type: way
+  amenity_type: place_of_worship
+- id: 498710447
+  name: Masjid Jami' Nurul Iman
+  alt_name: []
+  latitude: -6.220108980300344
+  longitude: 106.7890611557782
+  type: way
+  amenity_type: place_of_worship
+- id: 498711984
+  name: Masjid Jami' Al Ihsaan
+  alt_name: []
+  latitude: -6.241484399999999
+  longitude: 106.78400614999998
+  type: way
+  amenity_type: place_of_worship
+- id: 498714519
+  name: Masjid Baitul Hakim
+  alt_name: []
+  latitude: -6.215830091345357
+  longitude: 106.79146102026306
+  type: way
+  amenity_type: place_of_worship
+- id: 498728477
+  name: Masjid Jami' Nurul Hidayah
+  alt_name: []
+  latitude: -6.259769399999999
+  longitude: 106.7846088
+  type: way
+  amenity_type: place_of_worship
+- id: 498728514
+  name: Masjid Jami As Su'adaa
+  alt_name: []
+  latitude: -6.25839415
+  longitude: 106.78532815
+  type: way
+  amenity_type: place_of_worship
+- id: 498739783
+  name: Masjid Al Maghfiroh
+  alt_name: []
+  latitude: -6.212990571066884
+  longitude: 106.79191053703339
+  type: way
+  amenity_type: place_of_worship
+- id: 498754669
+  name: Musholla Baiturrahman
+  alt_name: []
+  latitude: -6.211918843733555
+  longitude: 106.79168730964504
+  type: way
+  amenity_type: place_of_worship
+- id: 498793319
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.344434647485128
+  longitude: 106.82821383110287
+  type: way
+  amenity_type: place_of_worship
+- id: 499796974
+  name: Masjid Jami Al Khoiriyah
+  alt_name: []
+  latitude: -6.326815753036237
+  longitude: 106.82933296123467
+  type: way
+  amenity_type: place_of_worship
+- id: 499800538
+  name: Masjid Asy Syahidin
+  alt_name: []
+  latitude: -6.3395576
+  longitude: 106.82437125
+  type: way
+  amenity_type: place_of_worship
+- id: 499800557
+  name: Mesjid Jami Al Ikhlas
+  alt_name: []
+  latitude: -6.3355605
+  longitude: 106.83334464999999
+  type: way
+  amenity_type: place_of_worship
+- id: 499800563
+  name: Masjid Nurul Jannah
+  alt_name: []
+  latitude: -6.34645045
+  longitude: 106.83497150000001
+  type: way
+  amenity_type: place_of_worship
+- id: 499800568
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.356749399999999
+  longitude: 106.80975215
+  type: way
+  amenity_type: place_of_worship
+- id: 499800570
+  name: Masjid Jami Al Huda
+  alt_name: []
+  latitude: -6.3524123096966125
+  longitude: 106.81965933176065
+  type: way
+  amenity_type: place_of_worship
+- id: 499800588
+  name: Masjid Nurul Irfan
+  alt_name: []
+  latitude: -6.350443151299996
+  longitude: 106.81422493399072
+  type: way
+  amenity_type: place_of_worship
+- id: 499800650
+  name: Huria Kristen Batak Protestan
+  alt_name: []
+  latitude: -6.344112750000001
+  longitude: 106.83195004999999
+  type: way
+  amenity_type: place_of_worship
+- id: 499800677
+  name: Masjid Jami Nurul Iman
+  alt_name: []
+  latitude: -6.343599731150317
+  longitude: 106.82479830243045
+  type: way
+  amenity_type: place_of_worship
+- id: 499800769
+  name: Masjid Al Mu'Aawanah
+  alt_name: []
+  latitude: -6.355595949999999
+  longitude: 106.81806864999997
+  type: way
+  amenity_type: place_of_worship
+- id: 499800820
+  name: Masjid Al Mubaraq
+  alt_name: []
+  latitude: -6.33598285
+  longitude: 106.83043944999999
+  type: way
+  amenity_type: place_of_worship
+- id: 499800822
+  name: Masjid Al Birru
+  alt_name: []
+  latitude: -6.336547118399492
+  longitude: 106.83083279562531
+  type: way
+  amenity_type: place_of_worship
+- id: 499825663
+  name: Masjid Jami Al Wiqoyah
+  alt_name: []
+  latitude: -6.326478752852549
+  longitude: 106.8235087713041
+  type: way
+  amenity_type: place_of_worship
+- id: 500051828
+  name: Masjid Nurul Jannah
+  alt_name: []
+  latitude: -6.331414278486162
+  longitude: 106.82096229205268
+  type: way
+  amenity_type: place_of_worship
+- id: 500052232
+  name: Masjid Jami Daruul Muttaqin
+  alt_name: []
+  latitude: -6.33084195
+  longitude: 106.82456235000001
+  type: way
+  amenity_type: place_of_worship
+- id: 500183845
+  name: Masjid Al-Hijrah
+  alt_name: []
+  latitude: -6.314698678169808
+  longitude: 106.79316287833312
+  type: way
+  amenity_type: place_of_worship
+- id: 500311523
+  name: Masjid Siratul Jannah Pusdatin Kemhan
+  alt_name: []
+  latitude: -6.312837149334176
+  longitude: 106.79160094451186
+  type: way
+  amenity_type: place_of_worship
+- id: 500838299
+  name: Pondok Pesantren Dzarratul Abraar
+  alt_name: []
+  latitude: -6.296080757714901
+  longitude: 106.83689967227178
+  type: way
+  amenity_type: place_of_worship
+- id: 500869885
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.2684336499999995
+  longitude: 106.80077444999999
+  type: way
+  amenity_type: place_of_worship
+- id: 500869894
+  name: Masjid Darut-Taqwa
+  alt_name: []
+  latitude: -6.2675512499999995
+  longitude: 106.79796239999999
+  type: way
+  amenity_type: place_of_worship
+- id: 500869900
+  name: Masjid Al-Ikhlas
+  alt_name: []
+  latitude: -6.27071283160691
+  longitude: 106.80833635392808
+  type: way
+  amenity_type: place_of_worship
+- id: 500869910
+  name: Musholla Al-Malikiyah
+  alt_name: []
+  latitude: -6.27016175
+  longitude: 106.80656440000001
+  type: way
+  amenity_type: place_of_worship
+- id: 500869914
+  name: Musholla
+  alt_name: []
+  latitude: -6.271317028872568
+  longitude: 106.81208041301275
+  type: way
+  amenity_type: place_of_worship
+- id: 500869917
+  name: Masjid Al-Akhyar
+  alt_name: []
+  latitude: -6.269788350000001
+  longitude: 106.80485435
+  type: way
+  amenity_type: place_of_worship
+- id: 500869919
+  name: Masjid Al Hasanah
+  alt_name: []
+  latitude: -6.2705489966568155
+  longitude: 106.79820438222387
+  type: way
+  amenity_type: place_of_worship
+- id: 500869965
+  name: HKBP Resort Kebayoran Selatan
+  alt_name: []
+  latitude: -6.272473713775282
+  longitude: 106.8009437387226
+  type: way
+  amenity_type: place_of_worship
+- id: 500869998
+  name: Masjid Al-Ihsan
+  alt_name: []
+  latitude: -6.26801955
+  longitude: 106.81079964999999
+  type: way
+  amenity_type: place_of_worship
+- id: 500889887
+  name: HKBP Distrik XXVIII DKI Jakarta Raya Resort Pasar Minggu
+  alt_name: []
+  latitude: -6.295850067698805
+  longitude: 106.84173418404266
+  type: way
+  amenity_type: place_of_worship
+- id: 500897395
+  name: GKJ Eben Haezer
+  alt_name: []
+  latitude: -6.29018019695901
+  longitude: 106.84175972994991
+  type: way
+  amenity_type: place_of_worship
+- id: 500897407
+  name: GPIB Jemaat Pasar Minggu
+  alt_name: []
+  latitude: -6.289138024026835
+  longitude: 106.83817918875444
+  type: way
+  amenity_type: place_of_worship
+- id: 500897452
+  name: Masjid Baiturrahman
+  alt_name: []
+  latitude: -6.283441001664762
+  longitude: 106.84088488787833
+  type: way
+  amenity_type: place_of_worship
+- id: 500897495
+  name: Masjid Al Hidayah
+  alt_name: []
+  latitude: -6.279550757660897
+  longitude: 106.84061757482084
+  type: way
+  amenity_type: place_of_worship
+- id: 500918399
+  name: Masjid Al Istiqomah
+  alt_name: []
+  latitude: -6.294616793905753
+  longitude: 106.83814163179986
+  type: way
+  amenity_type: place_of_worship
+- id: 500918528
+  name: Masjid Nurul Islam
+  alt_name: []
+  latitude: -6.291698150000001
+  longitude: 106.84004100000001
+  type: way
+  amenity_type: place_of_worship
+- id: 501029867
+  name: Masjid Al Kautsar
+  alt_name: []
+  latitude: -6.314566300000001
+  longitude: 106.80871935000002
+  type: way
+  amenity_type: place_of_worship
+- id: 501140959
+  name: Masjid Darussalam
+  alt_name: []
+  latitude: -6.307320250000001
+  longitude: 106.80859139999998
+  type: way
+  amenity_type: place_of_worship
+- id: 501881181
+  name: Mushola
+  alt_name: []
+  latitude: -6.324826999999999
+  longitude: 106.81782915
+  type: way
+  amenity_type: place_of_worship
+- id: 501973561
+  name: Masjid Darun Ni'mah
+  alt_name: []
+  latitude: -6.29126685
+  longitude: 106.77541769999999
+  type: way
+  amenity_type: place_of_worship
+- id: 501973563
+  name: Masjid Al-Ihsan
+  alt_name: []
+  latitude: -6.295658550000001
+  longitude: 106.78338260000001
+  type: way
+  amenity_type: place_of_worship
+- id: 501973583
+  name: Masjid Darul Qur'an
+  alt_name: []
+  latitude: -6.291164508133096
+  longitude: 106.77140893693651
+  type: way
+  amenity_type: place_of_worship
+- id: 501973594
+  name: Masjid Al-Adil
+  alt_name: []
+  latitude: -6.296446318449559
+  longitude: 106.78079938870242
+  type: way
+  amenity_type: place_of_worship
+- id: 501973606
+  name: Masjid At-Taqwa
+  alt_name: []
+  latitude: -6.294841300000001
+  longitude: 106.7767735
+  type: way
+  amenity_type: place_of_worship
+- id: 501973623
+  name: Masjid Jami' Assa'adah
+  alt_name: []
+  latitude: -6.294878449999999
+  longitude: 106.77185724999998
+  type: way
+  amenity_type: place_of_worship
+- id: 501977599
+  name: Masjid Ar Ruhama
+  alt_name: []
+  latitude: -6.293802052603808
+  longitude: 106.82828656854026
+  type: way
+  amenity_type: place_of_worship
+- id: 501977691
+  name: Gereja Kemah Injil Indonesia Jemaat Antiokia
+  alt_name: []
+  latitude: -6.290733389785203
+  longitude: 106.82401233120171
+  type: way
+  amenity_type: place_of_worship
+- id: 501977787
+  name: Masjid As Salam
+  alt_name: []
+  latitude: -6.284963526802895
+  longitude: 106.83244134027368
+  type: way
+  amenity_type: place_of_worship
+- id: 502231898
+  name: Masjid At-Thoyibah
+  alt_name: []
+  latitude: -6.283205960046912
+  longitude: 106.80117461108915
+  type: way
+  amenity_type: place_of_worship
+- id: 502258672
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.295374506791074
+  longitude: 106.8329776869617
+  type: way
+  amenity_type: place_of_worship
+- id: 502275825
+  name: Masjid Shobbabah
+  alt_name: []
+  latitude: -6.285997791450828
+  longitude: 106.84558942818212
+  type: way
+  amenity_type: place_of_worship
+- id: 502278085
+  name: Masjid Al Barokah
+  alt_name: []
+  latitude: -6.301013752694646
+  longitude: 106.85358055264622
+  type: way
+  amenity_type: place_of_worship
+- id: 502278089
+  name: Masjid Jami' Asy Syuhada
+  alt_name: []
+  latitude: -6.311808432337788
+  longitude: 106.83900245351265
+  type: way
+  amenity_type: place_of_worship
+- id: 502278095
+  name: Masjid Jami Baiturrahman
+  alt_name: []
+  latitude: -6.299442336912914
+  longitude: 106.84574782273582
+  type: way
+  amenity_type: place_of_worship
+- id: 502278130
+  name: Masjid Al Hikmah
+  alt_name: []
+  latitude: -6.31120993934116
+  longitude: 106.84568491281566
+  type: way
+  amenity_type: place_of_worship
+- id: 502278151
+  name: Masjid Baiturrahmah
+  alt_name: []
+  latitude: -6.310246569037655
+  longitude: 106.85270979427614
+  type: way
+  amenity_type: place_of_worship
+- id: 502278221
+  name: Masjid Al - Barkah
+  alt_name: []
+  latitude: -6.313139472843142
+  longitude: 106.84526938791916
+  type: way
+  amenity_type: place_of_worship
+- id: 502278294
+  name: Masjid Al A'Raf
+  alt_name: []
+  latitude: -6.297109285108862
+  longitude: 106.84355056254596
+  type: way
+  amenity_type: place_of_worship
+- id: 502278304
+  name: Masjid Jami Nurul Rahman
+  alt_name: []
+  latitude: -6.3001763173948415
+  longitude: 106.84163951346653
+  type: way
+  amenity_type: place_of_worship
+- id: 502278324
+  name: Masjid Nurussaadah
+  alt_name: []
+  latitude: -6.300948675409113
+  longitude: 106.84959456147091
+  type: way
+  amenity_type: place_of_worship
+- id: 502278330
+  name: Masjid Nurul Islam
+  alt_name: []
+  latitude: -6.309167676170577
+  longitude: 106.84864170877853
+  type: way
+  amenity_type: place_of_worship
+- id: 502278351
+  name: Masjid At Tarbiyah
+  alt_name: []
+  latitude: -6.3031556135277675
+  longitude: 106.84840586548401
+  type: way
+  amenity_type: place_of_worship
+- id: 502278424
+  name: Masjid Jami' Al Murtadho
+  alt_name: []
+  latitude: -6.3049936615253905
+  longitude: 106.84350027524874
+  type: way
+  amenity_type: place_of_worship
+- id: 502278455
+  name: Masjid Jami Nurul Hidayatussholihin
+  alt_name: []
+  latitude: -6.304795308855054
+  longitude: 106.85019012103712
+  type: way
+  amenity_type: place_of_worship
+- id: 502278462
+  name: Masjid Al Ihsan
+  alt_name: []
+  latitude: -6.3084654342757505
+  longitude: 106.8531614052656
+  type: way
+  amenity_type: place_of_worship
+- id: 502278475
+  name: Maajid Jami Al Badriyah
+  alt_name: []
+  latitude: -6.309811030387564
+  longitude: 106.85543406095745
+  type: way
+  amenity_type: place_of_worship
+- id: 502278476
+  name: Gereja Kristen Pasundan
+  alt_name: []
+  latitude: -6.302853485103149
+  longitude: 106.85101267091997
+  type: way
+  amenity_type: place_of_worship
+- id: 502297680
+  name: Masjid Jami' Al-Barkah
+  alt_name: []
+  latitude: -6.300707149999999
+  longitude: 106.77938995000001
+  type: way
+  amenity_type: place_of_worship
+- id: 502297690
+  name: Masjid Jami' Nurul Falah
+  alt_name: []
+  latitude: -6.312923856838256
+  longitude: 106.78116494230945
+  type: way
+  amenity_type: place_of_worship
+- id: 502297862
+  name: Masjid Al-Khoiriyah
+  alt_name: []
+  latitude: -6.3020487476226945
+  longitude: 106.77518128001257
+  type: way
+  amenity_type: place_of_worship
+- id: 502616093
+  name: Masjid Dzarratul Inayah
+  alt_name: []
+  latitude: -6.292253011380686
+  longitude: 106.7725844292285
+  type: way
+  amenity_type: place_of_worship
+- id: 504689928
+  name: Masjid Jami' Al-Akhyar
+  alt_name: []
+  latitude: -6.279794249999999
+  longitude: 106.80792765
+  type: way
+  amenity_type: place_of_worship
+- id: 504715480
+  name: Masjid Daarul Rahman
+  alt_name: []
+  latitude: -6.3589032
+  longitude: 106.80569745000001
+  type: way
+  amenity_type: place_of_worship
+- id: 504969331
+  name: Masjid Jami At Taqwa
+  alt_name: []
+  latitude: -6.318060436018383
+  longitude: 106.82030261863268
+  type: way
+  amenity_type: place_of_worship
+- id: 504977559
+  name: Musholla Nurul Hidayah
+  alt_name: []
+  latitude: -6.2754921
+  longitude: 106.8117966
+  type: way
+  amenity_type: place_of_worship
+- id: 505195427
+  name: Masjid Baiturrahman
+  alt_name: []
+  latitude: -6.286046495150468
+  longitude: 106.80533553151236
+  type: way
+  amenity_type: place_of_worship
+- id: 505452176
+  name: Masjid Istiqomah
+  alt_name: []
+  latitude: -6.2908378256515824
+  longitude: 106.79301350832287
+  type: way
+  amenity_type: place_of_worship
+- id: 505482662
+  name: Masjid Nurul Hikmah
+  alt_name: []
+  latitude: -6.288295950000001
+  longitude: 106.79696435
+  type: way
+  amenity_type: place_of_worship
+- id: 505492127
+  name: Gereja Katholik Santa Stefanus
+  alt_name: []
+  latitude: -6.291594942477969
+  longitude: 106.79173487460697
+  type: way
+  amenity_type: place_of_worship
+- id: 505736118
+  name: Masjid Jamiatul Kirom
+  alt_name: []
+  latitude: -6.304082450000002
+  longitude: 106.78449504999999
+  type: way
+  amenity_type: place_of_worship
+- id: 505736312
+  name: Masjid Al-Falah
+  alt_name: []
+  latitude: -6.3005625499999995
+  longitude: 106.78246469999999
+  type: way
+  amenity_type: place_of_worship
+- id: 505767300
+  name: Masjid Daarul Mustaqiem
+  alt_name: []
+  latitude: -6.265202617223572
+  longitude: 106.84482324898273
+  type: way
+  amenity_type: place_of_worship
+- id: 505768368
+  name: Masjid Pejaten
+  alt_name: []
+  latitude: -6.264226809845138
+  longitude: 106.84703457514843
+  type: way
+  amenity_type: place_of_worship
+- id: 505773369
+  name: Masjid Al Huda
+  alt_name: []
+  latitude: -6.276798954873432
+  longitude: 106.79410912221745
+  type: way
+  amenity_type: place_of_worship
+- id: 505811317
+  name: Masjid Baiturrahman
+  alt_name: []
+  latitude: -6.310506191519699
+  longitude: 106.81317883346749
+  type: way
+  amenity_type: place_of_worship
+- id: 505811336
+  name: Masjid Jami' Nurul Madinah
+  alt_name: []
+  latitude: -6.309921561635803
+  longitude: 106.81440197455126
+  type: way
+  amenity_type: place_of_worship
+- id: 505818956
+  name: Gereja Katolik Santo Matias - Cinere
+  alt_name: []
+  latitude: -6.311983944217716
+  longitude: 106.78384032317786
+  type: way
+  amenity_type: place_of_worship
+- id: 505818957
+  name: Gereja Oikumene Bahtera Allah
+  alt_name: []
+  latitude: -6.312240946106213
+  longitude: 106.78384687566033
+  type: way
+  amenity_type: place_of_worship
+- id: 505819171
+  name: Masjid Jami' Imam Bonjol
+  alt_name: []
+  latitude: -6.3129534695473986
+  longitude: 106.78515002327548
+  type: way
+  amenity_type: place_of_worship
+- id: 506895844
+  name: Masjid Al Barkah
+  alt_name: []
+  latitude: -6.342567210763814
+  longitude: 106.81353703514566
+  type: way
+  amenity_type: place_of_worship
+- id: 506895855
+  name: Masjid Jami Al Anwar
+  alt_name: []
+  latitude: -6.325487550000001
+  longitude: 106.80589425
+  type: way
+  amenity_type: place_of_worship
+- id: 506896003
+  name: Masjid Jami Al Mujahidin
+  alt_name: []
+  latitude: -6.335458102248662
+  longitude: 106.81287136322649
+  type: way
+  amenity_type: place_of_worship
+- id: 506896139
+  name: Masjid Jami Al Munawaroh
+  alt_name: []
+  latitude: -6.344776618407182
+  longitude: 106.80998274267397
+  type: way
+  amenity_type: place_of_worship
+- id: 506896171
+  name: Masjid Daarul Iman
+  alt_name: []
+  latitude: -6.342239907716216
+  longitude: 106.80467862397268
+  type: way
+  amenity_type: place_of_worship
+- id: 507447499
+  name: Masjid Jami Al Fajri
+  alt_name: []
+  latitude: -6.269627999999999
+  longitude: 106.83945940000001
+  type: way
+  amenity_type: place_of_worship
+- id: 507447531
+  name: Masjid Al Furqan
+  alt_name: []
+  latitude: -6.267336682960317
+  longitude: 106.8381627205882
+  type: way
+  amenity_type: place_of_worship
+- id: 507454181
+  name: Masjid Jami Asy Syuhada
+  alt_name: []
+  latitude: -6.271223918071908
+  longitude: 106.8454836342519
+  type: way
+  amenity_type: place_of_worship
+- id: 507456686
+  name: Masjid Al Mutraqien
+  alt_name: []
+  latitude: -6.274287650000001
+  longitude: 106.84440129999999
+  type: way
+  amenity_type: place_of_worship
+- id: 507524667
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.27559835
+  longitude: 106.83989005
+  type: way
+  amenity_type: place_of_worship
+- id: 508069784
+  name: Musholla At-Thayyibah
+  alt_name: []
+  latitude: -6.273748299999999
+  longitude: 106.8135305
+  type: way
+  amenity_type: place_of_worship
+- id: 508315069
+  name: Masjid At Taubah
+  alt_name: []
+  latitude: -6.2824078000000005
+  longitude: 106.82060520000002
+  type: way
+  amenity_type: place_of_worship
+- id: 508317232
+  name: Masjid Nurul Yaqin
+  alt_name: []
+  latitude: -6.278550075872665
+  longitude: 106.82600005405133
+  type: way
+  amenity_type: place_of_worship
+- id: 508341194
+  name: Masjid Jami Al Ikhlas
+  alt_name: []
+  latitude: -6.287388150000001
+  longitude: 106.8445752
+  type: way
+  amenity_type: place_of_worship
+- id: 508341216
+  name: Masjid Jami Al Khairiyah
+  alt_name: []
+  latitude: -6.2947781
+  longitude: 106.8503648
+  type: way
+  amenity_type: place_of_worship
+- id: 508341229
+  name: Masjid Al Muhajirin
+  alt_name: []
+  latitude: -6.292062180570811
+  longitude: 106.84367230565505
+  type: way
+  amenity_type: place_of_worship
+- id: 508341237
+  name: Masjid Jami Ar Rahman
+  alt_name: []
+  latitude: -6.2887374
+  longitude: 106.8470003
+  type: way
+  amenity_type: place_of_worship
+- id: 508341265
+  name: Masjid Jami Al Ikhlas
+  alt_name: []
+  latitude: -6.280835374714111
+  longitude: 106.84639451373846
+  type: way
+  amenity_type: place_of_worship
+- id: 508341282
+  name: Masjid Jami Nurul Huda
+  alt_name: []
+  latitude: -6.295430949999999
+  longitude: 106.8472464
+  type: way
+  amenity_type: place_of_worship
+- id: 508341283
+  name: Masjid Jami Al Ma'muriyah
+  alt_name: []
+  latitude: -6.284928910535532
+  longitude: 106.8455302722125
+  type: way
+  amenity_type: place_of_worship
+- id: 508341286
+  name: Masjid Jami An Nur
+  alt_name: []
+  latitude: -6.291434625803899
+  longitude: 106.84642931018746
+  type: way
+  amenity_type: place_of_worship
+- id: 508341341
+  name: Masjid Jami Hidayatusholihin
+  alt_name: []
+  latitude: -6.2944268304420845
+  longitude: 106.84557446014136
+  type: way
+  amenity_type: place_of_worship
+- id: 508341369
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.294653450000001
+  longitude: 106.84289695000002
+  type: way
+  amenity_type: place_of_worship
+- id: 508346588
+  name: Masjid Jami Al Falah
+  alt_name: []
+  latitude: -6.307492299999999
+  longitude: 106.8166432
+  type: way
+  amenity_type: place_of_worship
+- id: 508346798
+  name: Masjid Jami An Nur
+  alt_name: []
+  latitude: -6.2721525009548715
+  longitude: 106.85009929743264
+  type: way
+  amenity_type: place_of_worship
+- id: 508351214
+  name: Masjid Nurul Hayah
+  alt_name: []
+  latitude: -6.30485816062822
+  longitude: 106.81635942363319
+  type: way
+  amenity_type: place_of_worship
+- id: 508365281
+  name: Masjid Jami Assakinah
+  alt_name: []
+  latitude: -6.302959420287815
+  longitude: 106.83397954668146
+  type: way
+  amenity_type: place_of_worship
+- id: 508365360
+  name: Masjid Jami Baiturrahim
+  alt_name: []
+  latitude: -6.298530350000001
+  longitude: 106.82715255000001
+  type: way
+  amenity_type: place_of_worship
+- id: 508393885
+  name: Masjid jami Al Mukhlishin
+  alt_name: []
+  latitude: -6.31876408723726
+  longitude: 106.82734467473794
+  type: way
+  amenity_type: place_of_worship
+- id: 508393903
+  name: Masjid Jami Nurul Amal
+  alt_name: []
+  latitude: -6.309393379047528
+  longitude: 106.82829875549277
+  type: way
+  amenity_type: place_of_worship
+- id: 508394998
+  name: Masjid Al-Karomah
+  alt_name: []
+  latitude: -6.273458157367219
+  longitude: 106.80043511389792
+  type: way
+  amenity_type: place_of_worship
+- id: 508395064
+  name: Masjid Al-Ikhlas
+  alt_name: []
+  latitude: -6.278920649999999
+  longitude: 106.79979035000001
+  type: way
+  amenity_type: place_of_worship
+- id: 508406690
+  name: Masjid Jami Assaadah
+  alt_name: []
+  latitude: -6.3098268
+  longitude: 106.83651015000001
+  type: way
+  amenity_type: place_of_worship
+- id: 508410570
+  name: Masjid Al Ihsan
+  alt_name: []
+  latitude: -6.305929478142529
+  longitude: 106.83398311125679
+  type: way
+  amenity_type: place_of_worship
+- id: 508585315
+  name: Masjid Al-Munir
+  alt_name: []
+  latitude: -6.2670536000000014
+  longitude: 106.79566009999998
+  type: way
+  amenity_type: place_of_worship
+- id: 508870476
+  name: Masjid An-Nur
+  alt_name: []
+  latitude: -6.303750559583358
+  longitude: 106.78881992584064
+  type: way
+  amenity_type: place_of_worship
+- id: 508870477
+  name: Musholla Al-Mujahidin
+  alt_name: []
+  latitude: -6.307399750000001
+  longitude: 106.78659665
+  type: way
+  amenity_type: place_of_worship
+- id: 508915504
+  name: Masjid Nurul Islam
+  alt_name: []
+  latitude: -6.313447149999999
+  longitude: 106.80681650000001
+  type: way
+  amenity_type: place_of_worship
+- id: 508915520
+  name: Gereja Pantekosta Indonesia Sidang Pondok Labu
+  alt_name: []
+  latitude: -6.304014187657711
+  longitude: 106.80606838235931
+  type: way
+  amenity_type: place_of_worship
+- id: 508915526
+  name: Masjid Baiturrahmah
+  alt_name: []
+  latitude: -6.303230097351111
+  longitude: 106.79943147047823
+  type: way
+  amenity_type: place_of_worship
+- id: 508915528
+  name: Masjid Al Jabr
+  alt_name: []
+  latitude: -6.308039927362285
+  longitude: 106.80545940726974
+  type: way
+  amenity_type: place_of_worship
+- id: 508915547
+  name: Masjid Baitul Faqih
+  alt_name: []
+  latitude: -6.313844994950574
+  longitude: 106.8081969247325
+  type: way
+  amenity_type: place_of_worship
+- id: 508915559
+  name: Masjid Nurul Hikmah
+  alt_name: []
+  latitude: -6.302784149999999
+  longitude: 106.80539970000001
+  type: way
+  amenity_type: place_of_worship
+- id: 508918352
+  name: Masjid Al Makmur
+  alt_name: []
+  latitude: -6.3256883219498174
+  longitude: 106.8146201422023
+  type: way
+  amenity_type: place_of_worship
+- id: 508918377
+  name: Masjid Jami Al Muthmainnah
+  alt_name: []
+  latitude: -6.322075950000001
+  longitude: 106.8184134
+  type: way
+  amenity_type: place_of_worship
+- id: 508918416
+  name: Masjid Jami Al Munawarah
+  alt_name: []
+  latitude: -6.333527579750466
+  longitude: 106.8231044769474
+  type: way
+  amenity_type: place_of_worship
+- id: 508918514
+  name: Masjid Jami Al Muqoribin
+  alt_name: []
+  latitude: -6.329501053878688
+  longitude: 106.81951417705017
+  type: way
+  amenity_type: place_of_worship
+- id: 508918529
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.314509183666543
+  longitude: 106.81073940024868
+  type: way
+  amenity_type: place_of_worship
+- id: 508918582
+  name: Masjid Jami Baitussolihin
+  alt_name: []
+  latitude: -6.324851719079568
+  longitude: 106.81007989322158
+  type: way
+  amenity_type: place_of_worship
+- id: 508918608
+  name: Masjid Jami Al Barkah
+  alt_name: []
+  latitude: -6.332928140504889
+  longitude: 106.82860688161153
+  type: way
+  amenity_type: place_of_worship
+- id: 508918707
+  name: Masjid Al Afiyah
+  alt_name: []
+  latitude: -6.336448951037623
+  longitude: 106.81719035601236
+  type: way
+  amenity_type: place_of_worship
+- id: 508918774
+  name: Masjid Al Mu'minun
+  alt_name: []
+  latitude: -6.3361254688498025
+  longitude: 106.82057006669214
+  type: way
+  amenity_type: place_of_worship
+- id: 508918787
+  name: Masjid Baitul Hasan
+  alt_name: []
+  latitude: -6.333519487744588
+  longitude: 106.83224653320798
+  type: way
+  amenity_type: place_of_worship
+- id: 508918793
+  name: Masjid Darussalam
+  alt_name: []
+  latitude: -6.321363682113879
+  longitude: 106.82491450907769
+  type: way
+  amenity_type: place_of_worship
+- id: 508918826
+  name: Masjid Jami Darussalam
+  alt_name: []
+  latitude: -6.32212600331715
+  longitude: 106.8313544526049
+  type: way
+  amenity_type: place_of_worship
+- id: 508918845
+  name: Masjid Al Akhyar
+  alt_name: []
+  latitude: -6.317840358039654
+  longitude: 106.81102188418367
+  type: way
+  amenity_type: place_of_worship
+- id: 508918879
+  name: Masjid Al Hidayah
+  alt_name: []
+  latitude: -6.32991813927742
+  longitude: 106.81594874311628
+  type: way
+  amenity_type: place_of_worship
+- id: 508918882
+  name: Masjid Al Ikhsan
+  alt_name: []
+  latitude: -6.319355481720428
+  longitude: 106.81577210262598
+  type: way
+  amenity_type: place_of_worship
+- id: 509162145
+  name: Masjid Al-Izhar
+  alt_name: []
+  latitude: -6.310044431656645
+  longitude: 106.79208710367296
+  type: way
+  amenity_type: place_of_worship
+- id: 509162242
+  name: Masjid Jami' An-Ni'mah
+  alt_name: []
+  latitude: -6.306464207994047
+  longitude: 106.79315507555545
+  type: way
+  amenity_type: place_of_worship
+- id: 509732389
+  name: Masjid Permata Qolbu
+  alt_name: []
+  latitude: -6.2256520672590066
+  longitude: 106.76554058808523
+  type: way
+  amenity_type: place_of_worship
+- id: 509782554
+  name: Masjid Jami Al Muawanah
+  alt_name: []
+  latitude: -6.289736249999999
+  longitude: 106.82328100000002
+  type: way
+  amenity_type: place_of_worship
+- id: 509782583
+  name: Masjid Al Wustho
+  alt_name: []
+  latitude: -6.2869379499999996
+  longitude: 106.82538505
+  type: way
+  amenity_type: place_of_worship
+- id: 509782597
+  name: Masjid Misbahul Falah
+  alt_name: []
+  latitude: -6.28598345
+  longitude: 106.82305775
+  type: way
+  amenity_type: place_of_worship
+- id: 509782656
+  name: Masjid Fathurahman
+  alt_name: []
+  latitude: -6.2795625338409184
+  longitude: 106.82428873814843
+  type: way
+  amenity_type: place_of_worship
+- id: 509782730
+  name: Masjid Baiturrahman
+  alt_name: []
+  latitude: -6.29197835
+  longitude: 106.81941839999998
+  type: way
+  amenity_type: place_of_worship
+- id: 509782741
+  name: Masjid Al Mujaahid
+  alt_name: []
+  latitude: -6.292624784831927
+  longitude: 106.82128458118372
+  type: way
+  amenity_type: place_of_worship
+- id: 509796688
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.359324550000002
+  longitude: 106.80282380000001
+  type: way
+  amenity_type: place_of_worship
+- id: 509834721
+  name: Mushola At Taubah
+  alt_name:
+  - Musholla At Taubah
+  latitude: -6.304325004962138
+  longitude: 106.82305392206959
+  type: way
+  amenity_type: place_of_worship
+- id: 509834773
+  name: Masjid Baiturrahman
+  alt_name: []
+  latitude: -6.295386449999999
+  longitude: 106.81629919999999
+  type: way
+  amenity_type: place_of_worship
+- id: 509834776
+  name: Masjid Darul Khair
+  alt_name: []
+  latitude: -6.297561436795798
+  longitude: 106.81634572570036
+  type: way
+  amenity_type: place_of_worship
+- id: 510381482
+  name: Masjid Al-Mukhlisin
+  alt_name: []
+  latitude: -6.268895796698461
+  longitude: 106.79621351479074
+  type: way
+  amenity_type: place_of_worship
+- id: 510501832
+  name: Gereja Pantekosa
+  alt_name: []
+  latitude: -6.301583267760966
+  longitude: 106.80613568612257
+  type: way
+  amenity_type: place_of_worship
+- id: 510628181
+  name: Masjid Jannatim
+  alt_name: []
+  latitude: -6.305073594119381
+  longitude: 106.8134646209409
+  type: way
+  amenity_type: place_of_worship
+- id: 510656756
+  name: Masjid Al Akhyar
+  alt_name: []
+  latitude: -6.274808042180567
+  longitude: 106.81499617852515
+  type: way
+  amenity_type: place_of_worship
+- id: 510664910
+  name: Mushala Daarus Syifa
+  alt_name:
+  - Musholla Daarus Syifa
+  latitude: -6.2764577500000005
+  longitude: 106.81518985
+  type: way
+  amenity_type: place_of_worship
+- id: 510772220
+  name: GBKP Kebayoran Lama
+  alt_name: []
+  latitude: -6.250057324901652
+  longitude: 106.7687299464154
+  type: way
+  amenity_type: place_of_worship
+- id: 510923434
+  name: Masjid Jami Ar Rohmah
+  alt_name: []
+  latitude: -6.288234504937916
+  longitude: 106.81499226806866
+  type: way
+  amenity_type: place_of_worship
+- id: 510923471
+  name: Masjid At Ta'lim
+  alt_name: []
+  latitude: -6.283743005846797
+  longitude: 106.81743651780958
+  type: way
+  amenity_type: place_of_worship
+- id: 510923516
+  name: Mushola An Nuur
+  alt_name:
+  - Musholla An Nuur
+  latitude: -6.278179699999999
+  longitude: 106.81572200000001
+  type: way
+  amenity_type: place_of_worship
+- id: 510968244
+  name: Masjid Baitul Fattaah
+  alt_name: []
+  latitude: -6.298053185498093
+  longitude: 106.81083635129978
+  type: way
+  amenity_type: place_of_worship
+- id: 510968251
+  name: Masjid Al Huda
+  alt_name: []
+  latitude: -6.296505018473184
+  longitude: 106.81002214144704
+  type: way
+  amenity_type: place_of_worship
+- id: 510968259
+  name: Masjid Jami Al Barokah
+  alt_name: []
+  latitude: -6.29863655
+  longitude: 106.80800715000002
+  type: way
+  amenity_type: place_of_worship
+- id: 511013864
+  name: Masjid Al Muhajirin
+  alt_name: []
+  latitude: -6.355033191295873
+  longitude: 106.80363117991385
+  type: way
+  amenity_type: place_of_worship
+- id: 511013871
+  name: Masjid Jami Asy Syakirin
+  alt_name: []
+  latitude: -6.351053622163982
+  longitude: 106.80140703578522
+  type: way
+  amenity_type: place_of_worship
+- id: 511013874
+  name: Masjid At Taubah
+  alt_name: []
+  latitude: -6.35268325
+  longitude: 106.80505775
+  type: way
+  amenity_type: place_of_worship
+- id: 511013886
+  name: Masjid Jami Abu Hurairah
+  alt_name: []
+  latitude: -6.348668843724507
+  longitude: 106.81241868008672
+  type: way
+  amenity_type: place_of_worship
+- id: 511013887
+  name: Masjid Al Ikhlas
+  alt_name: []
+  latitude: -6.353039958430221
+  longitude: 106.79997336974519
+  type: way
+  amenity_type: place_of_worship
+- id: 511013888
+  name: Masjid Tontowi Syafei
+  alt_name: []
+  latitude: -6.349606963315075
+  longitude: 106.80970652632296
+  type: way
+  amenity_type: place_of_worship
+- id: 511013937
+  name: Masjid Ruhul Jihad
+  alt_name: []
+  latitude: -6.344161349999999
+  longitude: 106.81251235
+  type: way
+  amenity_type: place_of_worship
+- id: 511014018
+  name: Masjid Jami Mahallul Ghufron
+  alt_name: []
+  latitude: -6.3452149348453295
+  longitude: 106.80808522847042
+  type: way
+  amenity_type: place_of_worship
+- id: 511014019
+  name: Masjid Istiqomah
+  alt_name: []
+  latitude: -6.358138878583037
+  longitude: 106.80770583870245
+  type: way
+  amenity_type: place_of_worship
+- id: 511604934
+  name: Masjid Jami Al Makmur
+  alt_name: []
+  latitude: -6.345485866651361
+  longitude: 106.8032338660529
+  type: way
+  amenity_type: place_of_worship
+- id: 511656538
+  name: Masjid Al Ihklas
+  alt_name: []
+  latitude: -6.24363307551197
+  longitude: 106.74846415859017
+  type: way
+  amenity_type: place_of_worship
+- id: 511887632
+  name: HKBP Sudirman
+  alt_name: []
+  latitude: -6.20971455
+  longitude: 106.82286335000002
+  type: way
+  amenity_type: place_of_worship
+- id: 511928515
+  name: Masjid Baitul Izza
+  alt_name: []
+  latitude: -6.26311397641736
+  longitude: 106.77775007192285
+  type: way
+  amenity_type: place_of_worship
+- id: 511977047
+  name: Masjid At-Tarbiyah
+  alt_name: []
+  latitude: -6.28228995
+  longitude: 106.79476695000002
+  type: way
+  amenity_type: place_of_worship
+- id: 511977071
+  name: Masjid Al-Hidayah
+  alt_name: []
+  latitude: -6.2898040926559515
+  longitude: 106.79487934296
+  type: way
+  amenity_type: place_of_worship
+- id: 511977103
+  name: Masjid Baitussalam
+  alt_name: []
+  latitude: -6.287317199999998
+  longitude: 106.79370244999997
+  type: way
+  amenity_type: place_of_worship
+- id: 511977234
+  name: Masjid Al Muttaqien
+  alt_name: []
+  latitude: -6.28021115
+  longitude: 106.79223010000001
+  type: way
+  amenity_type: place_of_worship
+- id: 512193831
+  name: Masjid Baitunnur
+  alt_name: []
+  latitude: -6.295673742629855
+  longitude: 106.78846292631734
+  type: way
+  amenity_type: place_of_worship
+- id: 512193843
+  name: Masjid Husnul Khotimah
+  alt_name: []
+  latitude: -6.29999665
+  longitude: 106.79270145000001
+  type: way
+  amenity_type: place_of_worship
+- id: 512500276
+  name: Musholla Al-Mabror
+  alt_name: []
+  latitude: -6.30773465
+  longitude: 106.78767605
+  type: way
+  amenity_type: place_of_worship
+- id: 512603566
+  name: Masjid Hikmah Al Masakin
+  alt_name: []
+  latitude: -6.242586127999308
+  longitude: 106.78974380898615
+  type: way
+  amenity_type: place_of_worship
+- id: 513522122
+  name: Masjid Jami Al Mujahidin
+  alt_name: []
+  latitude: -6.330163963927092
+  longitude: 106.83660988292478
+  type: way
+  amenity_type: place_of_worship
+- id: 513522160
+  name: Masjid Jami Al Ajilin
+  alt_name: []
+  latitude: -6.317128224329854
+  longitude: 106.83940837704017
+  type: way
+  amenity_type: place_of_worship
+- id: 513522182
+  name: Masjid Al Munawaroh
+  alt_name: []
+  latitude: -6.314926289597627
+  longitude: 106.84200123985143
+  type: way
+  amenity_type: place_of_worship
+- id: 513522200
+  name: Masjid Al Mubarok
+  alt_name: []
+  latitude: -6.328649617947527
+  longitude: 106.83254108270275
+  type: way
+  amenity_type: place_of_worship
+- id: 513522210
+  name: Masjid Jami Al Kubro
+  alt_name: []
+  latitude: -6.325942064307494
+  longitude: 106.83309332291294
+  type: way
+  amenity_type: place_of_worship
+- id: 513522235
+  name: Masjid Jami Al Ghoni
+  alt_name: []
+  latitude: -6.323349527795677
+  longitude: 106.83417310890673
+  type: way
+  amenity_type: place_of_worship
+- id: 513522261
+  name: Masjid Jami Al Sofwa
+  alt_name: []
+  latitude: -6.319818454286254
+  longitude: 106.8355910815926
+  type: way
+  amenity_type: place_of_worship
+- id: 513522268
+  name: Masjid Jami Ar Rohmah
+  alt_name: []
+  latitude: -6.3146704635367685
+  longitude: 106.83632326633835
+  type: way
+  amenity_type: place_of_worship
+- id: 513565255
+  name: Masjid Nurul Afiyah
+  alt_name: []
+  latitude: -6.296944647670753
+  longitude: 106.79673953094635
+  type: way
+  amenity_type: place_of_worship
+- id: 513589636
+  name: Masjid Jami Nurul Yaqin
+  alt_name: []
+  latitude: -6.261584892498462
+  longitude: 106.80050657707315
+  type: way
+  amenity_type: place_of_worship
+- id: 513666685
+  name: Masjid Pusdiklat PLN
+  alt_name: []
+  latitude: -6.300273144598519
+  longitude: 106.81918142786004
+  type: way
+  amenity_type: place_of_worship
+- id: 514454598
+  name: Masjid Al Kautsar
+  alt_name: []
+  latitude: -6.25239485922511
+  longitude: 106.79587543494792
+  type: way
+  amenity_type: place_of_worship
+- id: 514454609
+  name: Masjid Al Mutathohhirin
+  alt_name: []
+  latitude: -6.255209863268953
+  longitude: 106.79855415853359
+  type: way
+  amenity_type: place_of_worship
+- id: 514464641
+  name: Masjid Al Ikhlas
+  alt_name: []
+  latitude: -6.2655505499999995
+  longitude: 106.80117754999999
+  type: way
+  amenity_type: place_of_worship
+- id: 514464653
+  name: Masjid Al Amin
+  alt_name: []
+  latitude: -6.264569243507714
+  longitude: 106.8032578774978
+  type: way
+  amenity_type: place_of_worship
+- id: 514464681
+  name: Masjid Al Barkah
+  alt_name: []
+  latitude: -6.260947512038561
+  longitude: 106.79781077383568
+  type: way
+  amenity_type: place_of_worship
+- id: 514644075
+  name: Masjid Al Muhajirin
+  alt_name: []
+  latitude: -6.2305481
+  longitude: 106.77085115
+  type: way
+  amenity_type: place_of_worship
+- id: 514644076
+  name: Masjid Jami' Al Muharram
+  alt_name: []
+  latitude: -6.233011649999998
+  longitude: 106.77401019999999
+  type: way
+  amenity_type: place_of_worship
+- id: 514644077
+  name: Masjid Jami' Al-Ikhlash
+  alt_name: []
+  latitude: -6.230997999999999
+  longitude: 106.77547324999999
+  type: way
+  amenity_type: place_of_worship
+- id: 514644078
+  name: Masjid Raden Saleh
+  alt_name: []
+  latitude: -6.23040815
+  longitude: 106.77954084999998
+  type: way
+  amenity_type: place_of_worship
+- id: 514653523
+  name: Musholla Al-Fatah
+  alt_name: []
+  latitude: -6.260310782835341
+  longitude: 106.80846376110435
+  type: way
+  amenity_type: place_of_worship
+- id: 514655273
+  name: Masjid Jami Darulsalamah
+  alt_name: []
+  latitude: -6.274114190915612
+  longitude: 106.75471230778943
+  type: way
+  amenity_type: place_of_worship
+- id: 514655994
+  name: Masjid Jami Nurul Mujahidin
+  alt_name: []
+  latitude: -6.261310309527203
+  longitude: 106.80952212743688
+  type: way
+  amenity_type: place_of_worship
+- id: 514658305
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.261088155712722
+  longitude: 106.81037257297262
+  type: way
+  amenity_type: place_of_worship
+- id: 514661428
+  name: Masjid Jami Nurul Yaqin
+  alt_name: []
+  latitude: -6.26684940765564
+  longitude: 106.76927829204945
+  type: way
+  amenity_type: place_of_worship
+- id: 514671298
+  name: Masjid Jami BSC Al Futuwwah
+  alt_name: []
+  latitude: -6.265478107348516
+  longitude: 106.80967949729094
+  type: way
+  amenity_type: place_of_worship
+- id: 514725745
+  name: Masjid Jami Al Istiqomah
+  alt_name: []
+  latitude: -6.232044281262666
+  longitude: 106.75496234621804
+  type: way
+  amenity_type: place_of_worship
+- id: 514725755
+  name: Masjid Al Mubarak
+  alt_name: []
+  latitude: -6.228581549905063
+  longitude: 106.75224228328928
+  type: way
+  amenity_type: place_of_worship
+- id: 514725767
+  name: Masjid An Najah
+  alt_name: []
+  latitude: -6.2357685
+  longitude: 106.75425349999999
+  type: way
+  amenity_type: place_of_worship
+- id: 514725769
+  name: Gereja Pantekosta di Indonesia
+  alt_name: []
+  latitude: -6.2363133500000005
+  longitude: 106.75833825
+  type: way
+  amenity_type: place_of_worship
+- id: 514725772
+  name: Masjid Al Ishlah
+  alt_name: []
+  latitude: -6.23469225
+  longitude: 106.7566396
+  type: way
+  amenity_type: place_of_worship
+- id: 514725775
+  name: Masjid Ar Ridwan
+  alt_name: []
+  latitude: -6.233613399999999
+  longitude: 106.75697254999999
+  type: way
+  amenity_type: place_of_worship
+- id: 514725782
+  name: Masjid Jami Nurul Falah
+  alt_name: []
+  latitude: -6.229636936158291
+  longitude: 106.75663604554754
+  type: way
+  amenity_type: place_of_worship
+- id: 514725799
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.225794142159537
+  longitude: 106.75311138738927
+  type: way
+  amenity_type: place_of_worship
+- id: 514725804
+  name: Masjid Jami Al Barokah
+  alt_name: []
+  latitude: -6.2260118500000035
+  longitude: 106.7516045
+  type: way
+  amenity_type: place_of_worship
+- id: 514725812
+  name: Masjid Daruul Falah
+  alt_name: []
+  latitude: -6.234476876377742
+  longitude: 106.75109304820035
+  type: way
+  amenity_type: place_of_worship
+- id: 514725813
+  name: Masjid Darul Muttaqien
+  alt_name: []
+  latitude: -6.235832480235284
+  longitude: 106.7494460078752
+  type: way
+  amenity_type: place_of_worship
+- id: 514725820
+  name: Masjid Budi Luhur
+  alt_name: []
+  latitude: -6.2349405790839345
+  longitude: 106.74764787253548
+  type: way
+  amenity_type: place_of_worship
+- id: 514725850
+  name: Masjid Jami Baitullah
+  alt_name: []
+  latitude: -6.231920760222158
+  longitude: 106.74686284685123
+  type: way
+  amenity_type: place_of_worship
+- id: 514725852
+  name: Masjid Al Abror
+  alt_name: []
+  latitude: -6.2332696080917245
+  longitude: 106.7490252181663
+  type: way
+  amenity_type: place_of_worship
+- id: 514725919
+  name: Masjid Miftahunnur
+  alt_name: []
+  latitude: -6.229800548869105
+  longitude: 106.75069304823555
+  type: way
+  amenity_type: place_of_worship
+- id: 514725960
+  name: Masjid Baiturrahman Al - Haq
+  alt_name: []
+  latitude: -6.229084152663046
+  longitude: 106.74617032729513
+  type: way
+  amenity_type: place_of_worship
+- id: 514725967
+  name: Masjid Baitturahim
+  alt_name: []
+  latitude: -6.226774259461934
+  longitude: 106.74327266156291
+  type: way
+  amenity_type: place_of_worship
+- id: 514726003
+  name: Masjid Nurul Burhan
+  alt_name: []
+  latitude: -6.223906638390102
+  longitude: 106.74351167352948
+  type: way
+  amenity_type: place_of_worship
+- id: 516528277
+  name: Masjid Nurul Huda
+  alt_name: []
+  latitude: -6.2352830500000005
+  longitude: 106.7591971
+  type: way
+  amenity_type: place_of_worship
+- id: 516528306
+  name: Masjid Nurul Ikhlas
+  alt_name: []
+  latitude: -6.22642345
+  longitude: 106.76437055000001
+  type: way
+  amenity_type: place_of_worship
+- id: 516528309
+  name: Gereja GPIB Sejahtera
+  alt_name: []
+  latitude: -6.235703818490934
+  longitude: 106.75926743281238
+  type: way
+  amenity_type: place_of_worship
+- id: 516528313
+  name: Masjid Al Barokah
+  alt_name: []
+  latitude: -6.2237013999999995
+  longitude: 106.76153129999999
+  type: way
+  amenity_type: place_of_worship
+- id: 516541244
+  name: Masjid Nurul Falah
+  alt_name: []
+  latitude: -6.249454839047998
+  longitude: 106.80280583856894
+  type: way
+  amenity_type: place_of_worship
+- id: 516546243
+  name: Gereja Pantekosta di Indonesia
+  alt_name: []
+  latitude: -6.226320790061299
+  longitude: 106.75334582554412
+  type: way
+  amenity_type: place_of_worship
+- id: 516775432
+  name: Komplek Gereja Effatha
+  alt_name: []
+  latitude: -6.245502232281868
+  longitude: 106.80313352410501
+  type: way
+  amenity_type: place_of_worship
+- id: 517849454
+  name: Masjid Nurul Jannah
+  alt_name: []
+  latitude: -6.241283424318092
+  longitude: 106.78938503498354
+  type: way
+  amenity_type: place_of_worship
+- id: 517849461
+  name: Masjid Baitul Adli Kejaksaan Agung RI
+  alt_name: []
+  latitude: -6.2401352243044155
+  longitude: 106.79640165346997
+  type: way
+  amenity_type: place_of_worship
+- id: 517849485
+  name: Masjid Jami Nurul Huda
+  alt_name: []
+  latitude: -6.242153692624184
+  longitude: 106.78651332860342
+  type: way
+  amenity_type: place_of_worship
+- id: 517851050
+  name: Musholla Al-Barokah
+  alt_name: []
+  latitude: -6.229840699999999
+  longitude: 106.7586241
+  type: way
+  amenity_type: place_of_worship
+- id: 517852161
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.2443219
+  longitude: 106.7916812
+  type: way
+  amenity_type: place_of_worship
+- id: 517958256
+  name: Masjid Jami' Al Mujahidin
+  alt_name: []
+  latitude: -6.258773919738822
+  longitude: 106.78239714243618
+  type: way
+  amenity_type: place_of_worship
+- id: 517958394
+  name: Masjid Jami' At-Taqwa
+  alt_name: []
+  latitude: -6.255188449999999
+  longitude: 106.78410115
+  type: way
+  amenity_type: place_of_worship
+- id: 517958613
+  name: Masjid Darul Mu'minin
+  alt_name: []
+  latitude: -6.252316371019854
+  longitude: 106.78274686450642
+  type: way
+  amenity_type: place_of_worship
+- id: 517958631
+  name: Masjid Darul Muttaqin
+  alt_name: []
+  latitude: -6.250921400000001
+  longitude: 106.78340000000001
+  type: way
+  amenity_type: place_of_worship
+- id: 517958784
+  name: Masjid Al Barokah
+  alt_name: []
+  latitude: -6.249425753468615
+  longitude: 106.78499856879148
+  type: way
+  amenity_type: place_of_worship
+- id: 517958814
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.2512391
+  longitude: 106.78660820000002
+  type: way
+  amenity_type: place_of_worship
+- id: 517958896
+  name: Musholla AI-Ikhlas
+  alt_name: []
+  latitude: -6.249572049999999
+  longitude: 106.78649845
+  type: way
+  amenity_type: place_of_worship
+- id: 517958974
+  name: Masjid Jami' Al Mujtahidin
+  alt_name: []
+  latitude: -6.248974749999999
+  longitude: 106.78378270000002
+  type: way
+  amenity_type: place_of_worship
+- id: 518265619
+  name: Masjid Pusaka
+  alt_name: []
+  latitude: -6.246954949999999
+  longitude: 106.76134929999999
+  type: way
+  amenity_type: place_of_worship
+- id: 518478291
+  name: Musholla Al-Mukhlisin
+  alt_name: []
+  latitude: -6.27581055
+  longitude: 106.77083385
+  type: way
+  amenity_type: place_of_worship
+- id: 518511780
+  name: Masjid Nurul Islam YBM
+  alt_name: []
+  latitude: -6.25808699637464
+  longitude: 106.78014903183477
+  type: way
+  amenity_type: place_of_worship
+- id: 518511783
+  name: GPIB Jemaat Kharisma
+  alt_name: []
+  latitude: -6.256499291808893
+  longitude: 106.7806229828468
+  type: way
+  amenity_type: place_of_worship
+- id: 518511792
+  name: Masjid Al-Habliyah
+  alt_name: []
+  latitude: -6.259684450000002
+  longitude: 106.77522885
+  type: way
+  amenity_type: place_of_worship
+- id: 518511828
+  name: Masjid Jami' Al Abror
+  alt_name: []
+  latitude: -6.255997899999999
+  longitude: 106.77369124999998
+  type: way
+  amenity_type: place_of_worship
+- id: 518511887
+  name: Masjid Ar Rahmah
+  alt_name: []
+  latitude: -6.25401595
+  longitude: 106.78004125
+  type: way
+  amenity_type: place_of_worship
+- id: 518511888
+  name: Masjid Jami' Nurul Iman
+  alt_name: []
+  latitude: -6.253561049999999
+  longitude: 106.77831639999998
+  type: way
+  amenity_type: place_of_worship
+- id: 518511889
+  name: HKBP Kebayoran Lama
+  alt_name: []
+  latitude: -6.2510359499999995
+  longitude: 106.7790138
+  type: way
+  amenity_type: place_of_worship
+- id: 518511947
+  name: Masjid Al-Hidayah
+  alt_name: []
+  latitude: -6.248067399999999
+  longitude: 106.77883645
+  type: way
+  amenity_type: place_of_worship
+- id: 518511951
+  name: Masjid Al Hikmah
+  alt_name: []
+  latitude: -6.248068803805831
+  longitude: 106.77963816876597
+  type: way
+  amenity_type: place_of_worship
+- id: 519262120
+  name: Masjid Al Husna
+  alt_name: []
+  latitude: -6.27823720125909
+  longitude: 106.76423170814381
+  type: way
+  amenity_type: place_of_worship
+- id: 519262171
+  name: Masjid Al - Muflihun
+  alt_name: []
+  latitude: -6.2557656660369165
+  longitude: 106.76844382763085
+  type: way
+  amenity_type: place_of_worship
+- id: 519262178
+  name: Masjid Al Mujahidin
+  alt_name: []
+  latitude: -6.257755555650551
+  longitude: 106.7663759788843
+  type: way
+  amenity_type: place_of_worship
+- id: 519262191
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.257071864631488
+  longitude: 106.76324376976432
+  type: way
+  amenity_type: place_of_worship
+- id: 519262217
+  name: Masjid Ar - Rahman
+  alt_name: []
+  latitude: -6.27312248757798
+  longitude: 106.76995703616151
+  type: way
+  amenity_type: place_of_worship
+- id: 519262247
+  name: Masjid Al Hijrah
+  alt_name: []
+  latitude: -6.273625731841965
+  longitude: 106.76123285940714
+  type: way
+  amenity_type: place_of_worship
+- id: 519262305
+  name: Masjid Jami Al Husna
+  alt_name: []
+  latitude: -6.285197658972598
+  longitude: 106.76378582111138
+  type: way
+  amenity_type: place_of_worship
+- id: 519262325
+  name: Masjid Al Fath
+  alt_name: []
+  latitude: -6.285274950000001
+  longitude: 106.76276130000001
+  type: way
+  amenity_type: place_of_worship
+- id: 519262331
+  name: Masjid Al Barkah
+  alt_name: []
+  latitude: -6.284903178896728
+  longitude: 106.76075951124137
+  type: way
+  amenity_type: place_of_worship
+- id: 519262355
+  name: Masjid Al Hikmah
+  alt_name: []
+  latitude: -6.280847509331533
+  longitude: 106.76510631070093
+  type: way
+  amenity_type: place_of_worship
+- id: 519262386
+  name: Masjid Jami Al Amien
+  alt_name: []
+  latitude: -6.276731731469268
+  longitude: 106.76559706036403
+  type: way
+  amenity_type: place_of_worship
+- id: 519262403
+  name: Masjid Jami Al Umariyah
+  alt_name: []
+  latitude: -6.259433783162905
+  longitude: 106.77163399897924
+  type: way
+  amenity_type: place_of_worship
+- id: 519262407
+  name: Masjid Al Ikhlas
+  alt_name: []
+  latitude: -6.261148307126375
+  longitude: 106.77137787367911
+  type: way
+  amenity_type: place_of_worship
+- id: 519262422
+  name: Masjid Babussalam
+  alt_name: []
+  latitude: -6.263091548613942
+  longitude: 106.76868780833667
+  type: way
+  amenity_type: place_of_worship
+- id: 519262433
+  name: Masjid Al Istiqomah
+  alt_name: []
+  latitude: -6.264366158113227
+  longitude: 106.7695528100098
+  type: way
+  amenity_type: place_of_worship
+- id: 519262479
+  name: Masjid Jami An Nashirudin
+  alt_name: []
+  latitude: -6.264962204153631
+  longitude: 106.76446713886673
+  type: way
+  amenity_type: place_of_worship
+- id: 519262482
+  name: Masjid Baiturahman
+  alt_name: []
+  latitude: -6.263730852080462
+  longitude: 106.76172230236875
+  type: way
+  amenity_type: place_of_worship
+- id: 519262495
+  name: Masjid Al Barkah
+  alt_name: []
+  latitude: -6.268340447560329
+  longitude: 106.75938384341947
+  type: way
+  amenity_type: place_of_worship
+- id: 519262509
+  name: Masjid jami Asaadah
+  alt_name: []
+  latitude: -6.2650731586992805
+  longitude: 106.75802686406696
+  type: way
+  amenity_type: place_of_worship
+- id: 519262514
+  name: Masjid Madinah Al Ikhlas
+  alt_name: []
+  latitude: -6.264241266368628
+  longitude: 106.76056295411972
+  type: way
+  amenity_type: place_of_worship
+- id: 519511042
+  name: Masjid As Salam  Kementerian PUPR
+  alt_name: []
+  latitude: -6.236977669102221
+  longitude: 106.80147883758103
+  type: way
+  amenity_type: place_of_worship
+- id: 519511045
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.230835952141286
+  longitude: 106.80275489786608
+  type: way
+  amenity_type: place_of_worship
+- id: 520173161
+  name: Masjid Al Amin
+  alt_name: []
+  latitude: -6.251723900000001
+  longitude: 106.7921154
+  type: way
+  amenity_type: place_of_worship
+- id: 520201737
+  name: Masjid As-Sakinah
+  alt_name: []
+  latitude: -6.25062346548248
+  longitude: 106.77570901211078
+  type: way
+  amenity_type: place_of_worship
+- id: 520201751
+  name: Masjid An-Nur
+  alt_name: []
+  latitude: -6.2486372999999995
+  longitude: 106.77574600000001
+  type: way
+  amenity_type: place_of_worship
+- id: 520201766
+  name: Gereja Punguan Kristen Batak
+  alt_name: []
+  latitude: -6.2462950500000005
+  longitude: 106.77666875
+  type: way
+  amenity_type: place_of_worship
+- id: 520201767
+  name: GPSDI Jemaat Imanuel
+  alt_name: []
+  latitude: -6.245842350000001
+  longitude: 106.77706745000002
+  type: way
+  amenity_type: place_of_worship
+- id: 520201772
+  name: Masjid Jami' Al Furqon
+  alt_name: []
+  latitude: -6.2467318
+  longitude: 106.77776040000002
+  type: way
+  amenity_type: place_of_worship
+- id: 520201797
+  name: Masjid Jami' Al Abror
+  alt_name: []
+  latitude: -6.246858649999998
+  longitude: 106.78605804999998
+  type: way
+  amenity_type: place_of_worship
+- id: 520201853
+  name: Masjid Al Maghfiroh
+  alt_name: []
+  latitude: -6.24322975
+  longitude: 106.7855892
+  type: way
+  amenity_type: place_of_worship
+- id: 520201855
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.2459692544555985
+  longitude: 106.78037666983622
+  type: way
+  amenity_type: place_of_worship
+- id: 520201873
+  name: Masjid Jami' Al Baniyyah
+  alt_name: []
+  latitude: -6.245021199999999
+  longitude: 106.78168199999998
+  type: way
+  amenity_type: place_of_worship
+- id: 520201887
+  name: Masjid Jami' Darussalam
+  alt_name: []
+  latitude: -6.24031185
+  longitude: 106.78260255000001
+  type: way
+  amenity_type: place_of_worship
+- id: 520201903
+  name: Gereja Bethel Indonesia
+  alt_name: []
+  latitude: -6.2386009499999995
+  longitude: 106.78433685
+  type: way
+  amenity_type: place_of_worship
+- id: 520201916
+  name: Masjid Al-Huda
+  alt_name: []
+  latitude: -6.237557243434074
+  longitude: 106.78283583022552
+  type: way
+  amenity_type: place_of_worship
+- id: 520229412
+  name: Gereja Kristus Anggota PGI
+  alt_name: []
+  latitude: -6.242175646874745
+  longitude: 106.77760441679987
+  type: way
+  amenity_type: place_of_worship
+- id: 520229431
+  name: Masjid Al Istiqomah
+  alt_name: []
+  latitude: -6.2500796677183565
+  longitude: 106.77146204123889
+  type: way
+  amenity_type: place_of_worship
+- id: 520229448
+  name: Masjid Nurul Baqo
+  alt_name: []
+  latitude: -6.244898775975091
+  longitude: 106.77649143916233
+  type: way
+  amenity_type: place_of_worship
+- id: 520229460
+  name: Masjid Al Istiqomah
+  alt_name: []
+  latitude: -6.2442821720624675
+  longitude: 106.77523119260411
+  type: way
+  amenity_type: place_of_worship
+- id: 520229461
+  name: Masjid Jami' Al Hidayah
+  alt_name: []
+  latitude: -6.244435981396471
+  longitude: 106.77290311528843
+  type: way
+  amenity_type: place_of_worship
+- id: 520229474
+  name: Masjid Jami Al Fadhilah
+  alt_name: []
+  latitude: -6.242979420910113
+  longitude: 106.77822290299342
+  type: way
+  amenity_type: place_of_worship
+- id: 520229543
+  name: Masjid Jami' Al Abror
+  alt_name: []
+  latitude: -6.243635818482551
+  longitude: 106.76958118479334
+  type: way
+  amenity_type: place_of_worship
+- id: 520229547
+  name: Masjid Jami Al Mujahidin
+  alt_name: []
+  latitude: -6.245285175844589
+  longitude: 106.77061650740369
+  type: way
+  amenity_type: place_of_worship
+- id: 521149057
+  name: Masjid Jami' Al Nizhom
+  alt_name: []
+  latitude: -6.2344526206909325
+  longitude: 106.77849346265795
+  type: way
+  amenity_type: place_of_worship
+- id: 521149086
+  name: Masjid Jami' Al Irsyad
+  alt_name: []
+  latitude: -6.235352125113583
+  longitude: 106.77372550856629
+  type: way
+  amenity_type: place_of_worship
+- id: 521149107
+  name: Masjid Al Ikhlas
+  alt_name: []
+  latitude: -6.235300575194788
+  longitude: 106.77520603689294
+  type: way
+  amenity_type: place_of_worship
+- id: 521149116
+  name: Masjid Nurul Amal
+  alt_name: []
+  latitude: -6.23494625
+  longitude: 106.77172449999999
+  type: way
+  amenity_type: place_of_worship
+- id: 521149123
+  name: Masjid Baitul A'maal
+  alt_name: []
+  latitude: -6.2340745
+  longitude: 106.76903835
+  type: way
+  amenity_type: place_of_worship
+- id: 521149132
+  name: Masjid Jami' Nurul Huda
+  alt_name: []
+  latitude: -6.234784855829655
+  longitude: 106.76894761973976
+  type: way
+  amenity_type: place_of_worship
+- id: 521149142
+  name: Masjid As Salam
+  alt_name: []
+  latitude: -6.237674725939736
+  longitude: 106.76811486137584
+  type: way
+  amenity_type: place_of_worship
+- id: 521149147
+  name: Masjid Nurul Amin
+  alt_name: []
+  latitude: -6.2394707
+  longitude: 106.77466195
+  type: way
+  amenity_type: place_of_worship
+- id: 521149160
+  name: Masjid Jami' Al Mubarok
+  alt_name: []
+  latitude: -6.240584622429771
+  longitude: 106.77101615653243
+  type: way
+  amenity_type: place_of_worship
+- id: 521149213
+  name: Masjid Al Muhajirin
+  alt_name: []
+  latitude: -6.2400275608057525
+  longitude: 106.77688330160039
+  type: way
+  amenity_type: place_of_worship
+- id: 521149261
+  name: Masjid Al Achyar
+  alt_name: []
+  latitude: -6.239526380400392
+  longitude: 106.77924575675748
+  type: way
+  amenity_type: place_of_worship
+- id: 521149284
+  name: Masjid Jami' Muyassarin
+  alt_name: []
+  latitude: -6.240800578364531
+  longitude: 106.77999550864801
+  type: way
+  amenity_type: place_of_worship
+- id: 521153174
+  name: Masjid Al Manar
+  alt_name: []
+  latitude: -6.245349307550535
+  longitude: 106.74996696957565
+  type: way
+  amenity_type: place_of_worship
+- id: 521153197
+  name: HKBP Petukangan
+  alt_name: []
+  latitude: -6.237233548010226
+  longitude: 106.75157336627919
+  type: way
+  amenity_type: place_of_worship
+- id: 521153206
+  name: Masjid Jami Al Ihsan
+  alt_name: []
+  latitude: -6.248612549999999
+  longitude: 106.75328334999999
+  type: way
+  amenity_type: place_of_worship
+- id: 521153207
+  name: Masjid Muhammad Husni Thamrin
+  alt_name: []
+  latitude: -6.247365924729496
+  longitude: 106.7525553883991
+  type: way
+  amenity_type: place_of_worship
+- id: 521153235
+  name: Masjid Nurul Hidayah
+  alt_name: []
+  latitude: -6.2375164000000005
+  longitude: 106.7579248
+  type: way
+  amenity_type: place_of_worship
+- id: 521162419
+  name: Masjid Al-Arif
+  alt_name: []
+  latitude: -6.2399075
+  longitude: 106.76684795
+  type: way
+  amenity_type: place_of_worship
+- id: 521186200
+  name: Capel Keluarga Nazareth
+  alt_name: []
+  latitude: -6.303651225951024
+  longitude: 106.80596213322714
+  type: way
+  amenity_type: place_of_worship
+- id: 521454628
+  name: Masjid As-Samii'
+  alt_name: []
+  latitude: -6.286654076682269
+  longitude: 106.76973290722682
+  type: way
+  amenity_type: place_of_worship
+- id: 521454636
+  name: Masjid Jami' Al Istiqomah
+  alt_name: []
+  latitude: -6.287324400000001
+  longitude: 106.77158515
+  type: way
+  amenity_type: place_of_worship
+- id: 521454656
+  name: GKJ Nehemia
+  alt_name: []
+  latitude: -6.288728176704424
+  longitude: 106.77563703867324
+  type: way
+  amenity_type: place_of_worship
+- id: 521454682
+  name: Masjid Jami' Al Barkah
+  alt_name: []
+  latitude: -6.283666431081635
+  longitude: 106.76831495398778
+  type: way
+  amenity_type: place_of_worship
+- id: 521454723
+  name: Masjid Al Mujahidin
+  alt_name: []
+  latitude: -6.274909850000001
+  longitude: 106.77154955000002
+  type: way
+  amenity_type: place_of_worship
+- id: 521454744
+  name: Musholla Darul Mukhlishin
+  alt_name: []
+  latitude: -6.2703167231373085
+  longitude: 106.77293588929051
+  type: way
+  amenity_type: place_of_worship
+- id: 521454770
+  name: Masjid Jami' At Taufiq
+  alt_name: []
+  latitude: -6.2683543
+  longitude: 106.77347725000001
+  type: way
+  amenity_type: place_of_worship
+- id: 521454779
+  name: Masjid Jami' Al Huda
+  alt_name: []
+  latitude: -6.2670214
+  longitude: 106.77113375
+  type: way
+  amenity_type: place_of_worship
+- id: 521454789
+  name: Musholla Daarul Muta'allimin
+  alt_name: []
+  latitude: -6.2655598999999995
+  longitude: 106.77106155
+  type: way
+  amenity_type: place_of_worship
+- id: 521454815
+  name: Masjid Jami' An-Nur
+  alt_name: []
+  latitude: -6.271494150000001
+  longitude: 106.77391090000002
+  type: way
+  amenity_type: place_of_worship
+- id: 521454821
+  name: Masjid Jami' Al Falah
+  alt_name: []
+  latitude: -6.273535805811311
+  longitude: 106.77541574886082
+  type: way
+  amenity_type: place_of_worship
+- id: 521454827
+  name: Masjid Jami' Ni'matul Ittihad
+  alt_name: []
+  latitude: -6.270038272527022
+  longitude: 106.77561499014837
+  type: way
+  amenity_type: place_of_worship
+- id: 521454836
+  name: Masjid Jami' Darussalam
+  alt_name: []
+  latitude: -6.266748506792573
+  longitude: 106.77561496905635
+  type: way
+  amenity_type: place_of_worship
+- id: 521454853
+  name: Masjid At Taqwa
+  alt_name: []
+  latitude: -6.2638296056129015
+  longitude: 106.77198563815155
+  type: way
+  amenity_type: place_of_worship
+- id: 521454873
+  name: Masjid Jami' Al Istiqomah
+  alt_name: []
+  latitude: -6.25985635
+  longitude: 106.77318255000002
+  type: way
+  amenity_type: place_of_worship
+- id: 521454887
+  name: Masjid Al Fauzan
+  alt_name: []
+  latitude: -6.261296523732224
+  longitude: 106.78069268469771
+  type: way
+  amenity_type: place_of_worship
+- id: 521707270
+  name: Masjid Al Amin
+  alt_name: []
+  latitude: -6.212725344980589
+  longitude: 106.7885546191103
+  type: way
+  amenity_type: place_of_worship
+- id: 521707271
+  name: Masjid Jami' Nurul Anwar
+  alt_name: []
+  latitude: -6.223474520663739
+  longitude: 106.77951152130214
+  type: way
+  amenity_type: place_of_worship
+- id: 521742237
+  name: Masjid Jami Al Muttaqien
+  alt_name: []
+  latitude: -6.263519256723371
+  longitude: 106.79671772082474
+  type: way
+  amenity_type: place_of_worship
+- id: 521752336
+  name: Masjid Nurul Azmiyah Pancasila
+  alt_name: []
+  latitude: -6.252492099999999
+  longitude: 106.79020954999999
+  type: way
+  amenity_type: place_of_worship
+- id: 521752422
+  name: Masjid Al Ma'mur
+  alt_name: []
+  latitude: -6.253219227431997
+  longitude: 106.79339926069267
+  type: way
+  amenity_type: place_of_worship
+- id: 521752461
+  name: Masjid Nurul Mubin
+  alt_name: []
+  latitude: -6.25086401432959
+  longitude: 106.79348415983522
+  type: way
+  amenity_type: place_of_worship
+- id: 521754239
+  name: Masjid Darusalam
+  alt_name: []
+  latitude: -6.258016359241643
+  longitude: 106.796191530606
+  type: way
+  amenity_type: place_of_worship
+- id: 521771810
+  name: Masjid Darunnajah
+  alt_name: []
+  latitude: -6.260429928356239
+  longitude: 106.79136210944485
+  type: way
+  amenity_type: place_of_worship
+- id: 521805481
+  name: Masjid An Nuur
+  alt_name: []
+  latitude: -6.260528844108641
+  longitude: 106.78864237886663
+  type: way
+  amenity_type: place_of_worship
+- id: 521805486
+  name: Masjid Al Baitul Ma'mur
+  alt_name: []
+  latitude: -6.258126933820208
+  longitude: 106.79045069786237
+  type: way
+  amenity_type: place_of_worship
+- id: 521807766
+  name: Masjid Al-Kautsar
+  alt_name: []
+  latitude: -6.223971233102048
+  longitude: 106.8109772086384
+  type: way
+  amenity_type: place_of_worship
+- id: 521807781
+  name: Masjid Nurul Islam
+  alt_name: []
+  latitude: -6.228501643017184
+  longitude: 106.80790621992266
+  type: way
+  amenity_type: place_of_worship
+- id: 521818847
+  name: Masjid Al Maahir
+  alt_name: []
+  latitude: -6.2291914
+  longitude: 106.81287094999998
+  type: way
+  amenity_type: place_of_worship
+- id: 522338923
+  name: Masjid Hifdzulrahim
+  alt_name: []
+  latitude: -6.257375165806348
+  longitude: 106.75871631986763
+  type: way
+  amenity_type: place_of_worship
+- id: 522338936
+  name: Masjid Jami Al Ihsan
+  alt_name: []
+  latitude: -6.2587018373349785
+  longitude: 106.75596982286591
+  type: way
+  amenity_type: place_of_worship
+- id: 522338942
+  name: Masjid Jami Al Muhajirin
+  alt_name: []
+  latitude: -6.253857146439969
+  longitude: 106.75532448208618
+  type: way
+  amenity_type: place_of_worship
+- id: 522338946
+  name: GPIB Jemaat Gibeon Kodam Bintaro
+  alt_name: []
+  latitude: -6.255159614825995
+  longitude: 106.75673124555743
+  type: way
+  amenity_type: place_of_worship
+- id: 522390146
+  name: Masjid Nurul Jannah
+  alt_name: []
+  latitude: -6.249938113924778
+  longitude: 106.76413801143563
+  type: way
+  amenity_type: place_of_worship
+- id: 522390188
+  name: Masjid Jami Al Jihad
+  alt_name: []
+  latitude: -6.254523600000001
+  longitude: 106.76254505
+  type: way
+  amenity_type: place_of_worship
+- id: 522390204
+  name: Masjid Jami Al Hidayah
+  alt_name: []
+  latitude: -6.251675313509595
+  longitude: 106.76077562032151
+  type: way
+  amenity_type: place_of_worship
+- id: 522390230
+  name: Masjid Jami Nurul Ikhlas
+  alt_name: []
+  latitude: -6.250753972127149
+  longitude: 106.75435698333494
+  type: way
+  amenity_type: place_of_worship
+- id: 522390256
+  name: Masjid Jami Al Karim
+  alt_name: []
+  latitude: -6.264129326287764
+  longitude: 106.75517898727757
+  type: way
+  amenity_type: place_of_worship
+- id: 523564638
+  name: Masjid Daarut Tauhid
+  alt_name: []
+  latitude: -6.239211066283478
+  longitude: 106.8136042827811
+  type: way
+  amenity_type: place_of_worship
+- id: 524271157
+  name: Masjid SMAN 86 Jakarta
+  alt_name: []
+  latitude: -6.26230855
+  longitude: 106.7610161
+  type: way
+  amenity_type: place_of_worship
+- id: 526039797
+  name: AT-Tohirin
+  alt_name: []
+  latitude: -6.322569100000003
+  longitude: 106.81038319999998
+  type: way
+  amenity_type: place_of_worship
+- id: 528043283
+  name: Musholla Al Barokah
+  alt_name: []
+  latitude: -6.253834549999999
+  longitude: 106.75971675
+  type: way
+  amenity_type: place_of_worship
+- id: 528292957
+  name: Masjid Jami Al Istiqomah
+  alt_name: []
+  latitude: -6.2551366
+  longitude: 106.79161990000001
+  type: way
+  amenity_type: place_of_worship
+- id: 528630956
+  name: Pusat Kebudayaan Islam
+  alt_name: []
+  latitude: -6.278588260379258
+  longitude: 106.82999579505385
+  type: way
+  amenity_type: place_of_worship
+- id: 1092193331
+  name: Musholla Al-Ikhlash
+  alt_name: []
+  latitude: -6.209095799177239
+  longitude: 106.82865660187386
+  type: way
+  amenity_type: place_of_worship
+- id: 1103567336
+  name: Masjid Jami Al Ajilin
+  alt_name: []
+  latitude: -6.316875352100507
+  longitude: 106.83940277910996
+  type: way
+  amenity_type: place_of_worship
+- id: 1144054605
+  name: Musala Al-Ikhlas
+  alt_name:
+  - Musholla Al-Ikhlas
+  latitude: -6.234979486573751
+  longitude: 106.75288500182583
+  type: way
+  amenity_type: place_of_worship
+- id: 1153494388
+  name: Musala Al-Musafir
+  alt_name:
+  - Musholla Al-Musafir
+  latitude: -6.247414102676675
+  longitude: 106.84236512250557
+  type: way
+  amenity_type: place_of_worship
+- id: 1161590914
+  name: Masjid Ar-Royan Karet Kuningan (PAC LDII Karet Kuningan)
+  alt_name: []
+  latitude: -6.219737099999998
+  longitude: 106.82309065000001
+  type: way
+  amenity_type: place_of_worship
+- id: 1236159539
+  name: Masjid Babah Alun
+  alt_name: []
+  latitude: -6.2993965792912805
+  longitude: 106.80463125813014
+  type: way
+  amenity_type: place_of_worship
+- id: 1244589745
+  name: Masjid An-Nur
+  alt_name: []
+  latitude: -6.225053849999998
+  longitude: 106.80732324999998
+  type: way
+  amenity_type: place_of_worship
+- id: 1256506308
+  name: Musholla Al-Ikhlas
+  alt_name: []
+  latitude: -6.2436620656318675
+  longitude: 106.80244249704182
+  type: way
+  amenity_type: place_of_worship
+- id: 3180143146
+  name: Musholla Himmatul A'la
+  alt_name: []
+  latitude: -6.2577147
+  longitude: 106.78949
+  type: node
+  amenity_type: place_of_worship
+- id: 5044261093
+  name: Masjid Nurul Iman
+  alt_name: []
+  latitude: -6.2447308
+  longitude: 106.8004379
+  type: node
+  amenity_type: place_of_worship
+- id: 5044261098
+  name: Masjid Al Ied
+  alt_name: []
+  latitude: -6.2435773
+  longitude: 106.8035741
+  type: node
+  amenity_type: place_of_worship
+- id: 5055254962
+  name: Masjid Jaksa Agung Sukarton
+  alt_name: []
+  latitude: -6.2402465
+  longitude: 106.7861981
+  type: node
+  amenity_type: place_of_worship
+- id: 6718719202
+  name: Musholla
+  alt_name: []
+  latitude: -6.2658011
+  longitude: 106.7850401
+  type: node
+  amenity_type: place_of_worship
+- id: 7178451820
+  name: Musholla
+  alt_name: []
+  latitude: -6.2660642
+  longitude: 106.7842354
+  type: node
+  amenity_type: place_of_worship
+- id: 7698527189
+  name: GPDI Sudirman
+  alt_name: []
+  latitude: -6.2164678
+  longitude: 106.8222463
+  type: node
+  amenity_type: place_of_worship
+- id: 7712495401
+  name: Masjid Al-Ikhlas
+  alt_name: []
+  latitude: -6.2052765
+  longitude: 106.8308534
+  type: node
+  amenity_type: place_of_worship
+- id: 9176855321
+  name: Musholla
+  alt_name: []
+  latitude: -6.3248254
+  longitude: 106.8178289
+  type: node
+  amenity_type: place_of_worship
+- id: 9555759217
+  name: Musholla Ar Rahmam
+  alt_name: []
+  latitude: -6.2103195
+  longitude: 106.851116
+  type: node
+  amenity_type: place_of_worship
+- id: 9884805817
+  name: Musholla Ar Rahman
+  alt_name: []
+  latitude: -6.3071437
+  longitude: 106.7803169
+  type: node
+  amenity_type: place_of_worship
+- id: 9886610919
+  name: Gereja Baptis Indonesia Cilandak
+  alt_name: []
+  latitude: -6.3021265
+  longitude: 106.7776786
+  type: node
+  amenity_type: place_of_worship
+- id: 10053918317
+  name: Gereja Kristus Di Indonesia (GKDI)
+  alt_name: []
+  latitude: -6.2184571
+  longitude: 106.8303647
+  type: node
+  amenity_type: place_of_worship
+- id: 10065723965
+  name: Mushala At Taufiq
+  alt_name:
+  - Musholla At Taufiq
+  latitude: -6.2531087
+  longitude: 106.8424136
+  type: node
+  amenity_type: place_of_worship
+- id: 10164926548
+  name: Masjid Ulil Albab SMAN 108 Jakarta
+  alt_name: []
+  latitude: -6.252525
+  longitude: 106.7622956
+  type: node
+  amenity_type: place_of_worship
+- id: 10696414939
+  name: Musala Nurul Huda
+  alt_name:
+  - Musholla Nurul Huda
+  latitude: -6.2472888
+  longitude: 106.7518765
+  type: node
+  amenity_type: place_of_worship
+- id: 10734556922
+  name: Musala Nurul Amal
+  alt_name:
+  - Musholla Nurul Amal
+  latitude: -6.3052754
+  longitude: 106.834559
+  type: node
+  amenity_type: place_of_worship
+- id: 11779865359
+  name: masjid UKM
+  alt_name: []
+  latitude: -6.219624
+  longitude: 106.8305731
+  type: node
+  amenity_type: place_of_worship
+- id: 11780239041
+  name: Musholla Attaubah
+  alt_name: []
+  latitude: -6.2596717
+  longitude: 106.8328178
+  type: node
+  amenity_type: place_of_worship
+- id: 11780293191
+  name: masjid Babussalam
+  alt_name: []
+  latitude: -6.2600555
+  longitude: 106.8332514
+  type: node
+  amenity_type: place_of_worship
+- id: 12059599974
+  name: Musholla Al-Husna
+  alt_name: []
+  latitude: -6.2345947
+  longitude: 106.7759418
+  type: node
+  amenity_type: place_of_worship
+- id: 12157405093
+  name: Balai Kerajaan Saksi-Saksi Yehuwa Menteng
+  alt_name: []
+  latitude: -6.2236338
+  longitude: 106.8258483
+  type: node
+  amenity_type: place_of_worship

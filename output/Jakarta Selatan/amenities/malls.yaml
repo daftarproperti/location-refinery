@@ -1,0 +1,8 @@
+objects:
+- id: 447136631
+  name: One Belpark Mall
+  alt_name: []
+  latitude: -6.304647285462443
+  longitude: 106.7950684996363
+  type: way
+  amenity_type: mall

@@ -1,0 +1,316 @@
+objects:
+- id: 14171376
+  name: Pasar Ikan
+  alt_name: []
+  latitude: -6.125814865908385
+  longitude: 106.80877307098892
+  type: relation
+  amenity_type: marketplace
+- id: 97192738
+  name: Basar Kaget
+  alt_name: []
+  latitude: -6.151820293081288
+  longitude: 106.95175922648713
+  type: way
+  amenity_type: marketplace
+- id: 153941187
+  name: Jalanbaru Market
+  alt_name: []
+  latitude: -6.102469456751192
+  longitude: 106.92800659149056
+  type: way
+  amenity_type: marketplace
+- id: 154828482
+  name: Pasar Anyar Bahari
+  alt_name: []
+  latitude: -6.114749474989382
+  longitude: 106.87918279970941
+  type: way
+  amenity_type: marketplace
+- id: 154830107
+  name: Pasar Sindang
+  alt_name: []
+  latitude: -6.111489836386327
+  longitude: 106.89676907991606
+  type: way
+  amenity_type: marketplace
+- id: 154838032
+  name: Pasar Sinar
+  alt_name: []
+  latitude: -6.111836844295909
+  longitude: 106.90791786125395
+  type: way
+  amenity_type: marketplace
+- id: 154838035
+  name: Ruko
+  alt_name: []
+  latitude: -6.112563310455292
+  longitude: 106.90796387058786
+  type: way
+  amenity_type: marketplace
+- id: 154839177
+  name: Pasar Nalo
+  alt_name: []
+  latitude: -6.130159841174576
+  longitude: 106.8357529228916
+  type: way
+  amenity_type: marketplace
+- id: 156270948
+  name: Pasar Muara Karang
+  alt_name: []
+  latitude: -6.115822499999999
+  longitude: 106.77872635000003
+  type: way
+  amenity_type: marketplace
+- id: 156270949
+  name: Pasar Pluit
+  alt_name: []
+  latitude: -6.121202849999997
+  longitude: 106.78899325
+  type: way
+  amenity_type: marketplace
+- id: 240130525
+  name: Pasar Ikan Muara Angke
+  alt_name: []
+  latitude: -6.105942310777193
+  longitude: 106.77283590695227
+  type: way
+  amenity_type: marketplace
+- id: 315566058
+  name: Pasar Anyar
+  alt_name: []
+  latitude: -6.133560963261731
+  longitude: 106.93557139931936
+  type: way
+  amenity_type: marketplace
+- id: 316325057
+  name: Pasar Jongkok Al Ihsan
+  alt_name: []
+  latitude: -6.169701466666668
+  longitude: 106.91334006666666
+  type: way
+  amenity_type: marketplace
+- id: 334984028
+  name: Pasar Sukapura
+  alt_name: []
+  latitude: -6.140940549999999
+  longitude: 106.92247305000001
+  type: way
+  amenity_type: marketplace
+- id: 378946886
+  name: Pasar Rusun Marunda
+  alt_name: []
+  latitude: -6.095271349999999
+  longitude: 106.96389260000001
+  type: way
+  amenity_type: marketplace
+- id: 498445643
+  name: Pasar Semper
+  alt_name: []
+  latitude: -6.127239033114085
+  longitude: 106.91746889082472
+  type: way
+  amenity_type: marketplace
+- id: 498491113
+  name: Lokbin Usaha Kecil
+  alt_name: []
+  latitude: -6.1651545500000005
+  longitude: 106.88132995000001
+  type: way
+  amenity_type: marketplace
+- id: 498724568
+  name: Pasar Rawa Badak
+  alt_name: []
+  latitude: -6.1149638461158675
+  longitude: 106.89561832561174
+  type: way
+  amenity_type: marketplace
+- id: 513612341
+  name: Pasar Permai
+  alt_name: []
+  latitude: -6.113768689172981
+  longitude: 106.89532744057205
+  type: way
+  amenity_type: marketplace
+- id: 513955914
+  name: Pasar Waru
+  alt_name: []
+  latitude: -6.1091289582826995
+  longitude: 106.91496539889029
+  type: way
+  amenity_type: marketplace
+- id: 514699853
+  name: Pasar Jaya Pelita
+  alt_name: []
+  latitude: -6.128816550000002
+  longitude: 106.89134625000001
+  type: way
+  amenity_type: marketplace
+- id: 516050387
+  name: Pasar Jaya Koja Baru
+  alt_name: []
+  latitude: -6.121534525442962
+  longitude: 106.9158714583091
+  type: way
+  amenity_type: marketplace
+- id: 517274778
+  name: Pasar Jaya Walang Baru
+  alt_name: []
+  latitude: -6.126478229717621
+  longitude: 106.89891468951362
+  type: way
+  amenity_type: marketplace
+- id: 518173977
+  name: Pasar Jaya Kebon Bawang
+  alt_name: []
+  latitude: -6.120739623674942
+  longitude: 106.88552773307536
+  type: way
+  amenity_type: marketplace
+- id: 518478954
+  name: Pasar Asrama
+  alt_name: []
+  latitude: -6.114160699999999
+  longitude: 106.88523304999998
+  type: way
+  amenity_type: marketplace
+- id: 518479609
+  name: Pasar Lontar
+  alt_name: []
+  latitude: -6.119067543507549
+  longitude: 106.91048717540124
+  type: way
+  amenity_type: marketplace
+- id: 518480371
+  name: Pasar Tugu
+  alt_name: []
+  latitude: -6.126985496938184
+  longitude: 106.91765876251047
+  type: way
+  amenity_type: marketplace
+- id: 519932795
+  name: Pasar Jaya Pademangan Timur
+  alt_name: []
+  latitude: -6.1354124
+  longitude: 106.84350835
+  type: way
+  amenity_type: marketplace
+- id: 522015096
+  name: Pasar Sungai Bambu
+  alt_name: []
+  latitude: -6.12732244128283
+  longitude: 106.88367979004272
+  type: way
+  amenity_type: marketplace
+- id: 522338709
+  name: Pasar Mandiri Summarecon Kelapa Gading
+  alt_name: []
+  latitude: -6.171239750000001
+  longitude: 106.90224129999999
+  type: way
+  amenity_type: marketplace
+- id: 522376618
+  name: Pasar Jaya Kelapa Gading
+  alt_name: []
+  latitude: -6.175511139291391
+  longitude: 106.90633904122842
+  type: way
+  amenity_type: marketplace
+- id: 522787753
+  name: Pasar Warakas
+  alt_name: []
+  latitude: -6.115453499914534
+  longitude: 106.87973738338381
+  type: way
+  amenity_type: marketplace
+- id: 524830105
+  name: Pasar Pantai Indah Kapuk
+  alt_name: []
+  latitude: -6.128364249471612
+  longitude: 106.75390428209627
+  type: way
+  amenity_type: marketplace
+- id: 525515341
+  name: Pasar Muara Baru
+  alt_name: []
+  latitude: -6.111233050000001
+  longitude: 106.79930290000001
+  type: way
+  amenity_type: marketplace
+- id: 525578407
+  name: Pasar Tradisional Kelapa Gading
+  alt_name: []
+  latitude: -6.1430883000000005
+  longitude: 106.91085685000003
+  type: way
+  amenity_type: marketplace
+- id: 525766092
+  name: Pasar Teluk Gong
+  alt_name: []
+  latitude: -6.1377294
+  longitude: 106.7819772
+  type: way
+  amenity_type: marketplace
+- id: 526701934
+  name: Pasar Sunter Podomoro
+  alt_name: []
+  latitude: -6.139098887784563
+  longitude: 106.87050166705777
+  type: way
+  amenity_type: marketplace
+- id: 527814187
+  name: Pasar Jaya Pademangan Barat
+  alt_name: []
+  latitude: -6.134959639605281
+  longitude: 106.84016469043928
+  type: way
+  amenity_type: marketplace
+- id: 528379626
+  name: Pasar Sunter Kirana
+  alt_name: []
+  latitude: -6.158080383314427
+  longitude: 106.87306345225166
+  type: way
+  amenity_type: marketplace
+- id: 2490616165
+  name: Pasar Tanah Merah
+  alt_name: []
+  latitude: -6.1299049
+  longitude: 106.7941732
+  type: node
+  amenity_type: marketplace
+- id: 4248163887
+  name: Pasar Seni Ancol
+  alt_name: []
+  latitude: -6.1257413
+  longitude: 106.8389892
+  type: node
+  amenity_type: marketplace
+- id: 4248212168
+  name: Pasar Mobil Kemayoran
+  alt_name: []
+  latitude: -6.1516882
+  longitude: 106.8443744
+  type: node
+  amenity_type: marketplace
+- id: 4255917339
+  name: Hype Market
+  alt_name: []
+  latitude: -6.1097378
+  longitude: 106.7377731
+  type: node
+  amenity_type: marketplace
+- id: 5057513960
+  name: Pasar Ular Permai
+  alt_name: []
+  latitude: -6.1141846
+  longitude: 106.8924169
+  type: node
+  amenity_type: marketplace
+- id: 5068568156
+  name: Pasar Kober
+  alt_name: []
+  latitude: -6.1214968
+  longitude: 106.8708707
+  type: node
+  amenity_type: marketplace

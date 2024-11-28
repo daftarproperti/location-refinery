@@ -1,0 +1,541 @@
+objects:
+- id: 504702204
+  name: Terminal Pasar Jumat
+  alt_name: []
+  latitude: -6.288804099999999
+  longitude: 106.77163730000002
+  type: way
+  amenity_type: bus_station
+- id: 513456185
+  name: Terminal Bus Ragunan
+  alt_name: []
+  latitude: -6.305448188241247
+  longitude: 106.82013281054377
+  type: way
+  amenity_type: bus_station
+- id: 521952304
+  name: Terminal Bus Kota Blok M
+  alt_name: []
+  latitude: -6.243411283140782
+  longitude: 106.80086294682775
+  type: way
+  amenity_type: bus_station
+- id: 531382648
+  name: Terminal Pasar Minggu
+  alt_name: []
+  latitude: -6.283170319476169
+  longitude: 106.84364708572241
+  type: way
+  amenity_type: bus_station
+- id: 1238737158
+  name: Ragunan
+  alt_name: []
+  latitude: -6.305649814662326
+  longitude: 106.81912253287724
+  type: way
+  amenity_type: bus_station
+- id: 3415431050
+  name: Denpasar Arah Timur
+  alt_name: []
+  latitude: -6.2327047
+  longitude: 106.8217239
+  type: node
+  amenity_type: bus_station
+- id: 3415431318
+  name: Pancoran Arah Barat
+  alt_name: []
+  latitude: -6.2416725
+  longitude: 106.8372822
+  type: node
+  amenity_type: bus_station
+- id: 3415431355
+  name: Ragunan
+  alt_name: []
+  latitude: -6.3057626
+  longitude: 106.8190175
+  type: node
+  amenity_type: bus_station
+- id: 4235200076
+  name: Semanggi
+  alt_name: []
+  latitude: -6.2205372
+  longitude: 106.8131677
+  type: node
+  amenity_type: bus_station
+- id: 4275270903
+  name: Pasar Rumput
+  alt_name: []
+  latitude: -6.20712
+  longitude: 106.8411231
+  type: node
+  amenity_type: bus_station
+- id: 4409362739
+  name: Denpasar Arah Barat
+  alt_name: []
+  latitude: -6.2333148
+  longitude: 106.8218967
+  type: node
+  amenity_type: bus_station
+- id: 6196107722
+  name: Bendungan Hilir
+  alt_name:
+  - Stasiun Bendungan Hilir
+  latitude: -6.2150263
+  longitude: 106.8179484
+  type: node
+  amenity_type: bus_station
+- id: 6249633581
+  name: Pancoran Arah Timur
+  alt_name: []
+  latitude: -6.2415527
+  longitude: 106.8380523
+  type: node
+  amenity_type: bus_station
+- id: 6796522326
+  name: Pancoran Tugu Arah Barat
+  alt_name: []
+  latitude: -6.2434995
+  longitude: 106.8438258
+  type: node
+  amenity_type: bus_station
+- id: 8582462617
+  name: Duren Kalibata (Pool JAK.18)
+  alt_name: []
+  latitude: -6.2540964
+  longitude: 106.8553774
+  type: node
+  amenity_type: bus_station
+- id: 8582462717
+  name: Stasiun Kalibata
+  alt_name: []
+  latitude: -6.2550086
+  longitude: 106.8550847
+  type: node
+  amenity_type: bus_station
+- id: 8586780617
+  name: Pool JakLingko JAK.46 + JAK.47
+  alt_name: []
+  latitude: -6.3617236
+  longitude: 106.8071289
+  type: node
+  amenity_type: bus_station
+- id: 8589337817
+  name: Pool JAK.46, JAK.47
+  alt_name: []
+  latitude: -6.3617213
+  longitude: 106.8071299
+  type: node
+  amenity_type: bus_station
+- id: 9201422256
+  name: Kejaksaan Agung
+  alt_name: []
+  latitude: -6.2404546
+  longitude: 106.7984459
+  type: node
+  amenity_type: bus_station
+- id: 9201422322
+  name: CSW 2
+  alt_name: []
+  latitude: -6.2398875
+  longitude: 106.79791
+  type: node
+  amenity_type: bus_station
+- id: 9201422363
+  name: ASEAN
+  alt_name: []
+  latitude: -6.2399162
+  longitude: 106.7991046
+  type: node
+  amenity_type: bus_station
+- id: 11368540217
+  name: Blok M
+  alt_name: []
+  latitude: -6.2433119
+  longitude: 106.8019981
+  type: node
+  amenity_type: bus_station
+- id: 11564482126
+  name: Dukuh Atas
+  alt_name: []
+  latitude: -6.2052402
+  longitude: 106.8222997
+  type: node
+  amenity_type: bus_station
+- id: 11564482127
+  name: Karet
+  alt_name: []
+  latitude: -6.2124217
+  longitude: 106.8200573
+  type: node
+  amenity_type: bus_station
+- id: 11564482128
+  name: Bendungan Hilir
+  alt_name: []
+  latitude: -6.2170753
+  longitude: 106.8153752
+  type: node
+  amenity_type: bus_station
+- id: 11564482129
+  name: Polda Metro Jaya
+  alt_name: []
+  latitude: -6.2210772
+  longitude: 106.8102904
+  type: node
+  amenity_type: bus_station
+- id: 11564482130
+  name: Senayan Bank DKI
+  alt_name: []
+  latitude: -6.2242874
+  longitude: 106.8057036
+  type: node
+  amenity_type: bus_station
+- id: 11564482132
+  name: Masjid Agung
+  alt_name: []
+  latitude: -6.2364317
+  longitude: 106.7984482
+  type: node
+  amenity_type: bus_station
+- id: 11576807218
+  name: Halimun
+  alt_name: []
+  latitude: -6.2051184
+  longitude: 106.833362
+  type: node
+  amenity_type: bus_station
+- id: 11576807219
+  name: Galunggung
+  alt_name: []
+  latitude: -6.2043967
+  longitude: 106.8234017
+  type: node
+  amenity_type: bus_station
+- id: 11613170643
+  name: Setiabudi
+  alt_name: []
+  latitude: -6.2092182
+  longitude: 106.8301976
+  type: node
+  amenity_type: bus_station
+- id: 11613170644
+  name: Kuningan Madya
+  alt_name: []
+  latitude: -6.2131726
+  longitude: 106.8304739
+  type: node
+  amenity_type: bus_station
+- id: 11613170645
+  name: Karet Kuningan
+  alt_name: []
+  latitude: -6.21681
+  longitude: 106.8308023
+  type: node
+  amenity_type: bus_station
+- id: 11613170646
+  name: Rasuna Said
+  alt_name: []
+  latitude: -6.2217444
+  longitude: 106.8322847
+  type: node
+  amenity_type: bus_station
+- id: 11613170647
+  name: Kuningan
+  alt_name: []
+  latitude: -6.2286539
+  longitude: 106.833192
+  type: node
+  amenity_type: bus_station
+- id: 11613170648
+  name: Patra Kuningan
+  alt_name: []
+  latitude: -6.2327037
+  longitude: 106.8320428
+  type: node
+  amenity_type: bus_station
+- id: 11613170649
+  name: Underpass Kuningan
+  alt_name: []
+  latitude: -6.2349258
+  longitude: 106.8287948
+  type: node
+  amenity_type: bus_station
+- id: 11618256314
+  name: Mampang Prapatan
+  alt_name: []
+  latitude: -6.242629
+  longitude: 106.825726
+  type: node
+  amenity_type: bus_station
+- id: 11618256315
+  name: Duren Tiga
+  alt_name: []
+  latitude: -6.2523717
+  longitude: 106.8270018
+  type: node
+  amenity_type: bus_station
+- id: 11618256316
+  name: Warung Buncit
+  alt_name: []
+  latitude: -6.2569821
+  longitude: 106.8281118
+  type: node
+  amenity_type: bus_station
+- id: 11618256317
+  name: Warung Jati
+  alt_name: []
+  latitude: -6.262337
+  longitude: 106.8297841
+  type: node
+  amenity_type: bus_station
+- id: 11618256318
+  name: Buncit Indah
+  alt_name: []
+  latitude: -6.2743241
+  longitude: 106.8303138
+  type: node
+  amenity_type: bus_station
+- id: 11618256319
+  name: Pejaten
+  alt_name: []
+  latitude: -6.2784107
+  longitude: 106.8297531
+  type: node
+  amenity_type: bus_station
+- id: 11618256320
+  name: Jatipadang
+  alt_name: []
+  latitude: -6.2854351
+  longitude: 106.8262547
+  type: node
+  amenity_type: bus_station
+- id: 11618256321
+  name: Jati Barat
+  alt_name: []
+  latitude: -6.2910224
+  longitude: 106.8236324
+  type: node
+  amenity_type: bus_station
+- id: 11618256322
+  name: Simpang Ragunan
+  alt_name: []
+  latitude: -6.2946195
+  longitude: 106.8221239
+  type: node
+  amenity_type: bus_station
+- id: 11618413210
+  name: Tegal Mampang
+  alt_name: []
+  latitude: -6.2401791
+  longitude: 106.8309123
+  type: node
+  amenity_type: bus_station
+- id: 11618413211
+  name: Rawa Barat
+  alt_name: []
+  latitude: -6.2388979
+  longitude: 106.8162003
+  type: node
+  amenity_type: bus_station
+- id: 11618413212
+  name: Pasar Santa
+  alt_name: []
+  latitude: -6.2391928
+  longitude: 106.8077643
+  type: node
+  amenity_type: bus_station
+- id: 11618413213
+  name: CSW 1
+  alt_name: []
+  latitude: -6.2398847
+  longitude: 106.7984421
+  type: node
+  amenity_type: bus_station
+- id: 11618413214
+  name: Mayestik
+  alt_name: []
+  latitude: -6.241891
+  longitude: 106.7907262
+  type: node
+  amenity_type: bus_station
+- id: 11618413215
+  name: Velbak
+  alt_name: []
+  latitude: -6.2394127
+  longitude: 106.7854966
+  type: node
+  amenity_type: bus_station
+- id: 11618413216
+  name: Kebayoran Lama
+  alt_name: []
+  latitude: -6.2383318
+  longitude: 106.7775859
+  type: node
+  amenity_type: bus_station
+- id: 11618413217
+  name: Seskoal
+  alt_name: []
+  latitude: -6.2380282
+  longitude: 106.7711779
+  type: node
+  amenity_type: bus_station
+- id: 11618413218
+  name: Cipulir
+  alt_name: []
+  latitude: -6.2378077
+  longitude: 106.7653358
+  type: node
+  amenity_type: bus_station
+- id: 11618413219
+  name: Swadarma
+  alt_name: []
+  latitude: -6.2375271
+  longitude: 106.7606037
+  type: node
+  amenity_type: bus_station
+- id: 11618413220
+  name: JORR
+  alt_name: []
+  latitude: -6.2362044
+  longitude: 106.7548063
+  type: node
+  amenity_type: bus_station
+- id: 11618413222
+  name: Petukangan Utara
+  alt_name: []
+  latitude: -6.2364543
+  longitude: 106.7477717
+  type: node
+  amenity_type: bus_station
+- id: 11618522864
+  name: Widya Chandra Arah Barat
+  alt_name: []
+  latitude: -6.2272368
+  longitude: 106.817558
+  type: node
+  amenity_type: bus_station
+- id: 11618522865
+  name: Widya Chandra Arah Timur
+  alt_name: []
+  latitude: -6.2266759
+  longitude: 106.8175202
+  type: node
+  amenity_type: bus_station
+- id: 11622265882
+  name: Simpang Kuningan
+  alt_name: []
+  latitude: -6.237293
+  longitude: 106.8280275
+  type: node
+  amenity_type: bus_station
+- id: 11622265883
+  name: Tegal Parang Arah Barat
+  alt_name: []
+  latitude: -6.2388245
+  longitude: 106.8302006
+  type: node
+  amenity_type: bus_station
+- id: 11622265884
+  name: Tegal Parang Arah Timur
+  alt_name: []
+  latitude: -6.2390167
+  longitude: 106.8310925
+  type: node
+  amenity_type: bus_station
+- id: 11622265887
+  name: Pancoran Tugu Arah Timur
+  alt_name: []
+  latitude: -6.2431027
+  longitude: 106.8439685
+  type: node
+  amenity_type: bus_station
+- id: 11622265888
+  name: Tebet Eco Park Arah Barat
+  alt_name: []
+  latitude: -6.2433305
+  longitude: 106.8521139
+  type: node
+  amenity_type: bus_station
+- id: 11622265889
+  name: Tebet Eco Park Arah Timur
+  alt_name: []
+  latitude: -6.2430384
+  longitude: 106.8520804
+  type: node
+  amenity_type: bus_station
+- id: 11622265891
+  name: Cikoko Arah Timur
+  alt_name: []
+  latitude: -6.2430332
+  longitude: 106.8580894
+  type: node
+  amenity_type: bus_station
+- id: 11622265892
+  name: Cikoko Arah Barat
+  alt_name: []
+  latitude: -6.243334
+  longitude: 106.8580938
+  type: node
+  amenity_type: bus_station
+- id: 11662288192
+  name: Lebak Bulus
+  alt_name: []
+  latitude: -6.2894213
+  longitude: 106.7740093
+  type: node
+  amenity_type: bus_station
+- id: 11662288196
+  name: Pondok Pinang
+  alt_name: []
+  latitude: -6.2821395
+  longitude: 106.7720653
+  type: node
+  amenity_type: bus_station
+- id: 11756936777
+  name: Kebayoran
+  alt_name: []
+  latitude: -6.238405
+  longitude: 106.7832306
+  type: node
+  amenity_type: bus_station
+- id: 11756936784
+  name: Simprug
+  alt_name: []
+  latitude: -6.2339046
+  longitude: 106.7865331
+  type: node
+  amenity_type: bus_station
+- id: 11957654244
+  name: Permata Hijau
+  alt_name: []
+  latitude: -6.2214188
+  longitude: 106.7832234
+  type: node
+  amenity_type: bus_station
+- id: 11957654249
+  name: Bungur
+  alt_name: []
+  latitude: -6.2526735
+  longitude: 106.781646
+  type: node
+  amenity_type: bus_station
+- id: 11957654250
+  name: Tanah Kusir
+  alt_name: []
+  latitude: -6.2569704
+  longitude: 106.7816931
+  type: node
+  amenity_type: bus_station
+- id: 11957654252
+  name: Pondok Indah
+  alt_name: []
+  latitude: -6.2672166
+  longitude: 106.7836553
+  type: node
+  amenity_type: bus_station
+- id: 11957730026
+  name: Underpass Lebak Bulus
+  alt_name: []
+  latitude: -6.2867388
+  longitude: 106.7800029
+  type: node
+  amenity_type: bus_station

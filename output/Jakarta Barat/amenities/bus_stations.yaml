@@ -1,0 +1,326 @@
+objects:
+- id: 500647741
+  name: Terminal Kalideres
+  alt_name: []
+  latitude: -6.154265194317422
+  longitude: 106.7057724912927
+  type: way
+  amenity_type: bus_station
+- id: 515552343
+  name: Terminal Rawa Buaya
+  alt_name: []
+  latitude: -6.16058245141948
+  longitude: 106.72526777281395
+  type: way
+  amenity_type: bus_station
+- id: 521722507
+  name: Terminal Bus Grogol
+  alt_name: []
+  latitude: -6.166308298594321
+  longitude: 106.79223772384466
+  type: way
+  amenity_type: bus_station
+- id: 3415431045
+  name: Grogol Reformasi
+  alt_name: []
+  latitude: -6.1673317
+  longitude: 106.7882638
+  type: node
+  amenity_type: bus_station
+- id: 3415431306
+  name: Taman Sari
+  alt_name: []
+  latitude: -6.1493027
+  longitude: 106.8167033
+  type: node
+  amenity_type: bus_station
+- id: 9599110317
+  name: Meruya Selatan (Pool JAK.30)
+  alt_name: []
+  latitude: -6.2133049
+  longitude: 106.7249259
+  type: node
+  amenity_type: bus_station
+- id: 10175343086
+  name: Bus Lengkong
+  alt_name: []
+  latitude: -6.1469632
+  longitude: 106.811503
+  type: node
+  amenity_type: bus_station
+- id: 11558722488
+  name: Sawah Besar Temporer
+  alt_name: []
+  latitude: -6.1572701
+  longitude: 106.8186404
+  type: node
+  amenity_type: bus_station
+- id: 11564482115
+  name: Kota
+  alt_name:
+  - Kota Tua
+  latitude: -6.1368624
+  longitude: 106.8150708
+  type: node
+  amenity_type: bus_station
+- id: 11564482116
+  name: Kali Besar
+  alt_name: []
+  latitude: -6.1353313
+  longitude: 106.8114533
+  type: node
+  amenity_type: bus_station
+- id: 11564482117
+  name: Museum Sejarah Jakarta
+  alt_name: []
+  latitude: -6.1339163
+  longitude: 106.8121337
+  type: node
+  amenity_type: bus_station
+- id: 11564482118
+  name: Glodok
+  alt_name: []
+  latitude: -6.1434145
+  longitude: 106.8151672
+  type: node
+  amenity_type: bus_station
+- id: 11564482119
+  name: Mangga Besar Temporer
+  alt_name: []
+  latitude: -6.1532228
+  longitude: 106.8174722
+  type: node
+  amenity_type: bus_station
+- id: 11567672589
+  name: Roxy
+  alt_name: []
+  latitude: -6.1662903
+  longitude: 106.7967585
+  type: node
+  amenity_type: bus_station
+- id: 11567672590
+  name: Grogol
+  alt_name: []
+  latitude: -6.1668289
+  longitude: 106.7895654
+  type: node
+  amenity_type: bus_station
+- id: 11567672599
+  name: Jelambar
+  alt_name: []
+  latitude: -6.1665407
+  longitude: 106.7865476
+  type: node
+  amenity_type: bus_station
+- id: 11567672600
+  name: Damai
+  alt_name: []
+  latitude: -6.1633444
+  longitude: 106.7751134
+  type: node
+  amenity_type: bus_station
+- id: 11567672601
+  name: Taman Kota
+  alt_name: []
+  latitude: -6.1571533
+  longitude: 106.7578744
+  type: node
+  amenity_type: bus_station
+- id: 11567672602
+  name: Jembatan Gantung
+  alt_name: []
+  latitude: -6.1554693
+  longitude: 106.7493545
+  type: node
+  amenity_type: bus_station
+- id: 11567672604
+  name: Pulo Nangka
+  alt_name: []
+  latitude: -6.1546058
+  longitude: 106.738107
+  type: node
+  amenity_type: bus_station
+- id: 11567672607
+  name: Jembatan Baru
+  alt_name: []
+  latitude: -6.1547905
+  longitude: 106.7303858
+  type: node
+  amenity_type: bus_station
+- id: 11567672608
+  name: Rawa Buaya
+  alt_name: []
+  latitude: -6.1538953
+  longitude: 106.7261914
+  type: node
+  amenity_type: bus_station
+- id: 11567672609
+  name: Sumur Bor
+  alt_name: []
+  latitude: -6.1530379
+  longitude: 106.7193383
+  type: node
+  amenity_type: bus_station
+- id: 11567672610
+  name: Pesakih
+  alt_name: []
+  latitude: -6.1548146
+  longitude: 106.7152306
+  type: node
+  amenity_type: bus_station
+- id: 11568418505
+  name: Kalideres
+  alt_name: []
+  latitude: -6.1545211
+  longitude: 106.7058526
+  type: node
+  amenity_type: bus_station
+- id: 11619467627
+  name: Kota Bambu Arah Selatan
+  alt_name: []
+  latitude: -6.185274
+  longitude: 106.7970864
+  type: node
+  amenity_type: bus_station
+- id: 11619467628
+  name: Kota Bambu Arah Utara
+  alt_name: []
+  latitude: -6.1844369
+  longitude: 106.7967898
+  type: node
+  amenity_type: bus_station
+- id: 11619467629
+  name: Kemanggisan Arah Selatan
+  alt_name: []
+  latitude: -6.1898351
+  longitude: 106.7972624
+  type: node
+  amenity_type: bus_station
+- id: 11619467630
+  name: Kemanggisan Arah Utara
+  alt_name: []
+  latitude: -6.1898411
+  longitude: 106.7969795
+  type: node
+  amenity_type: bus_station
+- id: 11619467632
+  name: Tanjung Duren Arah Utara
+  alt_name:
+  - Tanjung Duren Arah Barat
+  latitude: -6.1754921
+  longitude: 106.7921834
+  type: node
+  amenity_type: bus_station
+- id: 11619467633
+  name: Tanjung Duren Arah Selatan
+  alt_name:
+  - Tanjung Duren Arah Timur
+  latitude: -6.1758343
+  longitude: 106.7930751
+  type: node
+  amenity_type: bus_station
+- id: 11619669163
+  name: Kali Grogol Arah Utara
+  alt_name: []
+  latitude: -6.1610637
+  longitude: 106.7904074
+  type: node
+  amenity_type: bus_station
+- id: 11619669164
+  name: Kali Grogol Arah Selatan
+  alt_name: []
+  latitude: -6.1604905
+  longitude: 106.7909561
+  type: node
+  amenity_type: bus_station
+- id: 11619669165
+  name: Jembatan Besi
+  alt_name: []
+  latitude: -6.1519994
+  longitude: 106.7949405
+  type: node
+  amenity_type: bus_station
+- id: 11619802075
+  name: Jembatan Dua
+  alt_name: []
+  latitude: -6.14327
+  longitude: 106.7935204
+  type: node
+  amenity_type: bus_station
+- id: 11649440857
+  name: Gedong Panjang
+  alt_name: []
+  latitude: -6.1325821
+  longitude: 106.8059639
+  type: node
+  amenity_type: bus_station
+- id: 11754832200
+  name: Bandengan
+  alt_name: []
+  latitude: -6.1362966
+  longitude: 106.8035213
+  type: node
+  amenity_type: bus_station
+- id: 11755081811
+  name: Mangga Dua Raya
+  alt_name: []
+  latitude: -6.1375975
+  longitude: 106.817922
+  type: node
+  amenity_type: bus_station
+- id: 11773208073
+  name: Tomang Raya
+  alt_name: []
+  latitude: -6.1768647
+  longitude: 106.8004235
+  type: node
+  amenity_type: bus_station
+- id: 11945517620
+  name: Kedoya
+  alt_name: []
+  latitude: -6.1644482
+  longitude: 106.7630403
+  type: node
+  amenity_type: bus_station
+- id: 11945517622
+  name: Kedoya Panjang
+  alt_name: []
+  latitude: -6.1745028
+  longitude: 106.7658822
+  type: node
+  amenity_type: bus_station
+- id: 11955033536
+  name: Duri Kepa
+  alt_name: []
+  latitude: -6.1852714
+  longitude: 106.7684309
+  type: node
+  amenity_type: bus_station
+- id: 11955033537
+  name: Kebon Jeruk
+  alt_name: []
+  latitude: -6.1942979
+  longitude: 106.7688831
+  type: node
+  amenity_type: bus_station
+- id: 11955033538
+  name: Kelapa Dua Sasak
+  alt_name: []
+  latitude: -6.2055527
+  longitude: 106.7695342
+  type: node
+  amenity_type: bus_station
+- id: 11955033539
+  name: Pos Pengumben
+  alt_name: []
+  latitude: -6.2129301
+  longitude: 106.7722514
+  type: node
+  amenity_type: bus_station
+- id: 11957654243
+  name: Arteri
+  alt_name: []
+  latitude: -6.2183913
+  longitude: 106.7775818
+  type: node
+  amenity_type: bus_station

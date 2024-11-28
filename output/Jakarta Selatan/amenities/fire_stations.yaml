@@ -1,0 +1,106 @@
+objects:
+- id: 157364854
+  name: Pemadam BP4 KUA
+  alt_name: []
+  latitude: -6.278716795226748
+  longitude: 106.83044176833535
+  type: way
+  amenity_type: fire_station
+- id: 315271448
+  name: Dinas Penanggulangan Kebakaran dan Penyelamatan Propinsi DKI Jakarta
+  alt_name: []
+  latitude: -6.253698342471673
+  longitude: 106.85117904077086
+  type: way
+  amenity_type: fire_station
+- id: 486490670
+  name: Pos Pemadam Casablanca
+  alt_name: []
+  latitude: -6.221930534653631
+  longitude: 106.84507014912525
+  type: way
+  amenity_type: fire_station
+- id: 488197079
+  name: Kantor Pemadam Kebakaran
+  alt_name: []
+  latitude: -6.240141362257171
+  longitude: 106.84591213861049
+  type: way
+  amenity_type: fire_station
+- id: 500870022
+  name: Pos Pemadam Kebakaran Cipete
+  alt_name: []
+  latitude: -6.269797024919183
+  longitude: 106.8052175182478
+  type: way
+  amenity_type: fire_station
+- id: 508341442
+  name: Dinas Kebakaran DKI Jakarta
+  alt_name: []
+  latitude: -6.2899775
+  longitude: 106.84327869999998
+  type: way
+  amenity_type: fire_station
+- id: 512755290
+  name: Pos Pemadam Kebakaran Grogol Utara
+  alt_name: []
+  latitude: -6.2137747247788955
+  longitude: 106.77784710837479
+  type: way
+  amenity_type: fire_station
+- id: 517607410
+  name: Pos Pemadam Kebakaran Kebayoran Baru Sektor II
+  alt_name: []
+  latitude: -6.248914200000001
+  longitude: 106.7936909
+  type: way
+  amenity_type: fire_station
+- id: 518511767
+  name: Dinas Penanggulangan Kebakaran Pos Tanah Kusir
+  alt_name: []
+  latitude: -6.25002575
+  longitude: 106.77792809999998
+  type: way
+  amenity_type: fire_station
+- id: 521149146
+  name: Sudin Kebakaran Pos Cipulir
+  alt_name: []
+  latitude: -6.23817565
+  longitude: 106.76777340000001
+  type: way
+  amenity_type: fire_station
+- id: 521454659
+  name: Suku Dinas Pemadam Kebakaran
+  alt_name: []
+  latitude: -6.288676714539439
+  longitude: 106.77505653965612
+  type: way
+  amenity_type: fire_station
+- id: 522339021
+  name: Suku Dinas Kebakaran Kecamatan Pesanggrahan
+  alt_name: []
+  latitude: -6.2572332
+  longitude: 106.75726264999999
+  type: way
+  amenity_type: fire_station
+- id: 523545605
+  name: Dinas Pemadam Kebakaran DKI Jakarta Jagakarsa
+  alt_name: []
+  latitude: -6.315510023496739
+  longitude: 106.81139334545638
+  type: way
+  amenity_type: fire_station
+- id: 526082873
+  name: Kantor Pemadam Kebakaran Sektor Pasar Minggu
+  alt_name: []
+  latitude: -6.28429255
+  longitude: 106.8378165
+  type: way
+  amenity_type: fire_station
+- id: 8486041419
+  name: Dinas Pemadam Kebakaran Jagakarsa
+  alt_name: []
+  latitude: -6.315509
+  longitude: 106.8115343
+  type: node
+  amenity_type: fire_station

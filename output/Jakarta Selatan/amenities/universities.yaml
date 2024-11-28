@@ -1,0 +1,358 @@
+objects:
+- id: 122152189
+  name: Universitas MH Thamrin Kampus AKA
+  alt_name: []
+  latitude: -6.240430920856379
+  longitude: 106.81755633424919
+  type: way
+  amenity_type: university
+- id: 134086210
+  name: Institut Pengembangan Manajemen Indonesia
+  alt_name: []
+  latitude: -6.257428317447239
+  longitude: 106.85488042532658
+  type: way
+  amenity_type: university
+- id: 157344282
+  name: Universitas Negeri Jakarta Kampus PGSD
+  alt_name: []
+  latitude: -6.210653472582497
+  longitude: 106.82544539006112
+  type: way
+  amenity_type: university
+- id: 157355130
+  name: Universitas Islam At Tahiriyah
+  alt_name: []
+  latitude: -6.224196312193011
+  longitude: 106.85993872108797
+  type: way
+  amenity_type: university
+- id: 157358528
+  name: Pasca Sarjana Universitas Brawijaya
+  alt_name: []
+  latitude: -6.2059401278268
+  longitude: 106.83345843891901
+  type: way
+  amenity_type: university
+- id: 157358552
+  name: Universitas Negeri Jakarta Kampus D Psikologi
+  alt_name: []
+  latitude: -6.205702975387148
+  longitude: 106.83354208823123
+  type: way
+  amenity_type: university
+- id: 157360672
+  name: Universitas Krisanti Widya Mandiri
+  alt_name: []
+  latitude: -6.223484871410612
+  longitude: 106.86233880316057
+  type: way
+  amenity_type: university
+- id: 157363169
+  name: BRI Corporate University
+  alt_name: []
+  latitude: -6.302686435073665
+  longitude: 106.82178777301134
+  type: way
+  amenity_type: university
+- id: 157364898
+  name: Universitas Trilogi
+  alt_name: []
+  latitude: -6.253165865377095
+  longitude: 106.84909426631428
+  type: way
+  amenity_type: university
+- id: 157365910
+  name: Universitas Nasional
+  alt_name: []
+  latitude: -6.2812738476289915
+  longitude: 106.83934019767848
+  type: way
+  amenity_type: university
+- id: 166318524
+  name: UBS Business School
+  alt_name: []
+  latitude: -6.2855246000000005
+  longitude: 106.79612554999999
+  type: way
+  amenity_type: university
+- id: 235269697
+  name: Universitas Mercubuana
+  alt_name: []
+  latitude: -6.277356721677424
+  longitude: 106.82932969515272
+  type: way
+  amenity_type: university
+- id: 389845678
+  name: Universitas Pembangunan Nasional "Veteran" Jakarta
+  alt_name: []
+  latitude: -6.315836157551729
+  longitude: 106.79426785665824
+  type: way
+  amenity_type: university
+- id: 401969868
+  name: Universitas Indonesia
+  alt_name: []
+  latitude: -6.361317267069221
+  longitude: 106.82737849290821
+  type: way
+  amenity_type: university
+- id: 482154030
+  name: Sekolah Pasca Sarjana Uhamka
+  alt_name: []
+  latitude: -6.273402767224911
+  longitude: 106.83074098746414
+  type: way
+  amenity_type: university
+- id: 483766180
+  name: BULOG Corporate University
+  alt_name: []
+  latitude: -6.235846594135496
+  longitude: 106.82940467714279
+  type: way
+  amenity_type: university
+- id: 484635861
+  name: Universitas Katolik Indonesia Atmajaya
+  alt_name: []
+  latitude: -6.218738725308256
+  longitude: 106.81532358081522
+  type: way
+  amenity_type: university
+- id: 486534447
+  name: Universitas Bakrie
+  alt_name: []
+  latitude: -6.220508460574764
+  longitude: 106.83317583534152
+  type: way
+  amenity_type: university
+- id: 487569593
+  name: Universitas Paramadina
+  alt_name: []
+  latitude: -6.241245090557286
+  longitude: 106.8329545041109
+  type: way
+  amenity_type: university
+- id: 489548598
+  name: Kampus III Universitas Bung Karno
+  alt_name: []
+  latitude: -6.239056702622406
+  longitude: 106.81471052516456
+  type: way
+  amenity_type: university
+- id: 495427385
+  name: Master of Management Faculty of Economy and Business UGM
+  alt_name: []
+  latitude: -6.214809331419151
+  longitude: 106.84473762752005
+  type: way
+  amenity_type: university
+- id: 496025653
+  name: Universitas Prof Dr Moestopo
+  alt_name: []
+  latitude: -6.228932118839103
+  longitude: 106.79611521168488
+  type: way
+  amenity_type: university
+- id: 499800552
+  name: Institut Sains dan Tehnologi Nasional
+  alt_name: []
+  latitude: -6.354318394586517
+  longitude: 106.81304081922698
+  type: way
+  amenity_type: university
+- id: 499800667
+  name: Universitas Pancasila
+  alt_name: []
+  latitude: -6.339236288962934
+  longitude: 106.83309154454791
+  type: way
+  amenity_type: university
+- id: 501973571
+  name: Institut PTIQ Jakarta
+  alt_name: []
+  latitude: -6.293651714154067
+  longitude: 106.77160833665083
+  type: way
+  amenity_type: university
+- id: 501973582
+  name: Institut Perguruan Tinggi Ilmu Qur'an
+  alt_name: []
+  latitude: -6.291184872138752
+  longitude: 106.77173053120062
+  type: way
+  amenity_type: university
+- id: 502278114
+  name: Universitas Indraprasta PGRI (Pusat Laboratorium)
+  alt_name: []
+  latitude: -6.301991356635177
+  longitude: 106.84985294202497
+  type: way
+  amenity_type: university
+- id: 502278171
+  name: Universitas Tama Jagakarsa
+  alt_name: []
+  latitude: -6.302314065706719
+  longitude: 106.840729635159
+  type: way
+  amenity_type: university
+- id: 502278178
+  name: Institut STIAMI Jakarta
+  alt_name: []
+  latitude: -6.303591911661927
+  longitude: 106.85124899293886
+  type: way
+  amenity_type: university
+- id: 502278468
+  name: Universitas Indraprasta
+  alt_name: []
+  latitude: -6.303170562210393
+  longitude: 106.85047289347877
+  type: way
+  amenity_type: university
+- id: 509782563
+  name: STIKES Tarumanegara
+  alt_name: []
+  latitude: -6.293306702238761
+  longitude: 106.81714669961642
+  type: way
+  amenity_type: university
+- id: 509834697
+  name: Universitas Nasional Sekolah Pascasarjana
+  alt_name: []
+  latitude: -6.298425466435801
+  longitude: 106.82062028584527
+  type: way
+  amenity_type: university
+- id: 512193816
+  name: Universitas Prasetiya Mulya
+  alt_name: []
+  latitude: -6.291458913355152
+  longitude: 106.78912888857579
+  type: way
+  amenity_type: university
+- id: 512603734
+  name: Universitas Muhammadiyah Prof. Dr. Hamka Pascasarjana
+  alt_name: []
+  latitude: -6.242263999999999
+  longitude: 106.78803965
+  type: way
+  amenity_type: university
+- id: 513522241
+  name: Komplek IISIP Jakarta
+  alt_name: []
+  latitude: -6.322869467550032
+  longitude: 106.8338810874421
+  type: way
+  amenity_type: university
+- id: 514725818
+  name: Universitas Budi Luhur
+  alt_name: []
+  latitude: -6.234438114037823
+  longitude: 106.7472846518968
+  type: way
+  amenity_type: university
+- id: 516528259
+  name: Tanri Abeng University
+  alt_name: []
+  latitude: -6.230062031032468
+  longitude: 106.76086728114359
+  type: way
+  amenity_type: university
+- id: 516528314
+  name: Universitas Prof Dr. Moestopo Lab. Terpadu
+  alt_name: []
+  latitude: -6.228837935823902
+  longitude: 106.76106930327957
+  type: way
+  amenity_type: university
+- id: 517607429
+  name: Universitas Muhammadiyah Prof. Dr. Hamka (UHAMKA)
+  alt_name: []
+  latitude: -6.2474641035156075
+  longitude: 106.79096347670323
+  type: way
+  amenity_type: university
+- id: 519262197
+  name: FKG Universitas Moestopo (Beragama)
+  alt_name: []
+  latitude: -6.259306486544229
+  longitude: 106.76506922086183
+  type: way
+  amenity_type: university
+- id: 520201822
+  name: Universitas Satya Negara Indonesia
+  alt_name: []
+  latitude: -6.241892275658642
+  longitude: 106.78340658941234
+  type: way
+  amenity_type: university
+- id: 521454891
+  name: Universitas Persada Indonesia YAI
+  alt_name: []
+  latitude: -6.26119845
+  longitude: 106.77571105
+  type: way
+  amenity_type: university
+- id: 528643940
+  name: Universitas Bhayangkara Jaya
+  alt_name: []
+  latitude: -6.253859450000001
+  longitude: 106.79823815
+  type: way
+  amenity_type: university
+- id: 931278808
+  name: Universitas Sahid Jakarta
+  alt_name: []
+  latitude: -6.236214230061436
+  longitude: 106.84377448229456
+  type: way
+  amenity_type: university
+- id: 933701720
+  name: Universitas Al Azhar
+  alt_name: []
+  latitude: -6.235272580692626
+  longitude: 106.79913124540342
+  type: way
+  amenity_type: university
+- id: 946805003
+  name: Universitas Pertamina
+  alt_name: []
+  latitude: -6.228524950149681
+  longitude: 106.78900168884553
+  type: way
+  amenity_type: university
+- id: 1189282091
+  name: Universitas Brawijaya Kampus 4
+  alt_name: []
+  latitude: -6.227191504694416
+  longitude: 106.8478277435131
+  type: way
+  amenity_type: university
+- id: 1271094728
+  name: Perbanas Institute
+  alt_name: []
+  latitude: -6.217455382061557
+  longitude: 106.82861560202741
+  type: way
+  amenity_type: university
+- id: 9938310357
+  name: Universitas Sampoerna
+  alt_name: []
+  latitude: -6.2485855
+  longitude: 106.8437139
+  type: node
+  amenity_type: university
+- id: 10739471452
+  name: Politeknik Kartini Jakarta
+  alt_name: []
+  latitude: -6.2382146
+  longitude: 106.7703622
+  type: node
+  amenity_type: university
+- id: 11523874224
+  name: Central Queensland University Jakarta Study Hub
+  alt_name: []
+  latitude: -6.2304292
+  longitude: 106.8236985
+  type: node
+  amenity_type: university

@@ -1,0 +1,344 @@
+objects:
+- id: 156909663
+  name: Rumah Sakit Umum Ibnu Sina
+  alt_name: []
+  latitude: -6.160400483197192
+  longitude: 106.79607274922087
+  type: way
+  amenity_type: hospital
+- id: 156917856
+  name: Rumah Sakit Umum Taman Sari
+  alt_name: []
+  latitude: -6.143741513113431
+  longitude: 106.81922481917813
+  type: way
+  amenity_type: hospital
+- id: 156919180
+  name: RS Patria IKKT
+  alt_name: []
+  latitude: -6.197315763144996
+  longitude: 106.79264884664049
+  type: way
+  amenity_type: hospital
+- id: 156919546
+  name: Rumah Sakit Ibu dan Anak Aries
+  alt_name: []
+  latitude: -6.15763215
+  longitude: 106.80999889999998
+  type: way
+  amenity_type: hospital
+- id: 156928888
+  name: Rumah Sakit Pelni Petamburan
+  alt_name: []
+  latitude: -6.193198538735023
+  longitude: 106.80367554167296
+  type: way
+  amenity_type: hospital
+- id: 156928913
+  name: RS Bhakti Mulia
+  alt_name: []
+  latitude: -6.199578652594669
+  longitude: 106.80054592404132
+  type: way
+  amenity_type: hospital
+- id: 157204608
+  name: Rumah Sakit Bersalin Dokter Sanusi
+  alt_name: []
+  latitude: -6.202994724550815
+  longitude: 106.77314624544204
+  type: way
+  amenity_type: hospital
+- id: 249665587
+  name: Rumah Sakit Cinta Kasih Tzu Chi
+  alt_name: []
+  latitude: -6.132034246990435
+  longitude: 106.73708478835655
+  type: way
+  amenity_type: hospital
+- id: 493574020
+  name: Rumah Sakit Pondok Indah
+  alt_name: []
+  latitude: -6.186189448742384
+  longitude: 106.73539989262487
+  type: way
+  amenity_type: hospital
+- id: 495395057
+  name: Rumah Sakit Kanker "Dharmais"
+  alt_name: []
+  latitude: -6.186792649084529
+  longitude: 106.79796252941583
+  type: way
+  amenity_type: hospital
+- id: 495402738
+  name: RSU Kecamatan Kembangan
+  alt_name: []
+  latitude: -6.194696646814341
+  longitude: 106.73627316125338
+  type: way
+  amenity_type: hospital
+- id: 496038039
+  name: RSAB Harapan Kita
+  alt_name: []
+  latitude: -6.184785836006393
+  longitude: 106.79901216993231
+  type: way
+  amenity_type: hospital
+- id: 500577009
+  name: RS Medika Permata Hijau
+  alt_name: []
+  latitude: -6.218175458587719
+  longitude: 106.7779806309268
+  type: way
+  amenity_type: hospital
+- id: 500647932
+  name: Rumah Sakit Hermina Daan Mogot
+  alt_name: []
+  latitude: -6.152936449999999
+  longitude: 106.71230575
+  type: way
+  amenity_type: hospital
+- id: 507486831
+  name: Rumah Sakit Umum Daerah Kalideres
+  alt_name: []
+  latitude: -6.126839720133638
+  longitude: 106.70399518523598
+  type: way
+  amenity_type: hospital
+- id: 507486834
+  name: Ciputra Hospital
+  alt_name: []
+  latitude: -6.1231258339487
+  longitude: 106.70496594615474
+  type: way
+  amenity_type: hospital
+- id: 508130705
+  name: Rumah Sakit Bersalin Anggrek Mas
+  alt_name: []
+  latitude: -6.203030350000001
+  longitude: 106.77268364999999
+  type: way
+  amenity_type: hospital
+- id: 509126846
+  name: Rumah Sakit Puri Mandiri Kedoya
+  alt_name: []
+  latitude: -6.187500457565612
+  longitude: 106.76111202625677
+  type: way
+  amenity_type: hospital
+- id: 509126849
+  name: Rumah Sakit Mata Internasional - JEC Kedoya
+  alt_name: []
+  latitude: -6.189591125448661
+  longitude: 106.76135024566544
+  type: way
+  amenity_type: hospital
+- id: 511178888
+  name: Rumah Sakit Bina Sehat Mandiri
+  alt_name: []
+  latitude: -6.185598553880427
+  longitude: 106.77146054067201
+  type: way
+  amenity_type: hospital
+- id: 511186795
+  name: RS Ukrida Duri Kepa
+  alt_name: []
+  latitude: -6.1851655060326305
+  longitude: 106.78078727705923
+  type: way
+  amenity_type: hospital
+- id: 513191029
+  name: RS Grha Kedoya
+  alt_name: []
+  latitude: -6.16821325274421
+  longitude: 106.76497273371069
+  type: way
+  amenity_type: hospital
+- id: 517115182
+  name: Rumah Sakit Royal Taruma
+  alt_name: []
+  latitude: -6.166736081178787
+  longitude: 106.78538529961912
+  type: way
+  amenity_type: hospital
+- id: 517182375
+  name: Rumah Sakit Jiwa Dr Soeharto Heerdjan
+  alt_name: []
+  latitude: -6.162809835752288
+  longitude: 106.7883913074074
+  type: way
+  amenity_type: hospital
+- id: 518483232
+  name: Rumah Sakit Sumber Waras
+  alt_name: []
+  latitude: -6.167997346414572
+  longitude: 106.7981485087627
+  type: way
+  amenity_type: hospital
+- id: 521154271
+  name: RS Pertamina Tanjung Duren
+  alt_name: []
+  latitude: -6.18297117101995
+  longitude: 106.79082446811852
+  type: way
+  amenity_type: hospital
+- id: 783775577
+  name: RSUD Cengkareng
+  alt_name: []
+  latitude: -6.1429647627616
+  longitude: 106.73488677082074
+  type: way
+  amenity_type: hospital
+- id: 920699992
+  name: Rumah Sakit Siloam
+  alt_name: []
+  latitude: -6.191056096268875
+  longitude: 106.76382483732621
+  type: way
+  amenity_type: hospital
+- id: 1289553197
+  name: RS Mitra Keluarga Kalideres
+  alt_name: []
+  latitude: -6.149656111185629
+  longitude: 106.70153792350263
+  type: way
+  amenity_type: hospital
+- id: 5673769081
+  name: Rumah Sakit Pelita Harapan
+  alt_name: []
+  latitude: -6.1698218
+  longitude: 106.7837097
+  type: node
+  amenity_type: hospital
+- id: 8367863494
+  name: GETHealthy Clinic
+  alt_name: []
+  latitude: -6.1247726
+  longitude: 106.7111509
+  type: node
+  amenity_type: hospital
+- id: 9064896760
+  name: Rumah Sakit Ibu dan Anak Ibnu Sina
+  alt_name: []
+  latitude: -6.1604025
+  longitude: 106.7960691
+  type: node
+  amenity_type: hospital
+- id: 11578451908
+  name: Rumah Sakit Ibu dan Anak Aries
+  alt_name: []
+  latitude: -6.1576355
+  longitude: 106.809994
+  type: node
+  amenity_type: hospital
+- id: 11878633338
+  name: RSU SUMBER WARAS
+  alt_name: []
+  latitude: -6.1686623
+  longitude: 106.7976264
+  type: node
+  amenity_type: hospital
+- id: 11878641454
+  name: RSUD KALIDERES
+  alt_name: []
+  latitude: -6.1461812
+  longitude: 106.7082289
+  type: node
+  amenity_type: hospital
+- id: 11878647712
+  name: RS CENDANA
+  alt_name: []
+  latitude: -6.1874113
+  longitude: 106.760937
+  type: node
+  amenity_type: hospital
+- id: 11878659444
+  name: RS SILOAM KEBON JERUK
+  alt_name: []
+  latitude: -6.1908388
+  longitude: 106.7637229
+  type: node
+  amenity_type: hospital
+- id: 11878675946
+  name: RS MEDIKA PERMATA HIJAU
+  alt_name: []
+  latitude: -6.2181713
+  longitude: 106.778025
+  type: node
+  amenity_type: hospital
+- id: 11878676583
+  name: RSUD TAMAN SARI
+  alt_name: []
+  latitude: -6.143789
+  longitude: 106.819198
+  type: node
+  amenity_type: hospital
+- id: 11878679140
+  name: RS CIPUTRA CITRAGARDEN CITY
+  alt_name: []
+  latitude: -6.1230894
+  longitude: 106.704998
+  type: node
+  amenity_type: hospital
+- id: 11878684983
+  name: RS HERMINA DAAN MOGOT
+  alt_name: []
+  latitude: -6.152934
+  longitude: 106.712303
+  type: node
+  amenity_type: hospital
+- id: 11878686074
+  name: RS BHAKTI MULIA
+  alt_name: []
+  latitude: -6.1995871
+  longitude: 106.8005392
+  type: node
+  amenity_type: hospital
+- id: 11878687400
+  name: RS ANGGREK MAS
+  alt_name: []
+  latitude: -6.2030307
+  longitude: 106.7726845
+  type: node
+  amenity_type: hospital
+- id: 11878691282
+  name: RS PELNI PETAMBURAN
+  alt_name: []
+  latitude: -6.1931924
+  longitude: 106.8036904
+  type: node
+  amenity_type: hospital
+- id: 11878697704
+  name: RSU PURI INDAH PONDOK INDAH
+  alt_name: []
+  latitude: -6.1859889
+  longitude: 106.7353186
+  type: node
+  amenity_type: hospital
+- id: 11878701669
+  name: RS GRHA KEDOYA
+  alt_name: []
+  latitude: -6.1683669
+  longitude: 106.7651412
+  type: node
+  amenity_type: hospital
+- id: 11878701671
+  name: RS MANUELA
+  alt_name: []
+  latitude: -6.1504414
+  longitude: 106.825941
+  type: node
+  amenity_type: hospital
+- id: 11878704271
+  name: RSU PATRIA JAKARTA
+  alt_name: []
+  latitude: -6.1973116
+  longitude: 106.7926441
+  type: node
+  amenity_type: hospital
+- id: 11878706387
+  name: RSU ROYAL TARUMA
+  alt_name: []
+  latitude: -6.1665351
+  longitude: 106.7852311
+  type: node
+  amenity_type: hospital

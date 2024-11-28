@@ -1,0 +1,156 @@
+objects:
+- id: 154831554
+  name: Pos Pemadam Kebakaran Sukapura
+  alt_name: []
+  latitude: -6.1381126437452185
+  longitude: 106.91898134459484
+  type: way
+  amenity_type: fire_station
+- id: 154834870
+  name: Suku Dinas Pemadam Kebakaran dan Penanggulangan Bencana Kelapa Gading
+  alt_name: []
+  latitude: -6.175865999999999
+  longitude: 106.90454965
+  type: way
+  amenity_type: fire_station
+- id: 154835499
+  name: Kantor Pemadam Kebakaran
+  alt_name: []
+  latitude: -6.167426576006349
+  longitude: 106.91870855708517
+  type: way
+  amenity_type: fire_station
+- id: 154856499
+  name: Suku Dinas Penanggulangan Kebakaran dan Penyelamatan Kota Administrasi Jakarta
+    Utara
+  alt_name: []
+  latitude: -6.126984499576791
+  longitude: 106.926687762988
+  type: way
+  amenity_type: fire_station
+- id: 156270905
+  name: Pos Pemadam Kebakaran Muara Angke
+  alt_name: []
+  latitude: -6.108391509212101
+  longitude: 106.77358022020154
+  type: way
+  amenity_type: fire_station
+- id: 156270960
+  name: Pool Pemadam Kebakaran Pluit
+  alt_name: []
+  latitude: -6.117499304788905
+  longitude: 106.7847887213099
+  type: way
+  amenity_type: fire_station
+- id: 210112177
+  name: Kantor Pemadam POS Muara Baru
+  alt_name: []
+  latitude: -6.102183236580676
+  longitude: 106.80020866006078
+  type: way
+  amenity_type: fire_station
+- id: 211562562
+  name: Pemadam Kebakaran Pos Binaria
+  alt_name: []
+  latitude: -6.127191650000001
+  longitude: 106.84373500000002
+  type: way
+  amenity_type: fire_station
+- id: 515874331
+  name: Pos Pemadam Kebakaran Sektor II Koja
+  alt_name: []
+  latitude: -6.115015848101397
+  longitude: 106.89373564152855
+  type: way
+  amenity_type: fire_station
+- id: 521448812
+  name: Pos Pemadam Kebakaran Pos Rorotan
+  alt_name: []
+  latitude: -6.151244674921743
+  longitude: 106.95178140905745
+  type: way
+  amenity_type: fire_station
+- id: 523537932
+  name: Pemadam Kebakaran Pelabuhan
+  alt_name: []
+  latitude: -6.10869185
+  longitude: 106.88164505
+  type: way
+  amenity_type: fire_station
+- id: 524565368
+  name: Pos Damkar
+  alt_name: []
+  latitude: -6.103901714720047
+  longitude: 106.77645642351906
+  type: way
+  amenity_type: fire_station
+- id: 524571052
+  name: Pos Damkar Kamal Muara
+  alt_name: []
+  latitude: -6.1120109000000005
+  longitude: 106.7233759
+  type: way
+  amenity_type: fire_station
+- id: 524575658
+  name: Sektor Pemadam Kecamatan Pademangan
+  alt_name: []
+  latitude: -6.1329153
+  longitude: 106.84009015
+  type: way
+  amenity_type: fire_station
+- id: 525515439
+  name: Suku Dinas Pemadam Kebakaran dan Penanggulangan Bencana
+  alt_name: []
+  latitude: -6.130341146393454
+  longitude: 106.79469276860155
+  type: way
+  amenity_type: fire_station
+- id: 525520483
+  name: Pos Damkar RW 12
+  alt_name: []
+  latitude: -6.1623201
+  longitude: 106.91353190000001
+  type: way
+  amenity_type: fire_station
+- id: 525578424
+  name: Pemadam Kebakaran Pos Pegangsaan Dua
+  alt_name: []
+  latitude: -6.167907792247194
+  longitude: 106.91866697520494
+  type: way
+  amenity_type: fire_station
+- id: 525800764
+  name: Kantor Pemadam Kebakaran Teluk Gong
+  alt_name: []
+  latitude: -6.139597462689981
+  longitude: 106.77874770888857
+  type: way
+  amenity_type: fire_station
+- id: 526081026
+  name: Pos Pemadam Kebakaran - Pos Gading Griya Lestari
+  alt_name: []
+  latitude: -6.13749875
+  longitude: 106.91936984999998
+  type: way
+  amenity_type: fire_station
+- id: 526636565
+  name: Pos Pemadam Kebakaran Kalibaru
+  alt_name: []
+  latitude: -6.1007493406057804
+  longitude: 106.9267472745348
+  type: way
+  amenity_type: fire_station
+- id: 527222729
+  name: Pos Pemadam Kebakaran Sektor Ancol
+  alt_name: []
+  latitude: -6.123756367967669
+  longitude: 106.81766488498214
+  type: way
+  amenity_type: fire_station
+- id: 527796416
+  name: Pos Pemadam Kebakaran Pos Marunda
+  alt_name: []
+  latitude: -6.099618620006377
+  longitude: 106.96169115806832
+  type: way
+  amenity_type: fire_station

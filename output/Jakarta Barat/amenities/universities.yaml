@@ -1,0 +1,135 @@
+objects:
+- id: 7548053
+  name: Universitas Kejuangan 45 Jakarta
+  alt_name: []
+  latitude: -6.134495759288253
+  longitude: 106.73808335026746
+  type: relation
+  amenity_type: university
+- id: 156922212
+  name: Universitas Mercu Buana
+  alt_name: []
+  latitude: -6.209830486573579
+  longitude: 106.73900922856186
+  type: way
+  amenity_type: university
+- id: 156928801
+  name: Kampus Gunadarma
+  alt_name: []
+  latitude: -6.134465564857693
+  longitude: 106.73336046803801
+  type: way
+  amenity_type: university
+- id: 157205905
+  name: Fakultas Kedokteran Ukrida
+  alt_name: []
+  latitude: -6.185246438122893
+  longitude: 106.78009088555541
+  type: way
+  amenity_type: university
+- id: 157205932
+  name: Universitas Esa Unggul
+  alt_name: []
+  latitude: -6.185702015269462
+  longitude: 106.77890696019328
+  type: way
+  amenity_type: university
+- id: 509126805
+  name: Institut Sains dan Teknologi Al-Kamal
+  alt_name: []
+  latitude: -6.186457389512262
+  longitude: 106.760105047485
+  type: way
+  amenity_type: university
+- id: 509530238
+  name: Universitas BINUS (Bina Nusantara) Kampus Anggrek
+  alt_name:
+  - Sunib
+  latitude: -6.2019916575846175
+  longitude: 106.7810694988382
+  type: way
+  amenity_type: university
+- id: 511374655
+  name: Universitas Nahdlatul Ulama Indonesia
+  alt_name: []
+  latitude: -6.182113554546781
+  longitude: 106.76574457135762
+  type: way
+  amenity_type: university
+- id: 515222143
+  name: Universitas Tarumanagara Kampus II
+  alt_name: []
+  latitude: -6.169364971149629
+  longitude: 106.7862704027089
+  type: way
+  amenity_type: university
+- id: 518276476
+  name: Universitas Satyagama
+  alt_name: []
+  latitude: -6.143539943780443
+  longitude: 106.73082461170222
+  type: way
+  amenity_type: university
+- id: 518483233
+  name: Universitas Tarumanagara Kampus 1
+  alt_name: []
+  latitude: -6.169033870912555
+  longitude: 106.79022522337095
+  type: way
+  amenity_type: university
+- id: 518483243
+  name: Universitas Trisakti Kampus A
+  alt_name: []
+  latitude: -6.167873603148926
+  longitude: 106.79028431533709
+  type: way
+  amenity_type: university
+- id: 518483263
+  name: Universitas Trisakti School of Management
+  alt_name: []
+  latitude: -6.167591345436763
+  longitude: 106.79380274715628
+  type: way
+  amenity_type: university
+- id: 518483265
+  name: Fakultas Kedokteran Universitas Trisakti
+  alt_name: []
+  latitude: -6.167127038313236
+  longitude: 106.7968677808202
+  type: way
+  amenity_type: university
+- id: 521856846
+  name: Universitas Matha'ulanwar
+  alt_name: []
+  latitude: -6.156792455736486
+  longitude: 106.77943600706692
+  type: way
+  amenity_type: university
+- id: 623686889
+  name: Universitas BINUS (Bina Nusantara) Kampus Kijang
+  alt_name: []
+  latitude: -6.1938500104798315
+  longitude: 106.78800154321301
+  type: way
+  amenity_type: university
+- id: 662237522
+  name: Universitas Kristen Krida Wacana (UKRIDA) Kampus Tanjung Duren
+  alt_name: []
+  latitude: -6.172570607187903
+  longitude: 106.78849378094459
+  type: way
+  amenity_type: university
+- id: 901009301
+  name: Universitas BINUS (Bina Nusantara) Kampus Syahdan
+  alt_name: []
+  latitude: -6.200218497010902
+  longitude: 106.78543456343692
+  type: way
+  amenity_type: university
+- id: 5033660303
+  name: Podomoro University
+  alt_name: []
+  latitude: -6.1775616
+  longitude: 106.7916374
+  type: node
+  amenity_type: university

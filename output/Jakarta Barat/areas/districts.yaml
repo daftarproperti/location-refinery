@@ -1,0 +1,66 @@
+districts:
+- id: 5802392
+  name: Kebon Jeruk
+  alt_name: []
+  type: relation
+  admin_level: '6'
+  boundaries: boundaries/5802392.yaml
+  lat: -6.1915105
+  lon: 106.770356
+- id: 5802407
+  name: Grogol Petamburan
+  alt_name: []
+  type: relation
+  admin_level: '6'
+  boundaries: boundaries/5802407.yaml
+  lat: -6.1616701
+  lon: 106.7862006
+- id: 5802409
+  name: Palmerah
+  alt_name: []
+  type: relation
+  admin_level: '6'
+  boundaries: boundaries/5802409.yaml
+  lat: -6.1927114
+  lon: 106.7977841
+- id: 5802420
+  name: Kembangan
+  alt_name: []
+  type: relation
+  admin_level: '6'
+  boundaries: boundaries/5802420.yaml
+  lat: -6.194603
+  lon: 106.7437585
+- id: 5802425
+  name: Taman Sari
+  alt_name: []
+  type: relation
+  admin_level: '6'
+  boundaries: boundaries/5802425.yaml
+  lat: -6.1509326
+  lon: 106.8191524
+- id: 5802427
+  name: Cengkareng
+  alt_name: []
+  type: relation
+  admin_level: '6'
+  boundaries: boundaries/5802427.yaml
+  lat: -6.1490933
+  lon: 106.734781
+- id: 5802436
+  name: Tambora
+  alt_name:
+  - Kecamatan Tambora
+  type: relation
+  admin_level: '6'
+  boundaries: boundaries/5802436.yaml
+  lat: -6.1477565
+  lon: 106.8010902
+- id: 7409546
+  name: Kalideres
+  alt_name: []
+  type: relation
+  admin_level: '6'
+  boundaries: boundaries/7409546.yaml
+  lat: -6.1429776
+  lon: 106.7024577

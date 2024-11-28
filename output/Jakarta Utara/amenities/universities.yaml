@@ -1,0 +1,29 @@
+objects:
+- id: 517855537
+  name: Kampus Ukrida
+  alt_name: []
+  latitude: -6.158104802178687
+  longitude: 106.89401141752103
+  type: way
+  amenity_type: university
+- id: 527731906
+  name: Universitas Atmajaya
+  alt_name: []
+  latitude: -6.125362555405317
+  longitude: 106.79338723603637
+  type: way
+  amenity_type: university
+- id: 905707247
+  name: Universitas 17 Agustus 1945 Jakarta
+  alt_name: []
+  latitude: -6.132101212260504
+  longitude: 106.8619930661426
+  type: way
+  amenity_type: university
+- id: 1218554819
+  name: Universitas Bunda Mulia
+  alt_name: []
+  latitude: -6.130371005476514
+  longitude: 106.81822495045259
+  type: way
+  amenity_type: university

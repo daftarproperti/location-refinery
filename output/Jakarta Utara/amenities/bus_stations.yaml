@@ -1,0 +1,206 @@
+objects:
+- id: 156271009
+  name: Terminal Muara Angke
+  alt_name: []
+  latitude: -6.1090125223466325
+  longitude: 106.77336443007825
+  type: way
+  amenity_type: bus_station
+- id: 531382647
+  name: Terminal Bus Tanjung Priok
+  alt_name: []
+  latitude: -6.109730045513888
+  longitude: 106.88186724102545
+  type: way
+  amenity_type: bus_station
+- id: 9201422273
+  name: JIEXPO Kemayoran
+  alt_name: []
+  latitude: -6.1448357
+  longitude: 106.8486625
+  type: node
+  amenity_type: bus_station
+- id: 9729253271
+  name: Halte Bus Universitas Bunda Mulia
+  alt_name: []
+  latitude: -6.1308514
+  longitude: 106.8179876
+  type: node
+  amenity_type: bus_station
+- id: 11564730073
+  name: Bermis
+  alt_name: []
+  latitude: -6.178194
+  longitude: 106.8985534
+  type: node
+  amenity_type: bus_station
+- id: 11568547442
+  name: Ancol
+  alt_name: []
+  latitude: -6.1275313
+  longitude: 106.8305419
+  type: node
+  amenity_type: bus_station
+- id: 11568547443
+  name: Pademangan
+  alt_name: []
+  latitude: -6.1337306
+  longitude: 106.8316603
+  type: node
+  amenity_type: bus_station
+- id: 11568547444
+  name: Gunung Sahari
+  alt_name: []
+  latitude: -6.1367967
+  longitude: 106.8323793
+  type: node
+  amenity_type: bus_station
+- id: 11619802080
+  name: Jembatan Tiga
+  alt_name: []
+  latitude: -6.1334127
+  longitude: 106.7927175
+  type: node
+  amenity_type: bus_station
+- id: 11619802081
+  name: Penjaringan
+  alt_name: []
+  latitude: -6.1262533
+  longitude: 106.7920403
+  type: node
+  amenity_type: bus_station
+- id: 11619802101
+  name: Pluit
+  alt_name: []
+  latitude: -6.1157874
+  longitude: 106.7908178
+  type: node
+  amenity_type: bus_station
+- id: 11623136793
+  name: Kodamar
+  alt_name: []
+  latitude: -6.1620313
+  longitude: 106.8817202
+  type: node
+  amenity_type: bus_station
+- id: 11623136794
+  name: Sunter Kelapa Gading
+  alt_name: []
+  latitude: -6.1428129
+  longitude: 106.8907539
+  type: node
+  amenity_type: bus_station
+- id: 11623136796
+  name: Plumpang
+  alt_name: []
+  latitude: -6.128381
+  longitude: 106.8936822
+  type: node
+  amenity_type: bus_station
+- id: 11623136797
+  name: Walikota Jakarta Utara Arah Utara
+  alt_name: []
+  latitude: -6.1188339
+  longitude: 106.8931343
+  type: node
+  amenity_type: bus_station
+- id: 11623136798
+  name: Walikota Jakarta Utara Arah Selatan
+  alt_name: []
+  latitude: -6.1188864
+  longitude: 106.8934856
+  type: node
+  amenity_type: bus_station
+- id: 11623136799
+  name: Koja
+  alt_name: []
+  latitude: -6.1140867
+  longitude: 106.8930724
+  type: node
+  amenity_type: bus_station
+- id: 11623136800
+  name: Mambo
+  alt_name: []
+  latitude: -6.1101242
+  longitude: 106.8924627
+  type: node
+  amenity_type: bus_station
+- id: 11623136801
+  name: Tanjung Priok
+  alt_name: []
+  latitude: -6.1095827
+  longitude: 106.8821338
+  type: node
+  amenity_type: bus_station
+- id: 11649440858
+  name: Pluit Selatan
+  alt_name: []
+  latitude: -6.1252747
+  longitude: 106.7997101
+  type: node
+  amenity_type: bus_station
+- id: 11656963822
+  name: Sunter Karya
+  alt_name: []
+  latitude: -6.1376043
+  longitude: 106.8708549
+  type: node
+  amenity_type: bus_station
+- id: 11656963823
+  name: Sunter Utara
+  alt_name:
+  - Sunter SMP 140
+  latitude: -6.1397502
+  longitude: 106.8591439
+  type: node
+  amenity_type: bus_station
+- id: 11659332350
+  name: Sunter Boulevard Barat
+  alt_name: []
+  latitude: -6.1496239
+  longitude: 106.8889878
+  type: node
+  amenity_type: bus_station
+- id: 11659380176
+  name: Jakarta International Stadium
+  alt_name:
+  - JIS
+  latitude: -6.1267701
+  longitude: 106.8555557
+  type: node
+  amenity_type: bus_station
+- id: 11752341249
+  name: Danau Sunter
+  alt_name: []
+  latitude: -6.1409856
+  longitude: 106.8569998
+  type: node
+  amenity_type: bus_station
+- id: 11752341250
+  name: Danau Agung
+  alt_name: []
+  latitude: -6.1467608
+  longitude: 106.8580491
+  type: node
+  amenity_type: bus_station
+- id: 11752341251
+  name: Landasan Pacu
+  alt_name: []
+  latitude: -6.1521691
+  longitude: 106.8542492
+  type: node
+  amenity_type: bus_station
+- id: 11752796861
+  name: Jembatan Item
+  alt_name: []
+  latitude: -6.1309273
+  longitude: 106.8551824
+  type: node
+  amenity_type: bus_station
+- id: 11754832208
+  name: Pakin
+  alt_name: []
+  latitude: -6.12745
+  longitude: 106.8046215
+  type: node
+  amenity_type: bus_station

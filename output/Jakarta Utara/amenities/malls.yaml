@@ -1,0 +1,8 @@
+objects:
+- id: 156270958
+  name: Pluit Junction
+  alt_name: []
+  latitude: -6.126217467020027
+  longitude: 106.79116319806053
+  type: way
+  amenity_type: mall
